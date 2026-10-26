@@ -16,11 +16,11 @@
   "id": "59ee417c9d",
   "temat": "Bezpieczeństwo użytkowania broni",
   "pytanie": "Za „bezpieczny kierunek” w pierwszej kolejności uważa się:",
-  "poprawna": "kulochwyt lub miejsce wyznaczone przez prowadzącego strzelanie, prowadzącego zajęcia lub instruktora",
+  "poprawna": "kulochwyt lub miejsce wyznaczone przez prowadzącego strzelanie lub instruktora",
   "bledne": [
-   "zawsze podłoże bezpośrednio przed strzelającym",
-   "kierunek do góry (w niebo)",
-   "kierunek wskazany przez sąsiedniego strzelającego"
+   "każde miejsce, w którym w pobliżu nie widać żadnych osób postronnych",
+   "podłoże bezpośrednio przed stanowiskiem, około metra od stóp strzelającego",
+   "kierunek wskazany przez strzelającego z sąsiedniego stanowiska"
   ],
   "wyjasnienie": "Bezpieczny kierunek to kulochwyt albo miejsce wyznaczone przez prowadzącego/instruktora. Dopiero gdy ich nie ma – kierunek, który w ocenie strzelającego nie stwarza zagrożenia dla osób postronnych.",
   "zrodlo": "prezentacje"
@@ -83,9 +83,9 @@
   "pytanie": "Przy PONOWNYM naruszeniu zasad bezpieczeństwa przez uczestnika prowadzący strzelanie:",
   "poprawna": "odsuwa uczestnika od zajęć i zgłasza ten fakt kierownikowi jednostki (komórki), w której policjant pełni służbę",
   "bledne": [
-   "udziela uczestnikowi ustnego upomnienia",
-   "przerywa zajęcia tylko na stanowisku tego uczestnika",
-   "obniża uczestnikowi ocenę ze strzelania"
+   "udziela uczestnikowi upomnienia i pozwala mu dokończyć strzelanie po krótkiej przerwie",
+   "przerywa zajęcia tylko na stanowisku tego uczestnika i ponownie omawia z nim zasady bezpieczeństwa",
+   "obniża uczestnikowi ocenę ze strzelania i odnotowuje naruszenie w karcie strzelań"
   ],
   "wyjasnienie": "Ponowne naruszenie skutkuje odsunięciem od zajęć i zgłoszeniem kierownikowi jednostki organizacyjnej lub komórki, w której policjant pełni służbę.",
   "zrodlo": "prezentacje"
@@ -96,9 +96,9 @@
   "pytanie": "Strzelanie do osób biorących udział w zajęciach z amunicją ćwiczebną lub barwiącą jest dopuszczalne, gdy:",
   "poprawna": "osoby te posiadają środki ochrony indywidualnej, w szczególności ochrony miejsc wrażliwych",
   "bledne": [
-   "osoby te wyrażą ustną zgodę",
-   "odległość wynosi co najmniej 25 m",
-   "nigdy nie jest dopuszczalne"
+   "osoby te wyrażą zgodę, a strzelanie odbywa się z odległości co najmniej 25 m",
+   "prowadzący wyrazi pisemną zgodę, niezależnie od wyposażenia uczestników",
+   "nigdy – w stronę ludzi wolno kierować broń tylko w treningu bezstrzałowym"
   ],
   "wyjasnienie": "Przy treningu z amunicją ćwiczebną i barwiącą można strzelać do uczestników zajęć, jeśli mają środki ochrony indywidualnej, szczególnie miejsc wrażliwych.",
   "zrodlo": "prezentacje"
@@ -109,9 +109,9 @@
   "pytanie": "„Amunicja ćwiczebna” to amunicja:",
   "poprawna": "o cechach bojowych, pozbawiona pocisku, z zachowaniem pełnej funkcjonalności mechaniki broni oraz poziomu hałasu",
   "bledne": [
-   "z pociskiem gumowym, o zmniejszonym hałasie",
-   "z pociskiem barwiącym do treningu taktycznego",
-   "bez spłonki i ładunku prochowego, służąca do nauki ładowania"
+   "z pociskiem gumowym o obniżonej energii, przeznaczona do treningu taktycznego w pomieszczeniach",
+   "z pociskiem barwiącym, który zostawia ślad na celu, przeznaczona do treningu z pozorantami",
+   "bez spłonki i ładunku prochowego, służąca wyłącznie do nauki ładowania i rozładowania broni"
   ],
   "wyjasnienie": "Amunicja ćwiczebna – cechy bojowe, brak pocisku, pełna praca mechaniki broni i taki sam hałas. Nie mylić z amunicją barwiącą.",
   "zrodlo": "prezentacje"
@@ -122,9 +122,9 @@
   "pytanie": "Jedyne potencjalne ryzyko zdrowotne przy kontakcie z amunicją strzelecką (wg karty charakterystyki) to:",
   "poprawna": "kontakt ołowiu zawartego w pocisku ze skórą (naboje bez płaszcza lub półpłaszczowe)",
   "bledne": [
-   "promieniowanie emitowane przez spłonkę",
-   "wdychanie oparów z łuski mosiężnej",
-   "porażenie elektryczne od ładunku prochowego"
+   "wdychanie oparów wydzielających się z mosiężnej łuski podczas przechowywania",
+   "kontakt skóry z ładunkiem prochowym przez nieszczelną łuskę naboju",
+   "promieniowanie emitowane przez masę zapalającą znajdującą się w spłonce"
   ],
   "wyjasnienie": "Ryzyko dotyczy ołowiu w pocisku, gdy pocisk nie ma płaszcza lub jest półpłaszczowy. Związki ołowiu działają szkodliwie po połknięciu i przez drogi oddechowe.",
   "zrodlo": "prezentacje"
@@ -135,9 +135,9 @@
   "pytanie": "Głównym zagrożeniem związanym z amunicją jest:",
   "poprawna": "gwałtowne spalanie materiałów wybuchowych zawartych w nabojach i jego oddziaływanie termiczne",
   "bledne": [
-   "promieniotwórczość ołowiu",
-   "korozja łusek podczas przechowywania",
-   "toksyczność mosiądzu przy dotyku"
+   "toksyczność mosiądzu, z którego wykonana jest łuska, przy kontakcie ze skórą",
+   "samoczynny zapłon naboju pod wpływem wilgoci i niskiej temperatury",
+   "promieniotwórczość ołowiu zawartego w rdzeniu pocisku naboju"
   ],
   "wyjasnienie": "Główne zagrożenie – gwałtowne spalanie materiałów wybuchowych i skutki termiczne. Dodatkowe – toksyczne produkty przemiany wybuchowej.",
   "zrodlo": "prezentacje"
@@ -161,9 +161,9 @@
   "pytanie": "W przypadku stwierdzenia uszkodzenia broni policjant powinien:",
   "poprawna": "niezwłocznie zawiadomić policjanta ds. uzbrojenia w celu naprawy lub wymiany broni",
   "bledne": [
-   "samodzielnie naprawić broń",
-   "oddać broń do prywatnego rusznikarza",
-   "zgłosić to przy najbliższym strzelaniu okresowym"
+   "samodzielnie usunąć usterkę, a broń oddać do przeglądu przy strzelaniu okresowym",
+   "przekazać broń do najbliższego rusznikarza i powiadomić przełożonego po naprawie",
+   "zgłosić usterkę prowadzącemu przy najbliższym strzelaniu okresowym"
   ],
   "wyjasnienie": "Policjant systematycznie czyści i konserwuje broń, a uszkodzenie niezwłocznie zgłasza policjantowi ds. uzbrojenia. Samodzielne naprawy i przeróbki są zabronione.",
   "zrodlo": "prezentacje"
@@ -174,9 +174,9 @@
   "pytanie": "Policjant umundurowany podczas czynności służbowych nosi broń palną krótką:",
   "poprawna": "w kaburze na pasie głównym, w kaburze udowej lub w kamizelce na oporządzenie",
   "bledne": [
-   "w kieszeni munduru",
-   "w torbie służbowej",
-   "w miejscu niewidocznym dla otoczenia"
+   "w kaburze na pasie głównym albo w kieszeni munduru, jeśli broń jest zabezpieczona",
+   "w miejscu niewidocznym dla otoczenia, np. pod kurtką munduru",
+   "w torbie służbowej lub w kaburze podramiennej, zależnie od pory roku"
   ],
   "wyjasnienie": "Umundurowany: kabura na pasie głównym, kabura udowa albo kamizelka na oporządzenie – tak, by broń dało się sprawnie i szybko dobyć i bezpiecznie przenosić.",
   "zrodlo": "prezentacje"
@@ -187,9 +187,9 @@
   "pytanie": "Policjant pełniący służbę w ubiorze cywilnym nosi broń palną krótką:",
   "poprawna": "wraz z przydzieloną amunicją w miejscu niewidocznym dla otoczenia",
   "bledne": [
-   "w widocznej kaburze na pasie",
-   "bez amunicji, w torbie",
-   "zawsze w kaburze udowej"
+   "w widocznej kaburze na pasie, tak aby otoczenie wiedziało, że jest policjantem",
+   "bez amunicji, w zamkniętej torbie noszonej przy sobie lub w pojeździe",
+   "zawsze w kaburze udowej, bez względu na rodzaj wykonywanych czynności"
   ],
   "wyjasnienie": "W ubiorze cywilnym broń z amunicją nosi się w miejscu niewidocznym, zapewniając sprawne dobycie i bezpieczne przenoszenie (chyba że kierownik jednostki poleci inaczej).",
   "zrodlo": "prezentacje"
@@ -200,9 +200,9 @@
   "pytanie": "Zasadniczo broń palną nosi się:",
   "poprawna": "bez naboju w komorze nabojowej i zabezpieczoną (jeśli konstrukcja na to pozwala)",
   "bledne": [
-   "zawsze z nabojem w komorze",
-   "bez magazynka, z nabojem w komorze",
-   "odbezpieczoną, aby skrócić czas reakcji"
+   "z nabojem w komorze, ale zabezpieczoną, aby skrócić czas reakcji",
+   "z odłączonym magazynkiem i z nabojem wprowadzonym do komory nabojowej",
+   "odbezpieczoną, z nabojem w komorze, jeżeli kabura zakrywa język spustowy"
   ],
   "wyjasnienie": "Broń nosi się bez naboju w komorze i zabezpieczoną. Z nabojem w komorze – tylko w szczególnych okolicznościach i przy szczególnych warunkach bezpieczeństwa.",
   "zrodlo": "prezentacje"
@@ -226,9 +226,9 @@
   "pytanie": "Gdzie policjant przechowuje broń palną krótką (zasada ogólna)?",
   "poprawna": "w swoim miejscu zamieszkania, jeżeli kierownik jednostki nie wyda innego polecenia",
   "bledne": [
-   "zawsze w jednostce Policji",
-   "w samochodzie służbowym",
-   "w miejscu wskazanym przez policjanta ds. uzbrojenia"
+   "zawsze w jednostce Policji, w której działa całodobowa służba dyżurna",
+   "w miejscu wskazanym przez policjanta ds. uzbrojenia, np. w szafie w pokoju służbowym",
+   "w miejscu zamieszkania, ale wyłącznie za pisemną zgodą komendanta wojewódzkiego"
   ],
   "wyjasnienie": "Zasada: broń krótka – w miejscu zamieszkania, chyba że kierownik jednostki poleci inaczej.",
   "zrodlo": "prezentacje"
@@ -250,11 +250,11 @@
   "id": "2812e3f341",
   "temat": "Podstawowe wiadomości o broni i amunicji",
   "pytanie": "W jakim stanie powinna być broń palna na czas przechowywania?",
-  "poprawna": "wyjęta z kabury, rozładowana, ze zwolnionym kurkiem (sprężyną iglicy), z odłączonym magazynkiem, zabezpieczona, sprawna, kompletna i czysta",
+  "poprawna": "rozładowana, bez magazynka, ze zwolnionym kurkiem (iglicą), zabezpieczona, sprawna, kompletna i czysta",
   "bledne": [
-   "w kaburze, z podłączonym pełnym magazynkiem",
-   "z nabojem w komorze i zabezpieczona",
-   "rozłożona na części"
+   "w kaburze, z podłączonym pełnym magazynkiem, bez naboju w komorze, zabezpieczona",
+   "rozładowana, z podłączonym pustym magazynkiem i napiętą iglicą, zabezpieczona i czysta",
+   "rozłożona na główne części, wyczyszczona i zakonserwowana, z odłączonym magazynkiem"
   ],
   "wyjasnienie": "Do przechowywania: z kabury, rozładowana, kurek/iglica zwolnione, bez magazynka, zabezpieczona (chyba że instrukcja przewiduje odbezpieczoną), sprawna, kompletna, czysta.",
   "zrodlo": "prezentacje"
@@ -265,9 +265,9 @@
   "pytanie": "Kaliber broni to:",
   "poprawna": "najmniejsza średnica wewnętrzna przewodu lufy (w lufach gwintowanych mierzona od pola do pola)",
   "bledne": [
-   "największa średnica zewnętrzna lufy",
-   "średnica mierzona od bruzdy do bruzdy",
-   "długość łuski naboju"
+   "największa średnica wewnętrzna przewodu lufy, mierzona od bruzdy do bruzdy",
+   "średnica zewnętrzna lufy mierzona przy jej wylocie, podawana w milimetrach",
+   "średnica pocisku mierzona u jego nasady, podawana w calach lub milimetrach"
   ],
   "wyjasnienie": "Kaliber – najmniejsza średnica wewnętrzna lufy; w lufach gwintowanych mierzy się ją między polami (od pola do pola), w calach lub mm.",
   "zrodlo": "prezentacje"
@@ -341,11 +341,11 @@
   "id": "7c0defda60",
   "temat": "Walther P99",
   "pytanie": "Mechanizm spustowo-uderzeniowy pistoletu Walther P99 jest:",
-  "poprawna": "bezkurkowy, SA/DA (pojedynczego i podwójnego działania)",
+  "poprawna": "bezkurkowy, pojedynczego i podwójnego działania (SA/DA)",
   "bledne": [
-   "bezkurkowy, wyłącznie DAO",
-   "kurkowy, SA/DA",
-   "kurkowy, wyłącznie SA"
+   "bezkurkowy, wyłącznie podwójnego działania (DAO)",
+   "kurkowy, pojedynczego i podwójnego działania (SA/DA)",
+   "kurkowy, wyłącznie pojedynczego działania (SA)"
   ],
   "wyjasnienie": "P99: bezkurkowy SA/DA. Glock i Beretta APX: bezkurkowe DAO. REX Zero 1: KURKOWY SA/DA.",
   "zrodlo": "prezentacje"
@@ -356,9 +356,9 @@
   "pytanie": "Antystresowy język spustowy w pistolecie P99:",
   "poprawna": "wydłuża drogę języka spustowego, zapobiegając odruchowemu ściągnięciu spustu w stresie",
   "bledne": [
-   "skraca drogę spustu dla szybszego strzelania",
-   "blokuje spust, gdy w komorze nie ma naboju",
-   "zmniejsza siłę spustu do 2,5 kg"
+   "skraca drogę języka spustowego, umożliwiając szybsze oddanie kolejnego strzału",
+   "blokuje język spustowy, gdy w komorze nabojowej nie ma naboju",
+   "zmniejsza siłę nacisku na spust, co ułatwia celny strzał w stresie"
   ],
   "wyjasnienie": "Istota antystresowego języka spustowego: wydłużona droga spustu, co ogranicza niezamierzone odruchowe ściągnięcie w sytuacji stresowej.",
   "zrodlo": "prezentacje"
@@ -408,9 +408,9 @@
   "pytanie": "Jak odłącza się zamek przy rozkładaniu pistoletu Beretta APX?",
   "poprawna": "nacisnąć i obrócić w dół dźwignię demontażową, następnie przesunąć zamek do przodu",
   "bledne": [
-   "cofnąć zamek o 2–3 mm i odciągnąć rygle w dół",
-   "wybić kołek z przodu szkieletu",
-   "odkręcić śrubę w chwycie"
+   "cofnąć zamek o ok. 2–3 mm i odciągnąć rygle zamka w dół, potem zamek do przodu",
+   "cofnąć zamek w tylne położenie i obrócić dźwignię zgodnie z ruchem wskazówek zegara",
+   "nacisnąć przycisk zwalniający iglicę i zsunąć zamek do tyłu ze szkieletu"
   ],
   "wyjasnienie": "APX: po zwolnieniu iglicy naciskamy i obracamy w dół dźwignię demontażową, potem zamek do przodu.",
   "zrodlo": "prezentacje"
@@ -421,9 +421,9 @@
   "pytanie": "Mechanizm spustowo-uderzeniowy pistoletu REX Zero 1 CP jest:",
   "poprawna": "kurkowy, pojedynczego i podwójnego działania (SA/DA)",
   "bledne": [
-   "bezkurkowy, wyłącznie DAO",
-   "bezkurkowy, SA/DA",
-   "kurkowy, wyłącznie DAO"
+   "bezkurkowy, wyłącznie podwójnego działania (DAO)",
+   "bezkurkowy, pojedynczego i podwójnego działania (SA/DA)",
+   "kurkowy, wyłącznie podwójnego działania (DAO)"
   ],
   "wyjasnienie": "REX Zero 1 CP jako jedyny z omawianych ma mechanizm KURKOWY (SA/DA).",
   "zrodlo": "prezentacje"
@@ -460,9 +460,9 @@
   "pytanie": "System zabezpieczania pistoletu REX Zero 1 CP obejmuje:",
   "poprawna": "blokadę iglicy, obustronny bezpiecznik manualny (skrzydełkowy) i odłącznik-przerywacz",
   "bledne": [
-   "przednią i tylną blokadę iglicy oraz bezpiecznik spustowy",
-   "tylko blokadę iglicy i bezpiecznik spustowy",
-   "bezpiecznik chwytowy i blokadę magazynka"
+   "przednią i tylną blokadę iglicy oraz zewnętrzny bezpiecznik spustowy",
+   "blokadę iglicy, bezpiecznik spustowy i antystresowy język spustowy",
+   "bezpiecznik chwytowy, blokadę magazynka i obustronny bezpiecznik manualny"
   ],
   "wyjasnienie": "REX: 1) blokada iglicy, 2) obustronny bezpiecznik manualny, 3) odłącznik-przerywacz.",
   "zrodlo": "prezentacje"
@@ -486,9 +486,9 @@
   "pytanie": "Czerwona kropka widoczna nad dźwignią bezpiecznika pistoletu REX Zero 1 CP oznacza, że:",
   "poprawna": "broń jest odbezpieczona i można z niej wystrzelić po ściągnięciu spustu",
   "bledne": [
-   "broń jest zabezpieczona",
-   "w komorze jest nabój",
-   "magazynek jest pusty"
+   "broń jest zabezpieczona i nie można z niej oddać strzału",
+   "w komorze nabojowej znajduje się nabój lub łuska",
+   "kurek jest napięty i broń strzeli w trybie pojedynczego działania"
   ],
   "wyjasnienie": "Czerwona kropka (po obu stronach zamka) = odbezpieczona. Obecność naboju sygnalizuje osobny wskaźnik.",
   "zrodlo": "prezentacje"
@@ -538,9 +538,9 @@
   "pytanie": "Przewód lufy pistoletu Glock ma profil:",
   "poprawna": "poligonalny – sześcioboczny, bez klasycznych bruzd",
   "bledne": [
-   "6 bruzd prawoskrętnych",
-   "gładki",
-   "4 bruzdy lewoskrętne"
+   "klasyczny – z 6 bruzdami prawoskrętnymi",
+   "gładki – bez gwintu i bez skręconych płaszczyzn",
+   "klasyczny – z 4 bruzdami lewoskrętnymi"
   ],
   "wyjasnienie": "Lufa Glocka nie jest bruzdowana – ma sześcioboczny przekrój poligonalny, którego płaszczyzny są skręcone wzdłuż osi lufy.",
   "zrodlo": "prezentacje"
@@ -551,9 +551,9 @@
   "pytanie": "Tylna blokada iglicy w Glocku:",
   "poprawna": "zezwala na ruch iglicy do przodu (samowyzębienie zaczepu iglicy z szyną spustową) tylko przy pełnym ściągnięciu spustu",
   "bledne": [
-   "uniemożliwia bezwładnościowy ruch spustu",
-   "zatrzymuje zamek po ostatnim strzale",
-   "sygnalizuje nabój w komorze"
+   "uniemożliwia bezwładnościowy ruch języka spustowego do tyłu, np. przy upadku broni",
+   "zatrzymuje zamek w tylnym położeniu po wystrzeleniu ostatniego naboju z magazynka",
+   "sygnalizuje obecność naboju w komorze, wystając ponad powierzchnię zamka"
   ],
   "wyjasnienie": "Tylna blokada – dopiero pełne ściągnięcie spustu pozwala iglicy ruszyć do przodu.",
   "zrodlo": "prezentacje"
@@ -590,9 +590,9 @@
   "pytanie": "Balistyka wewnętrzna zajmuje się:",
   "poprawna": "ruchem pocisku w przewodzie lufy pod działaniem gazów prochowych",
   "bledne": [
-   "ruchem pocisku w powietrzu po wylocie z lufy",
-   "zjawiskami przy spotkaniu pocisku z celem",
-   "torem lotu pocisku w wodzie"
+   "ruchem pocisku w powietrzu po jego wylocie z przewodu lufy",
+   "zjawiskami zachodzącymi przy spotkaniu pocisku z celem",
+   "torem lotu pocisku od wylotu z lufy do punktu upadku"
   ],
   "wyjasnienie": "Wewnętrzna = wewnątrz lufy, pod działaniem gazów ze spalania ładunku prochowego.",
   "zrodlo": "prezentacje"
@@ -603,9 +603,9 @@
   "pytanie": "Balistyka zewnętrzna zajmuje się:",
   "poprawna": "ruchem pocisku w powietrzu po ustaniu działania gazów prochowych, tj. po wylocie z lufy",
   "bledne": [
-   "ruchem pocisku w przewodzie lufy",
-   "przebijalnością pocisku",
-   "spalaniem ładunku prochowego"
+   "ruchem pocisku w przewodzie lufy pod działaniem gazów prochowych",
+   "zjawiskami zachodzącymi przy spotkaniu pocisku z celem, np. przebijalnością",
+   "procesem spalania ładunku prochowego w komorze nabojowej"
   ],
   "wyjasnienie": "Zewnętrzna = lot pocisku po opuszczeniu lufy.",
   "zrodlo": "prezentacje"
@@ -616,9 +616,9 @@
   "pytanie": "Balistyka końcowa bada:",
   "poprawna": "zjawiska przy spotkaniu pocisku z celem – przebijalność, zagłębienie w przeszkodę, odkształcenia",
   "bledne": [
-   "ruch pocisku w lufie",
-   "lot pocisku w powietrzu",
-   "okresy zjawiska strzału"
+   "ruchem pocisku w przewodzie lufy pod działaniem gazów prochowych",
+   "ruchem pocisku w powietrzu po jego wylocie z przewodu lufy",
+   "okresami zjawiska strzału – od zapłonu do wylotu pocisku z lufy"
   ],
   "wyjasnienie": "Końcowa = co się dzieje w celu/przeszkodzie.",
   "zrodlo": "prezentacje"
@@ -627,11 +627,11 @@
   "id": "9932519fe3",
   "temat": "Teoria strzału",
   "pytanie": "Strzał to:",
-  "poprawna": "wyrzucenie pocisku z przewodu lufy spowodowane działaniem gazów prochowych powstających podczas spalania ładunku prochowego",
+  "poprawna": "wyrzucenie pocisku z przewodu lufy przez gazy prochowe powstające podczas spalania ładunku prochowego",
   "bledne": [
-   "uderzenie iglicy w spłonkę",
-   "ruch zamka do tyłu po zapłonie",
-   "lot pocisku w powietrzu"
+   "uderzenie iglicy w spłonkę, które powoduje zapłon masy zapalającej i ładunku",
+   "ruch zamka do tyłu pod wpływem ciśnienia gazów prochowych na dno łuski",
+   "lot pocisku w powietrzu od chwili wylotu z lufy do trafienia w cel"
   ],
   "wyjasnienie": "Definicja strzału: wyrzucenie pocisku z lufy przez gazy prochowe ze spalania ładunku.",
   "zrodlo": "prezentacje"
@@ -655,9 +655,9 @@
   "pytanie": "Odrzut broni palnej to:",
   "poprawna": "ruch broni do tyłu w czasie strzału spowodowany ciśnieniem gazów działającym przez dno łuski na zamek",
   "bledne": [
-   "obrót broni w płaszczyźnie pionowej",
-   "ruch pocisku do przodu",
-   "drganie lufy po strzale"
+   "obrót broni w płaszczyźnie pionowej, spowodowany asymetrią środka ciężkości broni",
+   "unoszenie się wylotu lufy pod wpływem gazów prochowych wydobywających się z lufy",
+   "drgania lufy wywołane ruchem wirowym pocisku w przewodzie lufy"
   ],
   "wyjasnienie": "Odrzut = ruch do TYŁU. Obrót w pionie to podrzut.",
   "zrodlo": "prezentacje"
@@ -668,9 +668,9 @@
   "pytanie": "Podrzut broni to:",
   "poprawna": "obrót broni w płaszczyźnie pionowej podczas strzału, wywołany asymetrią środka ciężkości względem osi lufy i parą sił odrzutu i hamowania",
   "bledne": [
-   "ruch broni prosto do tyłu",
-   "wyrzucenie łuski do góry",
-   "odchylenie pocisku w bok przez wiatr"
+   "ruch broni prosto do tyłu, spowodowany ciśnieniem gazów działającym przez dno łuski na zamek",
+   "obrót broni w płaszczyźnie poziomej, spowodowany ruchem wirowym pocisku w przewodzie lufy",
+   "odchylenie toru lotu pocisku w bok pod wpływem wiatru i ruchu wirowego pocisku"
   ],
   "wyjasnienie": "Podrzut = unoszenie się wylotu lufy (obrót w pionie), bo oś lufy leży wyżej niż punkt podparcia (dłoń).",
   "zrodlo": "prezentacje"
@@ -694,9 +694,9 @@
   "pytanie": "Awaria broni to:",
   "poprawna": "niesprawność uniemożliwiająca dalsze strzelanie, niemożliwa do usunięcia przez strzelającego – broń zdaje się do rusznikarza",
   "bledne": [
-   "krótkotrwała niesprawność usuwana przez strzelającego",
-   "niesprawność usuwana przy pomocy wyciora",
-   "niewypał"
+   "krótkotrwała niesprawność broni, możliwa do usunięcia przez strzelającego podczas strzelania",
+   "dłuższa niesprawność usuwana przez strzelającego przy użyciu dodatkowego wyposażenia, np. wyciora",
+   "brak zjawiska strzału po naciśnięciu języka spustowego, spowodowany wadliwym nabojem"
   ],
   "wyjasnienie": "Awaria = strzelający nie usunie jej sam; broń trafia do rusznikarza.",
   "zrodlo": "prezentacje"
@@ -746,9 +746,9 @@
   "pytanie": "Jak usuwa się przytrzaśnięcie łuski?",
   "poprawna": "obrócić broń oknem zamka w dół, minimalnie cofnąć zamek ręką wspomagającą (uwolnić łuskę) i zwolnić zamek",
   "bledne": [
-   "uderzyć nasadą dłoni w tył zamka",
-   "dobić magazynek i przeładować",
-   "zdać broń do rusznikarza"
+   "uderzyć nasadą dłoni wspomagającej w tył zamka, aby domknąć komorę nabojową",
+   "dobić magazynek ręką wspomagającą, a następnie przeładować broń, wyrzucając łuskę",
+   "przerwać strzelanie, rozładować broń i zdać ją do rusznikarza w celu naprawy"
   ],
   "wyjasnienie": "Okno w dół, by łuska wypadła, minimalne cofnięcie zamka, zwolnienie. Uwaga – może wystąpić niedomknięcie komory.",
   "zrodlo": "prezentacje"
