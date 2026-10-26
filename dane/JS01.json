@@ -1,0 +1,1562 @@
+[
+ {
+  "id": "e45be81774",
+  "temat": "Bezpieczeństwo użytkowania broni",
+  "pytanie": "Każdą broń palną podczas wyszkolenia strzeleckiego należy traktować jako:",
+  "poprawna": "naładowaną, sprawną i gotową do strzału",
+  "bledne": [
+   "rozładowaną, dopóki prowadzący nie powie inaczej",
+   "naładowaną tylko wtedy, gdy podłączony jest magazynek",
+   "niesprawną, dopóki nie odda się strzału kontrolnego"
+  ],
+  "wyjasnienie": "To podstawowa zasada: zawsze zakładamy, że broń jest naładowana, sprawna i gotowa do strzału – niezależnie od tego, czy ktoś ją przed chwilą sprawdzał.",
+  "zrodlo": "prezentacje"
+ },
+ {
+  "id": "59ee417c9d",
+  "temat": "Bezpieczeństwo użytkowania broni",
+  "pytanie": "Za „bezpieczny kierunek” w pierwszej kolejności uważa się:",
+  "poprawna": "kulochwyt lub miejsce wyznaczone przez prowadzącego strzelanie, prowadzącego zajęcia lub instruktora",
+  "bledne": [
+   "zawsze podłoże bezpośrednio przed strzelającym",
+   "kierunek do góry (w niebo)",
+   "kierunek wskazany przez sąsiedniego strzelającego"
+  ],
+  "wyjasnienie": "Bezpieczny kierunek to kulochwyt albo miejsce wyznaczone przez prowadzącego/instruktora. Dopiero gdy ich nie ma – kierunek, który w ocenie strzelającego nie stwarza zagrożenia dla osób postronnych.",
+  "zrodlo": "prezentacje"
+ },
+ {
+  "id": "a2664c5829",
+  "temat": "Bezpieczeństwo użytkowania broni",
+  "pytanie": "W trakcie strzelań i sprawdzianów strzeleckich należy stosować:",
+  "poprawna": "ochronniki słuchu i wzroku",
+  "bledne": [
+   "tylko ochronniki słuchu",
+   "tylko okulary ochronne",
+   "kamizelkę kuloodporną i hełm"
+  ],
+  "wyjasnienie": "Warunki bezpieczeństwa wymagają stosowania ochronników słuchu ORAZ wzroku w trakcie strzelań i sprawdzianów.",
+  "zrodlo": "prezentacje"
+ },
+ {
+  "id": "8c83d0188c",
+  "temat": "Bezpieczeństwo użytkowania broni",
+  "pytanie": "Prawidłowa kolejność czynności po zakończeniu strzelania to:",
+  "poprawna": "odłączyć magazynek → odciągnąć zamek → sprawdzić komorę → zwolnić zamek → strzał kontrolny → broń do kabury",
+  "bledne": [
+   "strzał kontrolny → odłączyć magazynek → sprawdzić komorę → broń do kabury",
+   "odciągnąć zamek → sprawdzić komorę → odłączyć magazynek → broń do kabury → strzał kontrolny",
+   "sprawdzić komorę → zwolnić zamek → odłączyć magazynek → strzał kontrolny → broń do kabury"
+  ],
+  "wyjasnienie": "Najpierw zawsze magazynek (żeby nie podać nowego naboju), potem zamek i komora, zwolnienie zamka, strzał kontrolny w kierunku kulochwytu i dopiero wtedy broń do kabury.",
+  "zrodlo": "prezentacje"
+ },
+ {
+  "id": "2e30e4a7bd",
+  "temat": "Bezpieczeństwo użytkowania broni",
+  "pytanie": "Które zdarzenie NIE jest wymienione wśród powodów komendy „przerwij ogień”?",
+  "poprawna": "niski wynik strzelającego w poprzedniej serii",
+  "bledne": [
+   "rykoszetowanie pocisków poza wyznaczoną strefę",
+   "padanie pocisków poza obręb kulochwytu",
+   "niedyspozycja innego uczestnika strzelania"
+  ],
+  "wyjasnienie": "Powody przerwania ognia dotyczą bezpieczeństwa: osoby/zwierzęta w strefie, pociski poza kulochwytem, rykoszety, niedyspozycja, inne niebezpieczeństwo. Wynik strzelania nie jest powodem.",
+  "zrodlo": "prezentacje"
+ },
+ {
+  "id": "5523ab5a16",
+  "temat": "Bezpieczeństwo użytkowania broni",
+  "pytanie": "Po stwierdzeniu PIERWSZEGO naruszenia zasad bezpieczeństwa przez uczestnika strzelania prowadzący:",
+  "poprawna": "przerywa zajęcia i podejmuje działania przywracające stan zapewniający bezpieczeństwo",
+  "bledne": [
+   "od razu odsuwa uczestnika od zajęć i zgłasza to kierownikowi jednostki",
+   "kontynuuje zajęcia i wpisuje uwagę do dokumentacji",
+   "nakazuje uczestnikowi oddać broń i opuścić strzelnicę"
+  ],
+  "wyjasnienie": "Pierwsze naruszenie → przerwanie zajęć i przywrócenie bezpieczeństwa. Dopiero PONOWNE naruszenie → odsunięcie od zajęć i zgłoszenie kierownikowi.",
+  "zrodlo": "prezentacje"
+ },
+ {
+  "id": "375a738f31",
+  "temat": "Bezpieczeństwo użytkowania broni",
+  "pytanie": "Przy PONOWNYM naruszeniu zasad bezpieczeństwa przez uczestnika prowadzący strzelanie:",
+  "poprawna": "odsuwa uczestnika od zajęć i zgłasza ten fakt kierownikowi jednostki (komórki), w której policjant pełni służbę",
+  "bledne": [
+   "udziela uczestnikowi ustnego upomnienia",
+   "przerywa zajęcia tylko na stanowisku tego uczestnika",
+   "obniża uczestnikowi ocenę ze strzelania"
+  ],
+  "wyjasnienie": "Ponowne naruszenie skutkuje odsunięciem od zajęć i zgłoszeniem kierownikowi jednostki organizacyjnej lub komórki, w której policjant pełni służbę.",
+  "zrodlo": "prezentacje"
+ },
+ {
+  "id": "6409545269",
+  "temat": "Bezpieczeństwo użytkowania broni",
+  "pytanie": "Strzelanie do osób biorących udział w zajęciach z amunicją ćwiczebną lub barwiącą jest dopuszczalne, gdy:",
+  "poprawna": "osoby te posiadają środki ochrony indywidualnej, w szczególności ochrony miejsc wrażliwych",
+  "bledne": [
+   "osoby te wyrażą ustną zgodę",
+   "odległość wynosi co najmniej 25 m",
+   "nigdy nie jest dopuszczalne"
+  ],
+  "wyjasnienie": "Przy treningu z amunicją ćwiczebną i barwiącą można strzelać do uczestników zajęć, jeśli mają środki ochrony indywidualnej, szczególnie miejsc wrażliwych.",
+  "zrodlo": "prezentacje"
+ },
+ {
+  "id": "7bea6a3748",
+  "temat": "Bezpieczeństwo użytkowania broni",
+  "pytanie": "„Amunicja ćwiczebna” to amunicja:",
+  "poprawna": "o cechach bojowych, pozbawiona pocisku, z zachowaniem pełnej funkcjonalności mechaniki broni oraz poziomu hałasu",
+  "bledne": [
+   "z pociskiem gumowym, o zmniejszonym hałasie",
+   "z pociskiem barwiącym do treningu taktycznego",
+   "bez spłonki i ładunku prochowego, służąca do nauki ładowania"
+  ],
+  "wyjasnienie": "Amunicja ćwiczebna – cechy bojowe, brak pocisku, pełna praca mechaniki broni i taki sam hałas. Nie mylić z amunicją barwiącą.",
+  "zrodlo": "prezentacje"
+ },
+ {
+  "id": "782dc51bc6",
+  "temat": "Bezpieczeństwo użytkowania broni",
+  "pytanie": "Jedyne potencjalne ryzyko zdrowotne przy kontakcie z amunicją strzelecką (wg karty charakterystyki) to:",
+  "poprawna": "kontakt ołowiu zawartego w pocisku ze skórą (naboje bez płaszcza lub półpłaszczowe)",
+  "bledne": [
+   "promieniowanie emitowane przez spłonkę",
+   "wdychanie oparów z łuski mosiężnej",
+   "porażenie elektryczne od ładunku prochowego"
+  ],
+  "wyjasnienie": "Ryzyko dotyczy ołowiu w pocisku, gdy pocisk nie ma płaszcza lub jest półpłaszczowy. Związki ołowiu działają szkodliwie po połknięciu i przez drogi oddechowe.",
+  "zrodlo": "prezentacje"
+ },
+ {
+  "id": "3f3db06519",
+  "temat": "Bezpieczeństwo użytkowania broni",
+  "pytanie": "Głównym zagrożeniem związanym z amunicją jest:",
+  "poprawna": "gwałtowne spalanie materiałów wybuchowych zawartych w nabojach i jego oddziaływanie termiczne",
+  "bledne": [
+   "promieniotwórczość ołowiu",
+   "korozja łusek podczas przechowywania",
+   "toksyczność mosiądzu przy dotyku"
+  ],
+  "wyjasnienie": "Główne zagrożenie – gwałtowne spalanie materiałów wybuchowych i skutki termiczne. Dodatkowe – toksyczne produkty przemiany wybuchowej.",
+  "zrodlo": "prezentacje"
+ },
+ {
+  "id": "515ed0bee5",
+  "temat": "Podstawowe wiadomości o broni i amunicji",
+  "pytanie": "Który z wymienionych przypadków to WYKORZYSTANIE broni palnej (a nie jej użycie wobec osoby)?",
+  "poprawna": "oddanie strzału ostrzegawczego",
+  "bledne": [
+   "obezwładnienie osoby",
+   "odparcie bezpośredniego zamachu na życie",
+   "ujęcie osoby uciekającej"
+  ],
+  "wyjasnienie": "Wykorzystanie broni: zatrzymanie pojazdu, pokonanie przeszkody, zaalarmowanie/wezwanie pomocy, neutralizacja przedmiotów grożących wybuchem, unieszkodliwienie zwierzęcia, strzał ostrzegawczy.",
+  "zrodlo": "prezentacje"
+ },
+ {
+  "id": "03442aa540",
+  "temat": "Podstawowe wiadomości o broni i amunicji",
+  "pytanie": "W przypadku stwierdzenia uszkodzenia broni policjant powinien:",
+  "poprawna": "niezwłocznie zawiadomić policjanta ds. uzbrojenia w celu naprawy lub wymiany broni",
+  "bledne": [
+   "samodzielnie naprawić broń",
+   "oddać broń do prywatnego rusznikarza",
+   "zgłosić to przy najbliższym strzelaniu okresowym"
+  ],
+  "wyjasnienie": "Policjant systematycznie czyści i konserwuje broń, a uszkodzenie niezwłocznie zgłasza policjantowi ds. uzbrojenia. Samodzielne naprawy i przeróbki są zabronione.",
+  "zrodlo": "prezentacje"
+ },
+ {
+  "id": "ba9e643e90",
+  "temat": "Podstawowe wiadomości o broni i amunicji",
+  "pytanie": "Policjant umundurowany podczas czynności służbowych nosi broń palną krótką:",
+  "poprawna": "w kaburze na pasie głównym, w kaburze udowej lub w kamizelce na oporządzenie",
+  "bledne": [
+   "w kieszeni munduru",
+   "w torbie służbowej",
+   "w miejscu niewidocznym dla otoczenia"
+  ],
+  "wyjasnienie": "Umundurowany: kabura na pasie głównym, kabura udowa albo kamizelka na oporządzenie – tak, by broń dało się sprawnie i szybko dobyć i bezpiecznie przenosić.",
+  "zrodlo": "prezentacje"
+ },
+ {
+  "id": "e38c6f1dc8",
+  "temat": "Podstawowe wiadomości o broni i amunicji",
+  "pytanie": "Policjant pełniący służbę w ubiorze cywilnym nosi broń palną krótką:",
+  "poprawna": "wraz z przydzieloną amunicją w miejscu niewidocznym dla otoczenia",
+  "bledne": [
+   "w widocznej kaburze na pasie",
+   "bez amunicji, w torbie",
+   "zawsze w kaburze udowej"
+  ],
+  "wyjasnienie": "W ubiorze cywilnym broń z amunicją nosi się w miejscu niewidocznym, zapewniając sprawne dobycie i bezpieczne przenoszenie (chyba że kierownik jednostki poleci inaczej).",
+  "zrodlo": "prezentacje"
+ },
+ {
+  "id": "1d96aa0a9a",
+  "temat": "Podstawowe wiadomości o broni i amunicji",
+  "pytanie": "Zasadniczo broń palną nosi się:",
+  "poprawna": "bez naboju w komorze nabojowej i zabezpieczoną (jeśli konstrukcja na to pozwala)",
+  "bledne": [
+   "zawsze z nabojem w komorze",
+   "bez magazynka, z nabojem w komorze",
+   "odbezpieczoną, aby skrócić czas reakcji"
+  ],
+  "wyjasnienie": "Broń nosi się bez naboju w komorze i zabezpieczoną. Z nabojem w komorze – tylko w szczególnych okolicznościach i przy szczególnych warunkach bezpieczeństwa.",
+  "zrodlo": "prezentacje"
+ },
+ {
+  "id": "f2f4401fff",
+  "temat": "Podstawowe wiadomości o broni i amunicji",
+  "pytanie": "Policjantowi zabrania się posiadania przy sobie broni palnej podczas:",
+  "poprawna": "prywatnego udziału w imprezie masowej",
+  "bledne": [
+   "patrolu pieszego w umundurowaniu",
+   "służby w ubiorze cywilnym",
+   "konwoju osoby zatrzymanej"
+  ],
+  "wyjasnienie": "Zakaz: prywatny udział w imprezach masowych, spożywanie alkoholu/środków odurzających (i po nich), leczenie szpitalne lub sanatoryjne, zwolnienie lekarskie.",
+  "zrodlo": "prezentacje"
+ },
+ {
+  "id": "208c748921",
+  "temat": "Podstawowe wiadomości o broni i amunicji",
+  "pytanie": "Gdzie policjant przechowuje broń palną krótką (zasada ogólna)?",
+  "poprawna": "w swoim miejscu zamieszkania, jeżeli kierownik jednostki nie wyda innego polecenia",
+  "bledne": [
+   "zawsze w jednostce Policji",
+   "w samochodzie służbowym",
+   "w miejscu wskazanym przez policjanta ds. uzbrojenia"
+  ],
+  "wyjasnienie": "Zasada: broń krótka – w miejscu zamieszkania, chyba że kierownik jednostki poleci inaczej.",
+  "zrodlo": "prezentacje"
+ },
+ {
+  "id": "a8c97835f1",
+  "temat": "Podstawowe wiadomości o broni i amunicji",
+  "pytanie": "Kto NIE przechowuje broni w miejscu zamieszkania (zasada)?",
+  "poprawna": "policjant w służbie przygotowawczej",
+  "bledne": [
+   "policjant w służbie stałej",
+   "policjant pełniący służbę w ubiorze cywilnym",
+   "policjant prewencji"
+  ],
+  "wyjasnienie": "Policjant w służbie przygotowawczej (oraz osoby na ćwiczeniach z przydziałów mob.) zasadniczo nie przechowuje broni w domu.",
+  "zrodlo": "prezentacje"
+ },
+ {
+  "id": "2812e3f341",
+  "temat": "Podstawowe wiadomości o broni i amunicji",
+  "pytanie": "W jakim stanie powinna być broń palna na czas przechowywania?",
+  "poprawna": "wyjęta z kabury, rozładowana, ze zwolnionym kurkiem (sprężyną iglicy), z odłączonym magazynkiem, zabezpieczona, sprawna, kompletna i czysta",
+  "bledne": [
+   "w kaburze, z podłączonym pełnym magazynkiem",
+   "z nabojem w komorze i zabezpieczona",
+   "rozłożona na części"
+  ],
+  "wyjasnienie": "Do przechowywania: z kabury, rozładowana, kurek/iglica zwolnione, bez magazynka, zabezpieczona (chyba że instrukcja przewiduje odbezpieczoną), sprawna, kompletna, czysta.",
+  "zrodlo": "prezentacje"
+ },
+ {
+  "id": "c538faa968",
+  "temat": "Podstawowe wiadomości o broni i amunicji",
+  "pytanie": "Kaliber broni to:",
+  "poprawna": "najmniejsza średnica wewnętrzna przewodu lufy (w lufach gwintowanych mierzona od pola do pola)",
+  "bledne": [
+   "największa średnica zewnętrzna lufy",
+   "średnica mierzona od bruzdy do bruzdy",
+   "długość łuski naboju"
+  ],
+  "wyjasnienie": "Kaliber – najmniejsza średnica wewnętrzna lufy; w lufach gwintowanych mierzy się ją między polami (od pola do pola), w calach lub mm.",
+  "zrodlo": "prezentacje"
+ },
+ {
+  "id": "ce911a362a",
+  "temat": "Podstawowe wiadomości o broni i amunicji",
+  "pytanie": "Nabój 9x18 Makarow jest stosowany w Policji do pistoletów:",
+  "poprawna": "P-64 i P-83",
+  "bledne": [
+   "Glock 17 i Glock 19",
+   "Walther P99 i CZ-75",
+   "REX Zero1 i Beretta APX"
+  ],
+  "wyjasnienie": "9x18 Makarow – pistolety P-64 i P-83. Nowoczesne pistolety (Glock, P99, CZ, REX, APX) strzelają nabojem 9x19 Parabellum.",
+  "zrodlo": "prezentacje"
+ },
+ {
+  "id": "3c5bb4f206",
+  "temat": "Podstawowe wiadomości o broni i amunicji",
+  "pytanie": "Nabój 9x19 Parabellum opracował:",
+  "poprawna": "Georg Luger w 1902 roku",
+  "bledne": [
+   "Nikołaj Makarow w 1951 roku",
+   "John Browning w 1911 roku",
+   "Gaston Glock w 1982 roku"
+  ],
+  "wyjasnienie": "9x19 Parabellum (PARA, NATO, Luger) – Georg Luger, 1902 r.",
+  "zrodlo": "prezentacje"
+ },
+ {
+  "id": "7f7e0c9e7c",
+  "temat": "Podstawowe wiadomości o broni i amunicji",
+  "pytanie": "Skuteczność rażenia celu żywego naboju 9x19 Parabellum wynosi do:",
+  "poprawna": "600 m",
+  "bledne": [
+   "350 m",
+   "1000 m",
+   "1600 m"
+  ],
+  "wyjasnienie": "9x19: skuteczność rażenia do 600 m, donośność graniczna ok. 1600 m. (9x18: 350 m / 1300 m).",
+  "zrodlo": "prezentacje"
+ },
+ {
+  "id": "d6fdba2335",
+  "temat": "Podstawowe wiadomości o broni i amunicji",
+  "pytanie": "Donośność graniczna naboju 9x19 Parabellum wynosi ok.:",
+  "poprawna": "1600 m",
+  "bledne": [
+   "600 m",
+   "1300 m",
+   "3000 m"
+  ],
+  "wyjasnienie": "9x19: donośność graniczna ok. 1600 m (skuteczność 600 m).",
+  "zrodlo": "prezentacje"
+ },
+ {
+  "id": "65637c21e8",
+  "temat": "Walther P99",
+  "pytanie": "Zasada działania pistoletu Walther P99 opiera się na:",
+  "poprawna": "wykorzystaniu energii krótkiego odrzutu lufy",
+  "bledne": [
+   "odprowadzeniu części gazów prochowych",
+   "zamku swobodnym",
+   "długim odrzucie lufy"
+  ],
+  "wyjasnienie": "P99, Glock, REX i Beretta APX – wszystkie działają na zasadzie krótkiego odrzutu lufy.",
+  "zrodlo": "prezentacje"
+ },
+ {
+  "id": "7c0defda60",
+  "temat": "Walther P99",
+  "pytanie": "Mechanizm spustowo-uderzeniowy pistoletu Walther P99 jest:",
+  "poprawna": "bezkurkowy, SA/DA (pojedynczego i podwójnego działania)",
+  "bledne": [
+   "bezkurkowy, wyłącznie DAO",
+   "kurkowy, SA/DA",
+   "kurkowy, wyłącznie SA"
+  ],
+  "wyjasnienie": "P99: bezkurkowy SA/DA. Glock i Beretta APX: bezkurkowe DAO. REX Zero 1: KURKOWY SA/DA.",
+  "zrodlo": "prezentacje"
+ },
+ {
+  "id": "c04294918c",
+  "temat": "Walther P99",
+  "pytanie": "Antystresowy język spustowy w pistolecie P99:",
+  "poprawna": "wydłuża drogę języka spustowego, zapobiegając odruchowemu ściągnięciu spustu w stresie",
+  "bledne": [
+   "skraca drogę spustu dla szybszego strzelania",
+   "blokuje spust, gdy w komorze nie ma naboju",
+   "zmniejsza siłę spustu do 2,5 kg"
+  ],
+  "wyjasnienie": "Istota antystresowego języka spustowego: wydłużona droga spustu, co ogranicza niezamierzone odruchowe ściągnięcie w sytuacji stresowej.",
+  "zrodlo": "prezentacje"
+ },
+ {
+  "id": "52b3211469",
+  "temat": "Walther P99",
+  "pytanie": "Który element wpływający na bezpieczeństwo występuje w pistolecie Walther P99?",
+  "poprawna": "wskaźnik napięcia iglicy",
+  "bledne": [
+   "obustronny bezpiecznik manualny (skrzydełkowy)",
+   "bufor kurka",
+   "przednia i tylna blokada iglicy"
+  ],
+  "wyjasnienie": "Elementy P99: antystresowy język spustowy, wskaźnik obecności naboju, wskaźnik napięcia iglicy, dźwignia zwalniania iglicy. Bezpiecznik skrzydełkowy i bufor kurka – REX; przednia i tylna blokada – Glock.",
+  "zrodlo": "prezentacje"
+ },
+ {
+  "id": "a21a9612f9",
+  "temat": "Beretta APX",
+  "pytanie": "Pojemność magazynka pistoletu Beretta APX wynosi:",
+  "poprawna": "17 naboi",
+  "bledne": [
+   "15 naboi",
+   "16/15 naboi",
+   "18 naboi"
+  ],
+  "wyjasnienie": "Beretta APX – magazynek 17-nabojowy.",
+  "zrodlo": "prezentacje"
+ },
+ {
+  "id": "247cc181bb",
+  "temat": "Beretta APX",
+  "pytanie": "Który element pistoletu Beretta APX umożliwia bezpieczne zwolnienie napiętej iglicy?",
+  "poprawna": "przycisk zwalniający napiętą iglicę",
+  "bledne": [
+   "dźwignia zwalniania zamka",
+   "wyrzutnik",
+   "dźwignia zwalniania magazynka"
+  ],
+  "wyjasnienie": "Przycisk zwalniający napiętą iglicę pozwala zwolnić iglicę bez strzału – np. przed rozłożeniem.",
+  "zrodlo": "prezentacje"
+ },
+ {
+  "id": "c941bf7d89",
+  "temat": "Beretta APX",
+  "pytanie": "Jak odłącza się zamek przy rozkładaniu pistoletu Beretta APX?",
+  "poprawna": "nacisnąć i obrócić w dół dźwignię demontażową, następnie przesunąć zamek do przodu",
+  "bledne": [
+   "cofnąć zamek o 2–3 mm i odciągnąć rygle w dół",
+   "wybić kołek z przodu szkieletu",
+   "odkręcić śrubę w chwycie"
+  ],
+  "wyjasnienie": "APX: po zwolnieniu iglicy naciskamy i obracamy w dół dźwignię demontażową, potem zamek do przodu.",
+  "zrodlo": "prezentacje"
+ },
+ {
+  "id": "26a58056e8",
+  "temat": "REX Zero 1 CP",
+  "pytanie": "Mechanizm spustowo-uderzeniowy pistoletu REX Zero 1 CP jest:",
+  "poprawna": "kurkowy, pojedynczego i podwójnego działania (SA/DA)",
+  "bledne": [
+   "bezkurkowy, wyłącznie DAO",
+   "bezkurkowy, SA/DA",
+   "kurkowy, wyłącznie DAO"
+  ],
+  "wyjasnienie": "REX Zero 1 CP jako jedyny z omawianych ma mechanizm KURKOWY (SA/DA).",
+  "zrodlo": "prezentacje"
+ },
+ {
+  "id": "595292362e",
+  "temat": "REX Zero 1 CP",
+  "pytanie": "Dostępne pojemności magazynka pistoletu REX Zero 1 CP to:",
+  "poprawna": "15, 17 i 18 naboi",
+  "bledne": [
+   "tylko 17 naboi",
+   "16/15 naboi",
+   "13 i 15 naboi"
+  ],
+  "wyjasnienie": "REX: magazynki 15-, 17- i 18-nabojowe.",
+  "zrodlo": "prezentacje"
+ },
+ {
+  "id": "790fadc85f",
+  "temat": "REX Zero 1 CP",
+  "pytanie": "Lufa pistoletu REX Zero 1 CP ma:",
+  "poprawna": "6 bruzd prawoskrętnych, skok gwintu 250 mm",
+  "bledne": [
+   "przekrój poligonalny sześcioboczny",
+   "4 bruzdy lewoskrętne, skok 200 mm",
+   "gładki przewód"
+  ],
+  "wyjasnienie": "REX: klasyczny gwint – 6 bruzd prawoskrętnych, skok 250 mm. Poligonalny przewód ma Glock.",
+  "zrodlo": "prezentacje"
+ },
+ {
+  "id": "cd34be8a78",
+  "temat": "REX Zero 1 CP",
+  "pytanie": "System zabezpieczania pistoletu REX Zero 1 CP obejmuje:",
+  "poprawna": "blokadę iglicy, obustronny bezpiecznik manualny (skrzydełkowy) i odłącznik-przerywacz",
+  "bledne": [
+   "przednią i tylną blokadę iglicy oraz bezpiecznik spustowy",
+   "tylko blokadę iglicy i bezpiecznik spustowy",
+   "bezpiecznik chwytowy i blokadę magazynka"
+  ],
+  "wyjasnienie": "REX: 1) blokada iglicy, 2) obustronny bezpiecznik manualny, 3) odłącznik-przerywacz.",
+  "zrodlo": "prezentacje"
+ },
+ {
+  "id": "8dc257773d",
+  "temat": "REX Zero 1 CP",
+  "pytanie": "Kiedy pistolet REX Zero 1 CP jest zabezpieczony bezpiecznikiem manualnym?",
+  "poprawna": "gdy dźwignia bezpiecznika (lewa lub prawa) jest w górnym położeniu",
+  "bledne": [
+   "gdy dźwignia jest w dolnym położeniu i widać czerwoną kropkę",
+   "tylko gdy kurek jest zwolniony",
+   "gdy obie dźwignie są ustawione w różnych pozycjach"
+  ],
+  "wyjasnienie": "Dźwignia w górze = zabezpieczony (niezależnie od napięcia kurka). Widoczna czerwona kropka = broń ODBEZPIECZONA.",
+  "zrodlo": "prezentacje"
+ },
+ {
+  "id": "a749436ca2",
+  "temat": "REX Zero 1 CP",
+  "pytanie": "Czerwona kropka widoczna nad dźwignią bezpiecznika pistoletu REX Zero 1 CP oznacza, że:",
+  "poprawna": "broń jest odbezpieczona i można z niej wystrzelić po ściągnięciu spustu",
+  "bledne": [
+   "broń jest zabezpieczona",
+   "w komorze jest nabój",
+   "magazynek jest pusty"
+  ],
+  "wyjasnienie": "Czerwona kropka (po obu stronach zamka) = odbezpieczona. Obecność naboju sygnalizuje osobny wskaźnik.",
+  "zrodlo": "prezentacje"
+ },
+ {
+  "id": "8a726aa10f",
+  "temat": "REX Zero 1 CP",
+  "pytanie": "Dźwignię demontażową pistoletu REX Zero 1 CP można obrócić:",
+  "poprawna": "tylko gdy zamek jest w tylnym położeniu",
+  "bledne": [
+   "tylko gdy zamek jest w przednim położeniu",
+   "w dowolnym położeniu zamka",
+   "tylko po ściągnięciu spustu"
+  ],
+  "wyjasnienie": "Konstrukcja wymusza cofnięcie zamka – to automatycznie wyrzuca nabój z komory. Demontaż odbywa się bez manipulacji spustem.",
+  "zrodlo": "prezentacje"
+ },
+ {
+  "id": "5a530babc8",
+  "temat": "Glock",
+  "pytanie": "Glock 17, Glock 19 i Glock 26 to kolejno wersje:",
+  "poprawna": "Standard, Compact, Subcompact",
+  "bledne": [
+   "Compact, Standard, Subcompact",
+   "Subcompact, Compact, Standard",
+   "Standard, Subcompact, Compact"
+  ],
+  "wyjasnienie": "G17 – Standard, G19 – Compact, G26 – Subcompact.",
+  "zrodlo": "prezentacje"
+ },
+ {
+  "id": "ceb664594e",
+  "temat": "Glock",
+  "pytanie": "Pojemność magazynka Glocka 17 i Glocka 19 wynosi odpowiednio:",
+  "poprawna": "17 i 15 naboi",
+  "bledne": [
+   "15 i 17 naboi",
+   "17 i 17 naboi",
+   "16 i 15 naboi"
+  ],
+  "wyjasnienie": "G17 – 17 naboi (stąd nazwa), G19 – 15 naboi.",
+  "zrodlo": "prezentacje"
+ },
+ {
+  "id": "24e8a2e521",
+  "temat": "Glock",
+  "pytanie": "Przewód lufy pistoletu Glock ma profil:",
+  "poprawna": "poligonalny – sześcioboczny, bez klasycznych bruzd",
+  "bledne": [
+   "6 bruzd prawoskrętnych",
+   "gładki",
+   "4 bruzdy lewoskrętne"
+  ],
+  "wyjasnienie": "Lufa Glocka nie jest bruzdowana – ma sześcioboczny przekrój poligonalny, którego płaszczyzny są skręcone wzdłuż osi lufy.",
+  "zrodlo": "prezentacje"
+ },
+ {
+  "id": "fc496b039c",
+  "temat": "Glock",
+  "pytanie": "Tylna blokada iglicy w Glocku:",
+  "poprawna": "zezwala na ruch iglicy do przodu (samowyzębienie zaczepu iglicy z szyną spustową) tylko przy pełnym ściągnięciu spustu",
+  "bledne": [
+   "uniemożliwia bezwładnościowy ruch spustu",
+   "zatrzymuje zamek po ostatnim strzale",
+   "sygnalizuje nabój w komorze"
+  ],
+  "wyjasnienie": "Tylna blokada – dopiero pełne ściągnięcie spustu pozwala iglicy ruszyć do przodu.",
+  "zrodlo": "prezentacje"
+ },
+ {
+  "id": "62759d87be",
+  "temat": "Teoria strzału",
+  "pytanie": "Słowo „balistyka” pochodzi od greckiego słowa „ballo”, które oznacza:",
+  "poprawna": "rzucam",
+  "bledne": [
+   "strzelam",
+   "lecę",
+   "trafiam"
+  ],
+  "wyjasnienie": "Ballo (gr.) – rzucam.",
+  "zrodlo": "prezentacje"
+ },
+ {
+  "id": "bd3458dbb5",
+  "temat": "Teoria strzału",
+  "pytanie": "Balistyka dzieli się na:",
+  "poprawna": "wewnętrzną, zewnętrzną i końcową",
+  "bledne": [
+   "wstępną, główną i wtórną",
+   "teoretyczną i praktyczną",
+   "pistoletową, karabinową i śrutową"
+  ],
+  "wyjasnienie": "Trzy działy: wewnętrzna (w lufie), zewnętrzna (w powietrzu), końcowa (w celu).",
+  "zrodlo": "prezentacje"
+ },
+ {
+  "id": "d264f48a68",
+  "temat": "Teoria strzału",
+  "pytanie": "Balistyka wewnętrzna zajmuje się:",
+  "poprawna": "ruchem pocisku w przewodzie lufy pod działaniem gazów prochowych",
+  "bledne": [
+   "ruchem pocisku w powietrzu po wylocie z lufy",
+   "zjawiskami przy spotkaniu pocisku z celem",
+   "torem lotu pocisku w wodzie"
+  ],
+  "wyjasnienie": "Wewnętrzna = wewnątrz lufy, pod działaniem gazów ze spalania ładunku prochowego.",
+  "zrodlo": "prezentacje"
+ },
+ {
+  "id": "0f2de173cf",
+  "temat": "Teoria strzału",
+  "pytanie": "Balistyka zewnętrzna zajmuje się:",
+  "poprawna": "ruchem pocisku w powietrzu po ustaniu działania gazów prochowych, tj. po wylocie z lufy",
+  "bledne": [
+   "ruchem pocisku w przewodzie lufy",
+   "przebijalnością pocisku",
+   "spalaniem ładunku prochowego"
+  ],
+  "wyjasnienie": "Zewnętrzna = lot pocisku po opuszczeniu lufy.",
+  "zrodlo": "prezentacje"
+ },
+ {
+  "id": "b1d1f8b369",
+  "temat": "Teoria strzału",
+  "pytanie": "Balistyka końcowa bada:",
+  "poprawna": "zjawiska przy spotkaniu pocisku z celem – przebijalność, zagłębienie w przeszkodę, odkształcenia",
+  "bledne": [
+   "ruch pocisku w lufie",
+   "lot pocisku w powietrzu",
+   "okresy zjawiska strzału"
+  ],
+  "wyjasnienie": "Końcowa = co się dzieje w celu/przeszkodzie.",
+  "zrodlo": "prezentacje"
+ },
+ {
+  "id": "9932519fe3",
+  "temat": "Teoria strzału",
+  "pytanie": "Strzał to:",
+  "poprawna": "wyrzucenie pocisku z przewodu lufy spowodowane działaniem gazów prochowych powstających podczas spalania ładunku prochowego",
+  "bledne": [
+   "uderzenie iglicy w spłonkę",
+   "ruch zamka do tyłu po zapłonie",
+   "lot pocisku w powietrzu"
+  ],
+  "wyjasnienie": "Definicja strzału: wyrzucenie pocisku z lufy przez gazy prochowe ze spalania ładunku.",
+  "zrodlo": "prezentacje"
+ },
+ {
+  "id": "e80b0ace34",
+  "temat": "Teoria strzału",
+  "pytanie": "Prędkość początkowa pocisku zależy od:",
+  "poprawna": "długości lufy, masy pocisku i masy ładunku prochowego",
+  "bledne": [
+   "koloru pocisku, masy broni i rodzaju kabury",
+   "długości linii celowniczej",
+   "siły spustu i masy magazynka"
+  ],
+  "wyjasnienie": "V0 zależy od długości lufy, masy pocisku i masy ładunku prochowego.",
+  "zrodlo": "prezentacje"
+ },
+ {
+  "id": "348ff270f0",
+  "temat": "Teoria strzału",
+  "pytanie": "Odrzut broni palnej to:",
+  "poprawna": "ruch broni do tyłu w czasie strzału spowodowany ciśnieniem gazów działającym przez dno łuski na zamek",
+  "bledne": [
+   "obrót broni w płaszczyźnie pionowej",
+   "ruch pocisku do przodu",
+   "drganie lufy po strzale"
+  ],
+  "wyjasnienie": "Odrzut = ruch do TYŁU. Obrót w pionie to podrzut.",
+  "zrodlo": "prezentacje"
+ },
+ {
+  "id": "3c32cec0e8",
+  "temat": "Teoria strzału",
+  "pytanie": "Podrzut broni to:",
+  "poprawna": "obrót broni w płaszczyźnie pionowej podczas strzału, wywołany asymetrią środka ciężkości względem osi lufy i parą sił odrzutu i hamowania",
+  "bledne": [
+   "ruch broni prosto do tyłu",
+   "wyrzucenie łuski do góry",
+   "odchylenie pocisku w bok przez wiatr"
+  ],
+  "wyjasnienie": "Podrzut = unoszenie się wylotu lufy (obrót w pionie), bo oś lufy leży wyżej niż punkt podparcia (dłoń).",
+  "zrodlo": "prezentacje"
+ },
+ {
+  "id": "81290f64bd",
+  "temat": "Zacięcia broni",
+  "pytanie": "Niesprawności broni palnej dzielą się na:",
+  "poprawna": "zacięcie, zablokowanie i awarię broni",
+  "bledne": [
+   "niewypał, przytrzaśnięcie i niedomknięcie",
+   "drobne, średnie i poważne",
+   "mechaniczne i amunicyjne"
+  ],
+  "wyjasnienie": "Trzy kategorie: zacięcie, zablokowanie, awaria. Niewypał, przytrzaśnięcie itd. to konkretne rodzaje zacięć.",
+  "zrodlo": "prezentacje"
+ },
+ {
+  "id": "3ee063d8f8",
+  "temat": "Zacięcia broni",
+  "pytanie": "Awaria broni to:",
+  "poprawna": "niesprawność uniemożliwiająca dalsze strzelanie, niemożliwa do usunięcia przez strzelającego – broń zdaje się do rusznikarza",
+  "bledne": [
+   "krótkotrwała niesprawność usuwana przez strzelającego",
+   "niesprawność usuwana przy pomocy wyciora",
+   "niewypał"
+  ],
+  "wyjasnienie": "Awaria = strzelający nie usunie jej sam; broń trafia do rusznikarza.",
+  "zrodlo": "prezentacje"
+ },
+ {
+  "id": "9d6c8621b2",
+  "temat": "Zacięcia broni",
+  "pytanie": "Wspólnym objawem niedomknięcia komory, przytrzaśnięcia łuski i utknięcia naboju jest:",
+  "poprawna": "luz na języku spustowym",
+  "bledne": [
+   "zamek w przednim położeniu bez luzu",
+   "głośny strzał",
+   "wysunięty magazynek"
+  ],
+  "wyjasnienie": "We wszystkich trzech przypadkach zamek nie jest zaryglowany, więc spust ma luz (przerywacz odłącza mechanizm).",
+  "zrodlo": "prezentacje"
+ },
+ {
+  "id": "630a6ac464",
+  "temat": "Zacięcia broni",
+  "pytanie": "Objawy: luz na spuście, zamek MINIMALNIE cofnięty, lufa minimalnie wystaje poza obrys zamka, w oknie widać kryzę łuski. To:",
+  "poprawna": "niedomknięcie komory nabojowej",
+  "bledne": [
+   "przytrzaśnięcie łuski",
+   "utknięcie (przekoszenie) naboju",
+   "niewypał"
+  ],
+  "wyjasnienie": "Niedomknięcie = zamek tylko minimalnie cofnięty. Przy przytrzaśnięciu i utknięciu zamek jest ZNACZNIE cofnięty.",
+  "zrodlo": "prezentacje"
+ },
+ {
+  "id": "dd537b6910",
+  "temat": "Zacięcia broni",
+  "pytanie": "Objawy: luz na spuście, zamek ZNACZNIE cofnięty, z okna zamka wystaje niewyrzucona łuska. To:",
+  "poprawna": "przytrzaśnięcie (zakleszczenie) łuski",
+  "bledne": [
+   "niedomknięcie komory nabojowej",
+   "utknięcie naboju",
+   "niewypał"
+  ],
+  "wyjasnienie": "Przytrzaśnięcie łuski – łuska nie została wyrzucona i zamek przytrzasnął ją w oknie.",
+  "zrodlo": "prezentacje"
+ },
+ {
+  "id": "c53c1ca221",
+  "temat": "Zacięcia broni",
+  "pytanie": "Jak usuwa się przytrzaśnięcie łuski?",
+  "poprawna": "obrócić broń oknem zamka w dół, minimalnie cofnąć zamek ręką wspomagającą (uwolnić łuskę) i zwolnić zamek",
+  "bledne": [
+   "uderzyć nasadą dłoni w tył zamka",
+   "dobić magazynek i przeładować",
+   "zdać broń do rusznikarza"
+  ],
+  "wyjasnienie": "Okno w dół, by łuska wypadła, minimalne cofnięcie zamka, zwolnienie. Uwaga – może wystąpić niedomknięcie komory.",
+  "zrodlo": "prezentacje"
+ },
+ {
+  "id": "e260601af8",
+  "temat": "Zacięcia broni",
+  "pytanie": "Objawy: luz na spuście, zamek znacznie cofnięty, w oknie nabój skośnie zablokowany między górną krawędzią komory a szczękami magazynka. To:",
+  "poprawna": "utknięcie (przekoszenie) naboju",
+  "bledne": [
+   "przytrzaśnięcie łuski",
+   "niedomknięcie komory",
+   "niewypał"
+  ],
+  "wyjasnienie": "Utknięcie naboju – nabój (nie łuska!) zaklinował się skośnie przed komorą.",
+  "zrodlo": "prezentacje"
+ },
+ {
+  "id": "c508e2923f",
+  "temat": "Beretta APX",
+  "pytanie": "Zasada działania pistoletu Beretta APX polega na wykorzystaniu krótkiego odrzutu lufy. Ryglowanie odbywa się:",
+  "poprawna": "przez przekoszenie lufy w płaszczyźnie pionowej",
+  "bledne": [
+   "przez przekoszenie lufy w płaszczyźnie poziomej",
+   "masą bezwładności zamka",
+   "masą bezwładności lufy"
+  ],
+  "wyjasnienie": "Wszystkie omawiane pistolety (APX, P99, Glock, REX) ryglują się przez przekoszenie lufy w płaszczyźnie PIONOWEJ (system Browninga). Masa zamka to zamek swobodny – tu go nie ma.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "7856928f8d",
+  "temat": "Beretta APX",
+  "pytanie": "Mechanizm spustowo-uderzeniowy w pistolecie Beretta APX jest typu:",
+  "poprawna": "DAO",
+  "bledne": [
+   "SA/DA",
+   "DA",
+   "SA"
+  ],
+  "wyjasnienie": "Beretta APX i Glock – DAO (Double Action Only, wyłącznie podwójnego działania). SA/DA ma P99 (bezkurkowy) i REX (kurkowy).",
+  "zrodlo": "test"
+ },
+ {
+  "id": "e6f0366035",
+  "temat": "Podstawowe wiadomości o broni i amunicji",
+  "pytanie": "Ze względu na sposób działania pistolety będące na wyposażeniu polskiej Policji zaliczamy do broni:",
+  "poprawna": "samopowtarzalnej",
+  "bledne": [
+   "powtarzalnej",
+   "samoczynnej",
+   "automatycznej"
+  ],
+  "wyjasnienie": "Pistolety Policji same się przeładowują po strzale, ale każdy strzał wymaga ściągnięcia spustu – to broń samopowtarzalna. Samoczynna/automatyczna strzela seriami, powtarzalna wymaga ręcznego przeładowania.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "a86ebf4966",
+  "temat": "Podstawowe wiadomości o broni i amunicji",
+  "pytanie": "Podstawowymi elementami naboju są:",
+  "poprawna": "łuska, ładunek prochowy, spłonka, kryza łuski, pocisk",
+  "bledne": [
+   "łuska, spłonka, ładunek miotający, pocisk, kryza łuski",
+   "łuska, kanaliki ogniowe, spłonka, ładunek prochowy",
+   "łuska, kanaliki ogniowe, spłonka, ładunek prochowy, pocisk"
+  ],
+  "wyjasnienie": "UWAGA – niepewne: prezentacja wymienia 4 elementy naboju: pocisk, ładunek prochowy, łuska, spłonka. Wybrana odpowiedź używa tej samej nazwy („ładunek prochowy”) i zawiera pocisk. Wersja z „ładunkiem miotającym” znaczy praktycznie to samo, więc klucz w teście może być inny. Zapytaj prowadzącego.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "075bb9ed71",
+  "temat": "Podstawowe wiadomości o broni i amunicji",
+  "pytanie": "Oznaczenie naboju 9x19 to:",
+  "poprawna": "9 mm średnicy pocisku (kaliber) i 19 mm długości łuski",
+  "bledne": [
+   "9 mm średnicy łuski i 19 mm długości łuski",
+   "9 mm średnicy pocisku i 19 mm jego długości",
+   "9 mm średnicy pocisku i 19 mm średnicy łuski"
+  ],
+  "wyjasnienie": "Pierwsza liczba to kaliber (9 mm), druga – długość łuski (19 mm). Tak samo 9x18 Makarow: łuska 18 mm; 7,62x39: łuska 39 mm.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "4fa25b8c32",
+  "temat": "Walther P99",
+  "pytanie": "Magazynek pistoletu Walther P-99 gen. 2 ma pojemność:",
+  "poprawna": "15 naboi",
+  "bledne": [
+   "16 naboi",
+   "17 naboi",
+   "12 naboi"
+  ],
+  "wyjasnienie": "Według materiałów Szkoły Policji w Katowicach: pierwsze („stare”) P99 miały magazynek 16-nabojowy, nowsze („nowy Walther”, gen. 2) – 15-nabojowy z pomarańczowym donośnikiem. Stąd na slajdzie zapis 16/15.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "caa76f3efc",
+  "temat": "Bezpieczeństwo użytkowania broni",
+  "pytanie": "Który dokument reguluje warunki i zasady bezpieczeństwa podczas wyszkolenia strzeleckiego w Policji?",
+  "poprawna": "Zarządzenie nr 2 Komendanta Głównego Policji z dnia 15 stycznia 2024 r. w sprawie wyszkolenia strzeleckiego policjantów",
+  "bledne": [
+   "Ustawa o Policji z dnia 6 kwietnia 1990 r.",
+   "Ustawa z dnia 24 maja 2013 r. o środkach przymusu bezpośredniego i broni palnej",
+   "Rozporządzenie MSWiA z dnia 19 czerwca 2007 r. w sprawie szczegółowych warunków odbywania szkoleń zawodowych oraz doskonalenia zawodowego w Policji"
+  ],
+  "wyjasnienie": "W treści Zarządzenia nr 2 KGP z 15.01.2024 jest rozdział „Warunki i zasady bezpieczeństwa podczas wyszkolenia strzeleckiego” (komenda „przerwij ogień”, obowiązki strzelającego itd.).",
+  "zrodlo": "test"
+ },
+ {
+  "id": "404ea8d7b6",
+  "temat": "Beretta APX",
+  "pytanie": "Szyna spustowa w pistolecie Beretta APX znajduje się:",
+  "poprawna": "po prawej stronie szkieletu",
+  "bledne": [
+   "po lewej stronie szkieletu",
+   "po środku zamka w tylnej części",
+   "pod językiem spustowym"
+  ],
+  "wyjasnienie": "UWAGA – niepewne: materiały Szkoły Policji mówią tylko, że szyna spustowa łączy język spustowy z blokadą iglicy i dźwignią napinającą w module spustowym. Strony nie podają. Odpowiedź przyjęta przez analogię do Glocka i P99, gdzie szyna spustowa biegnie po prawej stronie szkieletu.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "2d3217b15f",
+  "temat": "Podstawowe wiadomości o broni i amunicji",
+  "pytanie": "Amunicja do broni palnej powinna być przechowywana w sposób umożliwiający:",
+  "poprawna": "jej szybkie przeliczenie lub wydanie",
+  "bledne": [
+   "jej szybkie wydanie",
+   "jej identyfikację lub wydanie",
+   "jej szybkie załadowanie do magazynków"
+  ],
+  "wyjasnienie": "Zasada z prezentacji: amunicję przechowuje się tak, by dało się ją szybko PRZELICZYĆ lub WYDAĆ. Przechowywanie amunicji w magazynkach jest co do zasady zabronione.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "18069aa7b1",
+  "temat": "Walther P99",
+  "pytanie": "Ryglowanie pistoletu Walther P99 odbywa się przez przekoszenie:",
+  "poprawna": "lufy w płaszczyźnie pionowej",
+  "bledne": [
+   "zamka w płaszczyźnie pionowej",
+   "sprężyny powrotnej w płaszczyźnie poziomej",
+   "lufy i zamka w płaszczyźnie pionowej"
+  ],
+  "wyjasnienie": "Przekosza się sama LUFA (w pionie), zamek porusza się prostoliniowo. Dotyczy P99, Glocka, APX i REX.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "15e611569a",
+  "temat": "Glock",
+  "pytanie": "System zabezpieczenia przed strzałem przypadkowym w pistolecie Glock tworzą:",
+  "poprawna": "zewnętrzny bezpiecznik spustowy, przednia blokada iglicy, tylna blokada iglicy",
+  "bledne": [
+   "zewnętrzna blokada iglicy, przednia blokada iglicy, tylna blokada iglicy",
+   "wewnętrzny bezpiecznik spustowy, tylna blokada iglicy, przednia blokada iglicy",
+   "zewnętrzny bezpiecznik spustowy, przednia blokada iglicy, antystresowy kabłąk"
+  ],
+  "wyjasnienie": "Glock ma 3 bezpieczniki: ZEWNĘTRZNY bezpiecznik spustowy (języczek w spuście), przednią i tylną blokadę iglicy. Antystresowy język spustowy ma P99, nie Glock.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "d3d4803355",
+  "temat": "REX Zero 1 CP",
+  "pytanie": "Odłącznik-przerywacz w broni REX Zero 1 zamontowany jest:",
+  "poprawna": "wewnątrz szkieletu broni, na szynie spustowej",
+  "bledne": [
+   "po lewej stronie na zamku",
+   "po lewej stronie szkieletu broni, na zewnątrz",
+   "w tylnej części szkieletu (po obu stronach broni)"
+  ],
+  "wyjasnienie": "Slajd: odłącznik-przerywacz jest wewnątrz szkieletu (występ na szynie spustowej wystający w górę). Po obu stronach broni jest bezpiecznik manualny, a po lewej dźwignia demontażowa.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "de2e1096a5",
+  "temat": "Walther P99",
+  "pytanie": "Jaką funkcję pełni bezpiecznik spustowy w P-99 Walther?",
+  "poprawna": "zapobiega strzałowi przypadkowemu w razie upadku broni",
+  "bledne": [
+   "ułatwia oddanie celnego strzału",
+   "zapobiega szybkiemu wprowadzeniu naboju do komory nabojowej",
+   "zapobiega niezamierzonemu, odruchowemu ściągnięciu spustu w sytuacjach stresowych"
+  ],
+  "wyjasnienie": "Bezpiecznik spustowy zapobiega niekontrolowanemu ruchowi szyny spustowej przy uderzeniu lub upadku broni. Ochrona przed odruchowym ściągnięciem w stresie to antystresowy język spustowy.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "61fa94ecff",
+  "temat": "Beretta APX",
+  "pytanie": "Pistolet Beretta APX posiada:",
+  "poprawna": "jeden bezpiecznik wewnętrzny i jeden zewnętrzny",
+  "bledne": [
+   "dwa bezpieczniki wewnętrzne",
+   "jeden bezpiecznik",
+   "bezpiecznik skrzydełkowy"
+  ],
+  "wyjasnienie": "APX: wewnętrzna blokada iglicy + zewnętrzny bezpiecznik spustowy. Bezpiecznik skrzydełkowy (manualny) ma REX Zero 1.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "65e2d6e24c",
+  "temat": "REX Zero 1 CP",
+  "pytanie": "Jaką funkcję pełni bufor kurka w broni REX Zero 1?",
+  "poprawna": "działa do momentu ściągnięcia języka spustowego i utrzymuje dystans pomiędzy kurkiem a iglicą",
+  "bledne": [
+   "zwalnia kurek z tylnego położenia",
+   "utrzymuje kurek daleko od iglicy w trakcie naciskania na język spustowy",
+   "zezwala na ruch iglicy do przodu (samowyzębienie zaczepu iglicy z szyną spustową) tylko przy pełnym ściągnięciu spustu"
+  ],
+  "wyjasnienie": "Bufor kurka (kurek na zębie zabezpieczającym) trzyma dystans kurek–iglica DO MOMENTU ściągnięcia spustu, a nie w trakcie. Ostatnia odpowiedź to opis tylnej blokady iglicy w Glocku.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "1db5536709",
+  "temat": "Glock",
+  "pytanie": "Pistolet Glock posiada mechanizm spustowo-uderzeniowy typu:",
+  "poprawna": "bezkurkowego",
+  "bledne": [
+   "kurkowego",
+   "trójkurkowego",
+   "wielokurkowego"
+  ],
+  "wyjasnienie": "Glock – bezkurkowy DAO, energię daje napięta iglica. Kurkowy jest tylko REX Zero 1.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "c3d6df650d",
+  "temat": "Glock",
+  "pytanie": "Ile bezpieczników posiada Glock?",
+  "poprawna": "3",
+  "bledne": [
+   "1",
+   "2",
+   "4"
+  ],
+  "wyjasnienie": "Trzy: zewnętrzny bezpiecznik spustowy, przednia blokada iglicy, tylna blokada iglicy. (P99 i APX mają po 2.)",
+  "zrodlo": "test"
+ },
+ {
+  "id": "6847573b89",
+  "temat": "Beretta APX",
+  "pytanie": "Element wpływający na bezpieczeństwo użytkowania pistoletu Beretta APX to:",
+  "poprawna": "wskaźnik obecności naboju w komorze nabojowej",
+  "bledne": [
+   "wskaźnik napięcia iglicy",
+   "wskaźnik podpięcia magazynka",
+   "przeziernik"
+  ],
+  "wyjasnienie": "APX: wskaźnik obecności naboju w komorze i przycisk zwalniający napiętą iglicę. Wskaźnik napięcia iglicy ma P99.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "784a3925f9",
+  "temat": "Bezpieczeństwo użytkowania broni",
+  "pytanie": "Uczestnik strzelania może ułożyć palec na języku spustowym wyłącznie w sytuacji, gdy:",
+  "poprawna": "oddaje w sposób świadomy strzał do rozpoznanego i określonego warunkami strzelania celu",
+  "bledne": [
+   "oddaje strzał do pojawiającej się tarczy",
+   "zamierza oddać strzał w kierunku rozpoznanego celu",
+   "uczestniczy w strzelaniach sytuacyjnych, gdyż skraca to czas oddania kolejnego strzału"
+  ],
+  "wyjasnienie": "Dosłowne brzmienie zasady: palec na spust tylko w chwili ŚWIADOMEGO strzału do celu ROZPOZNANEGO i OKREŚLONEGO WARUNKAMI STRZELANIA. Samo „zamierza” albo „pojawiająca się tarcza” nie wystarcza.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "27fb616a9b",
+  "temat": "Taktyka i technika strzelania",
+  "pytanie": "Dobiegając do rogu budynku, prędkość należy wytracić przez:",
+  "poprawna": "„wytupanie”",
+  "bledne": [
+   "„rozbieganie”",
+   "zwiększanie kroków",
+   "bieg zygzakiem"
+  ],
+  "wyjasnienie": "UWAGA – tego nie ma w prezentacjach. „Wytupanie” to wytracanie prędkości krótkimi, szybkimi krokami przed rogiem budynku, żeby zatrzymać się stabilnie i nie wybiec poza osłonę. Pozostałe odpowiedzi zwiększają prędkość albo destabilizują.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "46c62e8191",
+  "temat": "Teoria strzału",
+  "pytanie": "Linia celowania jest to linia przebiegająca od:",
+  "poprawna": "oka strzelca poprzez przyrządy celownicze do celu",
+  "bledne": [
+   "oka strzelca do muszki",
+   "wierzchołka muszki do celu",
+   "celownika (szczerbinki) do muszki"
+  ],
+  "wyjasnienie": "Linia celowania: oko → przyrządy celownicze → cel (punkt celowania). Odcinek szczerbinka–muszka to linia CELOWNICZA.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "5418a3ba2c",
+  "temat": "Taktyka i technika strzelania",
+  "pytanie": "W trakcie strzelania w marszu do przodu post. Jan Nowak po wyczerpaniu amunicji w magazynku wykonał wymianę magazynka:",
+  "poprawna": "dynamiczną",
+  "bledne": [
+   "taktyczną",
+   "awaryjną",
+   "szybką"
+  ],
+  "wyjasnienie": "UWAGA – tego nie ma w prezentacjach. Wymiana DYNAMICZNA to wymiana po wystrzelaniu całej amunicji (zamek zostaje w tylnym położeniu), wykonywana od razu, także w ruchu. Wymiana TAKTYCZNA to wymiana niepełnego magazynka w przerwie walki, za osłoną (tak opisuje ją Zarządzenie nr 2 KGP).",
+  "zrodlo": "test"
+ },
+ {
+  "id": "a00e27ca5f",
+  "temat": "Taktyka i technika strzelania",
+  "pytanie": "Ręka wiodąca to:",
+  "poprawna": "ręka trzymająca broń",
+  "bledne": [
+   "ręka ładująca magazynek do broni",
+   "ręka wykonująca czynności związane z odbezpieczeniem broni",
+   "ręka wykonująca obsługę bieżącą pistoletu w sali czyszczenia broni"
+  ],
+  "wyjasnienie": "Ręka wiodąca trzyma broń. Druga ręka to ręka wspomagająca (np. nią uderza się w tył zamka przy niedomknięciu komory).",
+  "zrodlo": "test"
+ },
+ {
+  "id": "876cc9e8ea",
+  "temat": "Taktyka i technika strzelania",
+  "pytanie": "Do postaw strzeleckich wyjściowych z broni krótkiej zaliczamy postawy:",
+  "poprawna": "swobodną, z dłonią na chwycie broni znajdującej się w kaburze, gotów jednorącz lub oburącz, bezpieczną dolną",
+  "bledne": [
+   "stojącą, klęczącą, leżącą",
+   "gotów, bezpieczną górną, bezpieczną dolną",
+   "stojącą, klęczącą, leżącą, gotów, bezpieczną górną, bezpieczną dolną"
+  ],
+  "wyjasnienie": "Zarządzenie nr 2 KGP (zał. – postawy): broń krótka – a) swobodna, b) z dłonią na chwycie broni w kaburze, c) gotów jednorącz lub oburącz, d) bezpieczna dolna. „Gotów, bezpieczna górna, bezpieczna dolna” to postawy dla PM i strzelby. Stojąca/klęcząca/leżąca to postawy strzeleckie, nie wyjściowe.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "6aca8785af",
+  "temat": "Zacięcia broni",
+  "pytanie": "Podstawowymi zacięciami w broni palnej krótkiej są:",
+  "poprawna": "niewypał, niedomknięcie komory nabojowej, zakleszczenie łuski, utknięcie naboju w komorze nabojowej",
+  "bledne": [
+   "niedobój, niewyciąg, przytrzask, zakleszczenie kurka",
+   "niewypał, zakleszczenie, niedowład łuski w oknie wyrzutu",
+   "zakleszczenie komory nabojowej, niewyciąg, niewypał, utykanie magazynka"
+  ],
+  "wyjasnienie": "Cztery zacięcia z prezentacji: niedomknięcie komory, przytrzaśnięcie (zakleszczenie) łuski, utknięcie (przekoszenie) naboju, niewypał.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "115ea521e3",
+  "temat": "Zacięcia broni",
+  "pytanie": "Dłuższa niesprawność broni, możliwa do usunięcia przez strzelającego na linii ognia, ale wymagająca większych umiejętności, a niekiedy dodatkowego wyposażenia (np. wyciora), to:",
+  "poprawna": "zablokowanie broni",
+  "bledne": [
+   "awaria broni",
+   "usterka broni",
+   "zacięcie broni"
+  ],
+  "wyjasnienie": "Zacięcie: krótkotrwałe, usuwane od ręki. Zablokowanie: dłuższe, wymaga umiejętności lub sprzętu (wycior). Awaria: strzelający jej nie usunie, broń idzie do rusznikarza.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "a4d34518a0",
+  "temat": "Zacięcia broni",
+  "pytanie": "Jedną z przyczyn utknięcia (przekoszenia) naboju NIE JEST:",
+  "poprawna": "wadliwie działający mechanizm spustowo-uderzeniowy",
+  "bledne": [
+   "zgięte szczęki pudełka magazynka",
+   "wadliwie działająca sprężyna magazynka",
+   "zanieczyszczony magazynek i wślizg komory nabojowej"
+  ],
+  "wyjasnienie": "Utknięcie naboju wynika z problemów z magazynkiem i podawaniem naboju. Wadliwy mechanizm spustowo-uderzeniowy to przyczyna NIEWYPAŁU.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "78c3433202",
+  "temat": "Zacięcia broni",
+  "pytanie": "Uczestnik strzelania statycznego po przeładowaniu broni nacisnął na język spustowy i zaobserwował brak wystrzału. Aby kontynuować strzelanie, powinien:",
+  "poprawna": "dobić magazynek znajdujący się w chwycie broni i ponownie przeładować broń, usuwając niewypał",
+  "bledne": [
+   "dwukrotnie przeładować broń",
+   "uderzyć nasadą dłoni wspomagającej w tylną część zamka, a następnie przeładować broń",
+   "wypiąć magazynek z chwytu broni, zatrzymać zamek w tylnym położeniu i zakończyć strzelanie"
+  ],
+  "wyjasnienie": "Brak strzału = niewypał: dobić magazynek i przeładować. Uderzenie w tył zamka usuwa niedomknięcie komory.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "6d2b84159f",
+  "temat": "Taktyka i technika strzelania",
+  "pytanie": "Wykonując kontrolę celu, należy:",
+  "poprawna": "obniżyć broń i patrząc przez przyrządy sprawdzić, co się dzieje z celem – broń kieruje się tam, gdzie wzrok",
+  "bledne": [
+   "nie zmieniając postawy spojrzeć na cel, czy odrzucił niebezpieczne narzędzie, które trzymał w rękach",
+   "ściągając broń do siebie, na wysokości mostka kątem oka spojrzeć na zamek z góry",
+   "zdjąć palec z języka spustowego, broń lekko obniżyć i obserwować przedpole, lewą i prawą stronę, by szybko zareagować na zagrożenie"
+  ],
+  "wyjasnienie": "UWAGA – tego nie ma w prezentacjach. Po strzałach kolejno kontroluje się: CEL (broń lekko obniżona, wzrok i broń na celu), OTOCZENIE (palec poza spustem, obserwacja przedpola, lewa i prawa strona) oraz BROŃ (broń przy mostku, rzut oka na zamek). Pytanie dotyczy kontroli celu.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "ce9301ac64",
+  "temat": "Bezpieczeństwo użytkowania broni",
+  "pytanie": "Strzelający jest zobowiązany:",
+  "poprawna": "po zakończeniu strzelania zabezpieczyć broń palną, jeżeli konstrukcja to umożliwia",
+  "bledne": [
+   "rozpocząć strzelanie bez polecenia prowadzącego",
+   "przejrzeć broń palną innym strzelającym",
+   "schować broń do kabury po zakończeniu strzelania"
+  ],
+  "wyjasnienie": "Zarządzenie nr 2 KGP, obowiązki strzelającego: m.in. rozpocząć strzelanie na komendę, po zakończeniu strzelania zabezpieczyć broń, jeżeli konstrukcja to umożliwia, samodzielnie usunąć zacięcie, kierować wylot lufy w bezpiecznym kierunku.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "007caf6f1e",
+  "temat": "Bezpieczeństwo użytkowania broni",
+  "pytanie": "Komendę „PRZERWIJ OGIEŃ” podaje każdy uczestnik strzelania, który stwierdzi:",
+  "poprawna": "pojawienie się przed strzelającymi ludzi i zwierząt",
+  "bledne": [
+   "zacięcie broni",
+   "potrzebę wymiany magazynka",
+   "padanie pocisków w obręb kulochwytu"
+  ],
+  "wyjasnienie": "Przerwij ogień: osoby lub zwierzęta przed strzelającymi lub w strefie strzelania, pociski padające POZA obręb kulochwytu (nie „w obręb”), rykoszety poza strefę, niedyspozycja, inne niebezpieczeństwo. Zacięcie usuwa się samemu.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "ea13b62114",
+  "temat": "Walther P99",
+  "pytanie": "Drugi występ na szynie spustowej (np. w P99) służy do:",
+  "poprawna": "zabezpieczenia przed strzałem przedwczesnym",
+  "bledne": [
+   "zwolnienia napiętej iglicy",
+   "zatrzymania zamka po ostatnim strzale",
+   "wyrzucenia łuski"
+  ],
+  "wyjasnienie": "Z notatki z zajęć: drugi występ na szynie spustowej współpracuje z wycięciem w zamku (funkcja przerywacza) i zabezpiecza przed strzałem przedwczesnym. Pierwszy występ współpracuje z blokadą iglicy.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "dbc60b37ab",
+  "temat": "Teoria strzału",
+  "pytanie": "Strzał przedwczesny to strzał oddany w momencie, gdy:",
+  "poprawna": "komora nabojowa jest niezaryglowana lub częściowo zaryglowana",
+  "bledne": [
+   "strzelający nie zdążył wycelować",
+   "palec znalazł się na spuście przed komendą",
+   "nabój nie został jeszcze pobrany z magazynka"
+  ],
+  "wyjasnienie": "Z notatki z zajęć: strzał przedwczesny to strzał przy komorze NIEZARYGLOWANEJ lub CZĘŚCIOWO zaryglowanej. Chroni przed nim przerywacz (występ szyny spustowej + wycięcie w zamku).",
+  "zrodlo": "test"
+ },
+ {
+  "id": "63556946e5",
+  "temat": "REX Zero 1 CP",
+  "pytanie": "Zasada działania pistoletu REX Zero 1 polega na wykorzystaniu krótkiego odrzutu lufy. Ryglowanie odbywa się:",
+  "poprawna": "przez przekoszenie lufy w płaszczyźnie pionowej (zmodyfikowany bezłącznikowy system Browninga)",
+  "bledne": [
+   "masą bezwładności lufy",
+   "masą bezwładności zamka",
+   "przez przekoszenie lufy w płaszczyźnie poziomej"
+  ],
+  "wyjasnienie": "Slajd: ryglowanie REX – bezłącznikowy system krótkiego odrzutu lufy, tzw. system Browninga, czyli przekoszenie lufy w płaszczyźnie PIONOWEJ.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "3c8c0e04c0",
+  "temat": "Glock",
+  "pytanie": "Jaką funkcję pełni zewnętrzny bezpiecznik spustowy w pistolecie Glock?",
+  "poprawna": "zapobiega strzałowi przypadkowemu w razie upadku broni",
+  "bledne": [
+   "ułatwia oddanie celnego strzału",
+   "zapobiega szybkiemu wprowadzeniu naboju do komory nabojowej",
+   "zapobiega niezamierzonemu, odruchowemu ściągnięciu spustu w sytuacjach stresowych"
+  ],
+  "wyjasnienie": "Uniemożliwia bezwładnościowy ruch języka spustowego do tyłu, np. przy upadku broni. Ochrona przed odruchowym ściągnięciem w stresie to antystresowy język spustowy w P99.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "259a505d5f",
+  "temat": "Teoria strzału",
+  "pytanie": "Do podstawowych elementów mających wpływ na celne strzelanie należą:",
+  "poprawna": "stabilna postawa strzelecka, trzymanie broni palnej, zgranie przyrządów celowniczych, praca na języku spustowym, koordynacja ww. czynności z oddychaniem, wytrzymanie po strzale",
+  "bledne": [
+   "stabilna postawa strzelecka, trzymanie broni palnej, praca na języku spustowym",
+   "stabilna postawa strzelecka, zgranie przyrządów celowniczych, praca na języku spustowym",
+   "złożenie się do strzału, zgranie przyrządów celowniczych, praca na języku spustowym, koordynacja ww. czynności z oddychaniem, wytrzymanie po strzale"
+  ],
+  "wyjasnienie": "Pełna lista z prezentacji ma 6 elementów: postawa, trzymanie broni, zgranie przyrządów, praca na spuście, koordynacja z oddychaniem, wytrzymanie po strzale. Pozostałe odpowiedzi są niepełne.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "7a4aba7694",
+  "temat": "Zacięcia broni",
+  "pytanie": "Strzelec nacisnął na język spustowy pistoletu P99, nie nastąpiło zjawisko strzału. Kontrola broni wykazała, że zamek jest minimalnie cofnięty, a w oknie zamka widoczna jest kryza łuski. Strzelec powinien:",
+  "poprawna": "uderzyć nasadą dłoni w tył zamka, ponieważ wystąpiło zacięcie w postaci niedomknięcia komory",
+  "bledne": [
+   "zgłosić zacięcie, podnosząc rękę wspomagającą",
+   "dobić magazynek ręką wspomagającą, a następnie uderzyć nasadą dłoni w tył zamka",
+   "dobić magazynek ręką wspomagającą, a następnie przeładować broń, ponieważ wystąpił niewypał"
+  ],
+  "wyjasnienie": "Zamek minimalnie cofnięty i widoczna kryza łuski to objawy niedomknięcia komory. Usuwa się je uderzeniem nasadą dłoni w tył zamka. „Dobij i przeładuj” stosuje się przy niewypale, gdy zamek jest w przednim położeniu.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "a449d472a9",
+  "temat": "Teoria strzału",
+  "pytanie": "Wybór punktu celowania zależy od:",
+  "poprawna": "przewyższenia toru lotu pocisku nad linią celowania, rodzaju celownika i odległości do celu",
+  "bledne": [
+   "rodzaju celownika laserowego",
+   "pory dnia, oświetlenia i wilgotności",
+   "odległości, rodzaju celownika i oświetlenia"
+  ],
+  "wyjasnienie": "UWAGA – tego nie ma w prezentacjach. Tor lotu pocisku przecina linię celowania i raz jest nad nią, raz pod nią (przewyższenie), więc punkt celowania dobiera się do odległości i rodzaju celownika. Oświetlenie ani wilgotność o nim nie decydują.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "d372d59363",
+  "temat": "Podstawowe wiadomości o broni i amunicji",
+  "pytanie": "Broń samoczynna to broń, w której praca gazów prochowych przygotowuje następny wystrzał tak, że oddanie go:",
+  "poprawna": "odbywa się bez żadnej ingerencji ze strony strzelca",
+  "bledne": [
+   "odbywa się półautomatycznie",
+   "wymaga od strzelca tylko ponownego przeładowania broni",
+   "wymaga od strzelca tylko ponownego ściągnięcia języka spustowego"
+  ],
+  "wyjasnienie": "Samoczynna strzela seriami, dopóki spust jest ściągnięty, bez udziału strzelca. „Tylko ponowne ściągnięcie spustu” to definicja broni SAMOPOWTARZALNEJ (np. pistolety Policji).",
+  "zrodlo": "test"
+ },
+ {
+  "id": "72be39abbf",
+  "temat": "Bezpieczeństwo użytkowania broni",
+  "pytanie": "Zgodnie z warunkami i zasadami bezpieczeństwa, przy konieczności przekazania broni innemu strzelającemu należy sprawdzić, czy:",
+  "poprawna": "magazynek został odłączony i komora nabojowa rozładowana, a następnie pozostawić zamek w tylnym położeniu, jeśli konstrukcja broni to umożliwia",
+  "bledne": [
+   "broń jest zabezpieczona",
+   "w komorze nabojowej nie ma naboju",
+   "komora nabojowa jest rozładowana, a następnie pozostawić zamek w tylnym położeniu"
+  ],
+  "wyjasnienie": "Trzy kroki: odłączyć magazynek, sprawdzić (rozładować) komorę, zamek w tylnym położeniu, o ile konstrukcja pozwala. Odpowiedzi bez odłączenia magazynka są niepełne.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "556eb4715a",
+  "temat": "Zacięcia broni",
+  "pytanie": "Policjant oddał strzał, a przy kolejnym naciśnięciu spustu nic się nie stało mimo zwolnienia iglicy (zamek w przednim położeniu). Dobił magazynek i przeładował broń, ale po ponownym naciśnięciu spustu strzał znowu nie padł. Co powinien zrobić?",
+  "poprawna": "przerwać strzelanie, rozładować broń i upewnić się, że części broni nie są uszkodzone, a w razie uszkodzenia zgłosić to policjantowi ds. uzbrojenia w celu naprawy",
+  "bledne": [
+   "wymienić amunicję na inną i strzelać dalej",
+   "przerwać strzelanie, zabezpieczyć broń w takim stanie i przekazać do naprawy",
+   "przerwać strzelanie, rozłożyć broń, ustalić przyczynę i wymienić uszkodzoną część z innej broni służbowej"
+  ],
+  "wyjasnienie": "Powtarzający się niewypał mimo „dobij i przeładuj” wskazuje na usterkę broni (np. iglica). Broń się rozładowuje, sprawdza i zgłasza uszkodzenie policjantowi ds. uzbrojenia. Samodzielne naprawy i przekładanie części są zabronione, a broni nie zostawia się załadowanej.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "705c46dc81",
+  "temat": "REX Zero 1 CP",
+  "pytanie": "Policjant podczas obsługi bieżącej rozłożył pistolet REX Zero 1, wyczyścił go i sprawdził współdziałanie mechanizmów. Przy składaniu nie może prawidłowo założyć zamka na szkielet. Co może być przyczyną?",
+  "poprawna": "dźwignia demontażowa znajduje się w położeniu poziomym",
+  "bledne": [
+   "do pistoletu podpięty był pusty magazynek",
+   "pistolet w trakcie składania był odbezpieczony",
+   "kurek pistoletu znajduje się w położeniu napiętym"
+  ],
+  "wyjasnienie": "Przy rozkładaniu dźwignię demontażową obraca się w dół i zamek zakłada się z dźwignią w tym położeniu. Po złożeniu dźwignia wraca do pozycji poziomej (materiały SP Piła i CSP). W pozycji poziomej blokuje zamek.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "8c299ddfd0",
+  "temat": "Podstawowe wiadomości o broni i amunicji",
+  "pytanie": "Czy broń palną można przechowywać odbezpieczoną?",
+  "poprawna": "tak, jeżeli warunki techniczne jej użytkowania to przewidują",
+  "bledne": [
+   "nie, ponieważ każdorazowo należy ją zabezpieczyć",
+   "broń palna na czas przechowywania powinna być zawsze zabezpieczona",
+   "jeżeli konstrukcja broni umożliwia jej zabezpieczenie, nie należy przechowywać jej odbezpieczonej"
+  ],
+  "wyjasnienie": "Slajd: broń przechowuje się zabezpieczoną, ale ODBEZPIECZONĄ, jeżeli przewidują to warunki techniczne jej użytkowania.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "77ea4e27fd",
+  "temat": "Podstawowe wiadomości o broni i amunicji",
+  "pytanie": "Każda przenośna broń lufowa, która miota, jest przeznaczona do miotania lub może być przystosowana do miotania jednego lub większej liczby pocisków lub substancji w wyniku działania materiału miotającego, to broń:",
+  "poprawna": "palna",
+  "bledne": [
+   "bojowa",
+   "strzelecka",
+   "pneumatyczna"
+  ],
+  "wyjasnienie": "To definicja broni PALNEJ. Kluczowe jest działanie materiału miotającego – broń pneumatyczna używa sprężonego gazu.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "7fc5022014",
+  "temat": "Walther P99",
+  "pytanie": "Jednym z dwóch bezpieczników w pistolecie P-99 Walther jest:",
+  "poprawna": "blokada iglicy",
+  "bledne": [
+   "tylna blokada iglicy",
+   "dźwignia zwalniania magazynka",
+   "zewnętrzny bezpiecznik skrzydełkowy umieszczony na zamku"
+  ],
+  "wyjasnienie": "P99 ma dwa bezpieczniki: blokadę iglicy i bezpiecznik spustowy. Tylna blokada iglicy jest w Glocku, bezpiecznik skrzydełkowy w REX i P-64.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "f148e25c3f",
+  "temat": "Podstawowe wiadomości o broni i amunicji",
+  "pytanie": "Podstawowe zespoły pistoletu P-64 to:",
+  "poprawna": "zespół szkieletu, zamka, magazynka z kopytkiem, sprężyny powrotnej",
+  "bledne": [
+   "zespół zamka i kabłąka, lufy, sprężyny posuwisto-zwrotnej wraz z żerdzią",
+   "zespół trzonowego zamka wraz ze szkieletem, lufy, magazynka z wzdłużnym denkiem",
+   "zespół sprężyny powrotnej wraz z żerdzią, magazynka dwurzędowego, lufy poligonalnej, zamka"
+  ],
+  "wyjasnienie": "UWAGA – P-64 nie ma w prezentacjach. P-64 to pistolet z zamkiem swobodnym, lufa jest związana ze szkieletem. Ma sprężynę powrotną nawiniętą na lufę (bez żerdzi) i jednorzędowy magazynek na 6 naboi. Żerdź, dwurzędowy magazynek i lufa poligonalna pasują do innych pistoletów.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "0c05e9ca4d",
+  "temat": "Podstawowe wiadomości o broni i amunicji",
+  "pytanie": "System zabezpieczenia pistoletu P-64 składa się z:",
+  "poprawna": "nastawnego bezpiecznika skrzydełkowego oraz wyłącznika",
+  "bledne": [
+   "nastawnego bezpiecznika kurkowego oraz wyłącznika",
+   "nastawnego bezpiecznika skrzydełkowego oraz przerywacza",
+   "nastawnego bezpiecznika skrzydełkowego oraz przełącznika"
+  ],
+  "wyjasnienie": "P-64: bezpiecznik skrzydełkowy (działa też jako zwalniacz kurka) i wyłącznik, który zabezpiecza przed strzałem przedwczesnym i przypadkowym (opis za Wikipedią i opisem patentowym). Nazwa „przerywacz” dotyczy nowszych pistoletów.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "a0a76cca38",
+  "temat": "Walther P99",
+  "pytanie": "Z pistoletu P-99 można strzelać w trybie single action i double action. Co oznacza double action?",
+  "poprawna": "przy załadowanym, automatycznie zabezpieczonym pistolecie ze zwolnioną iglicą naciśnięcie spustu wyłącza bezpiecznik spustu i iglicy, a szyna spustowa napina iglicę aż do jej zwolnienia i odpalenia naboju",
+  "bledne": [
+   "przy załadowanym, napiętym i automatycznie zabezpieczonym pistolecie naciśnięcie spustu włącza bezpiecznik spustu i bezpiecznik iglicy",
+   "przy rozładowanym, automatycznie zabezpieczonym pistolecie ze zwolnioną iglicą naciśnięcie spustu powoduje tylko napięcie iglicy",
+   "przy załadowanym, automatycznie zabezpieczonym pistolecie ze zwolnioną iglicą naciśnięcie spustu włącza bezpiecznik iglicy"
+  ],
+  "wyjasnienie": "Double action (z samonapinaniem): iglica jest zwolniona, a jedno ściągnięcie spustu najpierw ją napina, potem zwalnia. Naciśnięcie spustu WYŁĄCZA bezpieczniki, a nie włącza.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "a5f9394a3e",
+  "temat": "Teoria strzału",
+  "pytanie": "Linia celownicza to:",
+  "poprawna": "linia prosta łącząca środek szczerbiny celownika z wierzchołkiem muszki",
+  "bledne": [
+   "linia prosta od oka strzelca do punktu celowania",
+   "linia prosta od przyrządów celowniczych do punktu celowania",
+   "linia prosta od oka strzelca przez przyrządy celownicze do punktu celowania"
+  ],
+  "wyjasnienie": "Linia celownicza łączy szczerbinę z muszką (odległość między przyrządami). Oko → przyrządy → punkt celowania to linia CELOWANIA.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "f613ad6866",
+  "temat": "Teoria strzału",
+  "pytanie": "Prędkość początkowa pocisku to:",
+  "poprawna": "prędkość pocisku w momencie wylotu z lufy",
+  "bledne": [
+   "prędkość naboju w momencie wylotu z lufy",
+   "prędkość, z jaką porusza się pocisk w przewodzie lufy",
+   "prędkość opuszczenia komory nabojowej przez pocisk"
+  ],
+  "wyjasnienie": "V0 to prędkość POCISKU (nie naboju!) w chwili wylotu z przewodu lufy, zwykle w m/s.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "a00ebf3c04",
+  "temat": "Taktyka i technika strzelania",
+  "pytanie": "Ręka wspomagająca to:",
+  "poprawna": "ręka wykonująca czynności związane z obsługą broni (przeładowanie, wymiana magazynka)",
+  "bledne": [
+   "ręka trzymająca broń",
+   "ręka, która zwalnia zamek z tylnego położenia po oddaniu ostatniego strzału",
+   "ręka, której palec wskazujący pracuje na języku spustowym"
+  ],
+  "wyjasnienie": "Ręka wiodąca trzyma broń i pracuje na spuście. Ręka wspomagająca obsługuje broń (przeładowanie, wymiana magazynka, uderzenie w tył zamka).",
+  "zrodlo": "test"
+ },
+ {
+  "id": "380b179181",
+  "temat": "Podstawowe wiadomości o broni i amunicji",
+  "pytanie": "Podstawową jednostką amunicji strzeleckiej do oddania jednego strzału z broni palnej jest:",
+  "poprawna": "nabój",
+  "bledne": [
+   "pocisk",
+   "ładunek miotający",
+   "łuska"
+  ],
+  "wyjasnienie": "Jeden strzał = jeden nabój (pocisk, ładunek, łuska i spłonka razem). Pocisk jest tylko częścią naboju.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "d56fe42b08",
+  "temat": "Bezpieczeństwo użytkowania broni",
+  "pytanie": "Z wyjątkiem linii ognia i miejsca treningu bezstrzałowego osoby przebywające w obiektach strzelnicy noszą broń:",
+  "poprawna": "rozładowaną, zabezpieczoną i z odłączonym magazynkiem (jeśli konstrukcja to umożliwia) – krótką w kaburze, inną niż krótka w położeniu „na pas” lub w pozycji wskazanej przez prowadzącego",
+  "bledne": [
+   "krótką z odłączonym magazynkiem i zabezpieczoną w kaburze",
+   "krótką zabezpieczoną w kaburze, a broń długą w pozycji „na pas”",
+   "krótką z odłączonym magazynkiem i zabezpieczoną w kaburze, długą w pozycji „na pas”"
+  ],
+  "wyjasnienie": "Pełna zasada ma trzy warunki: rozładowana, zabezpieczona, bez magazynka. Do tego krótka w kaburze, długa „na pas” albo w pozycji wskazanej przez prowadzącego. Odpowiedziom bez słowa „rozładowaną” czegoś brakuje.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "210cdcfd3f",
+  "temat": "Bezpieczeństwo użytkowania broni",
+  "pytanie": "Na strzelnicach zabrania się kierowania broni w stronę ludzi, z wyłączeniem treningu z użyciem amunicji:",
+  "poprawna": "ćwiczebnej i barwiącej",
+  "bledne": [
+   "ćwiczebnej",
+   "niepenetracyjnej",
+   "niepenetracyjnej i szkolnej"
+  ],
+  "wyjasnienie": "Wyjątki od zakazu: trening bezstrzałowy oraz trening z amunicją ćwiczebną I barwiącą (także trenażery i inne systemy treningowe). Samo „ćwiczebnej” jest niepełne.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "bed8cb06af",
+  "temat": "Teoria strzału",
+  "pytanie": "Strzelający może zmniejszyć negatywne skutki odrzutu i podrzutu broni, dążąc do prawidłowości, powtarzalności i jednolitości elementów takich jak:",
+  "poprawna": "stabilna postawa strzelecka, trzymanie broni palnej, złożenie się do strzału, zgranie przyrządów celowniczych, praca na języku spustowym, koordynacja tych czynności z oddychaniem, wytrzymanie po strzale",
+  "bledne": [
+   "stabilna postawa strzelecka, trzymanie broni palnej, praca na języku spustowym",
+   "stabilna postawa strzelecka, zgranie przyrządów celowniczych, praca na języku spustowym",
+   "złożenie się do strzału, zgranie przyrządów celowniczych, praca na języku spustowym, koordynacja tych czynności z oddychaniem, wytrzymanie po strzale"
+  ],
+  "wyjasnienie": "Wybierz najpełniejszą listę: postawa, trzymanie broni, złożenie się, zgranie przyrządów, praca na spuście, oddech, wytrzymanie po strzale. Pozostałym czegoś brakuje.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "f678346cdb",
+  "temat": "Zacięcia broni",
+  "pytanie": "Policjant w pościgu za sprawcą rozboju zamierzał oddać strzał ostrzegawczy, ale wystąpiło zacięcie, które usunął. Okazało się, że przyczyną była niesprawna spłonka. Jakie to zacięcie?",
+  "poprawna": "niewypał danej sztuki amunicji",
+  "bledne": [
+   "niedomknięcie komory nabojowej",
+   "utknięcie łuski w okienku wyrzutowym",
+   "utknięcie naboju przy wejściu do komory"
+  ],
+  "wyjasnienie": "Wadliwy nabój (np. spłonka) to klasyczna przyczyna NIEWYPAŁU. Usuwa się go, dobijając magazynek i przeładowując broń.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "e3c492c397",
+  "temat": "Bezpieczeństwo użytkowania broni",
+  "pytanie": "Podczas strzelania uczestnik zauważył, że pociski rykoszetują i wracają w kierunku strzelających. Powinien:",
+  "poprawna": "wydać komendę „PRZERWIJ OGIEŃ”",
+  "bledne": [
+   "dalej kontynuować strzelanie",
+   "przerwać strzelanie i schować broń do kabury",
+   "powiadomić prowadzącego dopiero po zakończeniu strzelania"
+  ],
+  "wyjasnienie": "Rykoszetowanie poza wyznaczoną strefę to powód przerwania ognia. Komendę podaje każdy, kto pierwszy stwierdzi niebezpieczeństwo.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "3316a8f9e9",
+  "temat": "Bezpieczeństwo użytkowania broni",
+  "pytanie": "Policjant podczas szkolenia strzeleckiego kierował broń w stronę grupy szkolonych. Czy może to być dopuszczalne?",
+  "poprawna": "tak – podczas treningu bezstrzałowego lub odpowiedniego treningu symulacyjnego zbliżonego do realiów użycia broni, przy zachowaniu warunków bezpieczeństwa",
+  "bledne": [
+   "tak – podczas każdego treningu strzeleckiego",
+   "nie – w żadnej sytuacji",
+   "tak – tylko wtedy, gdy broń ma podłączony pusty magazynek"
+  ],
+  "wyjasnienie": "Wyjątki od zakazu kierowania broni w stronę ludzi: trening bezstrzałowy i trening z amunicją ćwiczebną, barwiącą lub systemami symulacyjnymi, zawsze przy zachowaniu warunków bezpieczeństwa.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "5731ca5cdf",
+  "temat": "Bezpieczeństwo użytkowania broni",
+  "pytanie": "St. post. Adam Nowak, zaatakowany nożem, wyjął i przeładował broń. W tym czasie drugi policjant obezwładnił napastnika. Jakie pierwsze czynności powinien wykonać, aby rozładować broń?",
+  "poprawna": "skierować broń w bezpieczne miejsce, odłączyć magazynek, a następnie usunąć nabój z komory nabojowej",
+  "bledne": [
+   "skierować broń w bezpieczne miejsce, odłączyć magazynek, a następnie oddać strzał kontrolny",
+   "skierować broń w bezpieczne miejsce, usunąć nabój z komory przez przeładowanie, a następnie pozostawić broń",
+   "skierować broń w bezpieczne miejsce, usunąć nabój z komory przez przeładowanie, a następnie odłączyć magazynek"
+  ],
+  "wyjasnienie": "Najpierw magazynek, potem komora. Przeładowanie przy podłączonym magazynku wprowadziłoby kolejny nabój. Strzał kontrolny przy naboju w komorze byłby prawdziwym strzałem.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "1a1f3ca3c7",
+  "temat": "Bezpieczeństwo użytkowania broni",
+  "pytanie": "Wykształcenie u policjanta umiejętności gwarantujących bezpieczne i sprawne posługiwanie się bronią palną jest celem:",
+  "poprawna": "treningu bezstrzałowego",
+  "bledne": [
+   "strzelania programowego",
+   "obsługi bieżącej broni",
+   "sprawdzianu strzeleckiego"
+  ],
+  "wyjasnienie": "Zarządzenie nr 2 KGP: trening bezstrzałowy ma na celu nabycie umiejętności gwarantujących bezpieczne i sprawne posługiwanie się bronią, wypracowanie nawyków ruchowych i precyzję strzału.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "c437525e69",
+  "temat": "Bezpieczeństwo użytkowania broni",
+  "pytanie": "Podczas strzelania uczestnik zauważył osobę w strefie strzelania, która porusza się w kierunku strzelających. Powinien:",
+  "poprawna": "wydać komendę „PRZERWIJ OGIEŃ”",
+  "bledne": [
+   "dalej kontynuować strzelanie",
+   "przerwać strzelanie i schować broń do kabury bez wydawania komendy",
+   "powiadomić o tym dopiero po zakończeniu strzelania"
+  ],
+  "wyjasnienie": "Osoba w strefie strzelania to powód przerwania ognia. Każdy uczestnik, który to zauważy, natychmiast podaje komendę.",
+  "zrodlo": "test"
+ }
+]
