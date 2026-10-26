@@ -6,15 +6,17 @@
 <title>Testy – nauka</title>
 <style>
   :root {
-    --bg: #f3f4f1; --card: #ffffff; --ink: #1d221c; --muted: #646b62; --line: #dfe2dc;
-    --accent: #3d5a3a; --ok: #1f7a3d; --ok-bg: #e3f3e8; --bad: #b3261e; --bad-bg: #fbe5e3;
-    --warn: #8a5a00; --warn-bg: #fff2d6;
+    --bg: #f4f6f9; --card: #ffffff; --ink: #1f2430; --muted: #6b7280; --line: #e2e6ec;
+    --accent: #3b5bdb; --accent-bg: #e8edff;
+    --ok: #2b8a57; --ok-bg: #e7f5ee; --bad: #c92a2a; --bad-bg: #fdeceb;
+    --warn: #9a6200; --warn-bg: #fff4dc; --pres: #7048e8; --pres-bg: #f0ebff;
   }
   @media (prefers-color-scheme: dark) {
     :root {
-      --bg: #141713; --card: #1d211c; --ink: #e8ebe6; --muted: #9aa197; --line: #2f342d;
-      --accent: #9cc495; --ok: #7bd492; --ok-bg: #173323; --bad: #ff8a80; --bad-bg: #3a1c1a;
-      --warn: #ffcc66; --warn-bg: #3a2e14;
+      --bg: #12141a; --card: #1b1e26; --ink: #e6e8ee; --muted: #9aa0ab; --line: #2b303b;
+      --accent: #8ea6ff; --accent-bg: #222b4a;
+      --ok: #6fcf97; --ok-bg: #16301f; --bad: #ff8f8f; --bad-bg: #3a1d1f;
+      --warn: #f5c56b; --warn-bg: #362c15; --pres: #b9a3ff; --pres-bg: #2c2448;
     }
   }
   * { box-sizing: border-box; }
@@ -43,21 +45,22 @@
   .stat span { font-size: 13px; color: var(--muted); }
   .stat.ok b { color: var(--ok); } .stat.warn b { color: var(--warn); }
   .bar { height: 8px; background: var(--line); border-radius: 99px; overflow: hidden; margin-bottom: 14px; }
-  .bar > div { height: 100%; background: var(--ok); width: 0; transition: width .3s; }
+  .bar > div { height: 100%; background: var(--accent); width: 0; transition: width .3s; }
 
   details.topics { margin-bottom: 14px; }
   details.topics summary { cursor: pointer; color: var(--muted); font-size: 14px; }
   .chips { display: flex; flex-wrap: wrap; gap: 6px; margin-top: 8px; }
   .chip { border: 1px solid var(--line); background: var(--card); color: var(--muted);
           padding: 4px 10px; border-radius: 99px; font-size: 13px; }
-  .chip.on { border-color: var(--accent); color: var(--ink); background: color-mix(in srgb, var(--accent) 14%, var(--card)); }
+  .chip.on { border-color: var(--accent); color: var(--ink); background: var(--accent-bg); }
 
   .card { background: var(--card); border: 1px solid var(--line); border-radius: 14px; padding: 20px; }
   .meta { display: flex; justify-content: space-between; gap: 8px; flex-wrap: wrap; font-size: 13px; color: var(--muted); margin-bottom: 8px; }
   .meta > span { display: flex; gap: 6px; align-items: center; flex-wrap: wrap; }
   .tag { padding: 2px 8px; border-radius: 99px; background: var(--bg); }
   .tag.retry { background: var(--warn-bg); color: var(--warn); }
-  .tag.test { background: var(--ok-bg); color: var(--ok); }
+  .tag.test { background: var(--accent-bg); color: var(--accent); }
+  .tag.pres { background: var(--pres-bg); color: var(--pres); }
   .licznik { min-width: 24px; height: 24px; padding: 0 6px; border-radius: 99px; display: inline-grid; place-items: center;
              border: 1.5px solid var(--muted); color: var(--ink); font-weight: 600; font-size: 13px; font-variant-numeric: tabular-nums; }
   .q { font-size: 19px; font-weight: 600; margin: 4px 0 16px; }
@@ -251,7 +254,7 @@ function nastepne() {
   wznowCzas();
   odswiezStatystyki();
   const status = s.s === "retry" ? `<span class="tag retry">powtórka</span>` : "";
-  const zrodlo = p.zrodlo === "test" ? `<span class="tag test">z testu</span>` : "";
+  const zrodlo = p.zrodlo === "test" ? `<span class="tag test">z testu</span>` : `<span class="tag pres">z prezentacji</span>`;
   card.innerHTML = `
     <div class="meta"><span>${esc(p.temat)} ${zrodlo}</span>
       <span>${status}<span class="licznik" title="Ile razy to pytanie już się pojawiło">${s.ile}</span></span></div>
