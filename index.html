@@ -243,7 +243,7 @@ function nastepne() {
     card.innerHTML = `<div class="done"><h2>Wszystkie pytania opanowane 🎯</h2>
       <p>Skuteczność: ${stan.odp ? Math.round(100 * stan.dobre / stan.odp) : 0}% (${stan.dobre}/${stan.odp} odpowiedzi),
       czas: ${formatCzas(stan.czas)}.</p>
-      <p><button class="btn primary" onclick="resetuj(true)">Zacznij od nowa</button></p></div>`;
+      <p><button class="btn primary" onclick="resetuj()">Zacznij od nowa</button></p></div>`;
     return;
   }
   const s = stan.p[p.id] || (stan.p[p.id] = { s: "new", left: 0, zle: 0, ile: 0 });
@@ -300,8 +300,7 @@ function odpowiedz(i) {
   odswiezStatystyki();
 }
 
-function resetuj(bezPytania) {
-  if (!bezPytania && !confirm(`Na pewno zresetować postęp i czas w zakładce ${zakladka.kod || zakladka.id}?`)) return;
+function resetuj() {
   startCzasu = null;
   const tematy = stan.tematy;
   stan = nowyStan();
@@ -309,7 +308,7 @@ function resetuj(bezPytania) {
   zapisz();
   nastepne();
 }
-document.getElementById("reset").onclick = () => resetuj(false);
+document.getElementById("reset").onclick = resetuj;
 
 document.addEventListener("keydown", e => {
   if (e.ctrlKey || e.altKey || e.metaKey) return;
