@@ -12,11 +12,11 @@ Nie trzeba niczego instalować ani zakładać konta – link działa na telefoni
 
 | | |
 |---|---|
-| 🗂️ **Zakładki** | Każdy przedmiot ma swoją zakładkę (np. **JS01**), z osobnym postępem i czasem. |
+| 🗂️ **Zakładki** | Każdy przedmiot ma swoją zakładkę (np. **JM04 JS01**), z osobnym postępem i czasem. |
 | 🎲 **Losowanie** | Pytania i kolejność odpowiedzi są losowane, więc nie da się zapamiętać literki. |
 | ✅ **Dobra odpowiedź** | Pytanie trafia do puli opanowanych. |
 | ❌ **Zła odpowiedź** | Wyświetla się wyjaśnienie, a pytanie wróci losowo jeszcze 2 razy. |
-| ⏱️ **Liczniki** | Czas rozwiązywania i liczba wystąpień każdego pytania. |
+| ⏱️ **Liczniki** | Czas rozwiązywania, a w kółku przy pytaniu – ile razy już się pojawiło. |
 | 🎯 **Tematy** | W „Zakres tematów” wybierasz, z których działów chcesz pytania. |
 | 🔄 **Reset** | „Zresetuj test” zeruje postęp i czas w bieżącej zakładce. |
 
@@ -28,7 +28,7 @@ Postęp zapisuje się w Twojej przeglądarce, więc każdy uczy się osobno. Po 
 
 | Kod | Przedmiot | Pytań |
 |---|---|---|
-| **JS01** | Strzelanie – broń krótka (bezpieczeństwo, broń i amunicja, P99, Beretta APX, REX Zero 1, Glock, teoria strzału, zacięcia) | 120 |
+| **JM04 JS01** | Strzelanie broń krótka (bezpieczeństwo, broń i amunicja, P99, Beretta APX, REX Zero 1, Glock, teoria strzału, zacięcia) | 120 |
 
 ## Skąd są pytania
 
@@ -54,8 +54,10 @@ app.py, uruchom.bat   podgląd lokalny → http://localhost:8770
 ### Wpis w `dane/zakladki.json`
 
 ```json
-{"id": "JS01", "nazwa": "Strzelanie – broń krótka", "plik": "JS01.json"}
+{"id": "JS01", "kod": "JM04 JS01", "nazwa": "Strzelanie broń krótka", "plik": "JS01.json"}
 ```
+
+`id` służy do zapisu postępu w przeglądarce – po publikacji go nie zmieniamy. Na stronie wyświetla się `kod – nazwa`.
 
 ### Pytanie w `dane/<KOD>.json`
 

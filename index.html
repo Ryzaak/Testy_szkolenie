@@ -58,6 +58,8 @@
   .tag { padding: 2px 8px; border-radius: 99px; background: var(--bg); }
   .tag.retry { background: var(--warn-bg); color: var(--warn); }
   .tag.test { background: var(--ok-bg); color: var(--ok); }
+  .licznik { min-width: 24px; height: 24px; padding: 0 6px; border-radius: 99px; display: inline-grid; place-items: center;
+             border: 1.5px solid var(--muted); color: var(--ink); font-weight: 600; font-size: 13px; font-variant-numeric: tabular-nums; }
   .q { font-size: 19px; font-weight: 600; margin: 4px 0 16px; }
   .opts { display: grid; gap: 8px; }
   .opt { display: flex; gap: 12px; align-items: flex-start; text-align: left; width: 100%;
@@ -190,7 +192,7 @@ function rysujZakladki() {
   for (const z of zakladki) {
     const b = document.createElement("button");
     b.className = "tab" + (z.id === zakladka?.id ? " on" : "");
-    b.innerHTML = `<b>${esc(z.id)}</b> ${esc(z.nazwa)}`;
+    b.innerHTML = `<b>${esc(z.kod || z.id)}</b> – ${esc(z.nazwa)}`;
     b.onclick = () => { if (z.id !== zakladka.id) otworz(z.id); };
     box.appendChild(b);
   }
@@ -248,11 +250,11 @@ function nastepne() {
   biezace = { p, opcje, odpowiedziano: false };
   wznowCzas();
   odswiezStatystyki();
-  const status = s.s === "retry" ? `<span class="tag retry">powtórka</span>` : `<span class="tag">nowe</span>`;
+  const status = s.s === "retry" ? `<span class="tag retry">powtórka</span>` : "";
   const zrodlo = p.zrodlo === "test" ? `<span class="tag test">z testu</span>` : "";
   card.innerHTML = `
     <div class="meta"><span>${esc(p.temat)} ${zrodlo}</span>
-      <span>${status}<span class="tag" title="Ile razy to pytanie już się pojawiło">pojawiło się: ${s.ile}×</span></span></div>
+      <span>${status}<span class="licznik" title="Ile razy to pytanie już się pojawiło">${s.ile}</span></span></div>
     <div class="q">${esc(p.pytanie)}</div>
     <div class="opts">${opcje.map((o, i) =>
       `<button class="opt" data-i="${i}"><span class="l">${LITERY[i]}</span><span>${esc(o.t)}</span></button>`).join("")}
@@ -296,7 +298,7 @@ function odpowiedz(i) {
 }
 
 function resetuj(bezPytania) {
-  if (!bezPytania && !confirm(`Na pewno zresetować postęp i czas w zakładce ${zakladka.id}?`)) return;
+  if (!bezPytania && !confirm(`Na pewno zresetować postęp i czas w zakładce ${zakladka.kod || zakladka.id}?`)) return;
   startCzasu = null;
   const tematy = stan.tematy;
   stan = nowyStan();
@@ -321,8 +323,9 @@ async function otworz(id) {
   try { localStorage.setItem("testy_zakladka", zakladka.id); } catch {}
   history.replaceState(null, "", "#" + zakladka.id);
   rysujZakladki();
-  document.getElementById("tytul").innerHTML = `${esc(zakladka.id)}<small>${esc(zakladka.nazwa)}</small>`;
-  document.title = `${zakladka.id} – testy`;
+  const kod = zakladka.kod || zakladka.id;
+  document.getElementById("tytul").innerHTML = `${esc(kod)} – ${esc(zakladka.nazwa)}`;
+  document.title = `${kod} – ${zakladka.nazwa}`;
   document.getElementById("card").textContent = "Ładowanie pytań…";
   try {
     pytania = await fetch("dane/" + zakladka.plik, { cache: "no-store" }).then(r => r.json());
