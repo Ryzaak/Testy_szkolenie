@@ -302,9 +302,9 @@ function odpowiedz(i) {
 
 function resetuj() {
   startCzasu = null;
-  const tematy = stan.tematy;
+  const { tematy, znane } = stan;
   stan = nowyStan();
-  stan.tematy = tematy;
+  Object.assign(stan, { tematy, znane });
   zapisz();
   nastepne();
 }
@@ -337,8 +337,13 @@ async function otworz(id) {
   }
   stan = wczytaj();
   const wszystkie = [...new Set(pytania.map(p => p.temat))];
+  // tematy, których viewer jeszcze nie widział (np. dodane później), włączamy od razu
+  const znane = stan.znane || stan.tematy || [];
   stan.tematy = (stan.tematy || wszystkie).filter(t => wszystkie.includes(t));
+  stan.tematy.push(...wszystkie.filter(t => !znane.includes(t) && !stan.tematy.includes(t)));
   if (!stan.tematy.length) stan.tematy = wszystkie;
+  stan.znane = wszystkie;
+  zapisz();
   rysujTematy();
   nastepne();
 }

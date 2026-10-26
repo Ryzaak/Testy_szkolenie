@@ -117,32 +117,6 @@
   "zrodlo": "prezentacje"
  },
  {
-  "id": "782dc51bc6",
-  "temat": "Bezpieczeństwo użytkowania broni",
-  "pytanie": "Jedyne potencjalne ryzyko zdrowotne przy kontakcie z amunicją strzelecką (wg karty charakterystyki) to:",
-  "poprawna": "kontakt ołowiu zawartego w pocisku ze skórą (naboje bez płaszcza lub półpłaszczowe)",
-  "bledne": [
-   "wdychanie oparów wydzielających się z mosiężnej łuski podczas przechowywania",
-   "kontakt skóry z ładunkiem prochowym przez nieszczelną łuskę naboju",
-   "promieniowanie emitowane przez masę zapalającą znajdującą się w spłonce"
-  ],
-  "wyjasnienie": "Ryzyko dotyczy ołowiu w pocisku, gdy pocisk nie ma płaszcza lub jest półpłaszczowy. Związki ołowiu działają szkodliwie po połknięciu i przez drogi oddechowe.",
-  "zrodlo": "prezentacje"
- },
- {
-  "id": "3f3db06519",
-  "temat": "Bezpieczeństwo użytkowania broni",
-  "pytanie": "Głównym zagrożeniem związanym z amunicją jest:",
-  "poprawna": "gwałtowne spalanie materiałów wybuchowych zawartych w nabojach i jego oddziaływanie termiczne",
-  "bledne": [
-   "toksyczność mosiądzu, z którego wykonana jest łuska, przy kontakcie ze skórą",
-   "samoczynny zapłon naboju pod wpływem wilgoci i niskiej temperatury",
-   "promieniotwórczość ołowiu zawartego w rdzeniu pocisku naboju"
-  ],
-  "wyjasnienie": "Główne zagrożenie – gwałtowne spalanie materiałów wybuchowych i skutki termiczne. Dodatkowe – toksyczne produkty przemiany wybuchowej.",
-  "zrodlo": "prezentacje"
- },
- {
   "id": "515ed0bee5",
   "temat": "Podstawowe wiadomości o broni i amunicji",
   "pytanie": "Który z wymienionych przypadków to WYKORZYSTANIE broni palnej (a nie jej użycie wobec osoby)?",
@@ -218,45 +192,6 @@
    "konwoju osoby zatrzymanej"
   ],
   "wyjasnienie": "Zakaz: prywatny udział w imprezach masowych, spożywanie alkoholu/środków odurzających (i po nich), leczenie szpitalne lub sanatoryjne, zwolnienie lekarskie.",
-  "zrodlo": "prezentacje"
- },
- {
-  "id": "208c748921",
-  "temat": "Podstawowe wiadomości o broni i amunicji",
-  "pytanie": "Gdzie policjant przechowuje broń palną krótką (zasada ogólna)?",
-  "poprawna": "w swoim miejscu zamieszkania, jeżeli kierownik jednostki nie wyda innego polecenia",
-  "bledne": [
-   "zawsze w jednostce Policji, w której działa całodobowa służba dyżurna",
-   "w miejscu wskazanym przez policjanta ds. uzbrojenia, np. w szafie w pokoju służbowym",
-   "w miejscu zamieszkania, ale wyłącznie za pisemną zgodą komendanta wojewódzkiego"
-  ],
-  "wyjasnienie": "Zasada: broń krótka – w miejscu zamieszkania, chyba że kierownik jednostki poleci inaczej.",
-  "zrodlo": "prezentacje"
- },
- {
-  "id": "a8c97835f1",
-  "temat": "Podstawowe wiadomości o broni i amunicji",
-  "pytanie": "Kto NIE przechowuje broni w miejscu zamieszkania (zasada)?",
-  "poprawna": "policjant w służbie przygotowawczej",
-  "bledne": [
-   "policjant w służbie stałej",
-   "policjant pełniący służbę w ubiorze cywilnym",
-   "policjant prewencji"
-  ],
-  "wyjasnienie": "Policjant w służbie przygotowawczej (oraz osoby na ćwiczeniach z przydziałów mob.) zasadniczo nie przechowuje broni w domu.",
-  "zrodlo": "prezentacje"
- },
- {
-  "id": "2812e3f341",
-  "temat": "Podstawowe wiadomości o broni i amunicji",
-  "pytanie": "W jakim stanie powinna być broń palna na czas przechowywania?",
-  "poprawna": "rozładowana, bez magazynka, ze zwolnionym kurkiem (iglicą), zabezpieczona, sprawna, kompletna i czysta",
-  "bledne": [
-   "w kaburze, z podłączonym pełnym magazynkiem, bez naboju w komorze, zabezpieczona",
-   "rozładowana, z podłączonym pustym magazynkiem i napiętą iglicą, zabezpieczona i czysta",
-   "rozłożona na główne części, wyczyszczona i zakonserwowana, z odłączonym magazynkiem"
-  ],
-  "wyjasnienie": "Do przechowywania: z kabury, rozładowana, kurek/iglica zwolnione, bez magazynka, zabezpieczona (chyba że instrukcja przewiduje odbezpieczoną), sprawna, kompletna, czysta.",
   "zrodlo": "prezentacje"
  },
  {
@@ -871,19 +806,6 @@
   "zrodlo": "test"
  },
  {
-  "id": "2d3217b15f",
-  "temat": "Podstawowe wiadomości o broni i amunicji",
-  "pytanie": "Amunicja do broni palnej powinna być przechowywana w sposób umożliwiający:",
-  "poprawna": "jej szybkie przeliczenie lub wydanie",
-  "bledne": [
-   "jej szybkie wydanie",
-   "jej identyfikację lub wydanie",
-   "jej szybkie załadowanie do magazynków"
-  ],
-  "wyjasnienie": "Zasada z prezentacji: amunicję przechowuje się tak, by dało się ją szybko PRZELICZYĆ lub WYDAĆ. Przechowywanie amunicji w magazynkach jest co do zasady zabronione.",
-  "zrodlo": "test"
- },
- {
   "id": "18069aa7b1",
   "temat": "Walther P99",
   "pytanie": "Ryglowanie pistoletu Walther P99 odbywa się przez przekoszenie:",
@@ -1014,19 +936,6 @@
   "zrodlo": "test"
  },
  {
-  "id": "27fb616a9b",
-  "temat": "Taktyka i technika strzelania",
-  "pytanie": "Dobiegając do rogu budynku, prędkość należy wytracić przez:",
-  "poprawna": "„wytupanie”",
-  "bledne": [
-   "„rozbieganie”",
-   "zwiększanie kroków",
-   "bieg zygzakiem"
-  ],
-  "wyjasnienie": "UWAGA – tego nie ma w prezentacjach. „Wytupanie” to wytracanie prędkości krótkimi, szybkimi krokami przed rogiem budynku, żeby zatrzymać się stabilnie i nie wybiec poza osłonę. Pozostałe odpowiedzi zwiększają prędkość albo destabilizują.",
-  "zrodlo": "test"
- },
- {
   "id": "46c62e8191",
   "temat": "Teoria strzału",
   "pytanie": "Linia celowania jest to linia przebiegająca od:",
@@ -1040,21 +949,8 @@
   "zrodlo": "test"
  },
  {
-  "id": "5418a3ba2c",
-  "temat": "Taktyka i technika strzelania",
-  "pytanie": "W trakcie strzelania w marszu do przodu post. Jan Nowak po wyczerpaniu amunicji w magazynku wykonał wymianę magazynka:",
-  "poprawna": "dynamiczną",
-  "bledne": [
-   "taktyczną",
-   "awaryjną",
-   "szybką"
-  ],
-  "wyjasnienie": "UWAGA – tego nie ma w prezentacjach. Wymiana DYNAMICZNA to wymiana po wystrzelaniu całej amunicji (zamek zostaje w tylnym położeniu), wykonywana od razu, także w ruchu. Wymiana TAKTYCZNA to wymiana niepełnego magazynka w przerwie walki, za osłoną (tak opisuje ją Zarządzenie nr 2 KGP).",
-  "zrodlo": "test"
- },
- {
   "id": "a00e27ca5f",
-  "temat": "Taktyka i technika strzelania",
+  "temat": "Podstawy celnego strzelania",
   "pytanie": "Ręka wiodąca to:",
   "poprawna": "ręka trzymająca broń",
   "bledne": [
@@ -1067,7 +963,7 @@
  },
  {
   "id": "876cc9e8ea",
-  "temat": "Taktyka i technika strzelania",
+  "temat": "Podstawy celnego strzelania",
   "pytanie": "Do postaw strzeleckich wyjściowych z broni krótkiej zaliczamy postawy:",
   "poprawna": "swobodną, z dłonią na chwycie broni znajdującej się w kaburze, gotów jednorącz lub oburącz, bezpieczną dolną",
   "bledne": [
@@ -1128,19 +1024,6 @@
    "wypiąć magazynek z chwytu broni, zatrzymać zamek w tylnym położeniu i zakończyć strzelanie"
   ],
   "wyjasnienie": "Brak strzału = niewypał: dobić magazynek i przeładować. Uderzenie w tył zamka usuwa niedomknięcie komory.",
-  "zrodlo": "test"
- },
- {
-  "id": "6d2b84159f",
-  "temat": "Taktyka i technika strzelania",
-  "pytanie": "Wykonując kontrolę celu, należy:",
-  "poprawna": "obniżyć broń i patrząc przez przyrządy sprawdzić, co się dzieje z celem – broń kieruje się tam, gdzie wzrok",
-  "bledne": [
-   "nie zmieniając postawy spojrzeć na cel, czy odrzucił niebezpieczne narzędzie, które trzymał w rękach",
-   "ściągając broń do siebie, na wysokości mostka kątem oka spojrzeć na zamek z góry",
-   "zdjąć palec z języka spustowego, broń lekko obniżyć i obserwować przedpole, lewą i prawą stronę, by szybko zareagować na zagrożenie"
-  ],
-  "wyjasnienie": "UWAGA – tego nie ma w prezentacjach. Po strzałach kolejno kontroluje się: CEL (broń lekko obniżona, wzrok i broń na celu), OTOCZENIE (palec poza spustem, obserwacja przedpola, lewa i prawa strona) oraz BROŃ (broń przy mostku, rzut oka na zamek). Pytanie dotyczy kontroli celu.",
   "zrodlo": "test"
  },
  {
@@ -1223,7 +1106,7 @@
  },
  {
   "id": "259a505d5f",
-  "temat": "Teoria strzału",
+  "temat": "Podstawy celnego strzelania",
   "pytanie": "Do podstawowych elementów mających wpływ na celne strzelanie należą:",
   "poprawna": "stabilna postawa strzelecka, trzymanie broni palnej, zgranie przyrządów celowniczych, praca na języku spustowym, koordynacja ww. czynności z oddychaniem, wytrzymanie po strzale",
   "bledne": [
@@ -1249,7 +1132,7 @@
  },
  {
   "id": "a449d472a9",
-  "temat": "Teoria strzału",
+  "temat": "Podstawy celnego strzelania",
   "pytanie": "Wybór punktu celowania zależy od:",
   "poprawna": "przewyższenia toru lotu pocisku nad linią celowania, rodzaju celownika i odległości do celu",
   "bledne": [
@@ -1313,19 +1196,6 @@
   "zrodlo": "test"
  },
  {
-  "id": "8c299ddfd0",
-  "temat": "Podstawowe wiadomości o broni i amunicji",
-  "pytanie": "Czy broń palną można przechowywać odbezpieczoną?",
-  "poprawna": "tak, jeżeli warunki techniczne jej użytkowania to przewidują",
-  "bledne": [
-   "nie, ponieważ każdorazowo należy ją zabezpieczyć",
-   "broń palna na czas przechowywania powinna być zawsze zabezpieczona",
-   "jeżeli konstrukcja broni umożliwia jej zabezpieczenie, nie należy przechowywać jej odbezpieczonej"
-  ],
-  "wyjasnienie": "Slajd: broń przechowuje się zabezpieczoną, ale ODBEZPIECZONĄ, jeżeli przewidują to warunki techniczne jej użytkowania.",
-  "zrodlo": "test"
- },
- {
   "id": "77ea4e27fd",
   "temat": "Podstawowe wiadomości o broni i amunicji",
   "pytanie": "Każda przenośna broń lufowa, która miota, jest przeznaczona do miotania lub może być przystosowana do miotania jednego lub większej liczby pocisków lub substancji w wyniku działania materiału miotającego, to broń:",
@@ -1349,32 +1219,6 @@
    "zewnętrzny bezpiecznik skrzydełkowy umieszczony na zamku"
   ],
   "wyjasnienie": "P99 ma dwa bezpieczniki: blokadę iglicy i bezpiecznik spustowy. Tylna blokada iglicy jest w Glocku, bezpiecznik skrzydełkowy w REX i P-64.",
-  "zrodlo": "test"
- },
- {
-  "id": "f148e25c3f",
-  "temat": "Podstawowe wiadomości o broni i amunicji",
-  "pytanie": "Podstawowe zespoły pistoletu P-64 to:",
-  "poprawna": "zespół szkieletu, zamka, magazynka z kopytkiem, sprężyny powrotnej",
-  "bledne": [
-   "zespół zamka i kabłąka, lufy, sprężyny posuwisto-zwrotnej wraz z żerdzią",
-   "zespół trzonowego zamka wraz ze szkieletem, lufy, magazynka z wzdłużnym denkiem",
-   "zespół sprężyny powrotnej wraz z żerdzią, magazynka dwurzędowego, lufy poligonalnej, zamka"
-  ],
-  "wyjasnienie": "UWAGA – P-64 nie ma w prezentacjach. P-64 to pistolet z zamkiem swobodnym, lufa jest związana ze szkieletem. Ma sprężynę powrotną nawiniętą na lufę (bez żerdzi) i jednorzędowy magazynek na 6 naboi. Żerdź, dwurzędowy magazynek i lufa poligonalna pasują do innych pistoletów.",
-  "zrodlo": "test"
- },
- {
-  "id": "0c05e9ca4d",
-  "temat": "Podstawowe wiadomości o broni i amunicji",
-  "pytanie": "System zabezpieczenia pistoletu P-64 składa się z:",
-  "poprawna": "nastawnego bezpiecznika skrzydełkowego oraz wyłącznika",
-  "bledne": [
-   "nastawnego bezpiecznika kurkowego oraz wyłącznika",
-   "nastawnego bezpiecznika skrzydełkowego oraz przerywacza",
-   "nastawnego bezpiecznika skrzydełkowego oraz przełącznika"
-  ],
-  "wyjasnienie": "P-64: bezpiecznik skrzydełkowy (działa też jako zwalniacz kurka) i wyłącznik, który zabezpiecza przed strzałem przedwczesnym i przypadkowym (opis za Wikipedią i opisem patentowym). Nazwa „przerywacz” dotyczy nowszych pistoletów.",
   "zrodlo": "test"
  },
  {
@@ -1418,7 +1262,7 @@
  },
  {
   "id": "a00ebf3c04",
-  "temat": "Taktyka i technika strzelania",
+  "temat": "Podstawy celnego strzelania",
   "pytanie": "Ręka wspomagająca to:",
   "poprawna": "ręka wykonująca czynności związane z obsługą broni (przeładowanie, wymiana magazynka)",
   "bledne": [
@@ -1470,7 +1314,7 @@
  },
  {
   "id": "bed8cb06af",
-  "temat": "Teoria strzału",
+  "temat": "Podstawy celnego strzelania",
   "pytanie": "Strzelający może zmniejszyć negatywne skutki odrzutu i podrzutu broni, dążąc do prawidłowości, powtarzalności i jednolitości elementów takich jak:",
   "poprawna": "stabilna postawa strzelecka, trzymanie broni palnej, złożenie się do strzału, zgranie przyrządów celowniczych, praca na języku spustowym, koordynacja tych czynności z oddychaniem, wytrzymanie po strzale",
   "bledne": [
@@ -1558,5 +1402,161 @@
   ],
   "wyjasnienie": "Osoba w strefie strzelania to powód przerwania ognia. Każdy uczestnik, który to zauważy, natychmiast podaje komendę.",
   "zrodlo": "test"
+ },
+ {
+  "id": "642a99cc6c",
+  "temat": "Podstawy celnego strzelania",
+  "pytanie": "Oko dominujące to:",
+  "poprawna": "oko, które podczas patrzenia obojgiem oczu decyduje o tym, gdzie „widzimy” cel – nim powinno się celować",
+  "bledne": [
+   "oko, którym strzelec widzi ostrzej, sprawdzone u okulisty, niezależnie od ręki wiodącej",
+   "zawsze oko po stronie ręki wiodącej – u praworęcznych prawe, u leworęcznych lewe",
+   "oko, które strzelec zamyka podczas celowania, aby nie przeszkadzało w zgraniu przyrządów"
+  ],
+  "wyjasnienie": "Oko dominujące przejmuje „prowadzenie” przy patrzeniu obojgiem oczu i nie musi być po stronie ręki wiodącej. Proste sprawdzenie: patrząc obojgiem oczu, ułóż z dłoni okienko na odległy punkt i zamknij jedno oko. Jeśli punkt został w okienku, otwarte oko jest dominujące.",
+  "zrodlo": "prezentacje"
+ },
+ {
+  "id": "26bca263d3",
+  "temat": "Podstawy celnego strzelania",
+  "pytanie": "Ładując magazynek, naboje wprowadza się:",
+  "poprawna": "pojedynczo, dociskając nabój do donośnika (poprzedniego naboju) i wsuwając go do tyłu pod szczęki, pociskiem do przodu",
+  "bledne": [
+   "kilka naraz, wsypując je od dołu magazynka po zdjęciu denka, pociskiem do przodu",
+   "pojedynczo, wsuwając nabój od przodu pod szczęki, pociskiem w stronę tylnej ścianki",
+   "pojedynczo, po uprzednim zdjęciu sprężyny i donośnika, pociskiem w dół"
+  ],
+  "wyjasnienie": "Każdy nabój dociska się w dół na donośnik albo poprzedni nabój i wsuwa do tyłu pod szczęki magazynka. Pocisk jest skierowany do przodu, czyli w stronę komory. Magazynka nie rozkłada się do ładowania.",
+  "zrodlo": "prezentacje"
+ },
+ {
+  "id": "ceda4761a6",
+  "temat": "Podstawy celnego strzelania",
+  "pytanie": "Przeładowanie broni polega na:",
+  "poprawna": "odciągnięciu zamka w tylne położenie i jego zwolnieniu, aby sprężyna powrotna wprowadziła nabój z magazynka do komory",
+  "bledne": [
+   "odciągnięciu zamka i powolnym odprowadzeniu go ręką do przodu, aby nabój nie uszkodził komory",
+   "wymianie magazynka na pełny bez odciągania zamka, przy zamku w przednim położeniu",
+   "naciśnięciu dźwigni zwalniania magazynka i ponownym dołączeniu magazynka do chwytu"
+  ],
+  "wyjasnienie": "Zamek odciąga się do końca i PUSZCZA. Zamek odprowadzany ręką do przodu to typowa przyczyna niedomknięcia komory nabojowej.",
+  "zrodlo": "prezentacje"
+ },
+ {
+  "id": "2c4dd7f761",
+  "temat": "Podstawy celnego strzelania",
+  "pytanie": "Po komendzie prowadzącego „przygotować się do strzelania” strzelający:",
+  "poprawna": "zakłada ochronniki wzroku i słuchu, dobywa broń z kabury, dołącza magazynek i przyjmuje wskazaną postawę wyjściową",
+  "bledne": [
+   "dobywa broń, przeładowuje ją, odbezpiecza i od razu oddaje strzał próbny do tarczy",
+   "dołącza magazynek, przeładowuje broń i czeka z palcem na języku spustowym na komendę",
+   "zakłada ochronniki, sprawdza broń sąsiada i dopiero potem dobywa własną broń z kabury"
+  ],
+  "wyjasnienie": "Zarządzenie nr 2 KGP: ochronniki, dobycie broni, dołączenie magazynka, postawa wyjściowa. Nabój do komory wprowadza się zasadniczo dopiero po komendzie rozpoczęcia strzelania (wyjątek: strzelania szybkie, dynamiczne i sytuacyjne za zgodą prowadzącego).",
+  "zrodlo": "prezentacje"
+ },
+ {
+  "id": "61e6c19478",
+  "temat": "Podstawy celnego strzelania",
+  "pytanie": "Po komendzie „rozładuj – do sprawdzenia broń” strzelający okazuje broń do przejrzenia w następujący sposób:",
+  "poprawna": "odłącza magazynek i okazuje broń z zamkiem w tylnym położeniu oraz magazynek donośnikiem do góry",
+  "bledne": [
+   "oddaje strzał kontrolny i okazuje broń z zamkiem w przednim położeniu i podłączonym magazynkiem",
+   "podaje broń prowadzącemu chwytem do przodu, a magazynek chowa od razu do ładownicy",
+   "odciąga zamek, zostawia magazynek w chwycie i okazuje broń bokiem, oknem wyrzutowym do góry"
+  ],
+  "wyjasnienie": "Zarządzenie nr 2 KGP: magazynek odłączony, broń z zamkiem w TYLNYM położeniu, magazynek donośnikiem do góry. Prowadzący sprawdza komorę i magazynek i potwierdza komendą „przejrzałem” albo klepnięciem w ramię.",
+  "zrodlo": "prezentacje"
+ },
+ {
+  "id": "c594e1d649",
+  "temat": "Podstawy celnego strzelania",
+  "pytanie": "Po komendzie „przejrzałem” (lub klepnięciu w ramię) strzelający:",
+  "poprawna": "odkłada magazynek do ładownicy, zwalnia zamek, oddaje strzał kontrolny w kierunku kulochwytu, zabezpiecza broń i chowa ją do kabury",
+  "bledne": [
+   "chowa broń do kabury z zamkiem w tylnym położeniu, a magazynek zostawia w chwycie broni",
+   "dołącza magazynek, zwalnia zamek i chowa broń do kabury bez oddawania strzału kontrolnego",
+   "oddaje strzał kontrolny w kierunku tarczy, zostawia broń na stanowisku i schodzi z linii ognia"
+  ],
+  "wyjasnienie": "Kolejność z Zarządzenia nr 2 KGP: magazynek do ładownicy (albo odrzucić), zwolnić zamek, strzał kontrolny w kulochwyt, zabezpieczyć broń (jeśli się da), broń do kabury.",
+  "zrodlo": "prezentacje"
+ },
+ {
+  "id": "43aab55acd",
+  "temat": "Podstawy celnego strzelania",
+  "pytanie": "Postawy strzeleckie z broni palnej krótkiej to:",
+  "poprawna": "stojąca, klęcząca i leżąca",
+  "bledne": [
+   "swobodna, z dłonią na chwycie broni, gotów i bezpieczna dolna",
+   "gotów, bezpieczna górna i bezpieczna dolna",
+   "stojąca, siedząca i z biodra"
+  ],
+  "wyjasnienie": "Zarządzenie nr 2 KGP: stojąca (frontalna, półfrontalna, z jednej ręki, z biodra), klęcząca (wysoka, obniżona) i leżąca (na plecach, na brzuchu, na boku). „Swobodna… bezpieczna dolna” to postawy WYJŚCIOWE.",
+  "zrodlo": "prezentacje"
+ },
+ {
+  "id": "a86779fed3",
+  "temat": "Podstawy celnego strzelania",
+  "pytanie": "Podstawowe rodzaje chwytów broni krótkiej to:",
+  "poprawna": "chwyt oburącz i chwyt jednorącz",
+  "bledne": [
+   "chwyt pistoletowy i chwyt karabinowy",
+   "chwyt wysoki i chwyt niski",
+   "chwyt prawy, lewy i krzyżowy"
+  ],
+  "wyjasnienie": "Zarządzenie nr 2 KGP (załącznik o postawach i chwytach) wymienia dwa chwyty: oburącz i jednorącz.",
+  "zrodlo": "prezentacje"
+ },
+ {
+  "id": "3c6e6df292",
+  "temat": "Podstawowe wiadomości o broni i amunicji",
+  "pytanie": "Który z wymienionych to PISTOLET MASZYNOWY użytkowany przez Policję?",
+  "poprawna": "HK MP-5",
+  "bledne": [
+   "HK G-36",
+   "Mossberg",
+   "SAKO TRG 22"
+  ],
+  "wyjasnienie": "Pistolety maszynowe: PM-84, PM-98, HK MP-5, HK UMP, UZI SMG, FN P-90. G-36 to karabinek, Mossberg to strzelba, a SAKO TRG to karabin wyborowy.",
+  "zrodlo": "prezentacje"
+ },
+ {
+  "id": "ffc84ae9cd",
+  "temat": "Podstawowe wiadomości o broni i amunicji",
+  "pytanie": "Zgodnie z zasadami konserwacji policjant konserwuje broń palną:",
+  "poprawna": "systematycznie, zgodnie z instrukcją użytkowania danej jednostki broni",
+  "bledne": [
+   "tylko po strzelaniu okresowym, według własnego uznania",
+   "raz w roku, podczas przeglądu przez policjanta ds. uzbrojenia",
+   "wyłącznie w obecności rusznikarza, w magazynie uzbrojenia"
+  ],
+  "wyjasnienie": "Z prezentacji: policjant ma obowiązek systematycznie czyścić i konserwować broń zgodnie z instrukcją użytkowania danej jednostki broni. Uszkodzenie zgłasza niezwłocznie policjantowi ds. uzbrojenia.",
+  "zrodlo": "prezentacje"
+ },
+ {
+  "id": "aeaa55ba7b",
+  "temat": "Podstawowe wiadomości o broni i amunicji",
+  "pytanie": "Podczas przemieszczania oddziałów w miejsce działań, gdy policjanci nie muszą mieć broni przy sobie, broń palną można przewozić:",
+  "poprawna": "w przystosowanych skrzyniach (metalowych lub drewnianych obitych blachą), plombowanych i zamykanych, pod stałym nadzorem",
+  "bledne": [
+   "luzem w przedziale pasażerskim, pod nadzorem dowódcy pododdziału, z odłączonymi magazynkami",
+   "w torbach osobistych policjantów, rozładowaną i zabezpieczoną, z amunicją w osobnej kieszeni",
+   "w bagażniku pojazdu, w kaburach, bez dodatkowych zabezpieczeń, jeśli pojazd jest zamknięty"
+  ],
+  "wyjasnienie": "Z prezentacji: broń przewozi się w skrzyniach metalowych, drewnianych obitych blachą lub innych opakowaniach, które da się plombować i zamykać (zamki, kłódki, linki). Opakowania muszą być pod stałym nadzorem.",
+  "zrodlo": "prezentacje"
+ },
+ {
+  "id": "27f48cf211",
+  "temat": "Podstawy celnego strzelania",
+  "pytanie": "Rozładowując magazynek, naboje usuwa się:",
+  "poprawna": "pojedynczo, wysuwając kolejny nabój kciukiem do przodu spod szczęk magazynka",
+  "bledne": [
+   "wszystkie naraz, zdejmując denko i wysypując naboje razem ze sprężyną i donośnikiem",
+   "pojedynczo, wypychając nabój do tyłu, w stronę tylnej ścianki magazynka",
+   "przez wielokrotne przeładowanie broni z podłączonym magazynkiem, aż do jego opróżnienia"
+  ],
+  "wyjasnienie": "Naboje wysuwa się po kolei kciukiem do przodu spod szczęk, nad magazynkiem trzymanym donośnikiem do góry. Przeładowywanie broni, żeby ją opróżnić, to niepotrzebne ryzyko i szybsze zużycie części.",
+  "zrodlo": "prezentacje"
  }
 ]

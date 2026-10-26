@@ -28,7 +28,7 @@ Postęp zapisuje się w Twojej przeglądarce, więc każdy uczy się osobno. Po 
 
 | Kod | Przedmiot | Pytań |
 |---|---|---|
-| **JM04 JS01** | Strzelanie broń krótka (bezpieczeństwo, broń i amunicja, P99, Beretta APX, REX Zero 1, Glock, teoria strzału, zacięcia) | 120 |
+| **JM04 JS01** | Strzelanie broń krótka (bezpieczeństwo, broń i amunicja, P99, Beretta APX, REX Zero 1, Glock, teoria strzału, podstawy celnego strzelania, zacięcia) | 120 |
 
 ## Skąd są pytania
 
