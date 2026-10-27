@@ -1,0 +1,1432 @@
+[
+ {
+  "id": "17827c00b0",
+  "temat": "Prawo telekomunikacyjne (art. 208)",
+  "pytanie": "Kto bez wymaganego pozwolenia używa urządzenia radiowego nadawczego lub nadawczo-odbiorczego (art. 208 Prawa telekomunikacyjnego):",
+  "poprawna": "podlega grzywnie do 1000 zł",
+  "bledne": [
+   "podlega wyłącznie karze ograniczenia wolności",
+   "podlega grzywnie do 5000 zł",
+   "podlega karze pozbawienia wolności do roku"
+  ],
+  "wyjasnienie": "Art. 208 ust. 1: grzywna do 1000 zł – to wykroczenie (orzekanie w trybie k.p.s.w., ust. 5).",
+  "zrodlo": "test"
+ },
+ {
+  "id": "50781bda92",
+  "temat": "Prawo telekomunikacyjne (art. 208)",
+  "pytanie": "Jeżeli sprawca uporczywie używa bez wymaganego pozwolenia urządzenia radiowego nadawczego lub nadawczo-odbiorczego, grozi mu:",
+  "poprawna": "grzywna, ograniczenie wolności albo pozbawienie wolności do 2 lat",
+  "bledne": [
+   "areszt albo grzywna",
+   "grzywna do 1000 zł i nagana",
+   "pozbawienie wolności od 3 miesięcy do 5 lat albo ograniczenie wolności"
+  ],
+  "wyjasnienie": "Art. 208 ust. 2: działanie uporczywe zmienia wykroczenie w przestępstwo – grzywna, ograniczenie wolności albo pozbawienie wolności do lat 2.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "03fd6ce8de",
+  "temat": "Prawo telekomunikacyjne (art. 208)",
+  "pytanie": "W razie popełnienia czynu z art. 208 ust. 1 lub 2 Prawa telekomunikacyjnego sąd:",
+  "poprawna": "może orzec przepadek urządzeń przeznaczonych lub służących do popełnienia czynu, nawet gdy nie są własnością sprawcy",
+  "bledne": [
+   "zawsze musi orzec przepadek każdego urządzenia radiowego należącego do sprawcy",
+   "może orzec przepadek wyłącznie urządzeń stanowiących własność sprawcy i użytych co najmniej dwukrotnie",
+   "nie może orzekać przepadku, jeżeli urządzenie nie spowodowało szkodliwych zakłóceń"
+  ],
+  "wyjasnienie": "Art. 208 ust. 3: przepadek fakultatywny, „chociażby nie stanowiły one własności sprawcy”.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "09552fc51e",
+  "temat": "Prawo telekomunikacyjne (art. 208)",
+  "pytanie": "Przepadek urządzenia służącego do czynu z art. 208 Prawa telekomunikacyjnego jest obowiązkowy, gdy:",
+  "poprawna": "jego używanie zagraża życiu lub zdrowiu człowieka",
+  "bledne": [
+   "urządzenie ma wartość przekraczającą 1000 zł i należy do sprawcy",
+   "sprawca używał urządzenia uporczywie przez okres dłuższy niż 30 dni",
+   "urządzenie stanowi własność osoby trzeciej, która nie wiedziała o jego użyciu"
+  ],
+  "wyjasnienie": "Art. 208 ust. 4: sąd ORZEKA przepadek (obligatoryjnie), jeżeli używanie urządzeń zagraża życiu lub zdrowiu człowieka.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "3ade620cd7",
+  "temat": "Prawo telekomunikacyjne (art. 208)",
+  "pytanie": "Orzekanie w sprawie zwykłego używania bez pozwolenia urządzenia radiowego (art. 208 ust. 1) następuje:",
+  "poprawna": "w trybie przepisów Kodeksu postępowania w sprawach o wykroczenia",
+  "bledne": [
+   "wyłącznie w postępowaniu administracyjnym prowadzonym przez Prezesa UKE",
+   "w trybie Kodeksu postępowania karnego jak w sprawie o występek",
+   "w postępowaniu cywilnym dotyczącym naruszenia zasad korzystania z częstotliwości"
+  ],
+  "wyjasnienie": "Art. 208 ust. 5: sprawy z ust. 1 (wykroczenie) – tryb k.p.s.w. Typ uporczywy z ust. 2 to przestępstwo (k.p.k.).",
+  "zrodlo": "test"
+ },
+ {
+  "id": "348eb6702d",
+  "temat": "Broń i amunicja (art. 50–51)",
+  "pytanie": "Porzucenie broni palnej lub amunicji pozostającej w dyspozycji sprawcy (art. 50 ustawy o broni i amunicji) jest zagrożone:",
+  "poprawna": "grzywną, ograniczeniem wolności albo pozbawieniem wolności do 2 lat",
+  "bledne": [
+   "wyłącznie grzywną",
+   "aresztem albo grzywną",
+   "pozbawieniem wolności od roku do 10 lat, jeżeli porzucona broń była bronią palną albo amunicją do niej"
+  ],
+  "wyjasnienie": "Art. 50: kto porzuca broń palną lub amunicję, która pozostaje w jego dyspozycji – grzywna, ograniczenie wolności albo pozbawienie wolności do lat 2.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "78ef962a61",
+  "temat": "Broń i amunicja (art. 50–51)",
+  "pytanie": "Zgodnie z art. 50 ustawy o broni i amunicji osoba, która porzuca broń palną lub amunicję pozostającą w jej dyspozycji, dopuszcza się:",
+  "poprawna": "przestępstwa",
+  "bledne": [
+   "wykroczenia",
+   "czynu niekaralnego",
+   "przestępstwa lub wykroczenia zależnie od wartości broni"
+  ],
+  "wyjasnienie": "Zagrożenie pozbawieniem wolności do 2 lat oznacza przestępstwo (występek). Wartość broni nie ma znaczenia.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "c9de4c329b",
+  "temat": "Broń i amunicja (art. 50–51)",
+  "pytanie": "Art. 51 ust. 1 ustawy o broni i amunicji obejmuje między innymi sytuację, gdy ktoś:",
+  "poprawna": "bez wymaganej rejestracji posiada broń pneumatyczną",
+  "bledne": [
+   "porzuca legalnie posiadaną amunicję",
+   "posiada broń palną bez wymaganego pozwolenia",
+   "używa broni sportowej zgodnie z regulaminem strzelnicy"
+  ],
+  "wyjasnienie": "Art. 51 ust. 1: posiadanie bez rejestracji broni pneumatycznej albo zbycie jej (lub miotacza gazu) osobie nieuprawnionej – areszt albo grzywna. Posiadanie broni palnej bez pozwolenia to przestępstwo z art. 263 § 2 k.k.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "0e93b41755",
+  "temat": "Broń i amunicja (art. 50–51)",
+  "pytanie": "Posiadacz pozwolenia na broń, który zmienił miejsce stałego pobytu, powinien pisemnie zawiadomić właściwy organ Policji w terminie:",
+  "poprawna": "14 dni",
+  "bledne": [
+   "7 dni",
+   "30 dni",
+   "21 dni"
+  ],
+  "wyjasnienie": "Art. 51 ust. 2 pkt 3: niedopełnienie obowiązku pisemnego zawiadomienia właściwego organu Policji o zmianie miejsca stałego pobytu w terminie 14 dni – wykroczenie.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "e24b8ca79a",
+  "temat": "Broń i amunicja (art. 50–51)",
+  "pytanie": "Wykroczenie z art. 51 ust. 2 ustawy o broni i amunicji popełnia posiadacz broni, który:",
+  "poprawna": "nosi ją, znajdując się w stanie po użyciu alkoholu",
+  "bledne": [
+   "przewozi ją rozładowaną w prywatnym pojeździe",
+   "przechowuje ją w urządzeniu spełniającym wymagania techniczne",
+   "korzysta z niej na strzelnicy zgodnie z regulaminem"
+  ],
+  "wyjasnienie": "Art. 51 ust. 2 pkt 4: noszenie broni w stanie po użyciu alkoholu, środka odurzającego, substancji psychotropowej albo środka zastępczego – areszt albo grzywna.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "16fe416fae",
+  "temat": "Broń i amunicja (art. 50–51)",
+  "pytanie": "Wykroczenie z art. 51 ust. 2 ustawy o broni i amunicji popełnia osoba, która:",
+  "poprawna": "nie zawiadamia Policji o utracie lub zbyciu innej osobie broni i amunicji do tej broni",
+  "bledne": [
+   "nie zgłasza Policji zakupu nowej kabury lub innego wyposażenia dodatkowego do broni",
+   "nie zgłasza w terminie 14 dni zmiany numeru telefonu wskazanego przy pozwoleniu",
+   "zawiadamia o utracie broni właściwy organ Policji dopiero po jej odnalezieniu"
+  ],
+  "wyjasnienie": "Art. 51 ust. 2 pkt 2: niedopełnienie obowiązku zawiadomienia Policji o utracie lub zbyciu innej osobie broni i amunicji.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "0ed298568b",
+  "temat": "Broń i amunicja (art. 50–51)",
+  "pytanie": "Art. 51 ustawy o broni i amunicji narusza ten, kto:",
+  "poprawna": "przechowuje lub nosi broń i amunicję tak, że osoby nieuprawnione mogą mieć do nich dostęp",
+  "bledne": [
+   "przechowuje broń rozładowaną w urządzeniu spełniającym wymagania dotyczące zabezpieczenia",
+   "przewozi broń zgodnie z warunkami właściwego zabezpieczenia w środku transportu",
+   "używa broni sportowej na strzelnicy, przestrzegając regulaminu bezpieczeństwa"
+  ],
+  "wyjasnienie": "Art. 51 ust. 2 pkt 7: przechowywanie oraz noszenie broni i amunicji w sposób umożliwiający dostęp do nich osób nieuprawnionych.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "ddc2384187",
+  "temat": "Broń i amunicja (art. 50–51)",
+  "pytanie": "Osoba posiadająca broń, która nie ma przy sobie legitymacji posiadacza broni albo innego dokumentu upoważniającego do jej posiadania (art. 51 ust. 3):",
+  "poprawna": "podlega grzywnie",
+  "bledne": [
+   "podlega aresztowi albo grzywnie, tak jak w przypadkach z ust. 1 i 2",
+   "podlega karze ograniczenia wolności albo pozbawienia wolności do roku",
+   "nie podlega karze, jeżeli dokument znajduje się w miejscu jej stałego pobytu"
+  ],
+  "wyjasnienie": "Art. 51 ust. 3: brak przy sobie legitymacji (lub Europejskiej karty broni palnej itp.) – tylko kara grzywny, łagodniej niż w ust. 1 i 2 (areszt albo grzywna).",
+  "zrodlo": "test"
+ },
+ {
+  "id": "1ed177be99",
+  "temat": "Broń i amunicja (art. 50–51)",
+  "pytanie": "W razie popełnienia wykroczeń z art. 51 ust. 1 lub 2 ustawy o broni i amunicji:",
+  "poprawna": "można orzec przepadek broni i amunicji, nawet gdy nie należą do sprawcy",
+  "bledne": [
+   "przepadek broni i amunicji jest obowiązkowy przy każdym z tych wykroczeń",
+   "przepadek można orzec tylko wtedy, gdy przedmiotem była broń pneumatyczna",
+   "przepadek cudzej broni jest niedopuszczalny nawet wtedy, gdy służyła do wykroczenia"
+  ],
+  "wyjasnienie": "Art. 51 ust. 4: można (fakultatywnie) orzec przepadek broni i amunicji, „chociażby przedmioty te nie stanowiły własności sprawcy”.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "d2b9ec06e6",
+  "temat": "Broń i amunicja (art. 50–51)",
+  "pytanie": "Wykroczenie z art. 51 ust. 2 popełnia osoba, która w celach szkoleniowych lub sportowych:",
+  "poprawna": "używa poza strzelnicą broni zdolnej do rażenia celów na odległość",
+  "bledne": [
+   "używa broni pneumatycznej na strzelnicy zgodnie z zasadami jej regulaminu",
+   "używa broni palnej na zatwierdzonej strzelnicy i pod nadzorem prowadzącego",
+   "prowadzi trening bezstrzałowy poza strzelnicą, bez używania amunicji i bez oddawania strzałów"
+  ],
+  "wyjasnienie": "Art. 51 ust. 2 pkt 11: używanie w celach szkoleniowych lub sportowych broni zdolnej do rażenia celów na odległość poza strzelnicami.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "85ba342d7a",
+  "temat": "Broń i amunicja (art. 50–51)",
+  "pytanie": "Nabywca broni palnej jest obowiązany zarejestrować ją w ciągu:",
+  "poprawna": "5 dni od dnia nabycia",
+  "bledne": [
+   "14 dni od dnia nabycia",
+   "30 dni od dnia nabycia",
+   "10 dni od dnia nabycia"
+  ],
+  "wyjasnienie": "Art. 13 ust. 1 ustawy o broni i amunicji: 5 dni od nabycia. Niedopełnienie obowiązku rejestracji to wykroczenie z art. 51 ust. 2 pkt 1.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "65024fb8b6",
+  "temat": "Broń i amunicja (art. 50–51)",
+  "pytanie": "Posiadacz broni, w przypadku jej utraty, jest obowiązany zawiadomić o tym Policję lub Żandarmerię Wojskową:",
+  "poprawna": "niezwłocznie, nie później niż w ciągu 24 godzin od stwierdzenia utraty",
+  "bledne": [
+   "niezwłocznie, nie później niż w ciągu 8 godzin od stwierdzenia utraty",
+   "niezwłocznie, nie później niż w ciągu 12 godzin od stwierdzenia utraty",
+   "niezwłocznie, nie później niż w ciągu 36 godzin od stwierdzenia utraty"
+  ],
+  "wyjasnienie": "Art. 25 ustawy o broni i amunicji: niezwłocznie, nie później niż w ciągu 24 godzin. Niedopełnienie obowiązku – wykroczenie z art. 51 ust. 2 pkt 2.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "2f5d57497d",
+  "temat": "Broń i amunicja (art. 50–51)",
+  "pytanie": "Istotnymi częściami broni są:",
+  "poprawna": "szkielet broni, baskila, lufa z komorą nabojową, zamek, komora zamkowa, bęben nabojowy",
+  "bledne": [
+   "szkielet broni, lufa z komorą nabojową, zamek, komora nabojowa",
+   "szkielet broni, lufa z komorą zamkową, zamek",
+   "szkielet broni, lufa, zamek, iglica"
+  ],
+  "wyjasnienie": "Art. 5 ust. 2 ustawy o broni i amunicji: szkielet broni, baskila, lufa z komorą nabojową, zamek, komora zamkowa oraz bęben nabojowy.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "bfac24e2bb",
+  "temat": "Broń i amunicja (art. 50–51)",
+  "pytanie": "W rozumieniu ustawy o broni i amunicji bronią palną nie jest broń:",
+  "poprawna": "pneumatyczna",
+  "bledne": [
+   "bojowa",
+   "myśliwska",
+   "gazowa"
+  ],
+  "wyjasnienie": "Broń palna (art. 7) obejmuje m.in. broń bojową, myśliwską, sportową, gazową, alarmową i sygnałową. Broń pneumatyczna to osobna kategoria (art. 8).",
+  "zrodlo": "test"
+ },
+ {
+  "id": "fb4991aa9b",
+  "temat": "Broń i amunicja (art. 50–51)",
+  "pytanie": "Pozwolenia na broń nie wymaga się w przypadku posiadania broni palnej rozdzielnego ładowania wytworzonej przed rokiem:",
+  "poprawna": "1885",
+  "bledne": [
+   "1850",
+   "1870",
+   "1905"
+  ],
+  "wyjasnienie": "Art. 11 pkt 10 ustawy o broni i amunicji: broń palna rozdzielnego ładowania wytworzona przed rokiem 1885 oraz jej repliki.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "9b096f41c7",
+  "temat": "Ustawa tytoniowa (art. 12–13)",
+  "pytanie": "Palenie wyrobów tytoniowych, nowatorskich wyrobów tytoniowych lub papierosów elektronicznych wbrew zakazowi z art. 5 ustawy tytoniowej podlega grzywnie do:",
+  "poprawna": "500 zł",
+  "bledne": [
+   "2000 zł",
+   "1000 zł",
+   "5000 zł"
+  ],
+  "wyjasnienie": "Art. 13 ust. 2: palenie wbrew zakazowi – grzywna do 500 zł (tryb k.p.s.w.).",
+  "zrodlo": "test"
+ },
+ {
+  "id": "2b146f236d",
+  "temat": "Ustawa tytoniowa (art. 12–13)",
+  "pytanie": "Właściciel lub zarządzający obiektem, który wbrew ustawie nie umieszcza informacji o zakazie palenia, podlega:",
+  "poprawna": "grzywnie do 2000 zł",
+  "bledne": [
+   "grzywnie do 500 zł",
+   "karze ograniczenia wolności do roku",
+   "karze pozbawienia wolności do 2 lat"
+  ],
+  "wyjasnienie": "Art. 13 ust. 1 pkt 2: brak informacji o zakazie palenia – grzywna do 2000 zł.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "15d13416ea",
+  "temat": "Ustawa tytoniowa (art. 12–13)",
+  "pytanie": "Za reklamowanie lub promowanie wyrobów wbrew art. 8 ust. 1 ustawy tytoniowej art. 12 przewiduje:",
+  "poprawna": "grzywnę do 200 000 zł albo ograniczenie wolności, albo obie te kary łącznie",
+  "bledne": [
+   "wyłącznie grzywnę do 2000 zł",
+   "areszt albo grzywnę do 5000 zł oraz fakultatywny przepadek reklamowanych lub promowanych wyrobów",
+   "pozbawienie wolności do 2 lat"
+  ],
+  "wyjasnienie": "Art. 12 pkt 1: reklama lub promocja wbrew art. 8 ust. 1 – grzywna do 200 000 zł albo ograniczenie wolności, albo obie kary łącznie (przestępstwo).",
+  "zrodlo": "test"
+ },
+ {
+  "id": "6812a9595a",
+  "temat": "Ustawa tytoniowa (art. 12–13)",
+  "pytanie": "Art. 12 ustawy tytoniowej obejmuje odpowiedzialność osoby, która wbrew zakazowi:",
+  "poprawna": "sponsoruje działalność sportową, kulturalną, oświatową, zdrowotną lub społeczno-polityczną",
+  "bledne": [
+   "pali papierosa elektronicznego w miejscu objętym zakazem wynikającym z art. 5",
+   "nie umieszcza wymaganej informacji o zakazie palenia w zarządzanym obiekcie",
+   "sprzedaje pełnoletniemu klientowi legalny wyrób w prawidłowo oznaczonym punkcie detalicznym"
+  ],
+  "wyjasnienie": "Art. 12 pkt 2: sponsorowanie wbrew art. 8 ust. 2. Palenie wbrew zakazowi i brak informacji o zakazie to art. 13 (wykroczenia).",
+  "zrodlo": "test"
+ },
+ {
+  "id": "75ddaf6760",
+  "temat": "Ustawa tytoniowa (art. 12–13)",
+  "pytanie": "Produkcja lub wprowadzanie do obrotu tytoniu do stosowania doustnego (art. 12 ustawy tytoniowej) jest zagrożone:",
+  "poprawna": "grzywną do 200 000 zł albo ograniczeniem wolności, albo obu tymi karami łącznie",
+  "bledne": [
+   "grzywną do 500 zł albo karą nagany, bez możliwości ograniczenia wolności",
+   "grzywną do 2000 zł, tak jak naruszenia opisane w art. 13 ust. 1",
+   "pozbawieniem wolności do 2 lat albo grzywną do 50 000 zł"
+  ],
+  "wyjasnienie": "Art. 12 pkt 5: tytoń do stosowania doustnego – ta sama sankcja co cały art. 12 (grzywna do 200 000 zł albo ograniczenie wolności, albo obie łącznie).",
+  "zrodlo": "test"
+ },
+ {
+  "id": "d76a6d4aa0",
+  "temat": "Ustawa tytoniowa (art. 12–13)",
+  "pytanie": "Który z poniższych czynów jest wykroczeniem, a nie przestępstwem?",
+  "poprawna": "palenie papierosa elektronicznego w miejscu objętym ustawowym zakazem",
+  "bledne": [
+   "porzucenie broni palnej pozostającej w dyspozycji sprawcy",
+   "posiadanie środka odurzającego w typie podstawowym (art. 62 ust. 1 ustawy o przeciwdziałaniu narkomanii)",
+   "wytwarzanie urządzenia niedozwolonego w celu użycia w obrocie (art. 6 ustawy o dostępie warunkowym)"
+  ],
+  "wyjasnienie": "Palenie wbrew zakazowi – grzywna do 500 zł (art. 13 ust. 2 ustawy tytoniowej), tryb k.p.s.w. Pozostałe czyny są zagrożone pozbawieniem wolności – to przestępstwa.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "fcd2064735",
+  "temat": "Ustawa tytoniowa (art. 12–13)",
+  "pytanie": "Palenie wyrobów tytoniowych na przystankach komunikacji publicznej jest:",
+  "poprawna": "zabronione przez ustawę",
+  "bledne": [
+   "zawsze dozwolone",
+   "dozwolone w wyjątkowych sytuacjach",
+   "nieunormowane przez ustawę"
+  ],
+  "wyjasnienie": "Art. 5 ust. 1 pkt 8 ustawy tytoniowej: zakaz palenia na przystankach komunikacji publicznej. Naruszenie – grzywna do 500 zł (art. 13 ust. 2).",
+  "zrodlo": "test"
+ },
+ {
+  "id": "3a1be1b6e7",
+  "temat": "Ustawa tytoniowa (art. 12–13)",
+  "pytanie": "Kto może ustalić inne, niż wymienione w ustawie, strefy wolne od dymu tytoniowego?",
+  "poprawna": "rada gminy",
+  "bledne": [
+   "zarząd powiatu",
+   "minister właściwy do spraw zdrowia",
+   "wójt, burmistrz lub prezydent miasta"
+  ],
+  "wyjasnienie": "Art. 5 ust. 4 ustawy tytoniowej: rada gminy w drodze uchwały. Palenie w takiej strefie to też palenie wbrew art. 5 (wykroczenie z art. 13 ust. 2).",
+  "zrodlo": "test"
+ },
+ {
+  "id": "5bc6350bbd",
+  "temat": "Ustawa tytoniowa (art. 12–13)",
+  "pytanie": "Zgodnie z ustawą tytoniową zabrania się sprzedaży papierosów w opakowaniach zawierających mniej niż:",
+  "poprawna": "20 sztuk",
+  "bledne": [
+   "15 sztuk",
+   "10 sztuk",
+   "25 sztuk"
+  ],
+  "wyjasnienie": "Art. 6 ust. 4: zakaz sprzedaży papierosów w opakowaniach poniżej 20 sztuk oraz luzem. Naruszenie – wykroczenie z art. 13 ust. 1 pkt 1 (grzywna do 2000 zł).",
+  "zrodlo": "test"
+ },
+ {
+  "id": "8d45d926fc",
+  "temat": "Ustawa tytoniowa (art. 12–13)",
+  "pytanie": "Zgodnie z ustawą tytoniową sprzedaż papierosów i cygar na sztuki jest:",
+  "poprawna": "w przypadku papierosów wykroczeniem, a sprzedaż cygar na sztuki jest dozwolona",
+  "bledne": [
+   "papierosów przestępstwem, cygar wykroczeniem",
+   "wykroczeniem w każdym przypadku",
+   "dozwolona bez ograniczeń"
+  ],
+  "wyjasnienie": "Zakaz sprzedaży luzem (art. 6 ust. 4) dotyczy tylko PAPIEROSÓW – naruszenie to wykroczenie z art. 13 ust. 1 pkt 1. Cygar ten zakaz nie obejmuje.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "35fb3d3378",
+  "temat": "Przeciwdziałanie narkomanii (art. 62–63)",
+  "pytanie": "Kto wbrew przepisom ustawy posiada środek odurzający lub substancję psychotropową w typie podstawowym (art. 62 ust. 1 ustawy o przeciwdziałaniu narkomanii):",
+  "poprawna": "podlega karze pozbawienia wolności do 3 lat",
+  "bledne": [
+   "podlega grzywnie do 5000 zł",
+   "podlega aresztowi albo grzywnie",
+   "podlega karze pozbawienia wolności od roku do 10 lat"
+  ],
+  "wyjasnienie": "Art. 62 ust. 1: do lat 3. Znaczna ilość – od roku do 10 lat (ust. 2), wypadek mniejszej wagi – grzywna, ograniczenie albo pozbawienie wolności do roku (ust. 3).",
+  "zrodlo": "test"
+ },
+ {
+  "id": "1f701ee2ba",
+  "temat": "Przeciwdziałanie narkomanii (art. 62–63)",
+  "pytanie": "Posiadanie znacznej ilości środków odurzających lub substancji psychotropowych (art. 62 ust. 2) jest zagrożone karą:",
+  "poprawna": "pozbawienia wolności od roku do 10 lat",
+  "bledne": [
+   "pozbawienia wolności do 3 lat",
+   "grzywny, ograniczenia wolności albo pozbawienia wolności do roku",
+   "pozbawienia wolności od 6 miesięcy do 8 lat"
+  ],
+  "wyjasnienie": "Art. 62 ust. 2: znaczna ilość – od roku do lat 10 (zbrodnia nie, ale występek z wysokim dolnym progiem).",
+  "zrodlo": "test"
+ },
+ {
+  "id": "77f3ca27a4",
+  "temat": "Przeciwdziałanie narkomanii (art. 62–63)",
+  "pytanie": "Wypadek mniejszej wagi posiadania środka odurzającego lub substancji psychotropowej (art. 62 ust. 3) jest zagrożony:",
+  "poprawna": "grzywną, ograniczeniem wolności albo pozbawieniem wolności do roku",
+  "bledne": [
+   "wyłącznie grzywną",
+   "pozbawieniem wolności od roku do 10 lat, jeżeli środek był przeznaczony na własny użytek sprawcy",
+   "aresztem albo grzywną"
+  ],
+  "wyjasnienie": "Art. 62 ust. 3. Przy nieznacznej ilości na własny użytek możliwe jest też umorzenie (art. 62a).",
+  "zrodlo": "test"
+ },
+ {
+  "id": "57b12abd4d",
+  "temat": "Przeciwdziałanie narkomanii (art. 62–63)",
+  "pytanie": "Art. 63 ust. 1 ustawy o przeciwdziałaniu narkomanii penalizuje wbrew przepisom ustawy uprawę:",
+  "poprawna": "maku innego niż niskomorfinowy, konopi innych niż włókniste lub krzewu koki",
+  "bledne": [
+   "wyłącznie konopi włóknistych",
+   "maku niskomorfinowego i konopi włóknistych, jeżeli uprawa może dostarczyć znaczną ilość ziela lub słomy",
+   "każdej rośliny zawierającej alkaloidy"
+  ],
+  "wyjasnienie": "Art. 63 ust. 1: mak (z wyjątkiem niskomorfinowego), konopie (z wyjątkiem włóknistych) i krzew koki – pozbawienie wolności do lat 3.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "9ff02da13a",
+  "temat": "Przeciwdziałanie narkomanii (art. 62–63)",
+  "pytanie": "Art. 63 ust. 2 ustawy o przeciwdziałaniu narkomanii penalizuje wbrew przepisom ustawy:",
+  "poprawna": "zbieranie m.in. opium, słomy makowej, liści koki, żywicy lub ziela konopi innych niż włókniste",
+  "bledne": [
+   "posiadanie niewielkiej ilości środka odurzającego bez względu na okoliczności jego posiadania",
+   "sprzedaż legalnie wydanego produktu leczniczego zawierającego substancję psychotropową",
+   "wyłącznie uprawę konopi włóknistych prowadzoną bez zawiadomienia właściwego organu"
+  ],
+  "wyjasnienie": "Art. 63 ust. 2: zbieranie mleczka makowego, opium, słomy makowej, liści koki, żywicy lub ziela konopi innych niż włókniste – ta sama kara co uprawa (do lat 3).",
+  "zrodlo": "test"
+ },
+ {
+  "id": "d93678fd4a",
+  "temat": "Przeciwdziałanie narkomanii (art. 62–63)",
+  "pytanie": "Jeżeli nielegalna uprawa z art. 63 ust. 1 może dostarczyć znacznej ilości słomy makowej, liści koki, żywicy lub ziela konopi innych niż włókniste, sprawca podlega:",
+  "poprawna": "karze pozbawienia wolności od 6 miesięcy do 8 lat",
+  "bledne": [
+   "karze pozbawienia wolności od roku do 10 lat, jak przy posiadaniu znacznej ilości z art. 62 ust. 2",
+   "grzywnie, ograniczeniu wolności albo pozbawieniu wolności do roku",
+   "karze pozbawienia wolności do 3 lat niezależnie od możliwej ilości uzyskanego surowca"
+  ],
+  "wyjasnienie": "Art. 63 ust. 3: od 6 miesięcy do lat 8. Uwaga na pułapkę: przy posiadaniu znacznej ilości (art. 62 ust. 2) jest od roku do 10 lat.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "32b4b83a21",
+  "temat": "Przeciwdziałanie narkomanii (art. 62–63)",
+  "pytanie": "Najtrafniejsze rozróżnienie art. 62 i art. 63 ustawy o przeciwdziałaniu narkomanii to:",
+  "poprawna": "art. 62 dotyczy posiadania, a art. 63 uprawy i zbioru wskazanych roślin lub ich produktów",
+  "bledne": [
+   "art. 62 dotyczy sprzedaży i udzielania, a art. 63 wyłącznie przechowywania środków",
+   "art. 62 odnosi się tylko do nowych substancji psychoaktywnych, a art. 63 do leków psychotropowych",
+   "oba artykuły opisują ten sam czyn, różniąc się wyłącznie wysokością ustawowego zagrożenia"
+  ],
+  "wyjasnienie": "Art. 62 – posiadanie, art. 63 – uprawa (ust. 1, 3) i zbiór (ust. 2). Sprzedaż i udzielanie to art. 58–59.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "daeca081aa",
+  "temat": "Przeciwdziałanie narkomanii (art. 62–63)",
+  "pytanie": "Zgodnie z art. 63 ustawy o przeciwdziałaniu narkomanii uprawa konopi, z wyjątkiem konopi włóknistych, jest:",
+  "poprawna": "przestępstwem",
+  "bledne": [
+   "wykroczeniem",
+   "powszechnie dozwolonym zachowaniem",
+   "karalnym przygotowaniem do wykroczenia"
+  ],
+  "wyjasnienie": "Art. 63 ust. 1: pozbawienie wolności do lat 3 – przestępstwo.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "d8c3092459",
+  "temat": "Przeciwdziałanie narkomanii (art. 62–63)",
+  "pytanie": "Kto wbrew przepisom ustawy uprawia mak:",
+  "poprawna": "popełnia przestępstwo w przypadku maku, który nie jest makiem niskomorfinowym, a w przypadku maku niskomorfinowego popełnia wykroczenie",
+  "bledne": [
+   "popełnia przestępstwo w przypadku maku innego niż niskomorfinowy, a uprawa maku niskomorfinowego na własne potrzeby nie jest czynem karalnym",
+   "zawsze popełnia przestępstwo",
+   "zawsze popełnia wykroczenie"
+  ],
+  "wyjasnienie": "Mak inny niż niskomorfinowy – przestępstwo z art. 63 ust. 1. Mak niskomorfinowy uprawiany wbrew przepisom – kara grzywny z art. 65 pkt 1 (wykroczenie, tryb k.p.s.w. – art. 69).",
+  "zrodlo": "test"
+ },
+ {
+  "id": "c0ba0f9474",
+  "temat": "Przeciwdziałanie narkomanii (art. 62–63)",
+  "pytanie": "Za uprawę maku lub konopi w rozumieniu ustawy o przeciwdziałaniu narkomanii uważa się:",
+  "poprawna": "każdą uprawę maku lub konopi bez względu na powierzchnię",
+  "bledne": [
+   "uprawę maku i jednocześnie konopi",
+   "uprawę maku i konopi tylko w celu wywiezienia poza obszar celny Unii Europejskiej",
+   "wyłącznie uprawę prowadzoną w celu udostępniania osobom trzecim środków odurzających"
+  ],
+  "wyjasnienie": "Art. 4 pkt 28: uprawa maku lub konopi – każda uprawa bez względu na powierzchnię (nawet jedna roślina w doniczce).",
+  "zrodlo": "test"
+ },
+ {
+  "id": "db29ce7142",
+  "temat": "Przeciwdziałanie narkomanii (art. 62–63)",
+  "pytanie": "Konopie włókniste to rośliny z gatunku konopie siewne, w których suma zawartości THC w kwiatowych lub owocujących wierzchołkach roślin, z których nie usunięto żywicy, nie przekracza:",
+  "poprawna": "0,30% w przeliczeniu na suchą masę",
+  "bledne": [
+   "0,06% w przeliczeniu na suchą masę",
+   "0,60% w przeliczeniu na suchą masę",
+   "0,20% w przeliczeniu na suchą masę"
+  ],
+  "wyjasnienie": "Art. 4 pkt 5: nie przekracza 0,3% w przeliczeniu na suchą masę (do 2022 r. było 0,2%). 0,06% to próg dla morfiny w maku niskomorfinowym.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "817a102444",
+  "temat": "Przeciwdziałanie narkomanii (art. 62–63)",
+  "pytanie": "Mak niskomorfinowy to roślina z gatunku mak lekarski należąca do odmiany, w której zawartość morfiny wynosi:",
+  "poprawna": "w torebce (makówce) bez nasion, wraz z przylegającą do niej łodygą o długości do 7 cm – poniżej 0,06% w przeliczeniu na suchą masę",
+  "bledne": [
+   "w torebce (makówce) bez nasion, wraz z przylegającą do niej łodygą o długości do 7 cm – poniżej 0,20%",
+   "w torebce (makówce) bez nasion – poniżej 0,60%",
+   "w całej roślinie poniżej 0,20%"
+  ],
+  "wyjasnienie": "Art. 4 pkt 9: torebka bez nasion z łodygą do 7 cm – poniżej 0,06% (w przeliczeniu na zasadę morfiny i suchą masę).",
+  "zrodlo": "test"
+ },
+ {
+  "id": "ab926756f9",
+  "temat": "Przeciwdziałanie narkomanii (art. 62–63)",
+  "pytanie": "Opium to:",
+  "poprawna": "gęsty (stężały) sok mleczny makówki maku",
+  "bledne": [
+   "sok mleczny torebki maku",
+   "sok mleczny torebki makówki maku",
+   "sproszkowany sok mleczny maku wysokomorfinowego"
+  ],
+  "wyjasnienie": "Art. 4 pkt 13: opium – STĘŻAŁY sok mleczny torebki (makówki) maku. Sam „sok mleczny torebki maku” to mleczko makowe (pkt 10).",
+  "zrodlo": "test"
+ },
+ {
+  "id": "17d543a1d1",
+  "temat": "Przeciwdziałanie narkomanii (art. 62–63)",
+  "pytanie": "Ustawa o przeciwdziałaniu narkomanii zabrania wbrew jej przepisom posiadania:",
+  "poprawna": "środków odurzających i substancji psychotropowych",
+  "bledne": [
+   "wyłącznie środków odurzających",
+   "wyłącznie substancji psychotropowych",
+   "leków przeciwbólowych jako takich"
+  ],
+  "wyjasnienie": "Art. 62 penalizuje posiadanie środków odurzających LUB substancji psychotropowych – obu kategorii. Nowe substancje psychoaktywne – art. 62b (grzywna).",
+  "zrodlo": "test"
+ },
+ {
+  "id": "54c5051d67",
+  "temat": "Przeciwdziałanie narkomanii (art. 62–63)",
+  "pytanie": "Ustawa o przeciwdziałaniu narkomanii zabrania uprawy wbrew jej przepisom:",
+  "poprawna": "maku, konopi i krzewów koki",
+  "bledne": [
+   "wyłącznie maku",
+   "wyłącznie konopi",
+   "wyłącznie krzewów koki"
+  ],
+  "wyjasnienie": "Art. 63 ust. 1 obejmuje wszystkie trzy rośliny: mak (poza niskomorfinowym), konopie (poza włóknistymi) i krzew koki.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "ba74c76b56",
+  "temat": "Przeciwdziałanie narkomanii (art. 62–63)",
+  "pytanie": "Ustawa o przeciwdziałaniu narkomanii zabrania wbrew jej przepisom zbierania:",
+  "poprawna": "mleczka makowego, opium i słomy makowej",
+  "bledne": [
+   "wyłącznie mleczka makowego",
+   "wyłącznie opium",
+   "wyłącznie słomy makowej"
+  ],
+  "wyjasnienie": "Art. 63 ust. 2 wymienia m.in. mleczko makowe, opium, słomę makową, liście koki, żywicę i ziele konopi innych niż włókniste.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "99951ce236",
+  "temat": "Dowody osobiste (art. 79)",
+  "pytanie": "Art. 79 ustawy o dowodach osobistych obejmuje odpowiedzialność osoby, która:",
+  "poprawna": "bez podstawy prawnej zatrzymuje cudzy dowód osobisty",
+  "bledne": [
+   "nie ma dowodu osobistego przy sobie podczas legitymowania",
+   "odmawia okazania prawa jazdy",
+   "nie pamięta numeru własnego dowodu"
+  ],
+  "wyjasnienie": "Art. 79: 1) uchylanie się od obowiązku posiadania lub wymiany dowodu, 2) zatrzymanie cudzego dowodu bez podstawy prawnej, 3) niezwrócenie dowodu po utracie obywatelstwa.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "3fa6877f41",
+  "temat": "Dowody osobiste (art. 79)",
+  "pytanie": "Za czyn określony w art. 79 ustawy o dowodach osobistych grozi:",
+  "poprawna": "ograniczenie wolności albo grzywna",
+  "bledne": [
+   "areszt albo nagana",
+   "wyłącznie grzywna",
+   "pozbawienie wolności do roku albo grzywna do 5000 zł, zależnie od rodzaju naruszonego obowiązku"
+  ],
+  "wyjasnienie": "Art. 79: kara ograniczenia wolności albo grzywny. Orzekanie w trybie k.p.s.w. (art. 80) – to wykroczenie.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "53a7d374dd",
+  "temat": "Dowody osobiste (art. 79)",
+  "pytanie": "Art. 79 ustawy o dowodach osobistych obejmuje osobę, która po utracie obywatelstwa polskiego:",
+  "poprawna": "nie zwraca dowodu osobistego",
+  "bledne": [
+   "nie zgłasza organowi gminy zmiany swojego dotychczasowego adresu zamieszkania",
+   "nie wymienia prawa jazdy wydanego przed utratą obywatelstwa polskiego",
+   "nie pamięta numeru PESEL albo serii i numeru unieważnionego dokumentu"
+  ],
+  "wyjasnienie": "Art. 79 pkt 3: niezwrócenie dowodu osobistego w razie utraty obywatelstwa polskiego.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "854cc96196",
+  "temat": "Dowody osobiste (art. 79)",
+  "pytanie": "Które zachowanie samo w sobie NIE wypełnia art. 79 ustawy o dowodach osobistych?",
+  "poprawna": "pozostawienie własnego ważnego dowodu osobistego w domu",
+  "bledne": [
+   "bezprawne zatrzymanie cudzego dowodu osobistego mimo żądania jego zwrotu przez uprawnioną osobę",
+   "uchylanie się od ustawowego obowiązku wymiany dowodu osobistego mimo zaistnienia przesłanki wymiany",
+   "niezwrócenie dowodu osobistego po utracie obywatelstwa polskiego"
+  ],
+  "wyjasnienie": "Ustawa nie nakazuje noszenia dowodu przy sobie – brak dowodu przy legitymowaniu nie jest czynem z art. 79.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "e6996ef0a1",
+  "temat": "Dowody osobiste (art. 79)",
+  "pytanie": "Uchylanie się od posiadania dowodu osobistego lub jego wymiany (po ukończeniu 18 lat):",
+  "poprawna": "jest wykroczeniem",
+  "bledne": [
+   "jest wykroczeniem, jeżeli osoba nie posiada innego dokumentu ze zdjęciem",
+   "jest czynem niekaralnym",
+   "jest przestępstwem"
+  ],
+  "wyjasnienie": "Art. 79 pkt 1 – ograniczenie wolności albo grzywna, tryb k.p.s.w. (art. 80), czyli wykroczenie. Posiadanie innego dokumentu (np. paszportu) nie zwalnia z obowiązku.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "ffe1638ffd",
+  "temat": "Prawo autorskie (art. 116–118)",
+  "pytanie": "Art. 116 ust. 1 ustawy o prawie autorskim i prawach pokrewnych dotyczy osoby, która bez uprawnienia albo wbrew jego warunkom:",
+  "poprawna": "rozpowszechnia cudzy utwór lub inny wskazany przedmiot praw",
+  "bledne": [
+   "utrwala cudzy utwór wyłącznie na własny użytek",
+   "nabywa nośnik pirackiego utworu bez celu osiągnięcia korzyści",
+   "usuwa oznaczenie producenta z legalnego fonogramu"
+  ],
+  "wyjasnienie": "Art. 116 ust. 1: rozpowszechnianie cudzego utworu (oryginał lub opracowanie), artystycznego wykonania, fonogramu, wideogramu lub nadania – grzywna, ograniczenie wolności albo pozbawienie wolności do lat 2.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "bed8671290",
+  "temat": "Prawo autorskie (art. 116–118)",
+  "pytanie": "Jeżeli bezprawne rozpowszechnianie z art. 116 ust. 1 następuje w celu osiągnięcia korzyści majątkowej, sprawca:",
+  "poprawna": "podlega karze pozbawienia wolności do 3 lat",
+  "bledne": [
+   "podlega wyłącznie grzywnie",
+   "podlega pozbawieniu wolności od 6 miesięcy do 5 lat",
+   "podlega ograniczeniu wolności albo grzywnie"
+  ],
+  "wyjasnienie": "Art. 116 ust. 2: cel osiągnięcia korzyści majątkowej – do lat 3. Stałe źródło dochodu lub kierowanie – od 6 miesięcy do 5 lat (ust. 3).",
+  "zrodlo": "test"
+ },
+ {
+  "id": "ce6ed1ac5e",
+  "temat": "Prawo autorskie (art. 116–118)",
+  "pytanie": "Nieumyślne rozpowszechnianie cudzego utworu bez uprawnienia (art. 116 ust. 4) jest zagrożone:",
+  "poprawna": "grzywną, ograniczeniem wolności albo pozbawieniem wolności do roku",
+  "bledne": [
+   "wyłącznie pozbawieniem wolności do 2 lat",
+   "pozbawieniem wolności od 3 miesięcy do 5 lat, jeżeli sprawca nie osiągnął korzyści majątkowej",
+   "wyłącznie grzywną"
+  ],
+  "wyjasnienie": "Art. 116 ust. 4: działanie nieumyślne – grzywna, ograniczenie wolności albo pozbawienie wolności do roku.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "436c85c322",
+  "temat": "Prawo autorskie (art. 116–118)",
+  "pytanie": "Jeżeli sprawca bezprawnego rozpowszechniania z art. 116 ust. 1 uczynił sobie z tego stałe źródło dochodu albo organizuje lub kieruje taką działalnością, podlega:",
+  "poprawna": "karze pozbawienia wolności od 6 miesięcy do 5 lat",
+  "bledne": [
+   "karze pozbawienia wolności do 3 lat, niezależnie od skali i sposobu prowadzenia działalności",
+   "grzywnie, ograniczeniu wolności albo pozbawieniu wolności do roku",
+   "karze pozbawienia wolności od roku do 10 lat, jeżeli utwór był rozpowszechniany w internecie"
+  ],
+  "wyjasnienie": "Art. 116 ust. 3: od 6 miesięcy do lat 5.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "47bee124a0",
+  "temat": "Prawo autorskie (art. 116–118)",
+  "pytanie": "Art. 117 ust. 1 prawa autorskiego penalizuje bezprawne utrwalanie lub zwielokrotnianie cudzego utworu, gdy sprawca działa:",
+  "poprawna": "w celu rozpowszechnienia",
+  "bledne": [
+   "wyłącznie w celu zachowania kopii zapasowej",
+   "w celu osiągnięcia dowolnej korzyści osobistej",
+   "w zamiarze późniejszego zniszczenia kopii"
+  ],
+  "wyjasnienie": "Art. 117 ust. 1: utrwala lub zwielokrotnia W CELU ROZPOWSZECHNIENIA – grzywna, ograniczenie wolności albo pozbawienie wolności do lat 2.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "60f6bf9e5b",
+  "temat": "Prawo autorskie (art. 116–118)",
+  "pytanie": "Najtrafniejsze rozróżnienie art. 116 i art. 117 prawa autorskiego to:",
+  "poprawna": "art. 116 dotyczy rozpowszechniania, a art. 117 utrwalania lub zwielokrotniania w celu rozpowszechnienia",
+  "bledne": [
+   "art. 116 dotyczy plagiatu, a art. 117 wyłącznie paserstwa",
+   "art. 116 dotyczy jedynie fonogramów i wideogramów, a art. 117 wyłącznie utworów literackich i programów komputerowych",
+   "art. 116 dotyczy nieumyślności, a art. 117 wyłącznie zamiaru ewentualnego"
+  ],
+  "wyjasnienie": "116 – rozpowszechnianie, 117 – kopiowanie (utrwalanie, zwielokrotnianie) w celu rozpowszechnienia, 118 – paserstwo nośników.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "b638667b8b",
+  "temat": "Prawo autorskie (art. 116–118)",
+  "pytanie": "Sprawca, który uczynił sobie stałe źródło dochodu z utrwalania lub zwielokrotniania cudzego utworu w celu rozpowszechnienia (art. 117 ust. 2):",
+  "poprawna": "podlega karze pozbawienia wolności do 3 lat",
+  "bledne": [
+   "podlega karze pozbawienia wolności od 6 miesięcy do 5 lat, jak w art. 116 ust. 3",
+   "podlega wyłącznie grzywnie albo ograniczeniu wolności, bez możliwości pozbawienia wolności",
+   "podlega karze pozbawienia wolności od roku do 5 lat, jak w kwalifikowanym art. 118"
+  ],
+  "wyjasnienie": "Art. 117 ust. 2: do lat 3 – łagodniej niż analogiczny typ z art. 116 ust. 3.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "a5289a6142",
+  "temat": "Prawo autorskie (art. 116–118)",
+  "pytanie": "Art. 118 ust. 1 prawa autorskiego dotyczy między innymi osoby, która w celu osiągnięcia korzyści majątkowej:",
+  "poprawna": "nabywa nośnik bezprawnie rozpowszechnionego lub zwielokrotnionego utworu",
+  "bledne": [
+   "rozpowszechnia własny utwór bez oznaczenia nazwiska",
+   "wyłącznie kopiuje legalnie nabyty utwór na własny użytek, a następnie przekazuje pojedynczy egzemplarz osobie najbliższej",
+   "niszczy cudzy nośnik utworu"
+  ],
+  "wyjasnienie": "Art. 118 ust. 1 (paserstwo nośników): w celu korzyści majątkowej nabywa, pomaga w zbyciu, przyjmuje lub pomaga ukryć nośnik pirackiego utworu – od 3 miesięcy do lat 5.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "b96cca9d71",
+  "temat": "Prawo autorskie (art. 116–118)",
+  "pytanie": "W art. 118 ust. 2 prawa autorskiego stałe źródło dochodu albo organizowanie lub kierowanie działalnością przestępną powoduje zagrożenie:",
+  "poprawna": "karą pozbawienia wolności od roku do 5 lat",
+  "bledne": [
+   "karą pozbawienia wolności do 3 lat, tak jak w kwalifikowanym wariancie art. 117",
+   "grzywną albo ograniczeniem wolności, jeżeli nośnik nie należał do sprawcy",
+   "karą pozbawienia wolności od 3 miesięcy do 5 lat, bez względu na stałe źródło dochodu"
+  ],
+  "wyjasnienie": "Art. 118 ust. 2: od roku do lat 5.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "128d568f4d",
+  "temat": "Prawo autorskie (art. 116–118)",
+  "pytanie": "Jeżeli sprawca z art. 118 na podstawie towarzyszących okoliczności powinien i może przypuszczać, że nośnik został uzyskany za pomocą czynu zabronionego, podlega:",
+  "poprawna": "grzywnie, ograniczeniu wolności albo pozbawieniu wolności do 2 lat",
+  "bledne": [
+   "karze pozbawienia wolności od roku do 5 lat, tak jak sprawca organizujący działalność przestępną",
+   "wyłącznie grzywnie, ponieważ ustawa nie przewiduje w tym przypadku kary wolnościowej",
+   "karze pozbawienia wolności od 3 miesięcy do 5 lat, jak w typie podstawowym art. 118 ust. 1"
+  ],
+  "wyjasnienie": "Art. 118 ust. 3 (paserstwo nieumyślne): grzywna, ograniczenie wolności albo pozbawienie wolności do lat 2.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "3ce6a605d2",
+  "temat": "Prawo autorskie (art. 116–118)",
+  "pytanie": "Które zachowanie najtrafniej odpowiada art. 118 ust. 1 prawa autorskiego?",
+  "poprawna": "nabycie dla zysku nośników z bezprawnie zwielokrotnionymi utworami",
+  "bledne": [
+   "bezprawne publiczne udostępnienie filmu w internecie bez zgody podmiotu uprawnionego",
+   "wykonanie serii kopii cudzego utworu w celu późniejszego rozpowszechnienia tych kopii",
+   "przywłaszczenie sobie autorstwa całości lub części cudzego utworu albo artystycznego wykonania"
+  ],
+  "wyjasnienie": "Nabycie nośników dla zysku – art. 118. Udostępnienie w internecie – art. 116, kopiowanie w celu rozpowszechnienia – art. 117, plagiat – art. 115.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "1242ba3a75",
+  "temat": "Dostęp warunkowy (art. 6–7)",
+  "pytanie": "Kto w celu użycia w obrocie wytwarza urządzenia niedozwolone służące do obchodzenia dostępu warunkowego (art. 6 ustawy z 5 lipca 2002 r.):",
+  "poprawna": "podlega karze pozbawienia wolności do 3 lat",
+  "bledne": [
+   "podlega wyłącznie grzywnie",
+   "podlega aresztowi albo grzywnie",
+   "podlega karze pozbawienia wolności do roku albo karze ograniczenia wolności, jeżeli urządzenie nie weszło do obrotu"
+  ],
+  "wyjasnienie": "Art. 6 ust. 1: wytwarzanie w celu użycia w obrocie lub wprowadzanie do obrotu urządzeń niedozwolonych – pozbawienie wolności do lat 3.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "8a71329fb2",
+  "temat": "Dostęp warunkowy (art. 6–7)",
+  "pytanie": "Tej samej karze co za wytwarzanie urządzeń niedozwolonych w celu użycia w obrocie podlega według art. 6 ust. 2 osoba, która:",
+  "poprawna": "świadczy usługi niedozwolone",
+  "bledne": [
+   "używa urządzenia wyłącznie na własne potrzeby",
+   "posiada urządzenie bez zamiaru osiągnięcia korzyści",
+   "legalnie sprzedaje urządzenie dostępu warunkowego"
+  ],
+  "wyjasnienie": "Art. 6 ust. 2: świadczenie usług niedozwolonych – do lat 3, jak w ust. 1.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "8dba452b12",
+  "temat": "Dostęp warunkowy (art. 6–7)",
+  "pytanie": "W art. 6 ust. 1 ustawy o ochronie usług opartych lub polegających na dostępie warunkowym wytwarzanie urządzenia niedozwolonego jest karalne, gdy sprawca działa:",
+  "poprawna": "w celu użycia urządzenia w obrocie",
+  "bledne": [
+   "wyłącznie w celu osobistego użycia urządzenia, bez zamiaru przekazania go innym osobom",
+   "w każdym przypadku wytworzenia, niezależnie od przeznaczenia urządzenia i celu działania",
+   "tylko wtedy, gdy przed zakończeniem czynu faktycznie osiągnął już korzyść majątkową"
+  ],
+  "wyjasnienie": "Art. 6 ust. 1 wymaga celu „użycia w obrocie” – to przestępstwo kierunkowe.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "ee5f62595b",
+  "temat": "Dostęp warunkowy (art. 6–7)",
+  "pytanie": "Posiadanie lub używanie urządzenia niedozwolonego w celu osiągnięcia korzyści majątkowej (art. 7 ust. 1) jest zagrożone:",
+  "poprawna": "grzywną, ograniczeniem wolności albo pozbawieniem wolności do roku",
+  "bledne": [
+   "pozbawieniem wolności do 3 lat, jeżeli urządzenie zostało użyte co najmniej dwukrotnie albo przekazane innej osobie",
+   "aresztem albo grzywną do 2000 zł",
+   "wyłącznie karą ograniczenia wolności"
+  ],
+  "wyjasnienie": "Art. 7 ust. 1: grzywna, ograniczenie wolności albo pozbawienie wolności do roku.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "0c64854cb4",
+  "temat": "Dostęp warunkowy (art. 6–7)",
+  "pytanie": "Dla odpowiedzialności z art. 7 ust. 1 ustawy o ochronie usług opartych lub polegających na dostępie warunkowym charakterystyczne jest:",
+  "poprawna": "posiadanie lub używanie urządzenia niedozwolonego w celu osiągnięcia korzyści majątkowej",
+  "bledne": [
+   "wprowadzanie urządzenia niedozwolonego do obrotu w celu użycia go przez nieoznaczony krąg odbiorców",
+   "świadczenie usługi niedozwolonej w ramach działalności prowadzonej odpłatnie albo nieodpłatnie",
+   "używanie urządzenia niedozwolonego wyłącznie na własne potrzeby, bez innego celu działania"
+  ],
+  "wyjasnienie": "Art. 7 ust. 1 – posiadanie/używanie w celu korzyści majątkowej. Wprowadzanie do obrotu i usługi to art. 6, używanie na własne potrzeby – art. 7 ust. 2.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "e10cd56956",
+  "temat": "Dostęp warunkowy (art. 6–7)",
+  "pytanie": "Jeżeli sprawca używa urządzenia niedozwolonego wyłącznie na własne potrzeby (art. 7 ust. 2):",
+  "poprawna": "podlega grzywnie",
+  "bledne": [
+   "podlega pozbawieniu wolności do roku",
+   "nie podlega odpowiedzialności",
+   "podlega ograniczeniu wolności albo pozbawieniu wolności"
+  ],
+  "wyjasnienie": "Art. 7 ust. 2: wyłącznie na własne potrzeby – tylko grzywna (nadal przestępstwo, ścigane na wniosek – art. 9).",
+  "zrodlo": "test"
+ },
+ {
+  "id": "56ff17727b",
+  "temat": "Broń i amunicja (art. 50–51)",
+  "pytanie": "Pozwolenie na broń wydaje się w szczególności w celach:",
+  "poprawna": "ochrony osobistej, ochrony osób i mienia, łowieckich, sportowych, rekonstrukcji historycznych, kolekcjonerskich, pamiątkowych, szkoleniowych",
+  "bledne": [
+   "ochrony osobistej, ochrony osób, łowieckich, sportowych, rekonstrukcji historycznych, kolekcjonerskich, pamiątkowych, szkoleniowych",
+   "ochrony osobistej, ochrony mienia, łowieckich, sportowych, kolekcjonerskich, szkoleniowych",
+   "ochrony osobistej, ochrony osób i mienia, łowieckich, kolekcjonerskich, pamiątkowych"
+  ],
+  "wyjasnienie": "Art. 10 ust. 2 ustawy o broni i amunicji – 8 celów, w tym „ochrony osób i mienia” jako jeden cel.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "68a7b2fae9",
+  "temat": "Broń i amunicja (art. 50–51)",
+  "pytanie": "Pozwolenie na broń palną wydaje się osobom, które ukończyły:",
+  "poprawna": "21 lat",
+  "bledne": [
+   "18 lat",
+   "25 lat",
+   "20 lat"
+  ],
+  "wyjasnienie": "Art. 15 ust. 1 pkt 1: pozwolenia nie wydaje się osobom niemającym ukończonych 21 lat (z wyjątkami z ust. 2, np. pozwolenie sportowe lub łowieckie od 18 lat).",
+  "zrodlo": "test"
+ },
+ {
+  "id": "1198f7afcc",
+  "temat": "Broń i amunicja (art. 50–51)",
+  "pytanie": "Pozwolenie na broń palną i amunicję wydaje właściwy ze względu na miejsce stałego pobytu zainteresowanej osoby:",
+  "poprawna": "Komendant Wojewódzki Policji",
+  "bledne": [
+   "Komendant Powiatowy Policji",
+   "Komendant Komisariatu Policji",
+   "Dyrektor Biura Prewencji Komendy Wojewódzkiej Policji"
+  ],
+  "wyjasnienie": "Art. 9 ust. 1 ustawy o broni i amunicji (dla żołnierzy zawodowych – komendant oddziału Żandarmerii Wojskowej).",
+  "zrodlo": "test"
+ },
+ {
+  "id": "a50b30e4ef",
+  "temat": "Przeciwdziałanie narkomanii (art. 62–63)",
+  "pytanie": "Nadzór nad uprawami maku lub konopi włóknistych sprawuje:",
+  "poprawna": "właściwy miejscowo wójt (burmistrz, prezydent miasta)",
+  "bledne": [
+   "właściwy Komendant Wojewódzki Policji",
+   "Minister Zdrowia i Opieki Społecznej",
+   "Minister Spraw Wewnętrznych"
+  ],
+  "wyjasnienie": "UWAGA – dawny stan prawny: test opiera się na przepisach sprzed 2022 r., kiedy nadzór należał do wójta. Obecnie uprawy wpisuje się do rejestrów KOWR, a kontrolę prowadzi dyrektor oddziału Krajowego Ośrodka Wsparcia Rolnictwa (art. 47b–47f ustawy).",
+  "zrodlo": "test"
+ },
+ {
+  "id": "801e2a87a1",
+  "temat": "Przeciwdziałanie narkomanii (art. 62–63)",
+  "pytanie": "Zezwolenie na uprawę maku lub konopi włóknistych wydaje:",
+  "poprawna": "wójt, burmistrz lub prezydent miasta właściwy ze względu na miejsce położenia uprawy",
+  "bledne": [
+   "wójt, burmistrz lub prezydent miasta najbliższy miejscu zamieszkania wnioskodawcy",
+   "Komendant Główny Policji po zasięgnięciu opinii komendanta wojewódzkiego Policji",
+   "Komendant Wojewódzki Policji po analizie stanu bezpieczeństwa"
+  ],
+  "wyjasnienie": "UWAGA – dawny stan prawny: według przepisów sprzed 2022 r. Obecnie zamiast zezwolenia wójta jest wpis do rejestru maku lub konopi włóknistych prowadzonego przez KOWR.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "dc79e9f320",
+  "temat": "Przeciwdziałanie narkomanii (art. 62–63)",
+  "pytanie": "Przeciwdziałanie narkomanii należy do zadań własnych:",
+  "poprawna": "gminy",
+  "bledne": [
+   "starostwa",
+   "rady powiatu",
+   "sejmiku województwa"
+  ],
+  "wyjasnienie": "Art. 10 ust. 1 ustawy o przeciwdziałaniu narkomanii.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "e5a076e815",
+  "temat": "Przeciwdziałanie narkomanii (art. 62–63)",
+  "pytanie": "Narkomania to:",
+  "poprawna": "stałe lub okresowe używanie w celach innych niż medyczne środków odurzających, substancji psychotropowych albo środków zastępczych",
+  "bledne": [
+   "wyłącznie okresowe używanie w celach innych niż medyczne środków odurzających",
+   "stałe używanie substancji zabronionych niezależnie od celu",
+   "kilkukrotne zażycie środków psychotropowych"
+  ],
+  "wyjasnienie": "Art. 4 pkt 11 (także nowe substancje psychoaktywne), w wyniku czego może powstać lub powstało uzależnienie.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "e11f0cfa28",
+  "temat": "Dowody osobiste (art. 79)",
+  "pytanie": "Zgodnie z ustawą dowód osobisty wydaje się osobom:",
+  "poprawna": "do 12 lat na 5 lat, osobom powyżej 12 lat na 10 lat",
+  "bledne": [
+   "do lat 18 na 5 lat, osobom powyżej 18 lat bezterminowo",
+   "do lat 10 na 5 lat, osobom powyżej 10 lat na 10 lat",
+   "do 5 lat na 5 lat, osobom powyżej 5 lat na 10 lat"
+  ],
+  "wyjasnienie": "Art. 7 ust. 1–2 ustawy o dowodach osobistych.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "d154ce9594",
+  "temat": "Dowody osobiste (art. 79)",
+  "pytanie": "Wydanie dowodu osobistego osobie, która ukończyła 12. rok życia, od której chwilowo fizycznie nie jest możliwe pobranie odcisków któregokolwiek z palców, jest:",
+  "poprawna": "możliwe w przypadku ważności na okres 12 miesięcy od daty jego wydania",
+  "bledne": [
+   "niedozwolone",
+   "możliwe w przypadku ważności na okres 3 lat od daty jego wydania",
+   "możliwe w przypadku ważności na okres 5 lat od daty jego wydania"
+  ],
+  "wyjasnienie": "Art. 7 ust. 3 ustawy o dowodach osobistych: dowód ważny 12 miesięcy.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "ea571fd5e9",
+  "temat": "Dowody osobiste (art. 79)",
+  "pytanie": "Uprawnionym organem do wydawania dowodu osobistego jest:",
+  "poprawna": "wójt, burmistrz lub prezydent miasta",
+  "bledne": [
+   "wójt, burmistrz i prezydent miasta łącznie",
+   "burmistrz, prezydent miasta i marszałek województwa",
+   "tylko prezydent miasta"
+  ],
+  "wyjasnienie": "Organ gminy – wójt, burmistrz lub prezydent miasta (art. 2 ust. 2 i art. 24 ustawy).",
+  "zrodlo": "test"
+ },
+ {
+  "id": "699b7fb054",
+  "temat": "Wychowanie w trzeźwości (alkohol)",
+  "pytanie": "Ustawa o wychowaniu w trzeźwości i przeciwdziałaniu alkoholizmowi pochodzi z dnia:",
+  "poprawna": "26 października 1982 r.",
+  "bledne": [
+   "6 kwietnia 1990 r.",
+   "13 czerwca 2003 r.",
+   "20 marca 2009 r."
+  ],
+  "wyjasnienie": "Ustawa z dnia 26 października 1982 r. (6 kwietnia 1990 r. to ustawa o Policji).",
+  "zrodlo": "test"
+ },
+ {
+  "id": "a35f00266a",
+  "temat": "Wychowanie w trzeźwości (alkohol)",
+  "pytanie": "Napojem alkoholowym w rozumieniu ustawy o wychowaniu w trzeźwości jest produkt przeznaczony do spożycia zawierający alkohol etylowy pochodzenia rolniczego w stężeniu przekraczającym:",
+  "poprawna": "0,5%",
+  "bledne": [
+   "2%",
+   "1%",
+   "0,25%"
+  ],
+  "wyjasnienie": "Art. 46 ust. 1: stężenie przekraczające 0,5% objętościowych alkoholu.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "ed53084dea",
+  "temat": "Wychowanie w trzeźwości (alkohol)",
+  "pytanie": "Stan po użyciu alkoholu zachodzi, gdy zawartość alkoholu w organizmie wynosi lub prowadzi do stężenia we krwi:",
+  "poprawna": "od 0,2‰ do 0,5‰ alkoholu albo obecności w wydychanym powietrzu od 0,1 mg do 0,25 mg alkoholu w 1 dm³",
+  "bledne": [
+   "jakiejkolwiek ilości alkoholu albo obecności alkoholu w wydychanym powietrzu",
+   "powyżej 0,5‰ alkoholu albo obecności w wydychanym powietrzu powyżej 0,25 mg alkoholu w 1 dm³",
+   "od 0,1‰ do 0,25‰ alkoholu albo obecności w wydychanym powietrzu od 0,2 mg do 0,5 mg alkoholu w 1 dm³"
+  ],
+  "wyjasnienie": "Art. 46 ust. 2. Powyżej 0,5‰ lub 0,25 mg/dm³ to stan nietrzeźwości (ust. 3).",
+  "zrodlo": "test"
+ },
+ {
+  "id": "17809cb1f6",
+  "temat": "Wychowanie w trzeźwości (alkohol)",
+  "pytanie": "Zgodnie z ustawą zabrania się sprzedaży alkoholu osobom nietrzeźwym, osobom do lat:",
+  "poprawna": "18, na kredyt lub pod zastaw",
+  "bledne": [
+   "18, na kredyt",
+   "17",
+   "18"
+  ],
+  "wyjasnienie": "Art. 15 ust. 1: osobom nietrzeźwym, osobom do lat 18 oraz na kredyt lub pod zastaw.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "1c90e71fc2",
+  "temat": "Wychowanie w trzeźwości (alkohol)",
+  "pytanie": "Zabrania się sprzedaży i podawania napojów alkoholowych:",
+  "poprawna": "na kredyt lub pod zastaw",
+  "bledne": [
+   "osobom, które mają ukończone 18 lat",
+   "osobom, które chcą kupić duże ilości napojów alkoholowych",
+   "osobom, których zachowanie wskazuje, że nie znajdują się w stanie nietrzeźwości"
+  ],
+  "wyjasnienie": "Art. 15 ust. 1 pkt 3.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "6cc6c7c141",
+  "temat": "Wychowanie w trzeźwości (alkohol)",
+  "pytanie": "Zezwolenia na handel alkoholem wydaje się:",
+  "poprawna": "oddzielnie na alkohol do 4,5% i piwo, powyżej 4,5% do 18% z wyjątkiem piwa oraz powyżej 18% alkoholu",
+  "bledne": [
+   "oddzielnie na alkohol powyżej 4,5% oraz piwo i alkohol powyżej 18%",
+   "na każdy rodzaj alkoholu bez względu na zawartość procentową",
+   "oddzielnie na alkohol powyżej 18% i do 18%"
+  ],
+  "wyjasnienie": "Art. 18 ust. 3 – trzy rodzaje zezwoleń.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "f884f3b2e9",
+  "temat": "Wychowanie w trzeźwości (alkohol)",
+  "pytanie": "Sprzedaż alkoholu w wagonach restauracyjnych (komunikacja krajowa):",
+  "poprawna": "jest dozwolona w odniesieniu do alkoholu do 4,5% i piwa",
+  "bledne": [
+   "jest dozwolona bez względu na zawartość procentową",
+   "jest dozwolona do 18% alkoholu",
+   "jest zabroniona"
+  ],
+  "wyjasnienie": "Art. 14 ust. 1 pkt 4 lit. a: w wagonach restauracyjnych i bufetach pociągów krajowych – do 4,5% oraz piwo.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "aeb5728941",
+  "temat": "Wychowanie w trzeźwości (alkohol)",
+  "pytanie": "Reklama piwa w telewizji:",
+  "poprawna": "może być prowadzona po godz. 20.00",
+  "bledne": [
+   "może być prowadzona bez ograniczeń",
+   "może być prowadzona po godz. 22.00",
+   "nie może być prowadzona"
+  ],
+  "wyjasnienie": "Art. 13¹ ust. 2 pkt 1: zakaz reklamy piwa w TV, radiu, kinie i teatrze między 6:00 a 20:00.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "816efc01c2",
+  "temat": "Wychowanie w trzeźwości (alkohol)",
+  "pytanie": "Spożywanie napojów alkoholowych nie jest zabronione:",
+  "poprawna": "w lokalach gastronomicznych posiadających zezwolenie na sprzedaż",
+  "bledne": [
+   "na terenach szkół oraz innych zakładów i placówek oświatowo-wychowawczych",
+   "na terenach zakładów pracy",
+   "w środkach i obiektach komunikacji publicznej"
+  ],
+  "wyjasnienie": "Pozostałe miejsca wymienia zakaz z art. 14 ust. 1.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "c5e428e778",
+  "temat": "Wychowanie w trzeźwości (alkohol)",
+  "pytanie": "Organizowanie i prowadzenie izb wytrzeźwień jest możliwe w miastach:",
+  "poprawna": "liczących ponad 50 000 mieszkańców",
+  "bledne": [
+   "będących stolicami województw",
+   "liczących ponad 40 000 mieszkańców",
+   "w których organy powiatu podejmą decyzję o utworzeniu izby wytrzeźwień"
+  ],
+  "wyjasnienie": "Art. 39 ust. 1: organy samorządu w miastach liczących ponad 50 000 mieszkańców (a także organy powiatu) mogą tworzyć izby wytrzeźwień.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "fd014ed745",
+  "temat": "Wychowanie w trzeźwości (alkohol)",
+  "pytanie": "Osoby doprowadzone do izby wytrzeźwień lub jednostki Policji pozostają tam do wytrzeźwienia, nie dłużej niż:",
+  "poprawna": "24 godziny",
+  "bledne": [
+   "72 godziny",
+   "48 godzin",
+   "12 godzin"
+  ],
+  "wyjasnienie": "Art. 40 ust. 1 ustawy o wychowaniu w trzeźwości.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "76ce4b5f9d",
+  "temat": "Wychowanie w trzeźwości (alkohol)",
+  "pytanie": "Zachowanie sprawcy, który wbrew obowiązkowi w miejscu sprzedaży nie uwidacznia informacji o szkodliwości spożywania alkoholu, jest:",
+  "poprawna": "wykroczeniem",
+  "bledne": [
+   "przestępstwem",
+   "naruszeniem zasad etyki",
+   "przestępstwem skarbowym"
+  ],
+  "wyjasnienie": "Art. 45 pkt 2 – kara grzywny, orzekanie w trybie k.p.s.w. (art. 45¹).",
+  "zrodlo": "test"
+ },
+ {
+  "id": "3c3bca7344",
+  "temat": "Bezpieczeństwo imprez masowych",
+  "pytanie": "Za bezpieczeństwo imprezy masowej w miejscu i czasie jej trwania odpowiada:",
+  "poprawna": "organizator",
+  "bledne": [
+   "Komendant Straży Miejskiej w porozumieniu z Komendantem Straży Pożarnej",
+   "Komendant Wojewódzki Policji",
+   "Prezydent Miasta"
+  ],
+  "wyjasnienie": "Art. 5 ust. 1 ustawy o bezpieczeństwie imprez masowych.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "83411c2a74",
+  "temat": "Bezpieczeństwo imprez masowych",
+  "pytanie": "Organem wydającym zezwolenie na przeprowadzenie imprezy masowej jest:",
+  "poprawna": "wójt, burmistrz lub prezydent miasta właściwy ze względu na miejsce przeprowadzenia imprezy masowej",
+  "bledne": [
+   "właściwy miejscowo Komendant Wojewódzki Policji",
+   "właściwy miejscowo Komendant Miejski lub Powiatowy Policji",
+   "właściwy miejscowo Komendant Państwowej Straży Pożarnej"
+  ],
+  "wyjasnienie": "Art. 3 pkt 18 ustawy: zezwolenie wydaje w drodze decyzji wójt, burmistrz albo prezydent miasta właściwy ze względu na miejsce imprezy.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "30f111777d",
+  "temat": "Bezpieczeństwo imprez masowych",
+  "pytanie": "Do zorganizowania imprezy masowej wymagane jest:",
+  "poprawna": "zezwolenie w formie decyzji",
+  "bledne": [
+   "decyzja uprawniająca do organizacji imprez masowych",
+   "zaświadczenie uprawniające do organizacji imprezy masowej",
+   "pozwolenie bez określonej formy"
+  ],
+  "wyjasnienie": "Art. 3 pkt 18: zezwolenie wydane w drodze decyzji.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "85f70eddb8",
+  "temat": "Bezpieczeństwo imprez masowych",
+  "pytanie": "Impreza masowa to:",
+  "poprawna": "impreza masowa sportowa, mecz piłki nożnej oraz impreza masowa artystyczno-rozrywkowa",
+  "bledne": [
+   "wyłącznie mecz piłki nożnej",
+   "wyłącznie impreza masowa sportowa",
+   "wyłącznie impreza masowa rozrywkowa"
+  ],
+  "wyjasnienie": "Art. 3 pkt 1: impreza masowa artystyczno-rozrywkowa i masowa impreza sportowa, w tym mecz piłki nożnej.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "ba021f8ab3",
+  "temat": "Bezpieczeństwo imprez masowych",
+  "pytanie": "Za czas trwania imprezy masowej uważa się:",
+  "poprawna": "okres od chwili udostępnienia obiektu lub terenu uczestnikom imprezy masowej do chwili opuszczenia przez nich tego obiektu lub terenu",
+  "bledne": [
+   "planowany czas rozpoczęcia i zakończenia meczu lub imprezy artystycznej",
+   "okres niezbędny do przygotowania obiektu sportowego",
+   "okres od chwili rozpoczęcia przez organizatora imprezy masowej lub sportowej"
+  ],
+  "wyjasnienie": "Art. 3 pkt 6 ustawy.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "7c23e92e85",
+  "temat": "Bezpieczeństwo imprez masowych",
+  "pytanie": "Wnoszenie na imprezę masową wyrobów pirotechnicznych:",
+  "poprawna": "zawsze jest przestępstwem",
+  "bledne": [
+   "jest przestępstwem, ale tylko wtedy, gdy zostaną użyte",
+   "nie jest czynem karalnym",
+   "jest wykroczeniem"
+  ],
+  "wyjasnienie": "Art. 59 ust. 1: wnoszenie lub posiadanie na imprezie masowej m.in. wyrobów pirotechnicznych – grzywna, ograniczenie wolności albo pozbawienie wolności od 3 miesięcy do lat 5.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "4f159801fc",
+  "temat": "Bezpieczeństwo imprez masowych",
+  "pytanie": "Postępowanie wobec osoby, która w miejscu i czasie trwania masowej imprezy sportowej używa elementu odzieży lub przedmiotu w celu uniemożliwienia lub istotnego utrudnienia rozpoznania osoby, będzie prowadzone w oparciu o przepisy:",
+  "poprawna": "Kodeksu postępowania w sprawach o wykroczenia",
+  "bledne": [
+   "Kodeksu postępowania karnego",
+   "Kodeksu karnego",
+   "Kodeksu postępowania administracyjnego"
+  ],
+  "wyjasnienie": "Art. 57a ustawy: ograniczenie wolności albo grzywna nie niższa niż 2000 zł (grzywna kwotowa) – to wykroczenie, rozpoznawane w trybie k.p.s.w.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "8c9a0d529e",
+  "temat": "Bezpieczeństwo imprez masowych",
+  "pytanie": "Wstęp na mecz piłki nożnej wyłącznie pod opieką osoby pełnoletniej dotyczy osoby małoletniej do lat:",
+  "poprawna": "13",
+  "bledne": [
+   "14",
+   "15",
+   "17"
+  ],
+  "wyjasnienie": "Art. 16 ustawy o bezpieczeństwie imprez masowych.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "faa8131c6b",
+  "temat": "Bezpieczeństwo imprez masowych",
+  "pytanie": "Na imprezie masowej, z wyłączeniem imprezy masowej podwyższonego ryzyka, sprzedaż, podawanie i spożywanie napojów alkoholowych:",
+  "poprawna": "dotyczy napojów zawierających nie więcej niż 3,5% alkoholu i może odbywać się wyłącznie w miejscach do tego wyznaczonych",
+  "bledne": [
+   "jest dozwolone wyłącznie w postaci piwa",
+   "jest dozwolone do 0,5% alkoholu",
+   "jest dozwolone do 3,5% alkoholu bez dodatkowych ograniczeń"
+  ],
+  "wyjasnienie": "Art. 8a ust. 1–2 ustawy.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "2d30089ee9",
+  "temat": "Bezpieczeństwo imprez masowych",
+  "pytanie": "Organizator meczu piłki nożnej może stosować:",
+  "poprawna": "zakaz klubowy",
+  "bledne": [
+   "zakaz stadionowy",
+   "zakaz udziału",
+   "zakaz względny"
+  ],
+  "wyjasnienie": "Art. 14 ust. 1: zakaz klubowy – zakaz uczestniczenia w kolejnych imprezach masowych z udziałem drużyny.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "30711908ef",
+  "temat": "Ochrona zwierząt",
+  "pytanie": "Ustawa o ochronie zwierząt reguluje postępowanie ze:",
+  "poprawna": "zwierzętami kręgowymi",
+  "bledne": [
+   "ssakami",
+   "ptakami",
+   "wszystkimi zwierzętami bez wyjątku"
+  ],
+  "wyjasnienie": "Art. 2 ust. 1 ustawy o ochronie zwierząt.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "fa888ef3a7",
+  "temat": "Ochrona zwierząt",
+  "pytanie": "Zabrania się trzymania zwierząt domowych na uwięzi w sposób stały dłużej niż:",
+  "poprawna": "12 godzin w ciągu doby lub jeżeli powoduje to uszkodzenie ciała albo cierpienie oraz nie zapewnia możliwości niezbędnego ruchu",
+  "bledne": [
+   "24 godziny w ciągu doby, jeżeli nie zapewnia się niezbędnego ruchu",
+   "16 godzin w ciągu doby lub jeżeli powoduje to uszkodzenie ciała albo cierpienie",
+   "8 godzin w ciągu doby lub jeżeli powoduje to uszkodzenie ciała albo cierpienie oraz nie zapewnia możliwości niezbędnego ruchu"
+  ],
+  "wyjasnienie": "Art. 9 ust. 2 (długość uwięzi co najmniej 3 m).",
+  "zrodlo": "test"
+ },
+ {
+  "id": "36ddd78ab7",
+  "temat": "Ochrona zwierząt",
+  "pytanie": "Nadzór nad przestrzeganiem przepisów o ochronie zwierząt sprawuje:",
+  "poprawna": "Inspekcja Weterynaryjna",
+  "bledne": [
+   "Rada Gminy",
+   "Państwowa Straż Łowiecka",
+   "Minister właściwy do spraw rolnictwa"
+  ],
+  "wyjasnienie": "Art. 34a ust. 1 ustawy o ochronie zwierząt.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "31bc036800",
+  "temat": "Ochrona zwierząt",
+  "pytanie": "Zgodnie z ustawą o ochronie zwierząt znęcanie się nad zwierzętami należy zakwalifikować jako:",
+  "poprawna": "przestępstwo",
+  "bledne": [
+   "wykroczenie",
+   "zachowanie niebędące czynem zabronionym",
+   "wykroczenie, jeżeli obrażenia zwierzęcia są niewielkie"
+  ],
+  "wyjasnienie": "Art. 35 ust. 1a – pozbawienie wolności do lat 3.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "5f6801cdb2",
+  "temat": "Ochrona zwierząt",
+  "pytanie": "Schronisko dla zwierząt to miejsce przeznaczone do opieki nad zwierzętami:",
+  "poprawna": "domowymi",
+  "bledne": [
+   "psami wyłącznie",
+   "kotami wyłącznie",
+   "dzikimi"
+  ],
+  "wyjasnienie": "Art. 4 pkt 25 ustawy.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "c6336cff98",
+  "temat": "Ochrona zwierząt",
+  "pytanie": "Zwierzę, nad którym właściciel lub opiekun znęcał się, może być czasowo odebrane na podstawie decyzji:",
+  "poprawna": "wójta",
+  "bledne": [
+   "policjanta",
+   "lekarza powiatowego weterynarii",
+   "lekarza weterynarii"
+  ],
+  "wyjasnienie": "Art. 7 ust. 1: decyzja wójta (burmistrza, prezydenta miasta). W nagłych przypadkach policjant może odebrać zwierzę od razu (ust. 3), ale decyzję wydaje wójt.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "6aae84cd12",
+  "temat": "Ochrona zwierząt",
+  "pytanie": "Na terenie prywatnym ogrodzonym w sposób uniemożliwiający psu wyjście pies:",
+  "poprawna": "nie podlega zakazowi puszczania bez kontroli i oznakowania",
+  "bledne": [
+   "musi być oznakowany obrożą z tabliczką",
+   "musi posiadać wszczepiony mikrochip z danymi właściciela",
+   "musi być trzymany na uwięzi"
+  ],
+  "wyjasnienie": "Art. 10a ust. 3–4: zakaz puszczania psów bez kontroli i oznakowania nie dotyczy ogrodzonego terenu prywatnego.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "cc718ca4ca",
+  "temat": "Ochrona zwierząt",
+  "pytanie": "Pozyskiwanie zwierząt wolno żyjących w celu tworzenia kolekcji spreparowanych zwłok tych zwierząt wymaga zgody:",
+  "poprawna": "marszałka województwa",
+  "bledne": [
+   "lekarza powiatowego weterynarii",
+   "wójta",
+   "właściwego terytorialnie koła łowieckiego"
+  ],
+  "wyjasnienie": "Art. 22a ustawy o ochronie zwierząt.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "273fb32e22",
+  "temat": "Ochrona zwierząt",
+  "pytanie": "Prowadzenie hodowli lub utrzymywanie psa rasy uznawanej za agresywną bez wymaganego zezwolenia jest:",
+  "poprawna": "wykroczeniem, za które można orzec przepadek zwierzęcia",
+  "bledne": [
+   "przestępstwem",
+   "wykroczeniem",
+   "przestępstwem, za które można orzec przepadek zwierzęcia"
+  ],
+  "wyjasnienie": "Art. 37a: areszt lub grzywna, a w razie ukarania można orzec przepadek zwierzęcia.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "c65e79c450",
+  "temat": "Ochrona zwierząt",
+  "pytanie": "Zgodnie z ustawą ubój zwierząt kręgowych może odbywać się tylko po uprzednim ogłuszeniu (pozbawieniu świadomości):",
+  "poprawna": "z wyjątkiem uboju rytualnego",
+  "bledne": [
+   "a ubój rytualny tylko na indywidualne zamówienie wspólnot religijnych",
+   "a ubój rytualny tylko przez wspólnoty religijne zarejestrowane w RP",
+   "w każdym przypadku"
+  ],
+  "wyjasnienie": "UWAGA – dawny stan prawny: art. 34 ust. 1 wymaga pozbawienia świadomości. Trybunał Konstytucyjny (K 52/13, 2014) uznał jednak, że nie można zakazać uboju według metod wymaganych przez obrzędy religijne. Wcześniej ustawa dopuszczała ubój rytualny przez związki wyznaniowe o uregulowanej sytuacji prawnej, więc stare klucze mogą wskazywać tę odpowiedź.",
+  "zrodlo": "test"
+ }
+]

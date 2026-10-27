@@ -8,7 +8,7 @@ import os
 import sys
 import threading
 import webbrowser
-from http.server import HTTPServer, SimpleHTTPRequestHandler
+from http.server import SimpleHTTPRequestHandler, ThreadingHTTPServer
 
 PORT = 8770
 KATALOG = os.path.dirname(os.path.abspath(__file__))
@@ -28,7 +28,8 @@ class Handler(SimpleHTTPRequestHandler):
 
 
 if __name__ == "__main__":
-    serwer = HTTPServer(("127.0.0.1", PORT), Handler)
+    # tylko 127.0.0.1 – podgląd lokalny nie jest widoczny z sieci; wątki, żeby jedno wiszące połączenie nie blokowało reszty
+    serwer = ThreadingHTTPServer(("127.0.0.1", PORT), Handler)
     adres = f"http://localhost:{PORT}"
     print(f"Test działa: {adres}  (zamknij to okno, żeby wyłączyć)")
     if "--no-browser" not in sys.argv:

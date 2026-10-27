@@ -29,6 +29,9 @@ Postęp zapisuje się w Twojej przeglądarce, więc każdy uczy się osobno. Po 
 | Kod | Przedmiot | Pytań |
 |---|---|---|
 | **JM04 JS01** | Strzelanie broń krótka (bezpieczeństwo, broń i amunicja, P99, Beretta APX, REX Zero 1, Glock, teoria strzału, podstawy celnego strzelania, zacięcia) | 120 |
+| **JM03 JS01** | Systemy informacyjne Policji (podstawy prawne, ochrona danych, KSIP, systemy policyjne i pozapolicyjne, SIS, Interpol, Europol) | 150 |
+| **JM01 JS03** | Prawo karne szczegółowe (wybrane przestępstwa i wykroczenia) | 40 |
+| **JM01 JS04** | Ustawy szczególne (broń, narkomania, tytoń, dowody, prawo autorskie, dostęp warunkowy, alkohol, imprezy masowe, zwierzęta) | 110 |
 
 ## Skąd są pytania
 
@@ -45,7 +48,8 @@ Postęp zapisuje się w Twojej przeglądarce, więc każdy uczy się osobno. Po 
 ### Pliki
 
 ```
-index.html            cała strona (statyczna, działa na GitHub Pages)
+index.html            szkielet strony i style (z polityką CSP)
+app.js                logika testu (jedyny skrypt – CSP blokuje skrypty z innych źródeł i inline)
 dane/zakladki.json    lista zakładek
 dane/<KOD>.json       pytania jednej zakładki
 app.py, uruchom.bat   podgląd lokalny → http://localhost:8770

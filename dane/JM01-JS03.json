@@ -1,0 +1,522 @@
+[
+ {
+  "id": "661278dc6c",
+  "temat": "Pojęcia ogólne i wolność",
+  "pytanie": "Korzyścią majątkową lub osobistą w rozumieniu art. 115 § 4 k.k. jest korzyść:",
+  "poprawna": "zarówno dla siebie, jak i dla kogoś innego",
+  "bledne": [
+   "wyłącznie dla siebie",
+   "wyłącznie dla innej osoby",
+   "wyłącznie korzyść finansowa"
+  ],
+  "wyjasnienie": "Art. 115 § 4 k.k.: korzyścią majątkową lub osobistą jest korzyść zarówno dla siebie, jak i dla kogo innego. Ma to znaczenie m.in. przy łapownictwie (art. 228–229 k.k.).",
+  "zrodlo": "test"
+ },
+ {
+  "id": "9f9a1bdd1c",
+  "temat": "Pojęcia ogólne i wolność",
+  "pytanie": "Przy przestępstwie handlu ludźmi (art. 189a k.k.) ustawodawca przewiduje odpowiedzialność karną:",
+  "poprawna": "zawsze za przygotowanie",
+  "bledne": [
+   "wyłącznie za podżeganie",
+   "wyłącznie za pomocnictwo",
+   "wyłącznie za usiłowanie, sprawstwo, podżeganie i pomocnictwo"
+  ],
+  "wyjasnienie": "Art. 189a § 2 k.k.: kto czyni przygotowania do handlu ludźmi, podlega karze od 3 miesięcy do lat 5. Przygotowanie jest karalne tylko wtedy, gdy ustawa tak stanowi – tu stanowi.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "9719c1a3a5",
+  "temat": "Przestępstwa przeciwko mieniu",
+  "pytanie": "Oszustwo określone w art. 286 k.k.:",
+  "poprawna": "nie jest czynem przepołowionym, wartość strat nie ma znaczenia",
+  "bledne": [
+   "jest czynem przepołowionym, wartość strat ma znaczenie",
+   "nie jest czynem przepołowionym, wartość strat ma znaczenie",
+   "wskazuje, że przy stracie 500 zł sprawca odpowiada za wykroczenie"
+  ],
+  "wyjasnienie": "Oszustwa nie ma w art. 119 k.w. (tam są kradzież i przywłaszczenie), więc nie jest czynem przepołowionym – nawet przy szkodzie kilkudziesięciu złotych to przestępstwo z art. 286 k.k. Wartość ma znaczenie dopiero dla typu kwalifikowanego (mienie znacznej wartości, art. 294 k.k.) albo wypadku mniejszej wagi.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "82e20471aa",
+  "temat": "Przestępstwa przeciwko mieniu",
+  "pytanie": "Osoba, która wykonała monetę na wzór monety niebędącej aktualnie w obiegu, a następnie, wprowadzając nabywcę w błąd co do jej autentyczności, sprzedała ją za 350 zł, odpowie za:",
+  "poprawna": "przestępstwo oszustwa (art. 286 k.k.)",
+  "bledne": [
+   "przestępstwo fałszowania pieniędzy (art. 310 k.k.)",
+   "przestępstwo fałszu materialnego (art. 270 k.k.)",
+   "przestępstwo przywłaszczenia (art. 284 k.k.)"
+  ],
+  "wyjasnienie": "Moneta wycofana z obiegu nie jest pieniądzem (art. 310 k.k. odpada) ani dokumentem (art. 270 k.k. odpada). Sprawca wprowadził nabywcę w błąd i doprowadził go do niekorzystnego rozporządzenia mieniem – to oszustwo, i to bez względu na kwotę.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "ee741d42ef",
+  "temat": "Przestępstwa przeciwko instytucjom państwowym",
+  "pytanie": "Łapownictwo bierne określone w art. 228 § 1 k.k. polega na:",
+  "poprawna": "przyjęciu korzyści majątkowej lub osobistej albo jej obietnicy przez osobę pełniącą funkcję publiczną",
+  "bledne": [
+   "udzielaniu korzyści majątkowej lub osobistej osobie pełniącej funkcję publiczną",
+   "przyjęciu korzyści majątkowej albo jej obietnicy przez osobę pełniącą funkcję publiczną",
+   "udzielaniu korzyści majątkowej lub osobistej albo jej obietnicy osobie pełniącej funkcję publiczną"
+  ],
+  "wyjasnienie": "Art. 228 § 1 k.k.: kto w związku z pełnieniem funkcji publicznej PRZYJMUJE korzyść majątkową LUB OSOBISTĄ albo jej obietnicę. Udzielanie korzyści to łapownictwo czynne (art. 229 k.k.).",
+  "zrodlo": "test"
+ },
+ {
+  "id": "96640e7ad5",
+  "temat": "Przestępstwa przeciwko instytucjom państwowym",
+  "pytanie": "Łapownictwo czynne polega na:",
+  "poprawna": "udzielaniu albo obietnicy udzielenia korzyści majątkowej lub osobistej osobie pełniącej funkcję publiczną w związku z pełnieniem tej funkcji",
+  "bledne": [
+   "przyjęciu korzyści majątkowej przez osobę pełniącą funkcję publiczną",
+   "przyjęciu korzyści osobistej przez osobę pełniącą funkcję publiczną",
+   "udzieleniu korzyści majątkowej lub osobistej osobie fizycznej prowadzącej działalność gospodarczą"
+  ],
+  "wyjasnienie": "Art. 229 § 1 k.k.: kto udziela albo obiecuje udzielić korzyści majątkowej lub osobistej osobie pełniącej funkcję publiczną w związku z pełnieniem tej funkcji. Przyjmowanie to łapownictwo bierne (art. 228 k.k.).",
+  "zrodlo": "test"
+ },
+ {
+  "id": "01fd0b529b",
+  "temat": "Przestępstwa przeciwko instytucjom państwowym",
+  "pytanie": "Przestępstwo z art. 231 k.k. (przekroczenie uprawnień lub niedopełnienie obowiązków) może popełnić:",
+  "poprawna": "funkcjonariusz publiczny",
+  "bledne": [
+   "każdy",
+   "osoba publiczna",
+   "wyłącznie funkcjonariusz Policji"
+  ],
+  "wyjasnienie": "Nadużycie funkcji to przestępstwo indywidualne – sprawcą może być tylko funkcjonariusz publiczny w rozumieniu art. 115 § 13 k.k. (nie tylko policjant).",
+  "zrodlo": "test"
+ },
+ {
+  "id": "ecbb20f42d",
+  "temat": "Wiarygodność dokumentów",
+  "pytanie": "Przestępstwo fałszowania dokumentów (art. 270 § 1 k.k.) polega na tym, że:",
+  "poprawna": "sprawca w celu użycia za autentyczny podrabia lub przerabia dokument albo takiego dokumentu jako autentycznego używa",
+  "bledne": [
+   "sprawca podrabia lub przerabia dokument bez zamiaru użycia go jako autentycznego",
+   "sprawca podrabia albo przerabia dokument uprawniający do otrzymania sumy pieniężnej albo zwalniający z obowiązku wypłaty kapitału",
+   "sprawca, będąc funkcjonariuszem publicznym, wystawia dokument, w którym poświadcza nieprawdę co do okoliczności mających znaczenie prawne"
+  ],
+  "wyjasnienie": "To fałsz materialny (art. 270 k.k.) – konieczny jest cel użycia za autentyczny. Poświadczenie nieprawdy przez funkcjonariusza to fałsz intelektualny (art. 271 k.k.), a papiery wartościowe to art. 310 k.k.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "e27f90fc10",
+  "temat": "Wiarygodność dokumentów",
+  "pytanie": "Kradzież cudzego dowodu osobistego jest:",
+  "poprawna": "przestępstwem z art. 275 § 1 k.k.",
+  "bledne": [
+   "wykroczeniem",
+   "wykroczeniem z ustawy o dowodach osobistych",
+   "naruszeniem przepisów administracyjnych"
+  ],
+  "wyjasnienie": "Art. 275 § 1 k.k.: kto używa dokumentu stwierdzającego tożsamość innej osoby albo jej prawa majątkowe lub dokument taki kradnie lub go przywłaszcza – przestępstwo, bez względu na wartość. Ustawa o dowodach (art. 79) dotyczy tylko zatrzymania cudzego dowodu bez podstawy prawnej.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "dc0f7abe88",
+  "temat": "Wykroczenia",
+  "pytanie": "Podmiot w wykroczeniu wywołania fałszywego alarmu (art. 66 k.w.) jest:",
+  "poprawna": "powszechny",
+  "bledne": [
+   "indywidualny",
+   "powszechny i indywidualny",
+   "konkretny lub indywidualny"
+  ],
+  "wyjasnienie": "Art. 66 § 1 k.w. zaczyna się od „Kto…” – sprawcą może być każdy, więc podmiot jest powszechny.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "8a9224496b",
+  "temat": "Wykroczenia",
+  "pytanie": "Strona podmiotowa w wykroczeniu wprowadzenia w błąd organu państwowego co do tożsamości własnej lub innej osoby, obywatelstwa, zawodu, miejsca zatrudnienia lub zamieszkania (art. 65 § 1 k.w.) to:",
+  "poprawna": "umyślność",
+  "bledne": [
+   "nieumyślność",
+   "umyślność lub nieumyślność",
+   "strona podmiotowa kombinowana"
+  ],
+  "wyjasnienie": "Art. 65 § 1 k.w.: „Kto UMYŚLNIE wprowadza w błąd organ państwowy lub instytucję upoważnioną z mocy ustawy do legitymowania…” – tylko umyślność.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "173d0b172c",
+  "temat": "Przestępstwa przeciwko życiu i zdrowiu",
+  "pytanie": "Typem kwalifikowanym przestępstwa pobicia jest:",
+  "poprawna": "użycie broni palnej, noża lub innego niebezpiecznego narzędzia",
+  "bledne": [
+   "współudział w pobiciu",
+   "spowodowanie utraty mienia o znacznych rozmiarach",
+   "spowodowanie obrażeń ciała średniego uszczerbku na zdrowiu"
+  ],
+  "wyjasnienie": "Art. 159 k.k.: udział w bójce lub pobiciu z użyciem broni palnej, noża lub innego podobnie niebezpiecznego przedmiotu – od 6 miesięcy do lat 8.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "53eefdbb29",
+  "temat": "Przestępstwa przeciwko życiu i zdrowiu",
+  "pytanie": "Lekki uszczerbek na zdrowiu określony w art. 157 § 2 k.k. ma miejsce, gdy doszło do:",
+  "poprawna": "naruszenia czynności narządu ciała lub rozstroju zdrowia trwającego nie dłużej niż 7 dni",
+  "bledne": [
+   "trwałej utraty słuchu",
+   "amputacji palca dłoni",
+   "naruszenia czynności narządu ciała lub rozstroju zdrowia trwającego dłużej niż 7 dni"
+  ],
+  "wyjasnienie": "Art. 157 § 2 k.k.: do 7 dni – lekki (ściganie na wniosek, § 4). Powyżej 7 dni – średni (§ 1). Utrata słuchu – ciężki (art. 156).",
+  "zrodlo": "test"
+ },
+ {
+  "id": "ac9002766a",
+  "temat": "Przestępstwa przeciwko życiu i zdrowiu",
+  "pytanie": "Typem kwalifikowanym przestępstwa zabójstwa jest:",
+  "poprawna": "zabicie człowieka ze szczególnym okrucieństwem",
+  "bledne": [
+   "zabójstwo w afekcie",
+   "zabicie człowieka w wyniku wypadku drogowego",
+   "podżeganie do popełnienia zabójstwa"
+  ],
+  "wyjasnienie": "Art. 148 § 2 pkt 1 k.k. Zabójstwo w afekcie to typ uprzywilejowany (§ 4).",
+  "zrodlo": "test"
+ },
+ {
+  "id": "9769af92ab",
+  "temat": "Przestępstwa przeciwko życiu i zdrowiu",
+  "pytanie": "Osoba, która jest obecna na miejscu bójki i w czasie jej trwania swoim zachowaniem „zagrzewa” do jej popełnienia, odpowie za:",
+  "poprawna": "nic – nie poniesie odpowiedzialności karnej",
+  "bledne": [
+   "udział w bójce",
+   "udział w pobiciu",
+   "udział w nieumyślnym spowodowaniu uszczerbku na zdrowiu"
+  ],
+  "wyjasnienie": "UWAGA – niepewne: uczestnikiem bójki (art. 158 k.k.) jest osoba, która fizycznie bierze w niej udział. Samo dopingowanie z boku zwykle nie wypełnia znamion udziału.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "29abae434e",
+  "temat": "Przestępstwa przeciwko życiu i zdrowiu",
+  "pytanie": "Podmiot w przestępstwie znęcania się (art. 207 k.k.) może być:",
+  "poprawna": "tylko indywidualny",
+  "bledne": [
+   "tylko ogólny",
+   "powszechny lub indywidualny",
+   "mieszany"
+  ],
+  "wyjasnienie": "UWAGA – niepewne: sprawcą może być tylko osoba, wobec której pokrzywdzony jest osobą najbliższą albo pozostaje w stałym lub przemijającym stosunku zależności. Dlatego w testach zwykle przyjmuje się przestępstwo indywidualne. W doktrynie są też inne poglądy.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "549b6c9c3b",
+  "temat": "Przestępstwa przeciwko mieniu",
+  "pytanie": "Przywłaszczenie rzeczy znalezionej określone w art. 284 § 3 k.k.:",
+  "poprawna": "jest typem uprzywilejowanym przestępstwa polegającego na przywłaszczeniu mienia",
+  "bledne": [
+   "nie jest przestępstwem",
+   "odwołuje się do art. 119 § 1 k.w.",
+   "jest typem kwalifikowanym przestępstwa polegającego na przywłaszczeniu mienia"
+  ],
+  "wyjasnienie": "Art. 284 § 3 k.k.: wypadek mniejszej wagi albo przywłaszczenie rzeczy znalezionej – łagodniejsza kara (typ uprzywilejowany).",
+  "zrodlo": "test"
+ },
+ {
+  "id": "a92e64ba1b",
+  "temat": "Przestępstwa przeciwko mieniu",
+  "pytanie": "Rozbój to przestępstwo, w którym sprawca:",
+  "poprawna": "kradnie, używając przemocy wobec osoby lub grożąc natychmiastowym jej użyciem albo doprowadzając człowieka do stanu nieprzytomności lub bezbronności",
+  "bledne": [
+   "w celu utrzymania się w posiadaniu zabranej rzeczy, bezpośrednio po dokonaniu kradzieży używa przemocy wobec osoby",
+   "w celu osiągnięcia korzyści majątkowej, przemocą, groźbą zamachu na życie lub zdrowie albo gwałtownego zamachu na mienie, doprowadza inną osobę do rozporządzenia mieniem",
+   "w celu osiągnięcia korzyści majątkowej doprowadza inną osobę do niekorzystnego rozporządzenia mieniem za pomocą wprowadzenia jej w błąd albo wyzyskania błędu"
+  ],
+  "wyjasnienie": "Art. 280 § 1 k.k. Pozostałe odpowiedzi to: kradzież rozbójnicza (art. 281), wymuszenie rozbójnicze (art. 282) i oszustwo (art. 286).",
+  "zrodlo": "test"
+ },
+ {
+  "id": "a02ae7d809",
+  "temat": "Przestępstwa przeciwko mieniu",
+  "pytanie": "Kradzież pojazdu mechanicznego od jego krótkotrwałego użycia różni się:",
+  "poprawna": "celem dokonania zaboru pojazdu",
+  "bledne": [
+   "miejscem dokonania zaboru pojazdu",
+   "użytymi przez sprawcę narzędziami",
+   "sposobem dokonania zaboru"
+  ],
+  "wyjasnienie": "Kradzież (art. 278) – zabór w celu przywłaszczenia. Zabór w celu krótkotrwałego użycia to art. 289.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "c81b30ecc3",
+  "temat": "Przestępstwa przeciwko mieniu",
+  "pytanie": "Sprawca, który zabiera w celu krótkotrwałego użycia cudzy pojazd mechaniczny, uprzednio pokonując jego zabezpieczenie przed użyciem przez osobę nieupoważnioną, odpowie za:",
+  "poprawna": "typ kwalifikowany przestępstwa z art. 289 k.k.",
+  "bledne": [
+   "typ podstawowy przestępstwa z art. 289 k.k.",
+   "typ podstawowy przestępstwa z art. 279 k.k.",
+   "typ kwalifikowany przestępstwa z art. 278 k.k."
+  ],
+  "wyjasnienie": "Art. 289 § 2 k.k.: pokonanie zabezpieczenia – od 3 miesięcy do lat 5 (typ kwalifikowany).",
+  "zrodlo": "test"
+ },
+ {
+  "id": "60415b79fc",
+  "temat": "Przestępstwa przeciwko mieniu",
+  "pytanie": "Przy zdarzeniu kradzieży ważna jest kwota strat. Jeżeli wynosi ona równo 800 zł, mamy do czynienia z:",
+  "poprawna": "wykroczeniem",
+  "bledne": [
+   "przestępstwem",
+   "zbrodnią",
+   "wypadkiem mniejszej wagi"
+  ],
+  "wyjasnienie": "Art. 119 § 1 k.w.: wartość NIE PRZEKRACZA 800 zł, czyli 800 zł to jeszcze wykroczenie. Od 800,01 zł to przestępstwo.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "533e0888a3",
+  "temat": "Przestępstwa przeciwko mieniu",
+  "pytanie": "Łukasz Z. wyłamał z zawiasów drzwi wejściowe do pomieszczenia piwnicznego, następnie zabrał w celu przywłaszczenia rower dziecięcy, powodując stratę o łącznej wartości 450 zł. Czyn należy zakwalifikować jako:",
+  "poprawna": "przestępstwo kradzieży z włamaniem – art. 279 § 1 k.k.",
+  "bledne": [
+   "wykroczenie kradzieży mienia – art. 119 § 1 k.w.",
+   "przestępstwo uszkodzenia mienia – art. 124 § 1 k.w.",
+   "przestępstwo uszkodzenia mienia – art. 288 § 1 k.k. w zbiegu pozornym z przestępstwem z art. 278 § 1 k.k."
+  ],
+  "wyjasnienie": "Kradzież z włamaniem jest przestępstwem bez względu na wartość – nie ma jej odpowiednika w k.w.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "f4fe37bdb9",
+  "temat": "Przestępstwa przeciwko mieniu",
+  "pytanie": "Kradzież energii elektrycznej na szkodę osoby najbliższej jest:",
+  "poprawna": "przestępstwem ściganym na wniosek pokrzywdzonego",
+  "bledne": [
+   "wykroczeniem",
+   "przestępstwem ściganym z urzędu",
+   "przestępstwem ściganym na żądanie pokrzywdzonego"
+  ],
+  "wyjasnienie": "Energia to art. 278 § 5 k.k. (zawsze przestępstwo – art. 119 k.w. dotyczy rzeczy ruchomych). Na szkodę osoby najbliższej ściganie następuje na wniosek (art. 278 § 4). „Na żądanie” to pojęcie z k.w.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "d95abcbff5",
+  "temat": "Przestępstwa przeciwko mieniu",
+  "pytanie": "Zachowanie sprawcy w przestępstwie paserstwa umyślnego polega na tym, że sprawca:",
+  "poprawna": "rzecz uzyskaną za pomocą czynu zabronionego nabywa lub pomaga do jej zbycia albo tę rzecz przyjmuje lub pomaga do jej ukrycia",
+  "bledne": [
+   "przedmiot znaleziony na ulicy użytkuje jak własny",
+   "cudzą rzecz niszczy, uszkadza lub czyni niezdatną do użytku",
+   "nabywa korzyść majątkową w zamian za zwrot bezprawnie zabranej rzeczy"
+  ],
+  "wyjasnienie": "Art. 291 § 1 k.k.: paserstwo to nabycie, pomoc w zbyciu, przyjęcie lub pomoc w ukryciu rzeczy uzyskanej za pomocą czynu zabronionego. Pozostałe odpowiedzi opisują inne czyny (przywłaszczenie rzeczy znalezionej, zniszczenie rzeczy).",
+  "zrodlo": "test"
+ },
+ {
+  "id": "e12a46a69b",
+  "temat": "Przestępstwa przeciwko mieniu",
+  "pytanie": "Strona podmiotowa w przestępstwie uszkodzenia lub zniszczenia rzeczy (art. 288 k.k.) to:",
+  "poprawna": "tylko umyślność",
+  "bledne": [
+   "umyślność lub nieumyślność",
+   "tylko nieumyślność",
+   "strona podmiotowa kombinowana"
+  ],
+  "wyjasnienie": "Art. 288 k.k. nie przewiduje typu nieumyślnego – karalne jest tylko umyślne niszczenie lub uszkadzanie.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "e9879b765f",
+  "temat": "Przestępstwa przeciwko mieniu",
+  "pytanie": "Sutenerstwo to:",
+  "poprawna": "czerpanie korzyści majątkowych z uprawiania prostytucji przez inną osobę",
+  "bledne": [
+   "nakłanianie innej osoby do uprawiania prostytucji",
+   "czerpanie korzyści majątkowych z uprawiania prostytucji",
+   "ułatwianie innej osobie uprawiania prostytucji w celu uzyskania korzyści majątkowej"
+  ],
+  "wyjasnienie": "Art. 204 § 2 k.k. Nakłanianie i ułatwianie w celu korzyści to stręczycielstwo i kuplerstwo (art. 204 § 1).",
+  "zrodlo": "test"
+ },
+ {
+  "id": "9c33919f99",
+  "temat": "Przestępstwa komunikacyjne i porządek",
+  "pytanie": "Okolicznościami modalnymi miejsca przestępstwa kierowania pojazdem mechanicznym w stanie nietrzeźwości (art. 178a k.k.) są:",
+  "poprawna": "ruch lądowy, wodny, powietrzny",
+  "bledne": [
+   "tylko ruch lądowy i wodny",
+   "droga publiczna, strefa ruchu, strefa zamieszkania",
+   "ruch lądowy, wodny, powietrzny tylko w miejscach, gdzie odbywa się ruch"
+  ],
+  "wyjasnienie": "Art. 178a § 1 k.k.: „prowadzi pojazd mechaniczny w ruchu lądowym, wodnym lub powietrznym”.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "11ac850a2b",
+  "temat": "Przestępstwa komunikacyjne i porządek",
+  "pytanie": "Przestępstwo wypadku drogowego zaistnieje wówczas, gdy:",
+  "poprawna": "kierujący pojazdem mechanicznym naruszy chociażby nieumyślnie zasady bezpieczeństwa i doprowadzi do zderzenia, w wyniku którego pasażer drugiego pojazdu dozna złamania nogi",
+  "bledne": [
+   "kierujący pojazdem mechanicznym na skutek niezachowania ostrożności uderzy w przydrożny słup i dozna złamania ręki",
+   "kierujący pojazdem mechanicznym w stanie nietrzeźwości doprowadzi do zderzenia z drugim pojazdem mechanicznym",
+   "kierujący pojazdem mechanicznym robi to wbrew orzeczonemu przez sąd zakazowi i znajduje się w stanie nietrzeźwości"
+  ],
+  "wyjasnienie": "Art. 177 § 1 k.k.: naruszenie zasad bezpieczeństwa i wypadek, w którym INNA osoba doznała obrażeń trwających powyżej 7 dni (np. złamanie nogi). Obrażenia samego sprawcy się nie liczą.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "82ea69d192",
+  "temat": "Przestępstwa komunikacyjne i porządek",
+  "pytanie": "Łukasz R., kierując pojazdem, nie zastosował się do znaku A-1 „ustąp pierwszeństwa”, przez co kierujący BMW musiał gwałtownie hamować i zmienić pas ruchu. Czyn należy zakwalifikować jako:",
+  "poprawna": "spowodowanie zagrożenia bezpieczeństwa w ruchu drogowym (art. 86 § 1 k.w.), za co może być orzeczony zakaz prowadzenia pojazdów",
+  "bledne": [
+   "brak wykroczenia",
+   "niezastosowanie się do znaku drogowego – art. 92 § 1 k.w.",
+   "spowodowanie wypadku komunikacyjnego – art. 177 § 1 k.k."
+  ],
+  "wyjasnienie": "Wymuszenie pierwszeństwa, które spowodowało realne zagrożenie (gwałtowne hamowanie) – art. 86 § 1 k.w. Nie było obrażeń, więc to nie wypadek. Art. 92 to samo niezastosowanie się do znaku, bez zagrożenia.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "e78ef44e63",
+  "temat": "Przestępstwa komunikacyjne i porządek",
+  "pytanie": "Patrol WRD zatrzymał Kazimierza Z., który jechał rowerem po drodze publicznej i miał 0,45 mg/dm³ alkoholu w wydychanym powietrzu. Kazimierz Z. odpowie za:",
+  "poprawna": "wykroczenie z art. 87 § 1a k.w. – prowadzenie pojazdu innego niż mechaniczny w stanie nietrzeźwości",
+  "bledne": [
+   "wykroczenie z art. 87 § 1 k.w. – prowadzenie pojazdu mechanicznego w stanie nietrzeźwości",
+   "przestępstwo z art. 178a § 1 k.k. – prowadzenie pojazdu mechanicznego w stanie nietrzeźwości",
+   "wykroczenie z art. 87 § 2 k.w. – prowadzenie pojazdu innego niż mechaniczny w stanie po użyciu alkoholu"
+  ],
+  "wyjasnienie": "0,45 mg/dm³ to więcej niż 0,25, czyli stan nietrzeźwości. Rower nie jest pojazdem mechanicznym, więc to wykroczenie z art. 87 § 1a k.w., a nie przestępstwo.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "fcaf1472df",
+  "temat": "Wykroczenia",
+  "pytanie": "Jan K. o 23:00 w Legionowie obnażał się w miejscu publicznym, czym zgorszył obecną w pobliżu Hannę P. Czyn należy zakwalifikować jako:",
+  "poprawna": "nieobyczajny wybryk – art. 140 k.w.",
+  "bledne": [
+   "czyn nieprzyzwoitej działalności karnej sprawcy wykroczenia z uwagi na porę nocną",
+   "publiczne prezentowanie treści pornograficznych – art. 202 § 1 k.k.",
+   "zakłócenie spokoju i porządku publicznego (wywołanie zgorszenia) – art. 51 § 1 k.w."
+  ],
+  "wyjasnienie": "Art. 140 k.w.: publiczne dopuszczenie się nieobyczajnego wybryku – obnażanie się to typowy przykład.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "29f2f75633",
+  "temat": "Wykroczenia",
+  "pytanie": "Niezabezpieczenie miejsca niebezpiecznego (art. 72 k.w.) jest:",
+  "poprawna": "wykroczeniem formalnym – nie jest konieczne wystąpienie skutku w postaci niebezpieczeństwa",
+  "bledne": [
+   "przestępstwem",
+   "wykroczeniem tylko w przypadku, jeśli dojdzie do lekkiego uszczerbku na zdrowiu",
+   "wykroczeniem materialnym – nie jest konieczne wystąpienie skutku w postaci niebezpieczeństwa"
+  ],
+  "wyjasnienie": "Art. 72 k.w.: samo niedokonanie zabezpieczenia wbrew obowiązkowi wypełnia znamiona (wykroczenie formalne, bezskutkowe).",
+  "zrodlo": "test"
+ },
+ {
+  "id": "214df32539",
+  "temat": "Wykroczenia",
+  "pytanie": "Wykroczenie uszkodzenia rzeczy określone w art. 124 § 1 k.w. można popełnić:",
+  "poprawna": "wyłącznie umyślnie",
+  "bledne": [
+   "wyłącznie celowo",
+   "wyłącznie nieumyślnie",
+   "umyślnie i nieumyślnie"
+  ],
+  "wyjasnienie": "Art. 124 § 1 k.w.: „Kto cudzą rzecz UMYŚLNIE niszczy, uszkadza lub czyni niezdatną do użytku…”.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "98b6aaf8a3",
+  "temat": "Wykroczenia",
+  "pytanie": "Przy wykroczeniu uszkodzenia rzeczy (art. 124 k.w.) wartość mienia:",
+  "poprawna": "zawsze nie może przekraczać 800 zł",
+  "bledne": [
+   "nie jest określona i nie ma żadnego znaczenia",
+   "nie ma znaczenia, ale tylko przy umyślnym działaniu sprawcy",
+   "może przekraczać 800 zł, ale tylko przy nieumyślnym działaniu sprawcy"
+  ],
+  "wyjasnienie": "Art. 124 § 1 k.w.: szkoda nie może przekraczać 800 zł. Powyżej tej kwoty to przestępstwo z art. 288 k.k.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "46da94c770",
+  "temat": "Wykroczenia",
+  "pytanie": "Uszkodzenie automatu pobierającego opłaty za parking miejski o wartości 400 zł jest czynem polegającym na:",
+  "poprawna": "uszkodzeniu rzeczy – art. 124 § 1 k.w.",
+  "bledne": [
+   "zniszczeniu mienia – art. 288 § 1 k.k.",
+   "zniszczeniu cudzej rzeczy niemajątkowej – art. 126 § 1 k.w.",
+   "utrudnieniu korzystania z urządzeń przeznaczonych do użytku publicznego – art. 143 § 1 k.w."
+  ],
+  "wyjasnienie": "Szkoda 400 zł, czyli do 800 zł, więc to wykroczenie z art. 124 § 1 k.w.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "baa74e36a6",
+  "temat": "Wykroczenia",
+  "pytanie": "Deptanie trawnika określone w art. 144 § 1 k.w.:",
+  "poprawna": "jest popełnione niezależnie od tego, czy doszło do uszkodzenia trawnika",
+  "bledne": [
+   "jest wykroczeniem materialnym",
+   "jest popełnione tylko wtedy, gdy doszło do uszkodzenia trawnika",
+   "jest popełnione tylko wtedy, gdy można ustalić wartość uszkodzonego trawnika"
+  ],
+  "wyjasnienie": "Art. 144 § 1 k.w.: „depcze trawnik lub zieleniec” w miejscach innych niż wyznaczone – samo deptanie wystarcza.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "b997e9400c",
+  "temat": "Wykroczenia",
+  "pytanie": "Szalbierstwo określone w art. 121 § 2 k.w. to zachowanie polegające na:",
+  "poprawna": "wyłudzeniu pożywienia lub napoju w zakładzie żywienia zbiorowego, przejazdu środkiem lokomocji przedsiębiorstwa niedysponującego karami pieniężnymi w taryfie, wstępu na imprezę artystyczną, rozrywkową lub sportową, działania automatu lub innego podobnego świadczenia, o którym wie, że jest płatne",
+  "bledne": [
+   "zmuszaniu innej osoby do żebrania",
+   "wyłudzeniu wyłącznie pożywienia, o którym wie, że jest płatne",
+   "wyłudzeniu wyłącznie przejazdu środkiem lokomocji należącym do przedsiębiorstwa niedysponującego karami pieniężnymi określonymi w taryfie"
+  ],
+  "wyjasnienie": "Art. 121 § 2 k.w. wymienia wszystkie te świadczenia – odpowiedzi „wyłącznie…” są niepełne.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "96fdc4c4b0",
+  "temat": "Wykroczenia",
+  "pytanie": "Wykroczenie zakłócenia spokoju i porządku publicznego (art. 51 k.w.) może być popełnione:",
+  "poprawna": "krzykiem, hałasem, alarmem lub innym wybrykiem",
+  "bledne": [
+   "tylko krzykiem",
+   "tylko hałasem",
+   "poprzez wprowadzenie w błąd organu samorządowego"
+  ],
+  "wyjasnienie": "Art. 51 § 1 k.w.: „Kto krzykiem, hałasem, alarmem lub innym wybrykiem zakłóca spokój…”.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "f8288deded",
+  "temat": "Wykroczenia",
+  "pytanie": "Wykroczenie żebractwa popełnia ten, kto:",
+  "poprawna": "mając środki egzystencji lub będąc zdolny do pracy żebrze w miejscu publicznym albo żebrze w miejscu publicznym w sposób natarczywy lub oszukańczy",
+  "bledne": [
+   "mając środki egzystencji i będąc zdolny do pracy przyjmuje drobne rzeczy od nieznanych mu osób",
+   "żebrze z powodu niezdolności do pracy i nie ma środków egzystencji",
+   "zbiera niepotrzebne rzeczy wystawione przez osoby trzecie w miejscach ogólnodostępnych"
+  ],
+  "wyjasnienie": "Art. 58 § 1 i § 2 k.w.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "710c1dacbd",
+  "temat": "Wykroczenia",
+  "pytanie": "O popełnieniu wykroczenia nieopuszczenia zbiegowiska można mówić wtedy, gdy:",
+  "poprawna": "sprawca nie opuszcza zbiegowiska publicznego pomimo wezwania właściwego organu",
+  "bledne": [
+   "sprawca nie opuszcza zbiegowiska publicznego",
+   "sprawca nie opuszcza zbiegowiska publicznego pomimo wezwania jakiegokolwiek organu",
+   "sprawca opuszcza zbiegowisko na wezwanie właściwego organu"
+  ],
+  "wyjasnienie": "Art. 50 k.w.: „Kto nie opuszcza zbiegowiska publicznego pomimo wezwania właściwego organu”.",
+  "zrodlo": "test"
+ }
+]

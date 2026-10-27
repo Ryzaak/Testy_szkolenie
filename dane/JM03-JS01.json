@@ -1,0 +1,1952 @@
+[
+ {
+  "id": "51baf703a1",
+  "temat": "Podstawy prawne i ochrona danych",
+  "pytanie": "Który przepis wskazano w materiale jako podstawę możliwości rejestrowania przez Policję obrazu i dźwięku?",
+  "poprawna": "Art. 15 ustawy z dnia 6 kwietnia 1990 r. o Policji",
+  "bledne": [
+   "Art. 308 Kodeksu postępowania karnego",
+   "Art. 20 ustawy o Policji",
+   "Art. 20c ustawy o Policji"
+  ],
+  "wyjasnienie": "Art. 15 ust. 1 pkt 5a ustawy o Policji: obserwowanie i rejestrowanie przy użyciu środków technicznych obrazu zdarzeń w miejscach publicznych, a przy czynnościach operacyjno-rozpoznawczych także dźwięku.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "6f879a67cb",
+  "temat": "Podstawy prawne i ochrona danych",
+  "pytanie": "Który artykuł ustawy o Policji reguluje uzyskiwanie danych telekomunikacyjnych, pocztowych i internetowych?",
+  "poprawna": "Art. 20c",
+  "bledne": [
+   "Art. 15",
+   "Art. 20",
+   "Art. 20e"
+  ],
+  "wyjasnienie": "Art. 20c ustawy o Policji – dane telekomunikacyjne (m.in. bilingi), pocztowe i internetowe.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "0e6f8229fc",
+  "temat": "Podstawy prawne i ochrona danych",
+  "pytanie": "Przez jaki okres – zgodnie z materiałem – operator publicznej sieci telekomunikacyjnej ma gromadzić informacje o połączeniach abonenta?",
+  "poprawna": "12 miesięcy",
+  "bledne": [
+   "6 miesięcy",
+   "24 miesiące",
+   "5 lat"
+  ],
+  "wyjasnienie": "Operatorzy przechowują dane o połączeniach (retencja) przez 12 miesięcy.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "6718c0dcf9",
+  "temat": "Podstawy prawne i ochrona danych",
+  "pytanie": "Który przepis wskazano jako podstawę uzyskiwania, sprawdzania, przetwarzania i wymiany informacji przez Policję?",
+  "poprawna": "Art. 20 ustawy o Policji",
+  "bledne": [
+   "Art. 20c ustawy o Policji",
+   "Art. 21 Konstytucji RP",
+   "Art. 15 ustawy o Policji"
+  ],
+  "wyjasnienie": "Art. 20 ustawy o Policji to podstawowy przepis o gromadzeniu i przetwarzaniu informacji, w tym danych osobowych.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "1d0c647567",
+  "temat": "Podstawy prawne i ochrona danych",
+  "pytanie": "Podstawowym przepisem dającym Policji możliwość gromadzenia i przetwarzania informacji, w tym danych osobowych, jest:",
+  "poprawna": "Art. 20 ustawy o Policji",
+  "bledne": [
+   "Art. 15 zarządzenia nr 70 KGP",
+   "Art. 20 zarządzenia nr 70 KGP",
+   "Art. 15 ustawy o Policji"
+  ],
+  "wyjasnienie": "Art. 20 ustawy o Policji. Zarządzenie nr 70 KGP ma paragrafy, nie artykuły, i jest aktem wykonawczym.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "b59e9074c7",
+  "temat": "Podstawy prawne i ochrona danych",
+  "pytanie": "Który artykuł ustawy o Policji ponownie wskazano w materiale jako podstawę prawną wykorzystywania baz danych przez funkcjonariuszy?",
+  "poprawna": "Art. 20",
+  "bledne": [
+   "Art. 15a",
+   "Art. 20e",
+   "Art. 51"
+  ],
+  "wyjasnienie": "Art. 20 ustawy o Policji – gromadzenie, przetwarzanie i wykorzystywanie informacji w bazach danych.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "440c485c17",
+  "temat": "Podstawy prawne i ochrona danych",
+  "pytanie": "Podstawą prawną dającą Policji możliwość gromadzenia, przetwarzania i wykorzystywania informacji w ramach baz danych jest:",
+  "poprawna": "Ustawa o Policji z dnia 6 IV 1990 r. – art. 20",
+  "bledne": [
+   "Ustawa o Policji z dnia 6 IV 1990 r. – art. 61",
+   "Zarządzenie KGP nr 70 z dnia 2 XII 2019 r. – § 5",
+   "Rozporządzenie KGP nr 70 z dnia 2 XII 2019 r. – § 5"
+  ],
+  "wyjasnienie": "Art. 20 ustawy o Policji. KGP wydaje zarządzenia, a nie rozporządzenia.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "a0c99e1bc6",
+  "temat": "Podstawy prawne i ochrona danych",
+  "pytanie": "Policja może mieć dostęp do bilingów telefonicznych, co gwarantuje:",
+  "poprawna": "Ustawa o Policji z dnia 6 IV 1990 r. – art. 20c",
+  "bledne": [
+   "Ustawa o Policji z dnia 6 IV 1990 r. – art. 61",
+   "Ustawa – Prawo telekomunikacyjne z dnia 16 VII 2004 r. – art. 152a",
+   "Ustawa o świadczeniu usług drogą elektroniczną z dnia 18 VII 2002 r. – art. 14"
+  ],
+  "wyjasnienie": "Bilingi to dane telekomunikacyjne – podstawą dla Policji jest art. 20c ustawy o Policji.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "1e5722a567",
+  "temat": "Podstawy prawne i ochrona danych",
+  "pytanie": "Zgodnie z ustawą o Policji kontrolę nad uzyskiwaniem przez Policję danych telekomunikacyjnych, pocztowych i internetowych sprawuje:",
+  "poprawna": "sąd okręgowy",
+  "bledne": [
+   "Prezes Urzędu Ochrony Danych Osobowych",
+   "komendant wojewódzki Policji",
+   "prokurator okręgowy"
+  ],
+  "wyjasnienie": "Art. 20ca ustawy o Policji: kontrolę nad pozyskiwaniem danych z art. 20c sprawuje właściwy sąd okręgowy (na podstawie półrocznych sprawozdań).",
+  "zrodlo": "test"
+ },
+ {
+  "id": "5ba91d8a79",
+  "temat": "Podstawy prawne i ochrona danych",
+  "pytanie": "Które przyporządkowanie przepisów ustawy o Policji jest właściwe według materiału?",
+  "poprawna": "Art. 15 – rejestrowanie obrazu i dźwięku; art. 20 – przetwarzanie informacji; art. 20c – określone dane komunikacyjne",
+  "bledne": [
+   "Art. 15 – KRK; art. 20 – CEPiK; art. 20c – PESEL",
+   "Art. 15 – SIS; art. 20 – VIS; art. 20c – EUCARIS",
+   "Art. 15 – dane komunikacyjne; art. 20 – rejestrowanie dźwięku; art. 20c – imprezy masowe"
+  ],
+  "wyjasnienie": "Art. 15 – uprawnienia, w tym rejestrowanie obrazu i dźwięku; art. 20 – przetwarzanie informacji; art. 20c – dane telekomunikacyjne, pocztowe i internetowe.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "9d318062f3",
+  "temat": "Podstawy prawne i ochrona danych",
+  "pytanie": "Kto – zgodnie z materiałem – sprawuje nadzór nad danymi gromadzonymi przez Policję?",
+  "poprawna": "Prezes UODO",
+  "bledne": [
+   "Komendant Główny Policji",
+   "Prokurator Generalny",
+   "sąd okręgowy"
+  ],
+  "wyjasnienie": "Organem nadzorczym w zakresie ochrony danych osobowych (także przetwarzanych przez Policję) jest Prezes Urzędu Ochrony Danych Osobowych.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "18124bbbdd",
+  "temat": "Podstawy prawne i ochrona danych",
+  "pytanie": "Numer PESEL nie jest „daną wrażliwą” w rozumieniu:",
+  "poprawna": "przepisów o ochronie danych osobowych",
+  "bledne": [
+   "ustawy o ewidencji ludności",
+   "Kodeksu cywilnego",
+   "ustawy o dowodach osobistych"
+  ],
+  "wyjasnienie": "Szczególne kategorie danych („wrażliwe”) wymienia art. 9 RODO (np. zdrowie, poglądy, biometria). PESEL to zwykła dana osobowa, choć wymagająca ochrony.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "d1425585d3",
+  "temat": "Podstawy prawne i ochrona danych",
+  "pytanie": "Który element triady CIA oznacza ochronę informacji przed dostępem osób nieuprawnionych?",
+  "poprawna": "Poufność",
+  "bledne": [
+   "Rozliczalność",
+   "Dostępność",
+   "Integralność"
+  ],
+  "wyjasnienie": "Poufność – dostęp tylko dla uprawnionych, w zakresie potrzebnym do zadań.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "de31283dea",
+  "temat": "Podstawy prawne i ochrona danych",
+  "pytanie": "Który element triady CIA oznacza zapewnienie, że uprawniony użytkownik może skorzystać z informacji, gdy jej potrzebuje?",
+  "poprawna": "Dostępność",
+  "bledne": [
+   "Poufność",
+   "Integralność",
+   "Rozliczalność"
+  ],
+  "wyjasnienie": "Dostępność – system i dane są dostępne dla uprawnionego wtedy, gdy ich potrzebuje.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "8596d762b5",
+  "temat": "Podstawy prawne i ochrona danych",
+  "pytanie": "Który element triady CIA chroni dane przed nieuprawnioną lub przypadkową zmianą?",
+  "poprawna": "Integralność",
+  "bledne": [
+   "Poufność",
+   "Dostępność",
+   "Rozliczalność"
+  ],
+  "wyjasnienie": "Integralność – dane nie są zmieniane w sposób nieuprawniony ani przypadkowy.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "70cf1bf3a0",
+  "temat": "Podstawy prawne i ochrona danych",
+  "pytanie": "Który dodatkowy filar polityki bezpieczeństwa KSIP uzupełnia triadę CIA?",
+  "poprawna": "Rozliczalność",
+  "bledne": [
+   "Niezaprzeczalność",
+   "Minimalizacja",
+   "Anonimowość"
+  ],
+  "wyjasnienie": "Cztery filary KSIP: poufność, integralność, dostępność i rozliczalność (możliwość przypisania każdej operacji konkretnemu użytkownikowi).",
+  "zrodlo": "test"
+ },
+ {
+  "id": "5db1cbac78",
+  "temat": "Podstawy prawne i ochrona danych",
+  "pytanie": "Który zestaw przedstawia cztery filary polityki bezpieczeństwa KSIP podane w materiale?",
+  "poprawna": "Poufność, dostępność, integralność, rozliczalność",
+  "bledne": [
+   "Integralność, szyfrowanie, archiwizacja, retencja",
+   "Poufność, legalność, proporcjonalność, celowość",
+   "Dostępność, anonimowość, niezawodność, jawność"
+  ],
+  "wyjasnienie": "Polityka bezpieczeństwa KSIP opiera się na poufności, integralności, dostępności i rozliczalności.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "cfc1e0397c",
+  "temat": "Podstawy prawne i ochrona danych",
+  "pytanie": "Integralność danych oznacza:",
+  "poprawna": "zapewnienie, że operacje na danych w systemie są wynikiem świadomych i zaplanowanych działań uprawnionych użytkowników",
+  "bledne": [
+   "rejestrowanie działań tak, aby użytkownik nie mógł zaprzeczyć ich wykonaniu",
+   "dostęp wyłącznie osób uprawnionych, ograniczony do realizowanych zadań",
+   "możliwość pracy użytkownika zgodnie z wymaganiami ochrony"
+  ],
+  "wyjasnienie": "Definicje: integralność – zmiany tylko świadome i uprawnione; rozliczalność – nie da się zaprzeczyć wykonanej operacji; poufność – dostęp tylko dla uprawnionych; dostępność – możliwość pracy.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "47a4e92526",
+  "temat": "Podstawy prawne i ochrona danych",
+  "pytanie": "Użytkownik KSIP zmienił dane, ale system nie pozwala ustalić, kto wykonał operację. Który filar bezpieczeństwa został naruszony?",
+  "poprawna": "Rozliczalność",
+  "bledne": [
+   "Poufność",
+   "Dostępność",
+   "Integralność"
+  ],
+  "wyjasnienie": "Rozliczalność oznacza, że każdą operację da się przypisać konkretnemu użytkownikowi.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "f018d85c86",
+  "temat": "Systemy policyjne i pozapolicyjne",
+  "pytanie": "Rozwiń skrót KSIP.",
+  "poprawna": "Krajowy System Informacyjny Policji",
+  "bledne": [
+   "Krajowa Sieć Informacyjna Policji",
+   "Komputerowy System Identyfikacji Policjantów",
+   "Krajowy System Interwencji Policji"
+  ],
+  "wyjasnienie": "KSIP – Krajowy System INFORMACYJNY Policji (nie „informatyczny”, nie „informacji”).",
+  "zrodlo": "test"
+ },
+ {
+  "id": "66e3610407",
+  "temat": "Systemy policyjne i pozapolicyjne",
+  "pytanie": "Rozwinięcie skrótu KSIP to:",
+  "poprawna": "Krajowy System Informacyjny Policji",
+  "bledne": [
+   "Krajowy System Informatyczny Policji",
+   "Krajowy System Informacji Policyjnej",
+   "Krajowy System Informacji Policji"
+  ],
+  "wyjasnienie": "Pułapka: KSI to Krajowy System Informatyczny (dla SIS/VIS), a KSIP – Krajowy System Informacyjny Policji.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "d687ca74e3",
+  "temat": "Systemy policyjne i pozapolicyjne",
+  "pytanie": "Rozwiń skrót SWD.",
+  "poprawna": "System Wspomagania Dowodzenia",
+  "bledne": [
+   "System Weryfikacji Danych",
+   "Sieć Wymiany Dokumentów",
+   "System Wyszukiwania Dowodów"
+  ],
+  "wyjasnienie": "SWD Policji – System Wspomagania Dowodzenia (m.in. dysponowanie patroli, Punkt Sprawdzeń SPP, Klient Mobilny).",
+  "zrodlo": "test"
+ },
+ {
+  "id": "1a2c086034",
+  "temat": "Systemy policyjne i pozapolicyjne",
+  "pytanie": "Który skrót oznacza System Wspomagania Dowodzenia?",
+  "poprawna": "SWD",
+  "bledne": [
+   "KSIP",
+   "SPP",
+   "PRIM"
+  ],
+  "wyjasnienie": "SWD – System Wspomagania Dowodzenia.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "c26f9fd2a1",
+  "temat": "Systemy policyjne i pozapolicyjne",
+  "pytanie": "Rozwiń skrót PRIM.",
+  "poprawna": "Policyjny Rejestr Imprez Masowych",
+  "bledne": [
+   "Policyjny Rejestr Interwencji Miejskich",
+   "Program Rozpoznania i Monitoringu",
+   "Państwowy Rejestr Informacji Migracyjnych"
+  ],
+  "wyjasnienie": "PRIM – Policyjny Rejestr Imprez Masowych (zakazy stadionowe, informacje o imprezach).",
+  "zrodlo": "test"
+ },
+ {
+  "id": "4640db4c49",
+  "temat": "Systemy policyjne i pozapolicyjne",
+  "pytanie": "Rozwiń skrót SPP.",
+  "poprawna": "System Poszukiwawczy Policji",
+  "bledne": [
+   "System Przetwarzania Pism",
+   "System Postępowań Przygotowawczych",
+   "Sieć Powiadamiania Policji"
+  ],
+  "wyjasnienie": "Według materiału SPP to System Poszukiwawczy Policji – nakładka pozwalająca zadać jedno zapytanie do wielu baz.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "da53a1d45c",
+  "temat": "Systemy policyjne i pozapolicyjne",
+  "pytanie": "Rozwiń skrót SEWiK.",
+  "poprawna": "System Ewidencji Wypadków i Kolizji",
+  "bledne": [
+   "System Elektronicznej Weryfikacji Kierowców",
+   "Sieć Ewidencji Wykroczeń i Kar",
+   "System Ewidencji Wniosków i Kontroli"
+  ],
+  "wyjasnienie": "SEWiK – System Ewidencji Wypadków i Kolizji (statystyka zdarzeń drogowych).",
+  "zrodlo": "test"
+ },
+ {
+  "id": "5644e85994",
+  "temat": "Systemy policyjne i pozapolicyjne",
+  "pytanie": "Który zestaw zawiera wyłącznie pięć systemów policyjnych wymienionych w materiale?",
+  "poprawna": "KSIP, SWD, PRIM, SPP, SEWiK",
+  "bledne": [
+   "KSIP, PESEL, REGON, CEIDG, KRS",
+   "AFIS, CEPiK, EUCARIS, VIS, KRK",
+   "PESEL, KRK, KRS, VIS, SIS"
+  ],
+  "wyjasnienie": "Systemy policyjne: KSIP, SWD, PRIM, SPP, SEWiK. PESEL, REGON, CEIDG, KRS, CEPiK, KRK, VIS, SIS to systemy pozapolicyjne.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "180b489fd9",
+  "temat": "Systemy policyjne i pozapolicyjne",
+  "pytanie": "Który zestaw zawiera wyłącznie systemy policyjne wymienione w drugim materiale?",
+  "poprawna": "SESPol, KSIP, SEWiK, POSIGRAF, AFIS, SWD, SMI",
+  "bledne": [
+   "CEPiK, REGON, EUCARIS, RDO, RDP",
+   "SIS, VIS, I24/7, KRS, KRK",
+   "PESEL, KRS, KRK, VIS, CEIDG"
+  ],
+  "wyjasnienie": "Wszystkie elementy pierwszego zestawu prowadzi Policja. Pozostałe zestawy zawierają rejestry innych organów albo systemy międzynarodowe.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "0d33e5d76b",
+  "temat": "Systemy policyjne i pozapolicyjne",
+  "pytanie": "Policyjne systemy informacyjne lub zbiory to:",
+  "poprawna": "SEWiK, AFIS, SESPOL, PRIM, SMI",
+  "bledne": [
+   "KSIP, SIS, AFIS, PRIM, POSIGRAF",
+   "eRCDŚ, SWD, SESPOL, VIS, KSIP",
+   "KSIP, SIS, KRK, KRS, POSIGRAF"
+  ],
+  "wyjasnienie": "Tylko pierwszy zestaw nie zawiera systemu pozapolicyjnego (SIS, VIS, KRK, KRS są pozapolicyjne).",
+  "zrodlo": "test"
+ },
+ {
+  "id": "a957eae6ba",
+  "temat": "Systemy policyjne i pozapolicyjne",
+  "pytanie": "Systemami lub zasobami policyjnymi są:",
+  "poprawna": "SWD, AFIS, PRIM, SMI",
+  "bledne": [
+   "SWD, KSIP, AFIS, PSTD",
+   "POSIGRAF, SMI, eRCDŚ, CEIDG",
+   "KSIP, KSI, AFIS, SWD"
+  ],
+  "wyjasnienie": "UWAGA – niepewne: dwa zestawy zawierają wyłącznie zasoby Policji: „SWD, AFIS, PRIM, SMI” i „SWD, KSIP, AFIS, PSTD” (PSTD to policyjna sieć transmisji danych). Wybrano zestaw zgodny z innymi arkuszami (PRIM, SMI jako systemy policyjne). CEIDG i KSI na pewno nie są policyjne.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "e9f4d31e93",
+  "temat": "Systemy policyjne i pozapolicyjne",
+  "pytanie": "W KSIP nie znajduje się zbiór:",
+  "poprawna": "SESPOL",
+  "bledne": [
+   "PRIM",
+   "Broń",
+   "SEWiK"
+  ],
+  "wyjasnienie": "§ 4 ust. 1 Zarządzenia nr 70 KGP: systemy KSIP obejmują m.in. PRIM, SEWiK, rejestr „Broń” i Ewidencję kierowców. SESPol (System Elektronicznej Sprawozdawczości w Policji) to osobny system.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "9fcb1b2421",
+  "temat": "Systemy policyjne i pozapolicyjne",
+  "pytanie": "System monitorujący wyniki i zaangażowanie policjanta w służbę to:",
+  "poprawna": "SESPol",
+  "bledne": [
+   "e-RSD",
+   "ERCDŚ",
+   "Ibris – służba"
+  ],
+  "wyjasnienie": "SESPol – System Elektronicznej Sprawozdawczości w Policji; zawiera m.in. karty efektywności służby policjantów.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "fe0c85ba98",
+  "temat": "Systemy policyjne i pozapolicyjne",
+  "pytanie": "Dwie podstawowe sieci telekomunikacyjne wykorzystywane przez Policję to:",
+  "poprawna": "CWI i PSTD",
+  "bledne": [
+   "SSL i CWI",
+   "SSL i WŁS",
+   "TLS i PSTD"
+  ],
+  "wyjasnienie": "PSTD – Policyjna Sieć Transmisji Danych (zamknięta, bez internetu). CWI – Centralny Węzeł Internetu (dostęp do internetu). SSL i TLS to protokoły szyfrowania, nie sieci.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "d43635f52a",
+  "temat": "Systemy policyjne i pozapolicyjne",
+  "pytanie": "Rozwiń skrót PESEL.",
+  "poprawna": "Powszechny Elektroniczny System Ewidencji Ludności",
+  "bledne": [
+   "Powszechny Europejski System Ewidencji Ludności",
+   "Publiczna Elektroniczna Sieć Ewidencji Lokalnej",
+   "Państwowa Ewidencja Systemów Elektronicznych Ludności"
+  ],
+  "wyjasnienie": "PESEL – Powszechny Elektroniczny System Ewidencji Ludności.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "70df2c6975",
+  "temat": "Systemy policyjne i pozapolicyjne",
+  "pytanie": "Rozwiń skrót RDO.",
+  "poprawna": "Rejestr Dowodów Osobistych",
+  "bledne": [
+   "Rejestr Dokumentów Operacyjnych",
+   "Rejestr Danych Obywateli",
+   "Rządowa Dokumentacja Osobowa"
+  ],
+  "wyjasnienie": "RDO – Rejestr Dowodów Osobistych (m.in. unieważnione dowody).",
+  "zrodlo": "test"
+ },
+ {
+  "id": "9f4bc8e311",
+  "temat": "Systemy policyjne i pozapolicyjne",
+  "pytanie": "Rozwiń skrót RDP zgodnie z materiałem.",
+  "poprawna": "Rejestr Dowodów Paszportowych",
+  "bledne": [
+   "Rejestr Danych Podróżnych",
+   "Rejestr Dokumentów Policyjnych",
+   "Rejestr Dowodów Pojazdów"
+  ],
+  "wyjasnienie": "W materiale RDP to rejestr paszportów (formalnie: Rejestr Dokumentów Paszportowych). To rejestr pozapolicyjny.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "dc9170120c",
+  "temat": "Systemy policyjne i pozapolicyjne",
+  "pytanie": "Rozwiń skrót CEPiK.",
+  "poprawna": "Centralna Ewidencja Pojazdów i Kierowców",
+  "bledne": [
+   "Centralna Ewidencja Przestępstw i Kar",
+   "Cyfrowa Ewidencja Praw Jazdy i Kontroli",
+   "Centralny Elektroniczny Portal Informacji Kryminalnej"
+  ],
+  "wyjasnienie": "CEPiK – Centralna Ewidencja Pojazdów i Kierowców (CEP i CEK).",
+  "zrodlo": "test"
+ },
+ {
+  "id": "f5db7a89bc",
+  "temat": "Systemy policyjne i pozapolicyjne",
+  "pytanie": "Czego dotyczy rejestr REGON?",
+  "poprawna": "Podmiotów gospodarki narodowej",
+  "bledne": [
+   "Pojazdów i kierowców",
+   "Dokumentów paszportowych",
+   "Wyłącznie osób karanych"
+  ],
+  "wyjasnienie": "REGON – krajowy rejestr urzędowy podmiotów gospodarki narodowej (prowadzi GUS).",
+  "zrodlo": "test"
+ },
+ {
+  "id": "e83a0460a7",
+  "temat": "Systemy policyjne i pozapolicyjne",
+  "pytanie": "Czego dotyczy baza Noe.NET?",
+  "poprawna": "Osób pozbawionych wolności",
+  "bledne": [
+   "Osób posiadających działalność gospodarczą",
+   "Cudzoziemców ubiegających się o wizę",
+   "Sprawców przestępstw seksualnych"
+  ],
+  "wyjasnienie": "Noe.NET („Osadzony”) – Centralna Baza Danych Osób Pozbawionych Wolności (Służba Więzienna).",
+  "zrodlo": "test"
+ },
+ {
+  "id": "a5193f4588",
+  "temat": "Systemy policyjne i pozapolicyjne",
+  "pytanie": "Aplikacja Noe.Net jest domeną przede wszystkim:",
+  "poprawna": "Służby Więziennej",
+  "bledne": [
+   "Policji",
+   "Straży Granicznej",
+   "Urzędu do Spraw Cudzoziemców"
+  ],
+  "wyjasnienie": "§ 4 ust. 2 pkt 1 Zarządzenia nr 70 KGP: Centralna Baza Danych Osób Pozbawionych Wolności prowadzona na podstawie ustawy o Służbie Więziennej.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "f9e46deb77",
+  "temat": "Systemy policyjne i pozapolicyjne",
+  "pytanie": "Rozwiń skrót VIS.",
+  "poprawna": "Wizowy System Informacyjny",
+  "bledne": [
+   "Wewnętrzny Indeks Spraw",
+   "Wspólny Informator Sądowy",
+   "Wizualny System Identyfikacji"
+  ],
+  "wyjasnienie": "VIS – Wizowy System Informacyjny (dane o wizach Schengen).",
+  "zrodlo": "test"
+ },
+ {
+  "id": "fee2c96b36",
+  "temat": "Systemy policyjne i pozapolicyjne",
+  "pytanie": "Rozwiń skrót ZSE SG zgodnie z materiałem.",
+  "poprawna": "Zintegrowany System Ewidencji Straży Granicznej",
+  "bledne": [
+   "Zewnętrzny System Europejski Schengen",
+   "Zbiorczy System Ewidencji Sądowej",
+   "Zintegrowana Sieć Elektroniczna Policji"
+  ],
+  "wyjasnienie": "ZSE SG – Zintegrowany System Ewidencji Straży Granicznej (zbiór pozapolicyjny dostępny przez KSIP).",
+  "zrodlo": "test"
+ },
+ {
+  "id": "bb2688c37f",
+  "temat": "Systemy policyjne i pozapolicyjne",
+  "pytanie": "Rozwiń skrót KRS.",
+  "poprawna": "Krajowy Rejestr Sądowy",
+  "bledne": [
+   "Komputerowy Rejestr Spraw",
+   "Krajowy Rejestr Statystyczny",
+   "Krajowy Rejestr Skazanych"
+  ],
+  "wyjasnienie": "KRS – Krajowy Rejestr Sądowy (spółki, stowarzyszenia, fundacje).",
+  "zrodlo": "test"
+ },
+ {
+  "id": "d428d62ab6",
+  "temat": "Systemy policyjne i pozapolicyjne",
+  "pytanie": "Rozwiń skrót KRK.",
+  "poprawna": "Krajowy Rejestr Karny",
+  "bledne": [
+   "Krajowy Rejestr Kierowców",
+   "Krajowy Rejestr Kontroli",
+   "Komputerowy Rejestr Kryminalny"
+  ],
+  "wyjasnienie": "KRK – Krajowy Rejestr Karny (prowadzi Minister Sprawiedliwości).",
+  "zrodlo": "test"
+ },
+ {
+  "id": "cca11a7301",
+  "temat": "Systemy policyjne i pozapolicyjne",
+  "pytanie": "Rozwiń skrót RSPTS.",
+  "poprawna": "Rejestr Sprawców Przestępstw na Tle Seksualnym",
+  "bledne": [
+   "Rejestr Sądowych Postępowań i Terminów Spraw",
+   "Rejestr Skazanych Policjantów i Tajnych Świadków",
+   "Rządowy System Przeciwdziałania Terroryzmowi"
+  ],
+  "wyjasnienie": "RSPTS – Rejestr Sprawców Przestępstw na Tle Seksualnym.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "7b55b63ea5",
+  "temat": "Systemy policyjne i pozapolicyjne",
+  "pytanie": "Który system z materiału jest przeznaczony do rejestracji i obsługi spraw związanych z kradzieżą lub zagubieniem dokumentu?",
+  "poprawna": "REJA24",
+  "bledne": [
+   "I24/7",
+   "EUCARIS",
+   "Noe.NET"
+  ],
+  "wyjasnienie": "REJA24 służy do zgłaszania i obsługi utraty dokumentów (kradzież, zagubienie).",
+  "zrodlo": "test"
+ },
+ {
+  "id": "ed1cce22a1",
+  "temat": "Systemy policyjne i pozapolicyjne",
+  "pytanie": "Rozwiń skrót CEIDG.",
+  "poprawna": "Centralna Ewidencja i Informacja o Działalności Gospodarczej",
+  "bledne": [
+   "Cyfrowa Ewidencja Identyfikacji Danych Gospodarczych",
+   "Centralny Elektroniczny Indeks Dokumentów Głównych",
+   "Centralna Ewidencja Informacji i Danych Gminnych"
+  ],
+  "wyjasnienie": "CEIDG – rejestr przedsiębiorców będących osobami fizycznymi.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "8d938cfa37",
+  "temat": "Systemy policyjne i pozapolicyjne",
+  "pytanie": "Rozwiń skrót KCIK.",
+  "poprawna": "Krajowe Centrum Informacji Kryminalnych",
+  "bledne": [
+   "Krajowy System Informacji Kryzysowej",
+   "Krajowy Centralny Indeks Karny",
+   "Komenda Centralna Informacji Kryminalnej"
+  ],
+  "wyjasnienie": "KCIK – Krajowe Centrum Informacji Kryminalnych.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "98f0aadc91",
+  "temat": "Systemy policyjne i pozapolicyjne",
+  "pytanie": "Czym jest I24/7?",
+  "poprawna": "Globalnym policyjnym systemem komunikacji i baz danych Interpolu",
+  "bledne": [
+   "Systemem informacji o prawach jazdy w UE",
+   "Krajowym rejestrem osób skazanych",
+   "Polskim systemem obsługi imprez masowych"
+  ],
+  "wyjasnienie": "I-24/7 – całodobowy system łączności Interpolu, dający dostęp do jego baz danych.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "213e07c933",
+  "temat": "Systemy policyjne i pozapolicyjne",
+  "pytanie": "Rozwiń skrót SIS.",
+  "poprawna": "System Informacyjny Schengen",
+  "bledne": [
+   "Sądowy Indeks Spraw",
+   "System Identyfikacji Skazanych",
+   "Sieć Informacji Służbowej"
+  ],
+  "wyjasnienie": "SIS – System Informacyjny Schengen.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "682b2cfdaf",
+  "temat": "Systemy policyjne i pozapolicyjne",
+  "pytanie": "Do czego służy EUCARIS?",
+  "poprawna": "Do wymiany informacji o pojazdach, prawach jazdy i powiązanych danych między państwami",
+  "bledne": [
+   "Do przechowywania odcisków palców osób skazanych",
+   "Do ewidencji imprez masowych",
+   "Do wymiany danych wizowych"
+  ],
+  "wyjasnienie": "EUCARIS – Europejski System Informacji o Pojazdach i Prawach Jazdy (§ 4 ust. 2 pkt 14 Zarządzenia nr 70 KGP).",
+  "zrodlo": "test"
+ },
+ {
+  "id": "31a167fa83",
+  "temat": "Systemy policyjne i pozapolicyjne",
+  "pytanie": "Do czego Policja wykorzystuje KRK według materiału?",
+  "poprawna": "Do sprawdzania historii karnej, prowadzenia śledztw i ustalania, czy osoba była karana",
+  "bledne": [
+   "Do rejestrowania interwencji i dysponowania patroli",
+   "Do sprawdzania aktualnego położenia pojazdu",
+   "Do ustalania danych wizowych cudzoziemca"
+  ],
+  "wyjasnienie": "KRK zawiera informacje o skazaniach – Policja sprawdza w nim karalność.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "8fbf199b34",
+  "temat": "Systemy policyjne i pozapolicyjne",
+  "pytanie": "Który system najlepiej wybrać do sprawdzenia danych pojazdu i kierowcy w krajowej ewidencji?",
+  "poprawna": "CEPiK",
+  "bledne": [
+   "PRIM",
+   "VIS",
+   "KRK"
+  ],
+  "wyjasnienie": "CEPiK – centralna ewidencja pojazdów i centralna ewidencja kierowców.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "75c92f848b",
+  "temat": "Systemy policyjne i pozapolicyjne",
+  "pytanie": "Który rejestr należy skojarzyć z wpisami przedsiębiorców będących osobami fizycznymi?",
+  "poprawna": "CEIDG",
+  "bledne": [
+   "KRK",
+   "Noe.NET",
+   "RSPTS"
+  ],
+  "wyjasnienie": "CEIDG – jednoosobowe działalności gospodarcze. Spółki są w KRS.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "15a5aab383",
+  "temat": "Systemy policyjne i pozapolicyjne",
+  "pytanie": "Który zestaw danych znajduje się w zbiorze PESEL/CEL według materiału?",
+  "poprawna": "Imię i nazwisko, data i miejsce urodzenia, płeć, numer PESEL, obywatelstwo i stan cywilny",
+  "bledne": [
+   "Wyłącznie imię, nazwisko i adres zameldowania",
+   "Historia skazań, mandaty i punkty karne",
+   "Numery rachunków bankowych i historia połączeń"
+  ],
+  "wyjasnienie": "Rejestr PESEL zawiera podstawowe dane identyfikacyjne i stanu cywilnego. Skazania są w KRK, punkty karne w CEK.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "eed73b6ee2",
+  "temat": "Systemy policyjne i pozapolicyjne",
+  "pytanie": "Która dana z materiału pozwala odróżnić obecne nazwisko od nazwiska sprzed jego zmiany?",
+  "poprawna": "Nazwisko rodowe",
+  "bledne": [
+   "Numer PESEL",
+   "Stan cywilny",
+   "Obywatelstwo"
+  ],
+  "wyjasnienie": "Nazwisko rodowe to nazwisko z aktu urodzenia – przydaje się przy ustalaniu tożsamości po zmianie nazwiska.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "b0a1af1313",
+  "temat": "Systemy policyjne i pozapolicyjne",
+  "pytanie": "Jakie dane o rodzicach wymieniono w zbiorze PESEL/CEL?",
+  "poprawna": "Imiona i nazwiska rodowe rodziców",
+  "bledne": [
+   "Adresy miejsc pracy rodziców",
+   "Historię skazań rodziców",
+   "Wyłącznie numery PESEL rodziców"
+  ],
+  "wyjasnienie": "PESEL zawiera imiona i nazwiska rodowe rodziców.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "ffd68b5ce0",
+  "temat": "Systemy policyjne i pozapolicyjne",
+  "pytanie": "Który zestaw dwóch danych urodzeniowych wymieniono w PESEL/CEL?",
+  "poprawna": "Data i miejsce urodzenia",
+  "bledne": [
+   "Data chrztu i obywatelstwo",
+   "Data urodzenia i miejsce zamieszkania",
+   "Miejsce urodzenia i numer dokumentu"
+  ],
+  "wyjasnienie": "Data i miejsce urodzenia.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "7affb55128",
+  "temat": "Systemy policyjne i pozapolicyjne",
+  "pytanie": "Która z poniższych danych jest wymieniona w PESEL/CEL?",
+  "poprawna": "Płeć",
+  "bledne": [
+   "Grupa krwi",
+   "Numer rachunku bankowego",
+   "Historia zatrudnienia"
+  ],
+  "wyjasnienie": "Płeć jest daną w rejestrze PESEL (zakodowana też w numerze PESEL).",
+  "zrodlo": "test"
+ },
+ {
+  "id": "32a2993280",
+  "temat": "Systemy policyjne i pozapolicyjne",
+  "pytanie": "Która dana jest podstawowym identyfikatorem osoby w rejestrze PESEL?",
+  "poprawna": "Numer PESEL",
+  "bledne": [
+   "Numer REGON",
+   "Numer KRS",
+   "Numer VIN"
+  ],
+  "wyjasnienie": "Numer PESEL. REGON i KRS identyfikują podmioty, VIN – pojazdy.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "7c59dd865d",
+  "temat": "Systemy policyjne i pozapolicyjne",
+  "pytanie": "Która dana wskazuje więź osoby z określonym państwem i jest wymieniona w PESEL/CEL?",
+  "poprawna": "Obywatelstwo",
+  "bledne": [
+   "Wykształcenie",
+   "Numer polisy",
+   "Miejsce pracy"
+  ],
+  "wyjasnienie": "Obywatelstwo – więź prawna osoby z państwem.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "295ab9f99e",
+  "temat": "Systemy policyjne i pozapolicyjne",
+  "pytanie": "Która dana z PESEL/CEL opisuje sytuację osoby jako np. kawaler/panna, żonaty/zamężna lub rozwiedziony/rozwiedziona?",
+  "poprawna": "Stan cywilny",
+  "bledne": [
+   "Status zawodowy",
+   "Status karny",
+   "Status meldunkowy"
+  ],
+  "wyjasnienie": "Stan cywilny.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "67af8ba4ea",
+  "temat": "Systemy policyjne i pozapolicyjne",
+  "pytanie": "Jaką dodatkową informację dotyczącą relacji rodzinnej wskazano w zbiorze PESEL/CEL?",
+  "poprawna": "Informację o małżeństwie, jeżeli dotyczy",
+  "bledne": [
+   "Informację o wszystkich związkach nieformalnych",
+   "Pełną historię korespondencji małżonków",
+   "Informację o wspólnych rachunkach bankowych"
+  ],
+  "wyjasnienie": "PESEL zawiera informacje o zawarciu małżeństwa (i dane małżonka).",
+  "zrodlo": "test"
+ },
+ {
+  "id": "92ca1f6031",
+  "temat": "Systemy policyjne i pozapolicyjne",
+  "pytanie": "Na podstawie numeru PESEL wskaż mężczyznę, który – z uwagi na zakodowany rok urodzenia – na pewno już nie żyje:",
+  "poprawna": "01010100111",
+  "bledne": [
+   "01010100221",
+   "01210100131",
+   "01210100111"
+  ],
+  "wyjasnienie": "Miesiąc 01 oznacza lata 1900–1999 (rok 1901), a miesiąc 21 – lata 2000–2099 (rok 2001). Płeć zapisuje 10. cyfra: nieparzysta to mężczyzna (…0011 1 → „1”), parzysta to kobieta (…0022 1 → „2”). Mężczyzna urodzony w 1901 r. to 01010100111.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "31faa27583",
+  "temat": "Systemy policyjne i pozapolicyjne",
+  "pytanie": "Wskaż systemy lub rejestry pozapolicyjne:",
+  "poprawna": "PESEL / RDO / RDP / REGON",
+  "bledne": [
+   "CEL / SMI / KRK / KRS",
+   "CEL / KCIK / eRCDŚ / RSPTS",
+   "AFIS / CEIDG / Noe.Net / ZSE SG"
+  ],
+  "wyjasnienie": "PESEL, RDO, RDP i REGON prowadzą inne organy. SMI, eRCDŚ i AFIS to zasoby policyjne.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "ffe3c9ac9b",
+  "temat": "Systemy policyjne i pozapolicyjne",
+  "pytanie": "Systemy lub rejestry pozapolicyjne to:",
+  "poprawna": "SIS, KRS, KRK, VIS, KCIK",
+  "bledne": [
+   "SIS, AFIS, RSPTS, PRIM, POSIGRAF",
+   "VIS, CEIDG, REJA24, SMI, KRK",
+   "SMI, VIS, SIS, KRK, RSPTS"
+  ],
+  "wyjasnienie": "Pozostałe zestawy zawierają systemy policyjne (AFIS, PRIM, POSIGRAF, SMI, REJA24). KCIK gromadzi informacje od wielu instytucji, a nie tylko od Policji.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "920133d075",
+  "temat": "Systemy policyjne i pozapolicyjne",
+  "pytanie": "Dane dotyczące zawarcia umowy obowiązkowego ubezpieczenia OC posiadacza pojazdu uzyskamy poprzez sprawdzenie w:",
+  "poprawna": "CEP",
+  "bledne": [
+   "e-Ubezpieczenia",
+   "RSPTS",
+   "CEK"
+  ],
+  "wyjasnienie": "Centralna ewidencja pojazdów (CEP) zawiera dane o ubezpieczeniu OC pojazdu. CEK to ewidencja kierowców.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "5c3896f24a",
+  "temat": "Systemy policyjne i pozapolicyjne",
+  "pytanie": "Na podstawie numeru VIN oraz numeru rejestracyjnego można sprawdzić aktualne ubezpieczenie OC w:",
+  "poprawna": "UFG",
+  "bledne": [
+   "POL-CAR",
+   "CEB",
+   "PAOK"
+  ],
+  "wyjasnienie": "Ubezpieczeniowy Fundusz Gwarancyjny udostępnia sprawdzenie polisy OC po numerze rejestracyjnym lub VIN.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "3cdcda04c9",
+  "temat": "Systemy policyjne i pozapolicyjne",
+  "pytanie": "Współczesny numer VIN pojazdu składa się z:",
+  "poprawna": "17 znaków",
+  "bledne": [
+   "16 znaków",
+   "18 znaków",
+   "19 znaków"
+  ],
+  "wyjasnienie": "VIN (Vehicle Identification Number) – 17 znaków.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "3084b23a3c",
+  "temat": "Systemy policyjne i pozapolicyjne",
+  "pytanie": "Którą e-usługę znajdziesz w systemie CEPiK?",
+  "poprawna": "Mój pojazd",
+  "bledne": [
+   "Bezpieczny autobus",
+   "Punkty karne",
+   "e-Kierowca"
+  ],
+  "wyjasnienie": "UWAGA – niepewne: w portalu gov.pl usługi oparte na CEPiK to m.in. „Mój pojazd” i „Sprawdź swoje punkty karne”. Najczęściej podawana odpowiedź to „Mój pojazd”.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "464d6df93f",
+  "temat": "Systemy policyjne i pozapolicyjne",
+  "pytanie": "Wskaż podstawowe usługi dostępne w aplikacji mObywatel.",
+  "poprawna": "mDowód / mPrawo jazdy / Moje pojazdy",
+  "bledne": [
+   "Zastrzeż PESEL / Punkty karne / Historia pojazdu / Mandaty / Jakość powietrza / Recepta",
+   "Wybory / e-wizyta ZUS / Bezpieczny autobus / BLIKOM / ePłatności",
+   "mDowód / mPrawo jazdy / Unijny Certyfikat COVID / Moje pojazdy"
+  ],
+  "wyjasnienie": "UWAGA – niepewne: podstawowe dokumenty w aplikacji to mDowód, mPrawo jazdy i Moje pojazdy. Certyfikat COVID nie jest już aktualną usługą.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "cefd3ab4c2",
+  "temat": "Systemy policyjne i pozapolicyjne",
+  "pytanie": "Będąc na służbie, w jaki pewny i bezpieczny sposób zweryfikujesz osobę chcącą potwierdzić swoją tożsamość przy pomocy okazania aplikacji mObywatel?",
+  "poprawna": "Sprawdzę wygenerowany kod QR",
+  "bledne": [
+   "Sprawdzę motyw powiewającej flagi",
+   "Sprawdzę motyw kalendarza i zegara działającego w aplikacji w czasie rzeczywistym",
+   "Sprawdzę motyw powiewającej flagi, linii głosowych, hologram oraz zegar i kalendarz w czasie rzeczywistym"
+  ],
+  "wyjasnienie": "Zabezpieczenia wizualne da się podrobić. Pewna jest tylko weryfikacja kodem QR, która łączy się z systemem państwowym.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "1513bbc5d8",
+  "temat": "Systemy policyjne i pozapolicyjne",
+  "pytanie": "Sygnatura akt prokuratorskich zawiera symbol:",
+  "poprawna": "Ds.",
+  "bledne": [
+   "KW",
+   "L.dz.",
+   "RSOW"
+  ],
+  "wyjasnienie": "Ds. – repertorium spraw karnych prowadzone w prokuraturze.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "5a0bbf1018",
+  "temat": "Systemy policyjne i pozapolicyjne",
+  "pytanie": "Numer Ds. oznacza numer repertorium prowadzonego w powszechnych jednostkach organizacyjnych ……… dla rejestracji postępowań i czynności w sprawach karnych i karnych skarbowych.",
+  "poprawna": "Prokuratury",
+  "bledne": [
+   "Sądu",
+   "Policji",
+   "Urzędów Skarbowych"
+  ],
+  "wyjasnienie": "Repertorium „Ds.” prowadzą prokuratury.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "50c43f74bb",
+  "temat": "Systemy policyjne i pozapolicyjne",
+  "pytanie": "Art. 306c Kodeksu karnego mówi o przestępstwie dotyczącym:",
+  "poprawna": "zaboru tablicy rejestracyjnej pojazdu",
+  "bledne": [
+   "kradzieży paliwa o wartości powyżej 800 zł",
+   "fałszowania stanu drogomierza pojazdu",
+   "prowadzenia pojazdu wbrew zakazowi sądowemu"
+  ],
+  "wyjasnienie": "Art. 306c § 1 k.k.: zabór tablicy rejestracyjnej pojazdu mechanicznego albo jej podrabianie lub przerabianie – od 3 miesięcy do lat 5. Fałszowanie drogomierza to art. 306a k.k.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "96a46515c9",
+  "temat": "KSIP – rejestracje i sprawdzenia",
+  "pytanie": "Które akty wskazano w materiale jako regulujące działanie KSIP?",
+  "poprawna": "Zarządzenie nr 70 KGP z 2 grudnia 2019 r. oraz zarządzenie nr 74 KGP z 16 grudnia 2019 r.",
+  "bledne": [
+   "Wyłącznie zarządzenie nr 70 KGP z 2 grudnia 2019 r.",
+   "Rozporządzenie MSWiA z 3 stycznia 2022 r. i zarządzenie nr 70 KGP",
+   "Ustawa o Policji i zarządzenie nr 109 KGP"
+  ],
+  "wyjasnienie": "Zarządzenie nr 70 KGP z 2.12.2019 r. w sprawie KSIP. Zarządzenie nr 74 z 16.12.2019 r. je zmieniło (rejestracja wykroczeń przeciwko mieniu).",
+  "zrodlo": "test"
+ },
+ {
+  "id": "cec694c17d",
+  "temat": "KSIP – rejestracje i sprawdzenia",
+  "pytanie": "Podstawowy akt prawny z 2 grudnia 2019 r. regulujący zasady funkcjonowania KSIP to:",
+  "poprawna": "Zarządzenie nr 70",
+  "bledne": [
+   "Rozporządzenie nr 70",
+   "Decyzja nr 70",
+   "Decyzja nr 338"
+  ],
+  "wyjasnienie": "Zarządzenie nr 70 Komendanta Głównego Policji z dnia 2 grudnia 2019 r.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "9b5af673ee",
+  "temat": "KSIP – rejestracje i sprawdzenia",
+  "pytanie": "Akt prawny regulujący funkcjonowanie systemu KSIP to:",
+  "poprawna": "Zarządzenie nr 70 Komendanta Głównego Policji z 2 grudnia 2019 r. w sprawie Krajowego Systemu Informacyjnego Policji",
+  "bledne": [
+   "Zarządzenie nr 70 Komendanta Głównego Policji z 2 grudnia 2019 r. w sprawie Krajowego Systemu Informatycznego Policji",
+   "Zarządzenie nr 70 Komendanta Głównego Policji z 2 grudnia 2019 r. w sprawie Krajowego Systemu Informacji Policyjnych",
+   "Zarządzenie nr 70 Komendanta Głównego Policji z 2 grudnia 2019 r. w sprawie Krajowego Systemu Informacji Policji"
+  ],
+  "wyjasnienie": "Pełny tytuł: „w sprawie Krajowego Systemu Informacyjnego Policji”.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "f5cb5e1582",
+  "temat": "KSIP – rejestracje i sprawdzenia",
+  "pytanie": "System informatyczny, który konsoliduje zapytania do systemów policyjnych oraz wielu systemów zewnętrznych, to:",
+  "poprawna": "SPP",
+  "bledne": [
+   "SWD",
+   "KSIP",
+   "SIS"
+  ],
+  "wyjasnienie": "SPP – jedno zapytanie trafia równocześnie do KSIP i do zbiorów pozapolicyjnych (PESEL, CEPiK, SIS itd.).",
+  "zrodlo": "test"
+ },
+ {
+  "id": "2bf6f04849",
+  "temat": "KSIP – rejestracje i sprawdzenia",
+  "pytanie": "Nakładka programowa pozwalająca zadawać pytania do wszystkich dostępnych baz to:",
+  "poprawna": "SPP",
+  "bledne": [
+   "LOTOS",
+   "PSTD",
+   "ALL DATA"
+  ],
+  "wyjasnienie": "SPP. PSTD to sieć transmisji danych, a nie aplikacja.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "9c6de09de0",
+  "temat": "KSIP – rejestracje i sprawdzenia",
+  "pytanie": "Podaj statusy używane w obszarze „Dokument” w bazie KSIP.",
+  "poprawna": "UTRACONO / W ZAINTERESOWANIU / ZABEZPIECZONO",
+  "bledne": [
+   "UTRACONO / W ZAINTERESOWANIU",
+   "UTRACONO",
+   "UTRACONO / ZABEZPIECZONO"
+  ],
+  "wyjasnienie": "Zarządzenie nr 70 KGP: rzeczy (także dokumenty) rejestruje się z powodem UTRACONO, W ZAINTERESOWANIU albo ZABEZPIECZONO.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "fe1519ac8c",
+  "temat": "KSIP – rejestracje i sprawdzenia",
+  "pytanie": "Podaj statusy używane w obszarze „Broń” w bazie KSIP.",
+  "poprawna": "UTRACONO / W ZAINTERESOWANIU / ZABEZPIECZONO",
+  "bledne": [
+   "UTRACONO / W ZAINTERESOWANIU",
+   "UTRACONO / ZABEZPIECZONO",
+   "UTRACONO"
+  ],
+  "wyjasnienie": "Broń to rzecz – te same trzy powody rejestracji. „UTRACONO” obejmuje też utratę broni palnej.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "fae3afe075",
+  "temat": "KSIP – rejestracje i sprawdzenia",
+  "pytanie": "Pojazd utracony w wyniku kradzieży trzeba zarejestrować jako poszukiwany niezwłocznie od chwili złożenia zawiadomienia, jednak nie później niż w ciągu:",
+  "poprawna": "1 godziny",
+  "bledne": [
+   "3 godzin",
+   "6 godzin",
+   "12 godzin"
+  ],
+  "wyjasnienie": "Zarządzenie nr 70 KGP: pojazdy i tablice rejestracyjne utracone w wyniku przestępstwa lub wykroczenia – nie później niż w ciągu godziny od przyjęcia zawiadomienia. Inne rzeczy utracone – w ciągu 3 godzin.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "7100c3376f",
+  "temat": "KSIP – rejestracje i sprawdzenia",
+  "pytanie": "Informację o osobie zaginionej rejestruje się w KSIP niezwłocznie, jednak nie później niż w ciągu:",
+  "poprawna": "3 godzin od przyjęcia zawiadomienia",
+  "bledne": [
+   "1 godziny od przyjęcia zawiadomienia",
+   "48 godzin od utraty kontaktu",
+   "1 godziny od sporządzenia raportu"
+  ],
+  "wyjasnienie": "§ 55 ust. 1 Zarządzenia nr 70 KGP: poszukiwanie osoby zaginionej – nie później niż w ciągu 3 godzin od przyjęcia zawiadomienia.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "4a660ddfb8",
+  "temat": "KSIP – rejestracje i sprawdzenia",
+  "pytanie": "Po jakim czasie od faktycznego zaginięcia przyjmiesz i zarejestrujesz zawiadomienie dotyczące pełnoletniej, zdrowej psychicznie osoby?",
+  "poprawna": "Niezwłocznie",
+  "bledne": [
+   "Po 24 godzinach",
+   "Po 6 godzinach zimą, a po 24 godzinach w pozostałych porach roku",
+   "Po 48 godzinach"
+  ],
+  "wyjasnienie": "Nie ma „okresu oczekiwania” – zawiadomienie o zaginięciu przyjmuje się niezwłocznie, bez względu na wiek i czas od zaginięcia.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "8a9321d61a",
+  "temat": "KSIP – rejestracje i sprawdzenia",
+  "pytanie": "Czynności służbowe nie doprowadziły do identyfikacji zwłok. Po jakim czasie od ujawnienia niezidentyfikowanych zwłok należy fakt ten zarejestrować w KSIP?",
+  "poprawna": "48 godzin",
+  "bledne": [
+   "1 godziny",
+   "3 godzin",
+   "24 godzin"
+  ],
+  "wyjasnienie": "§ 56 ust. 1 Zarządzenia nr 70 KGP: NN osobę i NN zwłoki rejestruje się w ciągu 48 godzin od ujawnienia, jeżeli w tym czasie nie udało się ich zidentyfikować.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "9924467f1d",
+  "temat": "KSIP – rejestracje i sprawdzenia",
+  "pytanie": "Informacje o sprawcach wykroczeń przeciwko mieniu, osobach podejrzanych o ich popełnienie oraz obwinionych i ukaranych za te wykroczenia rejestruje się w KSIP niezwłocznie, jednak nie później niż w ciągu:",
+  "poprawna": "5 dni",
+  "bledne": [
+   "3 godzin",
+   "24 godzin",
+   "30 dni"
+  ],
+  "wyjasnienie": "§ 57 ust. 1 Zarządzenia nr 70 KGP: nie później niż w ciągu 5 dni od wystąpienia podstaw do wprowadzenia informacji do rejestru wykroczeń.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "59d8c1092b",
+  "temat": "KSIP – rejestracje i sprawdzenia",
+  "pytanie": "Informację o zatrzymaniu dokumentu stwierdzającego uprawnienie do kierowania pojazdem rejestruje się w KSIP, w formie rejestracji rzeczy, niezwłocznie po zatrzymaniu, jednak nie później niż w ciągu:",
+  "poprawna": "24 godzin od zatrzymania",
+  "bledne": [
+   "1 godziny od zatrzymania",
+   "3 godzin od zatrzymania",
+   "12 godzin od zatrzymania"
+  ],
+  "wyjasnienie": "Zarządzenie nr 70 KGP: zatrzymanie prawa jazdy – nie później niż w ciągu 24 godzin. Zwrot dokumentu – też w ciągu 24 godzin.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "a14cba3704",
+  "temat": "KSIP – rejestracje i sprawdzenia",
+  "pytanie": "W zbiorze danych KSIP „Osoba” rejestruje się w formie „rejestracji osoby” informacje o:",
+  "poprawna": "nieznanych zwłokach",
+  "bledne": [
+   "podejrzanych o przestępstwa prywatnoskargowe",
+   "osobach pełnoletnich poddanych sprawdzeniu",
+   "nieletnich poddanych sprawdzeniu"
+  ],
+  "wyjasnienie": "§ 16 ust. 1 pkt 3 Zarządzenia nr 70 KGP: w zbiorze Osoba rejestruje się także zwłoki o nieustalonej tożsamości. Rejestruje się podejrzanych o przestępstwa ścigane z oskarżenia publicznego, a nie prywatnoskargowe. Samo sprawdzenie nie jest rejestracją.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "632a9a3439",
+  "temat": "KSIP – rejestracje i sprawdzenia",
+  "pytanie": "Zagubiony dowód osobisty rejestruje się w KSIP:",
+  "poprawna": "Nie rejestruje się zagubionego dowodu osobistego w KSIP",
+  "bledne": [
+   "Niezwłocznie po potwierdzeniu własności",
+   "W ciągu 3 godzin",
+   "W ciągu 24 godzin"
+  ],
+  "wyjasnienie": "W KSIP z powodem „UTRACONO” rejestruje się rzeczy utracone w wyniku przestępstwa lub wykroczenia. Zgubienie nie jest czynem zabronionym – taki dowód unieważnia się w Rejestrze Dowodów Osobistych.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "3d56f4b0de",
+  "temat": "KSIP – rejestracje i sprawdzenia",
+  "pytanie": "W myśl załącznika nr 41 (wykaz haseł i kodów o istnieniu w zbiorach KSIP czynnej rejestracji) hasło/kod ZIELONY / 11 oznacza:",
+  "poprawna": "Zakaz wstępu na imprezę masową",
+  "bledne": [
+   "Osoba notowana",
+   "Osoba nieposzukiwana",
+   "Zatrzymanie prawa jazdy"
+  ],
+  "wyjasnienie": "Załącznik nr 41: ZIELONY 11 – zakaz wstępu na imprezę masową. BIAŁY 00 – nieposzukiwany, ŻÓŁTY 33 – zatrzymanie prawa jazdy, CZERWONY 88/99 – zatrzymanie (art. 26 SIS).",
+  "zrodlo": "test"
+ },
+ {
+  "id": "168d2c1c7e",
+  "temat": "KSIP – rejestracje i sprawdzenia",
+  "pytanie": "Zielony znacznik w odpowiedzi z KSIP w obszarze „Pojazd” oznacza:",
+  "poprawna": "NIEPOSZUKIWANY",
+  "bledne": [
+   "W ZAINTERESOWANIU",
+   "ZABEZPIECZONO",
+   "UTRACONO"
+  ],
+  "wyjasnienie": "UWAGA – niepewne: chodzi o kolory w interfejsie KSIP, których nie opisują przepisy. Zielony oznacza brak aktywnej rejestracji, czyli pojazd nieposzukiwany.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "b08eb32ae8",
+  "temat": "KSIP – rejestracje i sprawdzenia",
+  "pytanie": "W KSIP broń palną pozbawioną cech użytkowych (PCU), utraconą w wyniku przestępstwa, oznacza dodatkowo:",
+  "poprawna": "Czarny znacznik",
+  "bledne": [
+   "Niebieski znacznik",
+   "Zielony znacznik",
+   "Nie rejestruje się jej"
+  ],
+  "wyjasnienie": "UWAGA – niepewne: chodzi o oznaczenie w interfejsie KSIP, którego nie ma w przepisach. Broń PCU podlega rejestracji, a w odpowiedzi systemu ma dodatkowe oznaczenie.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "d420cacf10",
+  "temat": "KSIP – rejestracje i sprawdzenia",
+  "pytanie": "Jeżeli sprawę o przestępstwo zgłoszono w jednostce Policji niewłaściwej miejscowo, przekazuje się ją właściwej jednostce na formularzu:",
+  "poprawna": "KSIP 2C",
+  "bledne": [
+   "KSIP 2A",
+   "KSIP P",
+   "KSIP PZ"
+  ],
+  "wyjasnienie": "UWAGA – niepewne: to dawne oznaczenie formularzy. W obecnym Zarządzeniu nr 70 KGP przekazanie rejestracji przestępstwa to formularz „KSIP Przestępstwa D”, a przekazanie innej rejestracji – „KSIP Przekazanie (przejęcie)”.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "94b2daf648",
+  "temat": "KSIP – rejestracje i sprawdzenia",
+  "pytanie": "Wskaż pięć pytań, które zadasz odnalezionej osobie poszukiwanej jako zaginiona i umieścisz w sporządzanej dokumentacji.",
+  "poprawna": "Czy wie, że jest osobą zaginioną? Czy chce kontaktu ze zgłaszającym? Gdzie przebywała? Czy potrzebuje pomocy medycznej? Czy potrzebuje pomocy Policji?",
+  "bledne": [
+   "Czy wie, że jest osobą zaginioną? Czy chce kontaktu ze zgłaszającym? Gdzie przebywała? Czy potrzebuje pomocy medycznej? Co było powodem zaginięcia?",
+   "Co było powodem zaginięcia? Czy chce kontaktu ze wskazaną osobą? Gdzie przebywała? Czy potrzebuje pomocy medycznej? Czy potrzebuje psychologa?",
+   "Czy chce, aby zgłaszający został poinformowany o odnalezieniu? Gdzie przebywała? Czy choruje przewlekle? Czy potrzebuje pomocy Policji? Czy potrzebuje psychologa?"
+  ],
+  "wyjasnienie": "UWAGA – niepewne: Zarządzenie nr 48 KGP nie podaje listy pytań. Pełnoletnia osoba nie musi tłumaczyć powodu zaginięcia. Policja ustala, czy wie o poszukiwaniach, czy zgadza się na kontakt ze zgłaszającym, gdzie przebywała i czy potrzebuje pomocy.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "03185c94f7",
+  "temat": "KSIP – rejestracje i sprawdzenia",
+  "pytanie": "Rejestracji imprezy masowej w systemie PRIM dokonuje się niezwłocznie po otrzymaniu lub sporządzeniu dokumentów, ale nie później niż na:",
+  "poprawna": "24 godziny przed rozpoczęciem imprezy",
+  "bledne": [
+   "12 godzin przed rozpoczęciem imprezy",
+   "48 godzin przed rozpoczęciem imprezy",
+   "72 godziny przed rozpoczęciem imprezy"
+  ],
+  "wyjasnienie": "UWAGA – niepewne: termin wynika z przepisów KGP o PRIM, których nie udało się pobrać. Najczęściej podawana jest odpowiedź „24 godziny przed rozpoczęciem”.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "85035a9d35",
+  "temat": "KSIP – rejestracje i sprawdzenia",
+  "pytanie": "Której osoby nie zatrzymasz, mimo że jest poszukiwana, na podstawie sprawdzenia dokonanego w systemie KSIP?",
+  "poprawna": "Ani osoby poszukiwanej jako zaginiona, ani osoby poszukiwanej w ramach UMP",
+  "bledne": [
+   "Tylko osoby poszukiwanej jako zaginiona",
+   "Tylko osoby poszukiwanej w ramach UMP",
+   "Osoby poszukiwanej listem gończym"
+  ],
+  "wyjasnienie": "Cel poszukiwania zaginionego i UMP (ustalenie miejsca pobytu) to ustalenie, gdzie osoba przebywa, a nie jej zatrzymanie. List gończy oznacza zatrzymanie.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "827174d08c",
+  "temat": "KSIP – rejestracje i sprawdzenia",
+  "pytanie": "Procedury postępowania policjanta w przypadku odnalezienia osoby lub przedmiotu na skutek wglądu do danych SIS określa:",
+  "poprawna": "Zarządzenie nr 70 KGP z dnia 2 grudnia 2019 r.",
+  "bledne": [
+   "Decyzja nr 137 KGP z dnia 10 kwietnia 2013 r.",
+   "Zarządzenie nr 16 KGP z dnia 30 czerwca 2015 r.",
+   "Decyzja nr 165 KGP z dnia 25 lipca 2017 r."
+  ],
+  "wyjasnienie": "Załącznik nr 41 do Zarządzenia nr 70 KGP: hasła i kody (także dla wpisów SIS) oraz sposób postępowania po trafieniu.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "2fa4af599e",
+  "temat": "SIS i wymiana międzynarodowa",
+  "pytanie": "Podstawowe akty prawne 2018/1860, 2018/1861 i 2018/1862, dotyczące funkcjonowania i użytkowania SIS, to:",
+  "poprawna": "Rozporządzenia",
+  "bledne": [
+   "Dyrektywy",
+   "Zarządzenia",
+   "Ratyfikowane umowy międzynarodowe"
+  ],
+  "wyjasnienie": "To rozporządzenia Parlamentu Europejskiego i Rady (UE) – stosuje się je bezpośrednio.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "ae78da2027",
+  "temat": "SIS i wymiana międzynarodowa",
+  "pytanie": "Które rozporządzenie UE wskazano w materiale przy kategoriach wpisów SIS w obszarze współpracy policyjnej i sądowej?",
+  "poprawna": "Rozporządzenie (UE) 2018/1862 z 28 listopada 2018 r.",
+  "bledne": [
+   "Rozporządzenie (UE) 2018/1861 z 28 listopada 2018 r.",
+   "Rozporządzenie (UE) 2016/679",
+   "Dyrektywa (UE) 2016/680"
+  ],
+  "wyjasnienie": "2018/1862 – współpraca policyjna i sądowa w sprawach karnych. 2018/1861 – odprawy graniczne, 2018/1860 – powroty.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "555d2c27f2",
+  "temat": "SIS i wymiana międzynarodowa",
+  "pytanie": "Art. 24 (rozporządzenia 2018/1861) – zgodnie z zaznaczeniem w materiale – dotyczy:",
+  "poprawna": "Cudzoziemców niepożądanych na obszarze Schengen",
+  "bledne": [
+   "Osób zaginionych",
+   "Osób poszukiwanych w celu ekstradycji",
+   "Przedmiotów poszukiwanych"
+  ],
+  "wyjasnienie": "Wpisy dotyczące odmowy wjazdu i pobytu to art. 24 rozporządzenia 2018/1861 (w materiale opisane przy 2018/1862).",
+  "zrodlo": "test"
+ },
+ {
+  "id": "2681ab1f8c",
+  "temat": "SIS i wymiana międzynarodowa",
+  "pytanie": "Polskim organem mającym uprawnienia do dokonania wpisu z art. 24 rozporządzenia w sprawie SIS (odmowa wjazdu i pobytu) jest:",
+  "poprawna": "Szef Urzędu ds. Cudzoziemców",
+  "bledne": [
+   "Policja",
+   "Prokuratura",
+   "Straż Graniczna"
+  ],
+  "wyjasnienie": "Art. 3 ust. 1 pkt 4 ustawy o udziale RP w SIS i VIS: wpisy z art. 24 rozporządzenia 2018/1861 wprowadza Szef Urzędu do Spraw Cudzoziemców.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "8872332126",
+  "temat": "SIS i wymiana międzynarodowa",
+  "pytanie": "Art. 26 rozporządzenia (UE) 2018/1862 dotyczy wpisów o:",
+  "poprawna": "Osobach poszukiwanych w celu aresztowania dla przekazania lub ekstradycji",
+  "bledne": [
+   "Cudzoziemcach objętych odmową wjazdu",
+   "Przedmiotach poszukiwanych do zajęcia",
+   "Osobach zaginionych"
+  ],
+  "wyjasnienie": "Art. 26 – aresztowanie w celu przekazania (ENA) albo ekstradycji. Kod CZERWONY 88/99.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "d614607983",
+  "temat": "SIS i wymiana międzynarodowa",
+  "pytanie": "Wniosek o ściganie osoby w ramach art. 26 rozporządzenia SIS wnosi lub wnoszą:",
+  "poprawna": "Prokurator lub sąd",
+  "bledne": [
+   "Prokurator",
+   "Sąd",
+   "Biuro SIRENE podległe KGP"
+  ],
+  "wyjasnienie": "Art. 3 ust. 1 pkt 1–2 ustawy o udziale RP w SIS i VIS: wpisy dotyczące osób poszukiwanych do tymczasowego aresztowania wprowadza sąd lub prokuratura.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "a7799b0d5e",
+  "temat": "SIS i wymiana międzynarodowa",
+  "pytanie": "Art. 32 rozporządzenia (UE) 2018/1862 dotyczy wpisów o:",
+  "poprawna": "Osobach zaginionych oraz osobach wymagających ochrony przed podróżą",
+  "bledne": [
+   "Osobach objętych kontrolą niejawną",
+   "Osobach poszukiwanych do postępowania sądowego",
+   "Przedmiotach do zajęcia"
+  ],
+  "wyjasnienie": "Art. 32 – osoby zaginione i osoby narażone, którym należy uniemożliwić podróż.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "03c69d6ed0",
+  "temat": "SIS i wymiana międzynarodowa",
+  "pytanie": "Art. 34 rozporządzenia (UE) 2018/1862 dotyczy wpisów o:",
+  "poprawna": "Osobach poszukiwanych w celu wsparcia postępowania sądowego",
+  "bledne": [
+   "Osobach poszukiwanych do ekstradycji",
+   "Cudzoziemcach niepożądanych",
+   "Przedmiotach poszukiwanych"
+  ],
+  "wyjasnienie": "Art. 34 – osoby, których obecność jest wymagana w postępowaniu (świadkowie, wezwani, osoby do doręczeń). Zwykle chodzi o ustalenie miejsca pobytu.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "13ad3a386c",
+  "temat": "SIS i wymiana międzynarodowa",
+  "pytanie": "Do osób zarejestrowanych z art. 34 (dawnej decyzji w sprawie SIS II) należą:",
+  "poprawna": "świadkowie",
+  "bledne": [
+   "osoby zbiegłe z zakładu karnego",
+   "osoby ukrywające się przed organami ścigania",
+   "osoby pokrzywdzone przywłaszczeniem tożsamości"
+  ],
+  "wyjasnienie": "Art. 34 obejmuje świadków, podejrzanych i oskarżonych wezwanych do stawiennictwa oraz osoby, którym trzeba doręczyć wyrok lub wezwanie. Zbiegli i ukrywający się to zwykle art. 26.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "759b9310c1",
+  "temat": "SIS i wymiana międzynarodowa",
+  "pytanie": "Art. 35 rozporządzenia (UE) 2018/1862 – zgodnie z zaznaczeniem w materiale – dotyczy:",
+  "poprawna": "Wykonania działania wobec osób poszukiwanych do postępowania sądowego",
+  "bledne": [
+   "Kontroli niejawnej osób i przedmiotów",
+   "Osób poszukiwanych do aresztowania",
+   "Poszukiwanych przedmiotów"
+  ],
+  "wyjasnienie": "Art. 35 – działania podejmowane na podstawie wpisu z art. 34 (przekazanie informacji o miejscu pobytu).",
+  "zrodlo": "test"
+ },
+ {
+  "id": "3900482399",
+  "temat": "SIS i wymiana międzynarodowa",
+  "pytanie": "Art. 36 rozporządzenia (UE) 2018/1862 dotyczy wpisów w celu:",
+  "poprawna": "Kontroli niejawnej, kontroli sprawdzającej lub kontroli szczególnej",
+  "bledne": [
+   "Wyłącznie zatrzymania osoby",
+   "Wydania wizy Schengen",
+   "Rejestracji wyroku skazującego"
+  ],
+  "wyjasnienie": "Art. 36 – kontrole niejawne, rozpytania kontrolne i kontrole szczególne (kod ŻÓŁTY 44, NIEBIESKI 144).",
+  "zrodlo": "test"
+ },
+ {
+  "id": "91dcd82282",
+  "temat": "SIS i wymiana międzynarodowa",
+  "pytanie": "Który artykuł rozporządzenia (UE) 2018/1862 dotyczy przedmiotów poszukiwanych w celu zajęcia lub wykorzystania jako dowód?",
+  "poprawna": "Art. 38",
+  "bledne": [
+   "Art. 36",
+   "Art. 24",
+   "Art. 35"
+  ],
+  "wyjasnienie": "Art. 38 – przedmioty do zajęcia lub wykorzystania jako dowód w postępowaniu karnym.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "8b02c18319",
+  "temat": "SIS i wymiana międzynarodowa",
+  "pytanie": "Która sekwencja poprawnie łączy artykuły rozporządzenia 2018/1862 z kategoriami wpisów?",
+  "poprawna": "26 – aresztowanie; 32 – osoby zaginione; 34 – postępowanie sądowe; 36 – kontrole; 38 – przedmioty",
+  "bledne": [
+   "26 – wizy; 32 – przedmioty; 34 – aresztowanie; 36 – osoby zaginione; 38 – PESEL",
+   "26 – osoby zaginione; 32 – aresztowanie; 34 – przedmioty; 36 – wizy; 38 – kontrole",
+   "26 – kontrole; 32 – postępowanie sądowe; 34 – wizy; 36 – przedmioty; 38 – aresztowanie"
+  ],
+  "wyjasnienie": "Ściąga: 26 aresztowanie, 32 zaginieni, 34 sąd, 36 kontrole, 38 przedmioty, 40 nieznani poszukiwani.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "23a3c1826e",
+  "temat": "SIS i wymiana międzynarodowa",
+  "pytanie": "O wpisie obejmującym kategorię „wpisy dotyczące nieznanych osób poszukiwanych” mówi:",
+  "poprawna": "Żaden z wymienionych artykułów",
+  "bledne": [
+   "Art. 3",
+   "Art. 7",
+   "Art. 38"
+  ],
+  "wyjasnienie": "Nieznane osoby poszukiwane (np. ślady daktyloskopijne sprawcy) to art. 40 rozporządzenia 2018/1862 – nie ma go wśród odpowiedzi.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "2081882468",
+  "temat": "SIS i wymiana międzynarodowa",
+  "pytanie": "Do kategorii przedmiotów rejestrowanych w SIS nie należy/należą:",
+  "poprawna": "biżuteria",
+  "bledne": [
+   "broń palna",
+   "dokumenty",
+   "obligacje"
+  ],
+  "wyjasnienie": "Art. 38 obejmuje m.in. pojazdy, przyczepy, jednostki pływające i ich silniki, kontenery, broń palną, dokumenty, banknoty i papiery wartościowe. Biżuterii nie ma.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "289d5a8f5c",
+  "temat": "SIS i wymiana międzynarodowa",
+  "pytanie": "Policja jest organem mającym uprawnienia do dokonywania wpisów w systemie SIS z art.:",
+  "poprawna": "38",
+  "bledne": [
+   "26",
+   "34",
+   "24 rozporządzenia 2018/1861"
+  ],
+  "wyjasnienie": "Ustawa o udziale RP w SIS: art. 26 i 34 – sąd lub prokuratura, art. 24 – Szef UdSC. Policja wprowadza m.in. wpisy z art. 38 (przedmioty), 32 (zaginieni) i 36 (kontrole).",
+  "zrodlo": "test"
+ },
+ {
+  "id": "cc454d4781",
+  "temat": "SIS i wymiana międzynarodowa",
+  "pytanie": "Jakie jest podstawowe zadanie biura SIRENE?",
+  "poprawna": "Przekazywanie informacji uzupełniających związanych z wpisami SIS",
+  "bledne": [
+   "Wydawanie wiz Schengen",
+   "Prowadzenie polskiego rejestru karnego",
+   "Rejestrowanie dowodów osobistych"
+  ],
+  "wyjasnienie": "SIRENE (Supplementary Information REquest at the National Entry) – wymiana informacji uzupełniających do wpisów SIS.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "e12eca27f2",
+  "temat": "SIS i wymiana międzynarodowa",
+  "pytanie": "Dlaczego po trafieniu na wpis SIS często potrzebna jest wymiana przez SIRENE?",
+  "poprawna": "Wpis wskazuje wymagane działanie, a informacje uzupełniające pozwalają je prawidłowo wykonać i skoordynować",
+  "bledne": [
+   "SIRENE zastępuje wszystkie krajowe bazy danych",
+   "SIRENE wydaje wyroki i nakazy aresztowania",
+   "SIRENE nadaje numery PESEL cudzoziemcom"
+  ],
+  "wyjasnienie": "Załącznik nr 41 przy wielu kodach: „Wystąpić do Biura SIRENE o przesłanie informacji uzupełniających”.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "718e023276",
+  "temat": "SIS i wymiana międzynarodowa",
+  "pytanie": "Elementem centralnej architektury SIS odpowiedzialnym za część krajową systemu w państwie członkowskim jest:",
+  "poprawna": "N.SIS",
+  "bledne": [
+   "Biuro SIRENE",
+   "I-24/7",
+   "EIS"
+  ],
+  "wyjasnienie": "N.SIS – krajowy system SIS (w Polsce w ramach KSI). SIRENE wymienia informacje uzupełniające, ale nie jest systemem.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "89117a343c",
+  "temat": "SIS i wymiana międzynarodowa",
+  "pytanie": "Z jakim systemem daktyloskopijnym współpracuje SIS zgodnie z materiałem?",
+  "poprawna": "AFIS",
+  "bledne": [
+   "EUCARIS",
+   "PRIM",
+   "CEPiK"
+  ],
+  "wyjasnienie": "AFIS – system automatycznej identyfikacji daktyloskopijnej (w SIS: SIS AFIS).",
+  "zrodlo": "test"
+ },
+ {
+  "id": "7008f38d58",
+  "temat": "SIS i wymiana międzynarodowa",
+  "pytanie": "Jak brzmi angielskie rozwinięcie skrótu AFIS?",
+  "poprawna": "Automated Fingerprint Identification System",
+  "bledne": [
+   "Automated File Integration Service",
+   "Automatic Face Identification Service",
+   "Advanced Forensic Information System"
+  ],
+  "wyjasnienie": "AFIS – Automated Fingerprint Identification System.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "eab1ed2645",
+  "temat": "SIS i wymiana międzynarodowa",
+  "pytanie": "Do wpisów w SIS można dodawać dane daktyloskopijne, które są przeszukiwane przy pomocy:",
+  "poprawna": "SIS AFIS",
+  "bledne": [
+   "SIS DAKTYL",
+   "SIS MORFO-TOUCH",
+   "Eurodac"
+  ],
+  "wyjasnienie": "SIS AFIS (od 2018 r.) pozwala identyfikować osoby w SIS na podstawie samych odcisków palców.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "7891fec5a1",
+  "temat": "SIS i wymiana międzynarodowa",
+  "pytanie": "System informatyczny gromadzący dane biometryczne osób ubiegających się o ochronę międzynarodową oraz określonych kategorii obywateli państw trzecich na obszarze UE to:",
+  "poprawna": "Eurodac",
+  "bledne": [
+   "Immigrant AFIS",
+   "SIS DAKTYL",
+   "Illegal Immigrant AFIS"
+  ],
+  "wyjasnienie": "Eurodac – unijna baza odcisków palców osób ubiegających się o azyl i nielegalnych migrantów.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "ae92152f8c",
+  "temat": "SIS i wymiana międzynarodowa",
+  "pytanie": "Co oznacza skrót ENA w kontekście art. 26 SIS?",
+  "poprawna": "Europejski Nakaz Aresztowania",
+  "bledne": [
+   "Europejska Nota Administracyjna",
+   "Elektroniczny Numer Alertu",
+   "Europejska Niejawna Akcja"
+  ],
+  "wyjasnienie": "ENA – Europejski Nakaz Aresztowania. Wpis z art. 26 często opiera się na ENA.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "351b68c0e0",
+  "temat": "SIS i wymiana międzynarodowa",
+  "pytanie": "Co oznacza skrót UMP użyty w materiale przy osobach poszukiwanych?",
+  "poprawna": "Ustalenie miejsca pobytu",
+  "bledne": [
+   "Urzędowe miejsce przesłuchania",
+   "Ustalenie majątku podejrzanego",
+   "Ukryte monitorowanie pojazdu"
+  ],
+  "wyjasnienie": "UMP – ustalenie miejsca pobytu. Osoby z takim celem poszukiwania się nie zatrzymuje.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "7cf9517f3c",
+  "temat": "SIS i wymiana międzynarodowa",
+  "pytanie": "Czym różni się kontrola niejawna od kontroli szczególnej w SIS?",
+  "poprawna": "Przy kontroli niejawnej osoba nie powinna dowiedzieć się o wpisie, a kontrola szczególna może obejmować przeszukanie zgodnie z prawem krajowym",
+  "bledne": [
+   "Kontrola szczególna zawsze oznacza aresztowanie",
+   "Nie różnią się – to dwie nazwy zatrzymania",
+   "Kontrola niejawna dotyczy tylko pojazdów, a szczególna tylko osób"
+  ],
+  "wyjasnienie": "Kontrola niejawna: zbiera się informacje bez ujawniania wpisu. Kontrola szczególna: przeszukanie osoby, pojazdu i bagażu zgodnie z prawem krajowym.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "3395b1e052",
+  "temat": "SIS i wymiana międzynarodowa",
+  "pytanie": "Tożsamość przywłaszczona to:",
+  "poprawna": "posługiwanie się tożsamością innej istniejącej osoby",
+  "bledne": [
+   "tożsamość przybrana, którą posługuje się osoba znana pod innymi tożsamościami",
+   "tożsamość potwierdzona na podstawie autentycznych dokumentów tożsamości",
+   "posługiwanie się tożsamością nieistniejącej osoby"
+  ],
+  "wyjasnienie": "Przywłaszczona – dane prawdziwej, istniejącej osoby (ofiary). Tożsamość nieistniejącej osoby to tożsamość fikcyjna, a przybrana to alias.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "2e642aef10",
+  "temat": "SIS i wymiana międzynarodowa",
+  "pytanie": "Podstawą prawną zatrzymania osoby ściganej na podstawie informacji zamieszczonych w bazie danych Interpolu lub w SIS jest:",
+  "poprawna": "Art. 605a KPK",
+  "bledne": [
+   "Art. 244 KPK",
+   "Art. 394 ustawy o cudzoziemcach",
+   "Art. 607a KPK"
+  ],
+  "wyjasnienie": "Art. 605a § 1 k.p.k.: zatrzymanie osoby ściganej może nastąpić także na podstawie informacji o poszukiwaniu w bazie Interpolu lub w SIS (z odesłaniem do art. 244–246).",
+  "zrodlo": "test"
+ },
+ {
+  "id": "d7e0bdf0a0",
+  "temat": "SIS i wymiana międzynarodowa",
+  "pytanie": "Jakie noty INTERPOL-u są dostępne do wglądu podczas legitymowania przez funkcjonariusza Policji przy użyciu terminala mobilnego za pośrednictwem SPP?",
+  "poprawna": "Czerwona, żółta, niebieska",
+  "bledne": [
+   "Czerwona, zielona, żółta",
+   "Czerwona, zielona, czarna",
+   "Czerwona, niebieska, pomarańczowa"
+  ],
+  "wyjasnienie": "UWAGA – niepewne: w oryginale dwie odpowiedzi były identyczne (czerwona, zielona, żółta), więc żadna z nich nie mogła być jedyną poprawną. Jedną zmieniono na „czerwona, zielona, czarna”, żeby się nie dublowały. Przy legitymowaniu liczą się noty czerwona (zatrzymanie), żółta (zaginieni) i niebieska (ustalenie miejsca pobytu).",
+  "zrodlo": "test"
+ },
+ {
+  "id": "94ba403235",
+  "temat": "SIS i wymiana międzynarodowa",
+  "pytanie": "Aplikacja do bezpiecznej wymiany informacji w ramach Europolu to:",
+  "poprawna": "SIENA",
+  "bledne": [
+   "BRAVO",
+   "PUNTO",
+   "EURO-TASK"
+  ],
+  "wyjasnienie": "SIENA – Secure Information Exchange Network Application (Europol).",
+  "zrodlo": "test"
+ },
+ {
+  "id": "e17f607965",
+  "temat": "SIS i wymiana międzynarodowa",
+  "pytanie": "Co to są dane PNR?",
+  "poprawna": "Dane dotyczące przelotu pasażera gromadzone przez przewoźnika lotniczego",
+  "bledne": [
+   "Dane o uprawnieniach do kierowania pojazdami",
+   "Dane o jachtach i silnikach zarejestrowanych w UE",
+   "Dane celne dotyczące kontenerów"
+  ],
+  "wyjasnienie": "PNR – Passenger Name Record: dane rezerwacji i przelotu pasażera.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "cbb7b4bfc2",
+  "temat": "SIS i wymiana międzynarodowa",
+  "pytanie": "Państwa stowarzyszone w ramach strefy Schengen, niebędące członkami Unii Europejskiej, to:",
+  "poprawna": "Islandia, Liechtenstein, Norwegia i Szwajcaria",
+  "bledne": [
+   "Norwegia, Andora, San Marino i Szwajcaria",
+   "Watykan, Monako, Norwegia i Szwajcaria",
+   "Irlandia, Andora, Wyspy Owcze i Kosowo"
+  ],
+  "wyjasnienie": "Cztery państwa EFTA. Irlandia jest w UE, ale poza Schengen.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "b9c520f77a",
+  "temat": "SIS i wymiana międzynarodowa",
+  "pytanie": "Strefa Schengen to obszar, na którym zniesiono kontrole na granicach wewnętrznych. Aktualnie obszar ten liczy:",
+  "poprawna": "29 państw",
+  "bledne": [
+   "24 państwa",
+   "25 państw",
+   "27 państw"
+  ],
+  "wyjasnienie": "25 państw UE (bez Irlandii i Cypru) oraz 4 państwa stowarzyszone. Od 2025 r. Bułgaria i Rumunia są pełnoprawnymi członkami.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "e38afbc20c",
+  "temat": "SIS i wymiana międzynarodowa",
+  "pytanie": "Agencja Unii Europejskiej ds. Zarządzania Operacyjnego Wielkoskalowymi Systemami Informatycznymi w Przestrzeni Wolności, Bezpieczeństwa i Sprawiedliwości nazywana jest w skrócie:",
+  "poprawna": "eu-LISA",
+  "bledne": [
+   "Biuro SIRENE",
+   "N.SIS",
+   "EIS"
+  ],
+  "wyjasnienie": "eu-LISA zarządza m.in. centralnym SIS, VIS i Eurodac.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "0e6459cd18",
+  "temat": "SIS i wymiana międzynarodowa",
+  "pytanie": "Polska zawiesiła działalność w strukturach INTERPOL-u ze względów politycznych w okresie:",
+  "poprawna": "1952–1990",
+  "bledne": [
+   "1945–1989",
+   "1947–1988",
+   "1953–1989"
+  ],
+  "wyjasnienie": "Polska wystąpiła z Interpolu w 1952 r. i wróciła w 1990 r.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "ddb3b0dfbb",
+  "temat": "SIS i wymiana międzynarodowa",
+  "pytanie": "Europejski Nakaz Aresztowania obejmuje osoby prawomocnie skazane albo ścigane za czyn zagrożony karą pozbawienia wolności, gdy próg wynosi:",
+  "poprawna": "orzeczona kara co najmniej 4 miesięcy albo czyn zagrożony karą o górnej granicy co najmniej 12 miesięcy",
+  "bledne": [
+   "orzeczona kara 6 miesięcy albo zagrożenie 1 rokiem",
+   "orzeczona kara 6 miesięcy albo zagrożenie 2 latami",
+   "orzeczona kara 12 miesięcy albo zagrożenie 3 latami"
+  ],
+  "wyjasnienie": "Art. 607b k.p.k.: ENA jest niedopuszczalny przy zagrożeniu do roku albo przy karze orzeczonej do 4 miesięcy.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "c26f714626",
+  "temat": "SIS i wymiana międzynarodowa",
+  "pytanie": "Jedną z podstawowych różnic pomiędzy Europejskim Nakazem Aresztowania a ekstradycją jest:",
+  "poprawna": "zasada podwójnej karalności",
+  "bledne": [
+   "zasada proporcjonalności",
+   "zasada wzajemności",
+   "zasada dwuwartościowości"
+  ],
+  "wyjasnienie": "Przy ENA dla 32 kategorii przestępstw nie bada się podwójnej karalności (czy czyn jest przestępstwem w obu państwach). Przy ekstradycji to podstawowy warunek.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "46b908f733",
+  "temat": "SIS i wymiana międzynarodowa",
+  "pytanie": "Europejski Urząd Policji (Europol) funkcjonuje od:",
+  "poprawna": "1 lipca 1999 r.",
+  "bledne": [
+   "1 stycznia 2003 r.",
+   "1 listopada 2004 r.",
+   "1 czerwca 1997 r."
+  ],
+  "wyjasnienie": "Europol rozpoczął pełną działalność 1 lipca 1999 r.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "e9a1b7b338",
+  "temat": "SIS i wymiana międzynarodowa",
+  "pytanie": "Mniej sformalizowany wniosek o współpracę międzynarodową w ramach INTERPOL-u to:",
+  "poprawna": "Dyfuzja",
+  "bledne": [
+   "Nota",
+   "Prośba KBI",
+   "Koordynat I/24"
+  ],
+  "wyjasnienie": "Dyfuzję państwo wysyła bezpośrednio do wybranych państw. Notę wydaje Sekretariat Generalny do wszystkich członków.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "5488de94e5",
+  "temat": "SIS i wymiana międzynarodowa",
+  "pytanie": "Nota INTERPOL-u jest to wniosek o współpracę międzynarodową lub ostrzeżenie międzynarodowe adresowane do:",
+  "poprawna": "wszystkich państw członkowskich INTERPOL-u",
+  "bledne": [
+   "państwa albo państw członkowskich INTERPOL-u",
+   "konkretnego państwa członkowskiego INTERPOL-u",
+   "maksymalnie trzech państw członkowskich INTERPOL-u"
+  ],
+  "wyjasnienie": "Nota trafia do wszystkich państw. Wybrane państwa to dyfuzja.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "3f24c4ac8b",
+  "temat": "SIS i wymiana międzynarodowa",
+  "pytanie": "Czerwona dyfuzja INTERPOL-u publikowana jest za:",
+  "poprawna": "osobami poszukiwanymi do aresztowania",
+  "bledne": [
+   "osobami zaginionymi",
+   "osobami o niezidentyfikowanej tożsamości",
+   "ofiarami uprowadzeń"
+  ],
+  "wyjasnienie": "Kolor czerwony w Interpolu oznacza poszukiwanie w celu zatrzymania i ekstradycji. Żółty to zaginieni, czarny to niezidentyfikowane zwłoki.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "e541954545",
+  "temat": "SIS i wymiana międzynarodowa",
+  "pytanie": "Rejestracja poszukiwań w bazach INTERPOL-u odbywa się za pomocą systemu o nazwie:",
+  "poprawna": "I-Link",
+  "bledne": [
+   "ESS",
+   "I/24",
+   "World Police Recon Registration"
+  ],
+  "wyjasnienie": "I-link to system Interpolu do wprowadzania danych i wniosków o noty. I-24/7 to sieć łączności.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "a984e7f7d8",
+  "temat": "SIS i wymiana międzynarodowa",
+  "pytanie": "Jak nazywa się baza INTERPOL-u, która gromadzi dane o skradzionych jednostkach pływających i silnikach motorowych?",
+  "poprawna": "SVD",
+  "bledne": [
+   "ICSE",
+   "wOAS",
+   "Nominal"
+  ],
+  "wyjasnienie": "UWAGA – niepewne: ICSE to baza wykorzystywania seksualnego dzieci, WOA – dzieł sztuki, Nominal – osób. SVD (baza skradzionych jednostek pływających) pozostaje jedyną pasującą odpowiedzią.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "5b98c9a7f6",
+  "temat": "SIS i wymiana międzynarodowa",
+  "pytanie": "Wymiana danych pojazdów będzie realizowana za pośrednictwem europejskiego systemu EUCARIS oraz zaimplementowanego modułu:",
+  "poprawna": "CBE",
+  "bledne": [
+   "CAS",
+   "VIS",
+   "Ikarus"
+  ],
+  "wyjasnienie": "UWAGA – niepewne: CBE (Cross Border Enforcement) to moduł EUCARIS do transgranicznej wymiany danych pojazdów, m.in. przy wykroczeniach drogowych.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "6eaf2bf52d",
+  "temat": "SIS i wymiana międzynarodowa",
+  "pytanie": "Dane biometryczne (zdjęcie i odciski palców) pobrane od osoby ubiegającej się o wizę Schengen są przechowywane w VIS przez okres:",
+  "poprawna": "59 miesięcy",
+  "bledne": [
+   "12 miesięcy",
+   "29 miesięcy",
+   "37 miesięcy"
+  ],
+  "wyjasnienie": "UWAGA – niepewne: dane w VIS przechowuje się do 5 lat. Odciski pobrane w ciągu ostatnich 59 miesięcy można skopiować do kolejnego wniosku, więc 59 miesięcy to najlepiej pasująca odpowiedź.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "aff9786457",
+  "temat": "SIS i wymiana międzynarodowa",
+  "pytanie": "Zgodnie z rozporządzeniem (UE) 2018/1862 wpis dotyczący osoby poszukiwanej w celu aresztowania i wydania albo ekstradycji należy weryfikować nie rzadziej niż co:",
+  "poprawna": "5 lat",
+  "bledne": [
+   "1 rok",
+   "3 lata",
+   "10 lat"
+  ],
+  "wyjasnienie": "Art. 53 ust. 4 rozporządzenia 2018/1862: wpisy z art. 26 i 32 – przegląd w ciągu 5 lat.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "2ecf6e2576",
+  "temat": "SIS i wymiana międzynarodowa",
+  "pytanie": "Zgodnie z rozporządzeniem (UE) 2018/1862 wpis dotyczący osoby, której obecność jest wymagana do celów postępowania sądowego, należy weryfikować nie rzadziej niż co:",
+  "poprawna": "3 lata",
+  "bledne": [
+   "1 rok",
+   "2 lata",
+   "5 lat"
+  ],
+  "wyjasnienie": "Art. 53 ust. 5: wpisy z art. 34 i 40 – przegląd w ciągu 3 lat. Wpisy z art. 36 – co rok.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "f659548a43",
+  "temat": "SIS i wymiana międzynarodowa",
+  "pytanie": "Państwo członkowskie, które dokonało wpisu dotyczącego osoby z art. 32 (dawnej decyzji w sprawie SIS II), ma obowiązek zweryfikować potrzebę jego zachowania w terminie:",
+  "poprawna": "3 lat od daty jego dokonania",
+  "bledne": [
+   "5 lat od daty jego dokonania",
+   "1 roku od daty jego dokonania",
+   "żadna odpowiedź nie jest prawidłowa"
+  ],
+  "wyjasnienie": "UWAGA – dawny stan prawny: według decyzji w sprawie SIS II wpisy dotyczące osób weryfikowano co 3 lata. Obecnie wpis z art. 32 rozporządzenia 2018/1862 weryfikuje się co 5 lat.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "eea5bc33ff",
+  "temat": "SIS i wymiana międzynarodowa",
+  "pytanie": "Zgodnie z decyzją w sprawie SIS II wpisy dotyczące osób i przedmiotów przechowywane są przez:",
+  "poprawna": "okres konieczny do osiągnięcia celów, w których zostały wprowadzone",
+  "bledne": [
+   "okres 3 lat",
+   "okres 5 lat",
+   "okres 10 lat"
+  ],
+  "wyjasnienie": "Wpisy przechowuje się tylko tak długo, jak to niezbędne do celu. Terminy przeglądu (np. 3 albo 5 lat) to co innego niż czas przechowywania.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "bf3c7b8d5a",
+  "temat": "SIS i wymiana międzynarodowa",
+  "pytanie": "Wpisy dotyczące przedmiotów wprowadzone zgodnie z art. 38 (dawnej decyzji w sprawie SIS II) przechowywane są przez okres nieprzekraczający:",
+  "poprawna": "10 lat",
+  "bledne": [
+   "1 roku",
+   "3 lat",
+   "5 lat"
+  ],
+  "wyjasnienie": "UWAGA – dawny stan prawny: decyzja w sprawie SIS II przewidywała dla przedmiotów z art. 38 maksymalnie 10 lat.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "01e34cef05",
+  "temat": "SIS i wymiana międzynarodowa",
+  "pytanie": "Zgodnie z zasadą hierarchizacji wpisów w systemie SIS najwyżej w hierarchii wpisów dotyczących przedmiotów jest:",
+  "poprawna": "wykorzystanie jako dowodu",
+  "bledne": [
+   "zajęcie",
+   "szczególna kontrola",
+   "niejawna kontrola"
+  ],
+  "wyjasnienie": "UWAGA – niepewne: według Podręcznika SIRENE kolejność dla przedmiotów to: wykorzystanie jako dowodu, zajęcie, kontrola szczególna, kontrola niejawna. Niektóre klucze wskazują „zajęcie”.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "19598901bd",
+  "temat": "SIS i wymiana międzynarodowa",
+  "pytanie": "Prawo do kontroli przetwarzanych w SIS danych przysługuje każdej osobie, jednak nie częściej niż raz na:",
+  "poprawna": "6 miesięcy",
+  "bledne": [
+   "3 miesiące",
+   "1 rok",
+   "2 lata"
+  ],
+  "wyjasnienie": "UWAGA – dawny stan prawny: według dawnej ustawy o ochronie danych osobowych (art. 32 ust. 5 ustawy z 1997 r.) z prawa do informacji można było korzystać nie częściej niż raz na 6 miesięcy. Obecne przepisy nie przewidują takiego limitu wprost.",
+  "zrodlo": "test"
+ }
+]

@@ -1,3 +1,6 @@
 [
- {"id": "JS01", "kod": "JM04 JS01", "nazwa": "Strzelanie broń krótka", "plik": "JS01.json"}
+ {"id": "JS01", "kod": "JM04 JS01", "nazwa": "Strzelanie broń krótka", "plik": "JS01.json"},
+ {"id": "JM03-JS01", "kod": "JM03 JS01", "nazwa": "Systemy informacyjne Policji (KSI, KSIP)", "plik": "JM03-JS01.json"},
+ {"id": "JM01-JS03", "kod": "JM01 JS03", "nazwa": "Prawo karne szczegółowe", "plik": "JM01-JS03.json"},
+ {"id": "JM01-JS04", "kod": "JM01 JS04", "nazwa": "Ustawy szczególne", "plik": "JM01-JS04.json"}
 ]
