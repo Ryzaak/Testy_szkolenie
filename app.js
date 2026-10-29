@@ -73,7 +73,7 @@ function rysujZakladki() {
   for (const z of zakladki) {
     const b = document.createElement("button");
     b.className = "tab" + (z.id === zakladka?.id ? " on" : "");
-    b.innerHTML = `<b>${esc(z.kod || z.id)}</b> – ${esc(z.nazwa)}`;
+    b.innerHTML = `<span class="kod">${esc(z.kod || z.id)}</span><span class="nazwa">${esc(z.nazwa)}</span>`;
     b.onclick = () => { if (z.id !== zakladka.id) otworz(z.id); };
     box.appendChild(b);
   }
