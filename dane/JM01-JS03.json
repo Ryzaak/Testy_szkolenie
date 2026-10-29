@@ -104,19 +104,6 @@
   "zrodlo": "test"
  },
  {
-  "id": "e27f90fc10",
-  "temat": "Wiarygodność dokumentów",
-  "pytanie": "Kradzież cudzego dowodu osobistego jest:",
-  "poprawna": "przestępstwem z art. 275 § 1 k.k.",
-  "bledne": [
-   "wykroczeniem",
-   "wykroczeniem z ustawy o dowodach osobistych",
-   "naruszeniem przepisów administracyjnych"
-  ],
-  "wyjasnienie": "Art. 275 § 1 k.k.: kto używa dokumentu stwierdzającego tożsamość innej osoby albo jej prawa majątkowe lub dokument taki kradnie lub go przywłaszcza – przestępstwo, bez względu na wartość. Ustawa o dowodach (art. 79) dotyczy tylko zatrzymania cudzego dowodu bez podstawy prawnej.",
-  "zrodlo": "test"
- },
- {
   "id": "dc0f7abe88",
   "temat": "Wykroczenia",
   "pytanie": "Podmiot w wykroczeniu wywołania fałszywego alarmu (art. 66 k.w.) jest:",
@@ -517,6 +504,396 @@
    "sprawca opuszcza zbiegowisko na wezwanie właściwego organu"
   ],
   "wyjasnienie": "Art. 50 k.w.: „Kto nie opuszcza zbiegowiska publicznego pomimo wezwania właściwego organu”.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "a05f762acb",
+  "temat": "Przestępstwa przeciwko mieniu",
+  "pytanie": "Mieniem znacznej wartości (art. 115 § 5 k.k.) jest mienie, którego wartość:",
+  "poprawna": "w chwili popełnienia czynu przekracza kwotę 200 000 zł",
+  "bledne": [
+   "przed popełnieniem czynu wynosiła 100 000 zł",
+   "po popełnionym czynie karalnym przekroczyła kwotę 200 000 zł, uwzględniając stopień inflacji i najniższe miesięczne uposażenie na dzień szkody",
+   "w chwili popełnienia czynu zabronionego przekracza 200-krotną wartość najniższego miesięcznego wynagrodzenia"
+  ],
+  "wyjasnienie": "Art. 115 § 5 k.k.: mienie, którego wartość w czasie popełnienia czynu zabronionego przekracza 200 000 zł. Mienie wielkiej wartości to ponad 1 000 000 zł (§ 6).",
+  "zrodlo": "test"
+ },
+ {
+  "id": "f4c85912c4",
+  "temat": "Przestępstwa przeciwko instytucjom państwowym",
+  "pytanie": "Osoba, która w związku z pełnieniem funkcji publicznej przyjmuje korzyść majątkową lub osobistą albo jej obietnicę, odpowie za:",
+  "poprawna": "łapownictwo bierne",
+  "bledne": [
+   "łapownictwo czynne",
+   "płatną protekcję",
+   "nadużycie funkcji publicznej"
+  ],
+  "wyjasnienie": "Art. 228 § 1 k.k. – przyjmowanie korzyści to łapownictwo bierne. Udzielanie korzyści to łapownictwo czynne (art. 229).",
+  "zrodlo": "test"
+ },
+ {
+  "id": "8482512ca2",
+  "temat": "Wiarygodność dokumentów",
+  "pytanie": "Sprawca, który niszczy, uszkadza, czyni bezużytecznym, ukrywa lub usuwa dokument, poniesie odpowiedzialność za przestępstwo, gdy:",
+  "poprawna": "nie ma prawa nim wyłącznie rozporządzać",
+  "bledne": [
+   "dokument nie ma żadnego znaczenia prawnego",
+   "działa wyłącznie nieumyślnie i bez zamiaru ukrycia dokumentu",
+   "dokument jest jego własnością i może nim swobodnie rozporządzać"
+  ],
+  "wyjasnienie": "Art. 276 k.k.: „dokument, którym nie ma prawa wyłącznie rozporządzać” – np. dowód osobisty, który jest dokumentem publicznym.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "7026d2f5e0",
+  "temat": "Wiarygodność dokumentów",
+  "pytanie": "W czasie imprezy karnawałowej Waldemar K., by popisać się przed kolegami, spalił należący do niego dowód osobisty. W tej sytuacji:",
+  "poprawna": "popełnił czyn zabroniony",
+  "bledne": [
+   "nie popełnił czynu zabronionego, ponieważ dowód należał do niego",
+   "ponosi wyłącznie odpowiedzialność cywilną za koszt wydania nowego dokumentu",
+   "popełnił czyn zabroniony tylko wtedy, gdy dowód był cudzy"
+  ],
+  "wyjasnienie": "Dowodem osobistym posiadacz nie może wyłącznie rozporządzać (to dokument publiczny), więc jego zniszczenie wypełnia art. 276 k.k.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "53c06ccd07",
+  "temat": "Pojęcia ogólne i wolność",
+  "pytanie": "Karalne jest obcowanie płciowe z małoletnim:",
+  "poprawna": "poniżej 15 lat",
+  "bledne": [
+   "poniżej 13 lat",
+   "poniżej 16 lat",
+   "poniżej 18 lat w każdym przypadku"
+  ],
+  "wyjasnienie": "Art. 200 § 1 k.k.: obcowanie płciowe z małoletnim poniżej lat 15 – od 2 do 15 lat pozbawienia wolności.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "89c9827510",
+  "temat": "Pojęcia ogólne i wolność",
+  "pytanie": "Michał B., chcąc skłonić poznaną w klubie Jolantę A. do obcowania płciowego, obiecał jej w przyszłości małżeństwo. Kobieta zgodziła się, a mężczyzna po wspólnej nocy zniknął. Michał B.:",
+  "poprawna": "nie popełnia przestępstwa",
+  "bledne": [
+   "popełnia przestępstwo oszustwa",
+   "popełnia przestępstwo zgwałcenia przez podstęp",
+   "popełnia przestępstwo zmuszania do określonego zachowania"
+  ],
+  "wyjasnienie": "UWAGA – niepewne: podstęp z art. 197 k.k. musi dotyczyć samej czynności seksualnej (np. podszycie się pod inną osobę). Fałszywa obietnica małżeństwa dotyczy tylko motywacji przy dobrowolnej zgodzie. Oszustwo (art. 286) wymaga niekorzystnego rozporządzenia mieniem.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "aee70f08f6",
+  "temat": "Pojęcia ogólne i wolność",
+  "pytanie": "Zgodnie z art. 190 k.k. groźba karalna polega na tym, że sprawca grozi innej osobie popełnieniem przestępstwa na jej szkodę lub na szkodę osoby dla niej najbliższej, a ponadto groźba:",
+  "poprawna": "wzbudza uzasadnioną obawę, że będzie spełniona",
+  "bledne": [
+   "musi zawsze zostać spełniona przez sprawcę",
+   "dotyczy wyłącznie popełnienia wykroczenia",
+   "jest wypowiedziana w żarcie i nie wywołuje obawy u pokrzywdzonego"
+  ],
+  "wyjasnienie": "Art. 190 § 1 k.k. Ściganie na wniosek pokrzywdzonego (§ 2).",
+  "zrodlo": "test"
+ },
+ {
+  "id": "97af271df5",
+  "temat": "Pojęcia ogólne i wolność",
+  "pytanie": "Propagowanie lub pochwalanie zachowania o charakterze pedofilskim (art. 200b k.k.) jest karalne, gdy sprawca działa:",
+  "poprawna": "publicznie",
+  "bledne": [
+   "prywatnie",
+   "nieumyślnie",
+   "wyłącznie wobec osoby małoletniej"
+  ],
+  "wyjasnienie": "Art. 200b k.k.: „Kto publicznie propaguje lub pochwala zachowania o charakterze pedofilskim” – do lat 3.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "9b88686c7c",
+  "temat": "Przestępstwa przeciwko instytucjom państwowym",
+  "pytanie": "Sprawca znieważenia funkcjonariusza publicznego (art. 226 § 1 k.k.) musi dokonać znieważenia:",
+  "poprawna": "podczas i w związku z pełnieniem obowiązków służbowych przez funkcjonariusza",
+  "bledne": [
+   "wyłącznie po zakończeniu służby przez funkcjonariusza",
+   "publicznie, ale bez związku z czynnościami służbowymi",
+   "tylko wtedy, gdy jednocześnie naruszy nietykalność cielesną funkcjonariusza"
+  ],
+  "wyjasnienie": "Art. 226 § 1: „podczas I w związku” – oba warunki łącznie. Przy art. 222 i 223 wystarczy „podczas LUB w związku”.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "44a12fd34d",
+  "temat": "Przestępstwa przeciwko instytucjom państwowym",
+  "pytanie": "Zgodnie z art. 223 k.k. sprawca dopuszcza się czynnej napaści na funkcjonariusza publicznego, gdy:",
+  "poprawna": "działa wspólnie i w porozumieniu z inną osobą lub używa niebezpiecznego przedmiotu",
+  "bledne": [
+   "działa samodzielnie i bez użycia niebezpiecznego przedmiotu",
+   "znieważa funkcjonariusza słownie",
+   "odmawia wykonania polecenia służbowego bez stosowania przemocy"
+  ],
+  "wyjasnienie": "Art. 223 § 1: wspólnie i w porozumieniu z inną osobą lub z użyciem broni palnej, noża, innego niebezpiecznego przedmiotu albo środka obezwładniającego – od roku do lat 10.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "29f8122193",
+  "temat": "Przestępstwa przeciwko instytucjom państwowym",
+  "pytanie": "Typ uprzywilejowany naruszenia nietykalności cielesnej funkcjonariusza publicznego (art. 222 k.k.) ma miejsce wtedy, gdy:",
+  "poprawna": "czyn został wywołany przez niewłaściwe zachowanie się funkcjonariusza",
+  "bledne": [
+   "sprawca działał nieumyślnie",
+   "nastąpiło naruszenie czynności narządu ciała lub rozstrój zdrowia trwający nie dłużej niż 7 dni",
+   "zdarzenie miało miejsce poza godzinami służby"
+  ],
+  "wyjasnienie": "Art. 222 § 2 k.k.: sąd może zastosować nadzwyczajne złagodzenie kary, a nawet odstąpić od jej wymierzenia.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "ced064c161",
+  "temat": "Przestępstwa przeciwko instytucjom państwowym",
+  "pytanie": "Z ochrony prawnej przewidzianej dla funkcjonariuszy publicznych funkcjonariusz korzysta również wtedy, gdy:",
+  "poprawna": "zamach na jego osobę został podjęty z powodu wykonywanego przez niego zawodu",
+  "bledne": [
+   "funkcjonariusz jest w mundurze",
+   "zamach następuje wyłącznie w miejscu pracy funkcjonariusza",
+   "funkcjonariusz sam sprowokował zdarzenie poza służbą"
+  ],
+  "wyjasnienie": "Art. 231a k.k.: także gdy bezprawny zamach podjęto z powodu wykonywanego zawodu lub zajmowanego stanowiska.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "1276c04772",
+  "temat": "Przestępstwa przeciwko ochronie informacji",
+  "pytanie": "Przestępstwo zakłócenia pracy systemu informatycznego (art. 269a k.k.) można popełnić:",
+  "poprawna": "umyślnie, w zamiarze bezpośrednim oraz ewentualnym",
+  "bledne": [
+   "wyłącznie umyślnie w zamiarze bezpośrednim",
+   "nieumyślnie, przez lekkomyślność",
+   "tylko wtedy, gdy sprawca działa w celu osiągnięcia korzyści majątkowej"
+  ],
+  "wyjasnienie": "Art. 269a nie przewiduje typu nieumyślnego ani celu korzyści – to przestępstwo umyślne, możliwe w obu postaciach zamiaru.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "03108ede43",
+  "temat": "Przestępstwa przeciwko ochronie informacji",
+  "pytanie": "Uszkodzenie danych informatycznych o szczególnym znaczeniu dla obronności kraju (art. 269 k.k.) jest:",
+  "poprawna": "występkiem",
+  "bledne": [
+   "zbrodnią",
+   "wykroczeniem",
+   "wyłącznie deliktem dyscyplinarnym"
+  ],
+  "wyjasnienie": "Art. 269 § 1: od 6 miesięcy do lat 8. Zbrodnia wymaga dolnej granicy co najmniej 3 lat, więc to występek.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "397eb55d92",
+  "temat": "Wymiar sprawiedliwości i porządek publiczny",
+  "pytanie": "Składanie fałszywych zeznań (art. 233 § 1 k.k.) polega na:",
+  "poprawna": "zeznaniu nieprawdy lub zatajeniu prawdy",
+  "bledne": [
+   "odmowie składania zeznań bez podania przyczyny",
+   "złożeniu zeznań niekorzystnych dla oskarżonego",
+   "podaniu własnej oceny zdarzenia zgodnej z prawdą"
+  ],
+  "wyjasnienie": "Art. 233 § 1 k.k.: kto, składając zeznanie mające służyć za dowód, zeznaje nieprawdę lub zataja prawdę.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "1af5f10a20",
+  "temat": "Wymiar sprawiedliwości i porządek publiczny",
+  "pytanie": "Karany jest udział w zorganizowanej grupie lub związku mających na celu:",
+  "poprawna": "popełnienie przestępstwa lub przestępstwa skarbowego",
+  "bledne": [
+   "popełnienie wykroczenia",
+   "naruszenie wyłącznie obowiązków cywilnoprawnych",
+   "popełnienie przewinienia dyscyplinarnego"
+  ],
+  "wyjasnienie": "Art. 258 § 1 k.k. – od 6 miesięcy do lat 8.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "7cadcdb26b",
+  "temat": "Przestępstwa przeciwko mieniu",
+  "pytanie": "Sprawca oszustwa, który spowodował u pokrzywdzonego stratę o wartości 80 zł, poniesie odpowiedzialność za:",
+  "poprawna": "przestępstwo",
+  "bledne": [
+   "wykroczenie z uwagi na niską wartość szkody",
+   "zbrodnię",
+   "brak odpowiedzialności karnej, jeżeli szkoda nie przekracza 100 zł"
+  ],
+  "wyjasnienie": "Oszustwo nie jest czynem przepołowionym (nie ma go w art. 119 k.w.) – zawsze przestępstwo z art. 286 k.k.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "0f7fb1e970",
+  "temat": "Przestępstwa przeciwko mieniu",
+  "pytanie": "Jan Kowalski na podstawie podrobionych dokumentów uzyskał dotację z Agencji Rozwoju Przemysłu na własną firmę transportową, a przed wszczęciem postępowania karnego zrezygnował z tego wsparcia. W takiej sytuacji:",
+  "poprawna": "nie podlega karze",
+  "bledne": [
+   "odpowiada za oszustwo niezależnie od rezygnacji ze wsparcia",
+   "odpowiada wyłącznie za przestępstwo skarbowe",
+   "podlega karze, ale sąd musi warunkowo umorzyć postępowanie"
+  ],
+  "wyjasnienie": "Art. 297 § 3 k.k.: nie podlega karze, kto przed wszczęciem postępowania karnego dobrowolnie zrezygnował z dotacji (czynny żal przy wyłudzeniu kredytu/dotacji).",
+  "zrodlo": "test"
+ },
+ {
+  "id": "6e4a4da92d",
+  "temat": "Przestępstwa przeciwko mieniu",
+  "pytanie": "Przestępstwo prania pieniędzy (art. 299 § 1 k.k.) podlega karze w formie stadialnej:",
+  "poprawna": "dokonania, usiłowania, przygotowania",
+  "bledne": [
+   "wyłącznie dokonania",
+   "dokonania i usiłowania, ale nie przygotowania",
+   "wyłącznie przygotowania"
+  ],
+  "wyjasnienie": "Art. 299 § 6a k.k.: „Kto czyni przygotowania do przestępstwa określonego w § 1 lub 2” – przygotowanie jest karalne.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "d4cce3cc57",
+  "temat": "Przestępstwa przeciwko mieniu",
+  "pytanie": "Piotr K. przeciął kłódkę zabezpieczającą drzwi do piwnicy, z której zabrał wózek dziecięcy wartości 300 zł na szkodę Anny J. Czyn Piotra K. kwalifikujemy jako:",
+  "poprawna": "przestępstwo kradzieży z włamaniem – art. 279 § 1 k.k.",
+  "bledne": [
+   "przestępstwo uszkodzenia mienia – art. 288 § 1 k.k. w zbiegu z art. 278 § 1 k.k.",
+   "wykroczenia uszkodzenia mienia – art. 124 § 1 k.w. i kradzieży mienia – art. 119 § 1 k.w.",
+   "wykroczenie przywłaszczenia – art. 119 § 1 k.w."
+  ],
+  "wyjasnienie": "Pokonanie zabezpieczenia (kłódki) to włamanie – przestępstwo bez względu na wartość rzeczy.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "5e6b2fec9b",
+  "temat": "Przestępstwa przeciwko mieniu",
+  "pytanie": "Krzysztof O. pożyczył siostrze odtwarzacz DVD wartości 1400 zł, który miała zwrócić po 2 tygodniach. Odtwarzacz nie został zwrócony. Siostra dopuściła się:",
+  "poprawna": "przywłaszczenia z art. 284 k.k., ściganego na wniosek pokrzywdzonego",
+  "bledne": [
+   "oszustwa z art. 286 § 2 k.k., ściganego z urzędu",
+   "przywłaszczenia z art. 284 § 2 k.k., ściganego z oskarżenia prywatnego",
+   "zaboru w celu przywłaszczenia z art. 278 § 1 k.k., ściganego z urzędu"
+  ],
+  "wyjasnienie": "UWAGA – niepewne: pożyczona rzecz jest powierzona, więc formalnie to art. 284 § 2 (przywłaszczenie rzeczy powierzonej). Na szkodę osoby najbliższej ściganie następuje na wniosek (§ 4), a nie z oskarżenia prywatnego. W oryginale ta odpowiedź mówi o § 1, ale tylko ona ma właściwy tryb ścigania.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "60a133316c",
+  "temat": "Przestępstwa przeciwko mieniu",
+  "pytanie": "Sprawca rozboju, który w trakcie zdarzenia posługiwał się pistoletem typu „straszak” kupionym w kiosku, odpowie za:",
+  "poprawna": "typ podstawowy rozboju, a świadomość pokrzywdzonego co do rodzaju broni nie ma tu znaczenia",
+  "bledne": [
+   "nic – nie odpowie za rozbój, gdyż użył niewłaściwych narzędzi",
+   "typ kwalifikowany rozboju ze względu na użyty przedmiot i to, co myślał pokrzywdzony",
+   "typ podstawowy rozboju, ale tylko pod warunkiem, że pokrzywdzony wiedział, że to straszak"
+  ],
+  "wyjasnienie": "Art. 280 § 2 wymaga broni palnej lub podobnie niebezpiecznego przedmiotu. Atrapa nim nie jest (nie liczy się wrażenie ofiary), więc to rozbój z § 1.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "ef51840cca",
+  "temat": "Przestępstwa przeciwko życiu i zdrowiu",
+  "pytanie": "Typem kwalifikowanym przestępstwa bójki jest:",
+  "poprawna": "użycie broni palnej",
+  "bledne": [
+   "spowodowanie obrażeń ciała średniego uszczerbku na zdrowiu",
+   "współudział w pobiciu",
+   "narażenie człowieka na niebezpieczeństwo utraty mienia o wielkich rozmiarach"
+  ],
+  "wyjasnienie": "Art. 159 k.k.: udział w bójce lub pobiciu z użyciem broni palnej, noża lub innego podobnie niebezpiecznego przedmiotu.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "0aa5c5210e",
+  "temat": "Przestępstwa przeciwko życiu i zdrowiu",
+  "pytanie": "Typem uprzywilejowanym zabójstwa jest:",
+  "poprawna": "zabicie człowieka pod wpływem silnego wzburzenia usprawiedliwionego okolicznościami",
+  "bledne": [
+   "aborcja za zgodą kobiety",
+   "zabicie osoby najbliższej",
+   "zabicie człowieka z użyciem materiałów wybuchowych"
+  ],
+  "wyjasnienie": "Art. 148 § 4 k.k. (zabójstwo w afekcie) – od roku do lat 10. Materiały wybuchowe to typ kwalifikowany (§ 2).",
+  "zrodlo": "test"
+ },
+ {
+  "id": "29a339814f",
+  "temat": "Przestępstwa przeciwko życiu i zdrowiu",
+  "pytanie": "Lekki uszczerbek na zdrowiu (art. 157 k.k.) ma miejsce, gdy:",
+  "poprawna": "biegły lekarz sądowy stwierdził, że jakiś narząd ciała pokrzywdzonego nie funkcjonuje prawidłowo przez czas nieprzekraczający 7 dni",
+  "bledne": [
+   "pokrzywdzony otrzymał zwolnienie lekarskie na okres do 7 dni",
+   "zgłaszający utracił w wypadku mały palec u lewej ręki",
+   "ratownik medyczny stwierdził u pokrzywdzonego ciężkie obrażenia ciała"
+  ],
+  "wyjasnienie": "Art. 157 § 2: naruszenie czynności narządu ciała lub rozstrój zdrowia do 7 dni – ocenia to biegły, a nie długość zwolnienia lekarskiego. (W pytaniu pomylono § 1 z § 2.)",
+  "zrodlo": "test"
+ },
+ {
+  "id": "88775b907f",
+  "temat": "Wykroczenia",
+  "pytanie": "Osoba, która umyślnie nie stosuje się do poleceń określonego zachowania wydawanych na podstawie prawa przez funkcjonariusza Policji, poniesie odpowiedzialność za wykroczenie, jeżeli jej działanie:",
+  "poprawna": "uniemożliwia lub istotnie utrudnia wykonanie czynności służbowej",
+  "bledne": [
+   "powoduje jedynie konieczność ponownego wydania polecenia przez funkcjonariusza",
+   "jest wynikiem nieumyślnego niezrozumienia treści polecenia",
+   "dotyczy wyłącznie czynności administracyjnej niewykonywanej przez Policję"
+  ],
+  "wyjasnienie": "Art. 65a k.w.: umyślne uniemożliwienie lub istotne utrudnienie czynności służbowej przez niestosowanie się do poleceń.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "6c256ae983",
+  "temat": "Wykroczenia",
+  "pytanie": "Osoba, która bez uzasadnionej przyczyny blokuje telefoniczny numer alarmowy, utrudniając funkcjonowanie centrum powiadamiania ratunkowego, popełnia wykroczenie, gdy działa:",
+  "poprawna": "umyślnie",
+  "bledne": [
+   "nieumyślnie",
+   "przypadkowo, bez świadomości blokowania numeru",
+   "wyłącznie w celu osiągnięcia korzyści majątkowej"
+  ],
+  "wyjasnienie": "Art. 66 § 1 pkt 2 k.w.: „umyślnie, bez uzasadnionej przyczyny, blokuje telefoniczny numer alarmowy”.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "0bede6dc87",
+  "temat": "Wykroczenia",
+  "pytanie": "Przy legitymowaniu przez Policję czynu zabronionego nie będzie stanowiło umyślne podanie fałszywych danych dotyczących:",
+  "poprawna": "numeru telefonu",
+  "bledne": [
+   "imienia i nazwiska",
+   "obywatelstwa",
+   "miejsca zamieszkania"
+  ],
+  "wyjasnienie": "Art. 65 § 1 k.w. dotyczy tożsamości, obywatelstwa, zawodu, miejsca zatrudnienia lub zamieszkania. Numeru telefonu tu nie ma.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "44a4e88de4",
+  "temat": "Wykroczenia",
+  "pytanie": "Dla bytu wykroczenia z art. 106 k.w. (pozostawienie małoletniego do lat 7 bez opieki) konieczne jest, aby sprawca:",
+  "poprawna": "dopuścił do przebywania małoletniego w okolicznościach niebezpiecznych dla zdrowia",
+  "bledne": [
+   "działał z niskich pobudek zasługujących na szczególne potępienie",
+   "działał w warunkach recydywy i był w stanie nietrzeźwości",
+   "pozostawił małoletniego w okolicznościach niebezpiecznych po raz drugi w ciągu roku"
+  ],
+  "wyjasnienie": "Art. 106 k.w.: mając obowiązek opieki nad małoletnim do lat 7, dopuszcza do jego przebywania w okolicznościach niebezpiecznych dla zdrowia człowieka.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "e523805f93",
+  "temat": "Wykroczenia",
+  "pytanie": "Mirosław D. w parku miejskim, kopiąc w ławkę, wyłamał w niej dwa szczeble, powodując szkodę nieprzekraczającą 500 zł. Popełnił:",
+  "poprawna": "uszkodzenie z art. 143 § 1 k.w.",
+  "bledne": [
+   "zniszczenie z art. 124 § 1 k.w.",
+   "szalbierstwo z art. 121 § 2 k.w.",
+   "zniszczenie cudzej rzeczy niemajątkowej z art. 126 § 1 k.w."
+  ],
+  "wyjasnienie": "Art. 143 § 1 k.w. wprost wymienia ławkę: ze złośliwości lub swawoli uszkadza urządzenie przeznaczone do użytku publicznego. To przepis szczególny wobec ogólnego art. 124.",
   "zrodlo": "test"
  }
 ]

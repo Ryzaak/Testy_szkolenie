@@ -30,8 +30,8 @@ Postęp zapisuje się w Twojej przeglądarce, więc każdy uczy się osobno. Po 
 |---|---|---|
 | **JM04 JS01** | Strzelanie broń krótka (bezpieczeństwo, broń i amunicja, P99, Beretta APX, REX Zero 1, Glock, teoria strzału, podstawy celnego strzelania, zacięcia) | 120 |
 | **JM03 JS01** | Systemy informacyjne Policji (podstawy prawne, ochrona danych, systemy policyjne i pozapolicyjne, SIS) | 87 |
-| **JM01 JS03** | Prawo karne szczegółowe (wybrane przestępstwa i wykroczenia) | 40 |
-| **JM01 JS04** | Ustawy szczególne (broń, narkomania, tytoń, dowody, prawo autorskie, dostęp warunkowy, alkohol, imprezy masowe, zwierzęta) | 110 |
+| **JM01 JS03** | Prawo karne szczegółowe (wybrane przestępstwa i wykroczenia) | 69 |
+| **JM01 JS04** | Ustawy szczególne (broń, narkomania, tytoń, dowody, prawo autorskie, dostęp warunkowy, alkohol, imprezy masowe, zwierzęta) | 124 |
 
 ## Skąd są pytania
 

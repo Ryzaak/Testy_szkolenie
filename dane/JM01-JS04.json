@@ -1428,5 +1428,187 @@
   ],
   "wyjasnienie": "UWAGA – dawny stan prawny: art. 34 ust. 1 wymaga pozbawienia świadomości. Trybunał Konstytucyjny (K 52/13, 2014) uznał jednak, że nie można zakazać uboju według metod wymaganych przez obrzędy religijne. Wcześniej ustawa dopuszczała ubój rytualny przez związki wyznaniowe o uregulowanej sytuacji prawnej, więc stare klucze mogą wskazywać tę odpowiedź.",
   "zrodlo": "test"
+ },
+ {
+  "id": "e27f90fc10",
+  "temat": "Dowody osobiste (art. 79)",
+  "pytanie": "Kradzież cudzego dowodu osobistego jest:",
+  "poprawna": "przestępstwem z art. 275 § 1 k.k.",
+  "bledne": [
+   "wykroczeniem",
+   "wykroczeniem z ustawy o dowodach osobistych",
+   "naruszeniem przepisów administracyjnych"
+  ],
+  "wyjasnienie": "Art. 275 § 1 k.k.: kradzież lub przywłaszczenie dokumentu stwierdzającego tożsamość – przestępstwo bez względu na wartość. Art. 79 ustawy o dowodach dotyczy tylko bezprawnego zatrzymania cudzego dowodu.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "91fd441a5d",
+  "temat": "Prawo telekomunikacyjne (art. 208)",
+  "pytanie": "Sprawca, który bez wymaganego pozwolenia używa urządzenia radiowego nadawczego lub nadawczo-odbiorczego, popełnia przestępstwo, jeżeli działa:",
+  "poprawna": "w sposób uporczywy",
+  "bledne": [
+   "jednorazowo",
+   "nieumyślnie",
+   "tylko wtedy, gdy urządzenie nie spowodowało żadnych zakłóceń"
+  ],
+  "wyjasnienie": "Art. 208 ust. 2 Prawa telekomunikacyjnego: działanie uporczywe – grzywna, ograniczenie wolności albo pozbawienie wolności do 2 lat. Bez uporczywości to wykroczenie (ust. 1).",
+  "zrodlo": "test"
+ },
+ {
+  "id": "e649d3c649",
+  "temat": "Ustawa tytoniowa (art. 12–13)",
+  "pytanie": "Produkcja lub wprowadzanie do obrotu tytoniu do stosowania doustnego na terytorium RP:",
+  "poprawna": "jest zabronione",
+  "bledne": [
+   "jest dozwolone bez ograniczeń",
+   "jest dozwolone po zamieszczeniu ostrzeżenia zdrowotnego",
+   "jest zabronione wyłącznie wobec osób małoletnich"
+  ],
+  "wyjasnienie": "Art. 12 pkt 5 ustawy tytoniowej penalizuje produkcję i wprowadzanie do obrotu tytoniu do stosowania doustnego (grzywna do 200 000 zł albo ograniczenie wolności).",
+  "zrodlo": "test"
+ },
+ {
+  "id": "7f9db1b892",
+  "temat": "Ustawa tytoniowa (art. 12–13)",
+  "pytanie": "Kto wprowadza do obrotu wyroby tytoniowe w opakowaniach, na których nie zamieszczono ostrzeżenia zdrowotnego w języku polskim, podlega karze grzywny do:",
+  "poprawna": "200 000 zł",
+  "bledne": [
+   "5 000 zł",
+   "50 000 zł",
+   "500 000 zł"
+  ],
+  "wyjasnienie": "Art. 12 pkt 7: grzywna do 200 000 zł albo ograniczenie wolności, albo obie kary łącznie. 500 000 zł to art. 12b (dodatki zwiększające uzależnienie).",
+  "zrodlo": "test"
+ },
+ {
+  "id": "d859eb3a66",
+  "temat": "Ustawa tytoniowa (art. 12–13)",
+  "pytanie": "Wojciech K. palił papierosa na peronie dworca PKP. Przybyły patrol SOK stwierdził, że popełnił on:",
+  "poprawna": "wykroczenie",
+  "bledne": [
+   "przestępstwo",
+   "brak czynu zabronionego, jeżeli palił na otwartej przestrzeni",
+   "czyn zabroniony tylko wtedy, gdy odmówił podania danych osobowych"
+  ],
+  "wyjasnienie": "Art. 5 ust. 1 pkt 7: zakaz palenia w obiektach służących obsłudze podróżnych (także na peronach). Naruszenie – grzywna do 500 zł (art. 13 ust. 2).",
+  "zrodlo": "test"
+ },
+ {
+  "id": "1b9e6225db",
+  "temat": "Ustawa tytoniowa (art. 12–13)",
+  "pytanie": "Zgodnie z ustawą tytoniową nie jest zabronione palenie wyrobów tytoniowych (w tym nowatorskich) i papierosów elektronicznych:",
+  "poprawna": "na balkonach bloków mieszkalnych",
+  "bledne": [
+   "na terenie szkół i uczelni",
+   "w środkach publicznego transportu zbiorowego",
+   "na peronach dworców kolejowych"
+  ],
+  "wyjasnienie": "Pozostałe miejsca wymienia art. 5 ust. 1 (pkt 2–3 i 7). Balkonów prywatnych mieszkań zakaz ustawowy nie obejmuje.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "58a7845a3a",
+  "temat": "Przeciwdziałanie narkomanii (art. 62–63)",
+  "pytanie": "Jan K. posiadał przy sobie znaczną ilość środków odurzających. Poniesie odpowiedzialność z art. 62 ustawy o przeciwdziałaniu narkomanii w typie:",
+  "poprawna": "kwalifikowanym",
+  "bledne": [
+   "podstawowym",
+   "uprzywilejowanym",
+   "wypadku mniejszej wagi"
+  ],
+  "wyjasnienie": "Art. 62 ust. 2: znaczna ilość – typ kwalifikowany (od roku do 10 lat).",
+  "zrodlo": "test"
+ },
+ {
+  "id": "7cdca00d8f",
+  "temat": "Broń i amunicja (art. 50–51)",
+  "pytanie": "Zgodnie z ustawą o broni i amunicji bronią są:",
+  "poprawna": "broń palna, broń pneumatyczna, miotacze gazu obezwładniającego",
+  "bledne": [
+   "wyłącznie broń palna",
+   "broń biała, łuki oraz kusze sportowe",
+   "wyłącznie broń palna i materiały wybuchowe"
+  ],
+  "wyjasnienie": "Art. 4 ust. 1 ustawy o broni i amunicji (oraz m.in. przedmioty przeznaczone do miotania pocisków niebędące bronią palną).",
+  "zrodlo": "test"
+ },
+ {
+  "id": "692eff2350",
+  "temat": "Broń i amunicja (art. 50–51)",
+  "pytanie": "Mirosław C., mający pozwolenie na broń myśliwską, nosił w trakcie polowania swój karabin, będąc w stanie po użyciu alkoholu. Poniesie odpowiedzialność za:",
+  "poprawna": "wykroczenie",
+  "bledne": [
+   "przestępstwo nielegalnego posiadania broni",
+   "nic – miał pozwolenie na broń",
+   "wyłącznie odpowiedzialność dyscyplinarną w kole łowieckim"
+  ],
+  "wyjasnienie": "Art. 51 ust. 2 pkt 4 ustawy o broni i amunicji: noszenie broni w stanie po użyciu alkoholu – areszt albo grzywna.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "c5d4fa2e66",
+  "temat": "Prawo autorskie (art. 116–118)",
+  "pytanie": "Osoba, która bez uprawnienia albo wbrew jego warunkom rozpowszechnia cudzy utwór (art. 116 prawa autorskiego), poniesie odpowiedzialność:",
+  "poprawna": "zarówno za działanie umyślne, jak i nieumyślne",
+  "bledne": [
+   "wyłącznie za działanie umyślne",
+   "wyłącznie za działanie nieumyślne",
+   "tylko wtedy, gdy osiągnęła korzyść majątkową"
+  ],
+  "wyjasnienie": "Art. 116 ust. 1–3 – działanie umyślne, ust. 4 – nieumyślne (grzywna, ograniczenie albo pozbawienie wolności do roku).",
+  "zrodlo": "test"
+ },
+ {
+  "id": "941c9ddf13",
+  "temat": "Prawo autorskie (art. 116–118)",
+  "pytanie": "Ten, kto nabywa nośnik pirackiego utworu, pomaga w jego zbyciu, przyjmuje go lub pomaga w jego ukryciu (art. 118 ust. 1 prawa autorskiego), popełnia czyn zabroniony, gdy:",
+  "poprawna": "działa w celu osiągnięcia korzyści majątkowej",
+  "bledne": [
+   "działa wyłącznie w celu osobistego zapoznania się z utworem",
+   "przyjmuje przedmiot przypadkowo, bez świadomości jego pochodzenia",
+   "pomaga ukryć przedmiot, aby nie doszło do szkody majątkowej"
+  ],
+  "wyjasnienie": "Art. 118 ust. 1: „Kto w celu osiągnięcia korzyści majątkowej…” – od 3 miesięcy do lat 5.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "a35875f404",
+  "temat": "Dostęp warunkowy (art. 6–7)",
+  "pytanie": "Zgodnie z ustawą o ochronie usług opartych na dostępie warunkowym sprzęt lub oprogramowanie zaprojektowane lub przystosowane w celu umożliwienia korzystania z usług chronionych bez upoważnienia usługodawcy to:",
+  "poprawna": "urządzenia niedozwolone",
+  "bledne": [
+   "urządzenia powszechnego odbioru",
+   "oprogramowanie certyfikowane przez usługodawcę",
+   "zwykłe odbiorniki radiowo-telewizyjne"
+  ],
+  "wyjasnienie": "Art. 2 pkt 6 ustawy o ochronie niektórych usług świadczonych drogą elektroniczną opartych lub polegających na dostępie warunkowym.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "1c2968ff9b",
+  "temat": "Dostęp warunkowy (art. 6–7)",
+  "pytanie": "Józef K. posiadał w mieszkaniu urządzenie niedozwolone dające dostęp do płatnego pakietu telewizji i używał go wyłącznie na własne potrzeby. Jego działanie kwalifikujemy jako:",
+  "poprawna": "występek",
+  "bledne": [
+   "wykroczenie",
+   "zbrodnię",
+   "czyn niekaralny, jeżeli urządzenie służyło tylko do użytku własnego"
+  ],
+  "wyjasnienie": "Art. 7 ust. 2: wyłącznie na własne potrzeby – grzywna. Mimo łagodnej kary to przestępstwo (występek) z ustawy, a nie wykroczenie.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "2fedcb0ea3",
+  "temat": "Dostęp warunkowy (art. 6–7)",
+  "pytanie": "W trakcie przeszukania u Władysława W. ujawniono urządzenia do nielegalnego korzystania z programów telewizyjnych, które posiadał w celu osiągnięcia korzyści majątkowej. Do prowadzenia postępowania przygotowawczego konieczne będzie uzyskanie od osoby uprawnionej:",
+  "poprawna": "wniosku",
+  "bledne": [
+   "zgody sądu opiekuńczego",
+   "zezwolenia administratora budynku",
+   "zawiadomienia dowolnej osoby trzeciej"
+  ],
+  "wyjasnienie": "Art. 9 ustawy: ściganie przestępstw z art. 6 i 7 następuje na wniosek pokrzywdzonego usługodawcy (lub organizacji ochrony interesów usługodawców).",
+  "zrodlo": "test"
  }
 ]
