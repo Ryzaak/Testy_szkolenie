@@ -1,98 +1,7 @@
 [
  {
-  "id": "f018d85c86",
-  "temat": "Systemy policyjne i pozapolicyjne",
-  "pytanie": "Rozwiń skrót KSIP.",
-  "poprawna": "Krajowy System Informacyjny Policji",
-  "bledne": [
-   "Krajowa Sieć Informacyjna Policji",
-   "Komputerowy System Identyfikacji Policjantów",
-   "Krajowy System Interwencji Policji"
-  ],
-  "wyjasnienie": "KSIP – Krajowy System INFORMACYJNY Policji (nie „informatyczny”, nie „informacji”).",
-  "zrodlo": "test"
- },
- {
-  "id": "d687ca74e3",
-  "temat": "Systemy policyjne i pozapolicyjne",
-  "pytanie": "Rozwiń skrót SWD.",
-  "poprawna": "System Wspomagania Dowodzenia",
-  "bledne": [
-   "System Weryfikacji Danych",
-   "Sieć Wymiany Dokumentów",
-   "System Wyszukiwania Dowodów"
-  ],
-  "wyjasnienie": "SWD Policji – System Wspomagania Dowodzenia (m.in. dysponowanie patroli, Punkt Sprawdzeń SPP, Klient Mobilny).",
-  "zrodlo": "test"
- },
- {
-  "id": "c26f9fd2a1",
-  "temat": "Systemy policyjne i pozapolicyjne",
-  "pytanie": "Rozwiń skrót PRIM.",
-  "poprawna": "Policyjny Rejestr Imprez Masowych",
-  "bledne": [
-   "Policyjny Rejestr Interwencji Miejskich",
-   "Program Rozpoznania i Monitoringu",
-   "Państwowy Rejestr Informacji Migracyjnych"
-  ],
-  "wyjasnienie": "PRIM – Policyjny Rejestr Imprez Masowych (zakazy stadionowe, informacje o imprezach).",
-  "zrodlo": "test"
- },
- {
-  "id": "4640db4c49",
-  "temat": "Systemy policyjne i pozapolicyjne",
-  "pytanie": "Rozwiń skrót SPP.",
-  "poprawna": "System Poszukiwawczy Policji",
-  "bledne": [
-   "System Przetwarzania Pism",
-   "System Postępowań Przygotowawczych",
-   "Sieć Powiadamiania Policji"
-  ],
-  "wyjasnienie": "§ 2 pkt 49 Zarządzenia nr 70 KGP: SPP – System Poszukiwawczy Policji, funkcjonalność KSIP, która jednym zapytaniem sprawdza zbiory KSIP i zbiory pozapolicyjne.",
-  "zrodlo": "test"
- },
- {
-  "id": "da53a1d45c",
-  "temat": "Systemy policyjne i pozapolicyjne",
-  "pytanie": "Rozwiń skrót SEWiK.",
-  "poprawna": "System Ewidencji Wypadków i Kolizji",
-  "bledne": [
-   "System Elektronicznej Weryfikacji Kierowców",
-   "Sieć Ewidencji Wykroczeń i Kar",
-   "System Ewidencji Wniosków i Kontroli"
-  ],
-  "wyjasnienie": "SEWiK – System Ewidencji Wypadków i Kolizji (statystyka zdarzeń drogowych).",
-  "zrodlo": "test"
- },
- {
-  "id": "1a2c086034",
-  "temat": "Systemy policyjne i pozapolicyjne",
-  "pytanie": "Który skrót oznacza System Wspomagania Dowodzenia?",
-  "poprawna": "SWD",
-  "bledne": [
-   "KSIP",
-   "SPP",
-   "PRIM"
-  ],
-  "wyjasnienie": "SWD – System Wspomagania Dowodzenia.",
-  "zrodlo": "test"
- },
- {
-  "id": "5644e85994",
-  "temat": "Systemy policyjne i pozapolicyjne",
-  "pytanie": "Który zestaw zawiera wyłącznie pięć systemów policyjnych wymienionych w materiale?",
-  "poprawna": "KSIP, SWD, PRIM, SPP, SEWiK",
-  "bledne": [
-   "KSIP, PESEL, REGON, CEIDG, KRS",
-   "AFIS, CEPiK, EUCARIS, VIS, KRK",
-   "PESEL, KRK, KRS, VIS, SIS"
-  ],
-  "wyjasnienie": "Systemy policyjne: KSIP, SWD, PRIM, SPP, SEWiK. PESEL, REGON, CEIDG, KRS, CEPiK, KRK, VIS, SIS to systemy pozapolicyjne.",
-  "zrodlo": "test"
- },
- {
   "id": "51baf703a1",
-  "temat": "Podstawy prawne i ochrona danych",
+  "temat": "1. Uprawnienia Policji w zakresie gromadzenia i przetwarzania informacji",
   "pytanie": "Który przepis wskazano w materiale jako podstawę możliwości rejestrowania przez Policję obrazu i dźwięku?",
   "poprawna": "Art. 15 ustawy z dnia 6 kwietnia 1990 r. o Policji",
   "bledne": [
@@ -105,7 +14,7 @@
  },
  {
   "id": "6f879a67cb",
-  "temat": "Podstawy prawne i ochrona danych",
+  "temat": "1. Uprawnienia Policji w zakresie gromadzenia i przetwarzania informacji",
   "pytanie": "Który artykuł ustawy o Policji reguluje uzyskiwanie danych telekomunikacyjnych, pocztowych i internetowych?",
   "poprawna": "Art. 20c",
   "bledne": [
@@ -118,7 +27,7 @@
  },
  {
   "id": "0e6f8229fc",
-  "temat": "Podstawy prawne i ochrona danych",
+  "temat": "1. Uprawnienia Policji w zakresie gromadzenia i przetwarzania informacji",
   "pytanie": "Przez jaki okres – zgodnie z materiałem – operator publicznej sieci telekomunikacyjnej ma gromadzić informacje o połączeniach abonenta?",
   "poprawna": "12 miesięcy",
   "bledne": [
@@ -131,7 +40,7 @@
  },
  {
   "id": "6718c0dcf9",
-  "temat": "Podstawy prawne i ochrona danych",
+  "temat": "1. Uprawnienia Policji w zakresie gromadzenia i przetwarzania informacji",
   "pytanie": "Który przepis wskazano jako podstawę uzyskiwania, sprawdzania, przetwarzania i wymiany informacji przez Policję?",
   "poprawna": "Art. 20 ustawy o Policji",
   "bledne": [
@@ -143,8 +52,34 @@
   "zrodlo": "test"
  },
  {
+  "id": "b59e9074c7",
+  "temat": "1. Uprawnienia Policji w zakresie gromadzenia i przetwarzania informacji",
+  "pytanie": "Który artykuł ustawy o Policji ponownie wskazano w materiale jako podstawę prawną wykorzystywania baz danych przez funkcjonariuszy?",
+  "poprawna": "Art. 20",
+  "bledne": [
+   "Art. 15a",
+   "Art. 20e",
+   "Art. 51"
+  ],
+  "wyjasnienie": "Art. 20 ustawy o Policji – gromadzenie, przetwarzanie i wykorzystywanie informacji w bazach danych.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "5ba91d8a79",
+  "temat": "1. Uprawnienia Policji w zakresie gromadzenia i przetwarzania informacji",
+  "pytanie": "Które przyporządkowanie przepisów ustawy o Policji jest właściwe według materiału?",
+  "poprawna": "Art. 15 – rejestrowanie obrazu i dźwięku; art. 20 – przetwarzanie informacji; art. 20c – określone dane komunikacyjne",
+  "bledne": [
+   "Art. 15 – KRK; art. 20 – CEPiK; art. 20c – PESEL",
+   "Art. 15 – SIS; art. 20 – VIS; art. 20c – EUCARIS",
+   "Art. 15 – dane komunikacyjne; art. 20 – rejestrowanie dźwięku; art. 20c – imprezy masowe"
+  ],
+  "wyjasnienie": "Art. 15 – uprawnienia, w tym rejestrowanie obrazu i dźwięku; art. 20 – przetwarzanie informacji; art. 20c – dane telekomunikacyjne, pocztowe i internetowe.",
+  "zrodlo": "test"
+ },
+ {
   "id": "d1425585d3",
-  "temat": "Podstawy prawne i ochrona danych",
+  "temat": "2. Ochrona danych osobowych w KSI",
   "pytanie": "Który element triady CIA oznacza ochronę informacji przed dostępem osób nieuprawnionych?",
   "poprawna": "Poufność",
   "bledne": [
@@ -157,7 +92,7 @@
  },
  {
   "id": "de31283dea",
-  "temat": "Podstawy prawne i ochrona danych",
+  "temat": "2. Ochrona danych osobowych w KSI",
   "pytanie": "Który element triady CIA oznacza zapewnienie, że uprawniony użytkownik może skorzystać z informacji, gdy jej potrzebuje?",
   "poprawna": "Dostępność",
   "bledne": [
@@ -170,7 +105,7 @@
  },
  {
   "id": "8596d762b5",
-  "temat": "Podstawy prawne i ochrona danych",
+  "temat": "2. Ochrona danych osobowych w KSI",
   "pytanie": "Który element triady CIA chroni dane przed nieuprawnioną lub przypadkową zmianą?",
   "poprawna": "Integralność",
   "bledne": [
@@ -182,47 +117,8 @@
   "zrodlo": "test"
  },
  {
-  "id": "70cf1bf3a0",
-  "temat": "Podstawy prawne i ochrona danych",
-  "pytanie": "Który dodatkowy filar polityki bezpieczeństwa KSIP uzupełnia triadę CIA?",
-  "poprawna": "Rozliczalność",
-  "bledne": [
-   "Niezaprzeczalność",
-   "Minimalizacja",
-   "Anonimowość"
-  ],
-  "wyjasnienie": "Cztery filary KSIP: poufność, integralność, dostępność i rozliczalność (możliwość przypisania każdej operacji konkretnemu użytkownikowi).",
-  "zrodlo": "test"
- },
- {
-  "id": "5db1cbac78",
-  "temat": "Podstawy prawne i ochrona danych",
-  "pytanie": "Który zestaw przedstawia cztery filary polityki bezpieczeństwa KSIP podane w materiale?",
-  "poprawna": "Poufność, dostępność, integralność, rozliczalność",
-  "bledne": [
-   "Integralność, szyfrowanie, archiwizacja, retencja",
-   "Poufność, legalność, proporcjonalność, celowość",
-   "Dostępność, anonimowość, niezawodność, jawność"
-  ],
-  "wyjasnienie": "Polityka bezpieczeństwa KSIP opiera się na poufności, integralności, dostępności i rozliczalności.",
-  "zrodlo": "test"
- },
- {
-  "id": "96a46515c9",
-  "temat": "Podstawy prawne i ochrona danych",
-  "pytanie": "Które akty wskazano w materiale jako regulujące działanie KSIP?",
-  "poprawna": "Zarządzenie nr 70 KGP z 2 grudnia 2019 r. oraz zarządzenie nr 74 KGP z 16 grudnia 2019 r.",
-  "bledne": [
-   "Wyłącznie zarządzenie nr 70 KGP z 2 grudnia 2019 r.",
-   "Rozporządzenie MSWiA z 3 stycznia 2022 r. i zarządzenie nr 70 KGP",
-   "Ustawa o Policji i zarządzenie nr 109 KGP"
-  ],
-  "wyjasnienie": "Zarządzenie nr 70 KGP z 2.12.2019 r. w sprawie KSIP. Zarządzenie nr 74 z 16.12.2019 r. je zmieniło (rejestracja wykroczeń przeciwko mieniu).",
-  "zrodlo": "test"
- },
- {
   "id": "9d318062f3",
-  "temat": "Podstawy prawne i ochrona danych",
+  "temat": "2. Ochrona danych osobowych w KSI",
   "pytanie": "Kto – zgodnie z materiałem – sprawuje nadzór nad danymi gromadzonymi przez Policję?",
   "poprawna": "Prezes UODO",
   "bledne": [
@@ -234,8 +130,112 @@
   "zrodlo": "test"
  },
  {
+  "id": "f018d85c86",
+  "temat": "3. Policyjne systemy informacyjne i ich zawartość",
+  "pytanie": "Rozwiń skrót KSIP.",
+  "poprawna": "Krajowy System Informacyjny Policji",
+  "bledne": [
+   "Krajowa Sieć Informacyjna Policji",
+   "Komputerowy System Identyfikacji Policjantów",
+   "Krajowy System Interwencji Policji"
+  ],
+  "wyjasnienie": "KSIP – Krajowy System INFORMACYJNY Policji (nie „informatyczny”, nie „informacji”).",
+  "zrodlo": "test"
+ },
+ {
+  "id": "d687ca74e3",
+  "temat": "3. Policyjne systemy informacyjne i ich zawartość",
+  "pytanie": "Rozwiń skrót SWD.",
+  "poprawna": "System Wspomagania Dowodzenia",
+  "bledne": [
+   "System Weryfikacji Danych",
+   "Sieć Wymiany Dokumentów",
+   "System Wyszukiwania Dowodów"
+  ],
+  "wyjasnienie": "SWD Policji – System Wspomagania Dowodzenia (m.in. dysponowanie patroli, Punkt Sprawdzeń SPP, Klient Mobilny).",
+  "zrodlo": "test"
+ },
+ {
+  "id": "c26f9fd2a1",
+  "temat": "3. Policyjne systemy informacyjne i ich zawartość",
+  "pytanie": "Rozwiń skrót PRIM.",
+  "poprawna": "Policyjny Rejestr Imprez Masowych",
+  "bledne": [
+   "Policyjny Rejestr Interwencji Miejskich",
+   "Program Rozpoznania i Monitoringu",
+   "Państwowy Rejestr Informacji Migracyjnych"
+  ],
+  "wyjasnienie": "PRIM – Policyjny Rejestr Imprez Masowych (zakazy stadionowe, informacje o imprezach).",
+  "zrodlo": "test"
+ },
+ {
+  "id": "da53a1d45c",
+  "temat": "3. Policyjne systemy informacyjne i ich zawartość",
+  "pytanie": "Rozwiń skrót SEWiK.",
+  "poprawna": "System Ewidencji Wypadków i Kolizji",
+  "bledne": [
+   "System Elektronicznej Weryfikacji Kierowców",
+   "Sieć Ewidencji Wykroczeń i Kar",
+   "System Ewidencji Wniosków i Kontroli"
+  ],
+  "wyjasnienie": "SEWiK – System Ewidencji Wypadków i Kolizji (statystyka zdarzeń drogowych).",
+  "zrodlo": "test"
+ },
+ {
+  "id": "1a2c086034",
+  "temat": "3. Policyjne systemy informacyjne i ich zawartość",
+  "pytanie": "Który skrót oznacza System Wspomagania Dowodzenia?",
+  "poprawna": "SWD",
+  "bledne": [
+   "KSIP",
+   "SPP",
+   "PRIM"
+  ],
+  "wyjasnienie": "SWD – System Wspomagania Dowodzenia.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "5644e85994",
+  "temat": "3. Policyjne systemy informacyjne i ich zawartość",
+  "pytanie": "Który zestaw zawiera wyłącznie pięć systemów policyjnych wymienionych w materiale?",
+  "poprawna": "KSIP, SWD, PRIM, SPP, SEWiK",
+  "bledne": [
+   "KSIP, PESEL, REGON, CEIDG, KRS",
+   "AFIS, CEPiK, EUCARIS, VIS, KRK",
+   "PESEL, KRK, KRS, VIS, SIS"
+  ],
+  "wyjasnienie": "Systemy policyjne: KSIP, SWD, PRIM, SPP, SEWiK. PESEL, REGON, CEIDG, KRS, CEPiK, KRK, VIS, SIS to systemy pozapolicyjne.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "96a46515c9",
+  "temat": "3. Policyjne systemy informacyjne i ich zawartość",
+  "pytanie": "Które akty wskazano w materiale jako regulujące działanie KSIP?",
+  "poprawna": "Zarządzenie nr 70 KGP z 2 grudnia 2019 r. oraz zarządzenie nr 74 KGP z 16 grudnia 2019 r.",
+  "bledne": [
+   "Wyłącznie zarządzenie nr 70 KGP z 2 grudnia 2019 r.",
+   "Rozporządzenie MSWiA z 3 stycznia 2022 r. i zarządzenie nr 70 KGP",
+   "Ustawa o Policji i zarządzenie nr 109 KGP"
+  ],
+  "wyjasnienie": "Zarządzenie nr 70 KGP z 2.12.2019 r. w sprawie KSIP. Zarządzenie nr 74 z 16.12.2019 r. je zmieniło (rejestracja wykroczeń przeciwko mieniu).",
+  "zrodlo": "test"
+ },
+ {
+  "id": "180b489fd9",
+  "temat": "3. Policyjne systemy informacyjne i ich zawartość",
+  "pytanie": "Który zestaw zawiera wyłącznie systemy policyjne wymienione w drugim materiale?",
+  "poprawna": "SESPol, KSIP, SEWiK, POSIGRAF, AFIS, SWD, SMI",
+  "bledne": [
+   "CEPiK, REGON, EUCARIS, RDO, RDP",
+   "SIS, VIS, I24/7, KRS, KRK",
+   "PESEL, KRS, KRK, VIS, CEIDG"
+  ],
+  "wyjasnienie": "Wszystkie elementy pierwszego zestawu prowadzi Policja. Pozostałe zestawy zawierają rejestry innych organów albo systemy międzynarodowe.",
+  "zrodlo": "test"
+ },
+ {
   "id": "d43635f52a",
-  "temat": "Systemy policyjne i pozapolicyjne",
+  "temat": "4. Pozapolicyjne systemy informacyjne i ich zawartość",
   "pytanie": "Rozwiń skrót PESEL.",
   "poprawna": "Powszechny Elektroniczny System Ewidencji Ludności",
   "bledne": [
@@ -248,7 +248,7 @@
  },
  {
   "id": "70df2c6975",
-  "temat": "Systemy policyjne i pozapolicyjne",
+  "temat": "4. Pozapolicyjne systemy informacyjne i ich zawartość",
   "pytanie": "Rozwiń skrót RDO.",
   "poprawna": "Rejestr Dowodów Osobistych",
   "bledne": [
@@ -261,7 +261,7 @@
  },
  {
   "id": "9f4bc8e311",
-  "temat": "Systemy policyjne i pozapolicyjne",
+  "temat": "4. Pozapolicyjne systemy informacyjne i ich zawartość",
   "pytanie": "Rozwiń skrót RDP zgodnie z materiałem.",
   "poprawna": "Rejestr Dowodów Paszportowych",
   "bledne": [
@@ -274,7 +274,7 @@
  },
  {
   "id": "dc9170120c",
-  "temat": "Systemy policyjne i pozapolicyjne",
+  "temat": "4. Pozapolicyjne systemy informacyjne i ich zawartość",
   "pytanie": "Rozwiń skrót CEPiK.",
   "poprawna": "Centralna Ewidencja Pojazdów i Kierowców",
   "bledne": [
@@ -287,7 +287,7 @@
  },
  {
   "id": "f5db7a89bc",
-  "temat": "Systemy policyjne i pozapolicyjne",
+  "temat": "4. Pozapolicyjne systemy informacyjne i ich zawartość",
   "pytanie": "Czego dotyczy rejestr REGON?",
   "poprawna": "Podmiotów gospodarki narodowej",
   "bledne": [
@@ -300,7 +300,7 @@
  },
  {
   "id": "e83a0460a7",
-  "temat": "Systemy policyjne i pozapolicyjne",
+  "temat": "4. Pozapolicyjne systemy informacyjne i ich zawartość",
   "pytanie": "Czego dotyczy baza Noe.NET?",
   "poprawna": "Osób pozbawionych wolności",
   "bledne": [
@@ -313,7 +313,7 @@
  },
  {
   "id": "f9e46deb77",
-  "temat": "Systemy policyjne i pozapolicyjne",
+  "temat": "4. Pozapolicyjne systemy informacyjne i ich zawartość",
   "pytanie": "Rozwiń skrót VIS.",
   "poprawna": "Wizowy System Informacyjny",
   "bledne": [
@@ -326,7 +326,7 @@
  },
  {
   "id": "fee2c96b36",
-  "temat": "Systemy policyjne i pozapolicyjne",
+  "temat": "4. Pozapolicyjne systemy informacyjne i ich zawartość",
   "pytanie": "Rozwiń skrót ZSE SG zgodnie z materiałem.",
   "poprawna": "Zintegrowany System Ewidencji Straży Granicznej",
   "bledne": [
@@ -339,7 +339,7 @@
  },
  {
   "id": "bb2688c37f",
-  "temat": "Systemy policyjne i pozapolicyjne",
+  "temat": "4. Pozapolicyjne systemy informacyjne i ich zawartość",
   "pytanie": "Rozwiń skrót KRS.",
   "poprawna": "Krajowy Rejestr Sądowy",
   "bledne": [
@@ -352,7 +352,7 @@
  },
  {
   "id": "d428d62ab6",
-  "temat": "Systemy policyjne i pozapolicyjne",
+  "temat": "4. Pozapolicyjne systemy informacyjne i ich zawartość",
   "pytanie": "Rozwiń skrót KRK.",
   "poprawna": "Krajowy Rejestr Karny",
   "bledne": [
@@ -365,7 +365,7 @@
  },
  {
   "id": "cca11a7301",
-  "temat": "Systemy policyjne i pozapolicyjne",
+  "temat": "4. Pozapolicyjne systemy informacyjne i ich zawartość",
   "pytanie": "Rozwiń skrót RSPTS.",
   "poprawna": "Rejestr Sprawców Przestępstw na Tle Seksualnym",
   "bledne": [
@@ -377,21 +377,21 @@
   "zrodlo": "test"
  },
  {
-  "id": "7b55b63ea5",
-  "temat": "Systemy policyjne i pozapolicyjne",
-  "pytanie": "Który system z materiału jest przeznaczony do rejestracji i obsługi spraw związanych z kradzieżą lub zagubieniem dokumentu?",
-  "poprawna": "REJA24",
+  "id": "b606948da2",
+  "temat": "4. Pozapolicyjne systemy informacyjne i ich zawartość",
+  "pytanie": "Czym jest REJA24?",
+  "poprawna": "rejestrem jachtów i innych jednostek pływających o długości do 24 m",
   "bledne": [
-   "I24/7",
-   "EUCARIS",
-   "Noe.NET"
+   "systemem do rejestracji i obsługi spraw kradzieży lub zagubienia dokumentów",
+   "bazą danych Interpolu o skradzionych dokumentach podróży",
+   "rejestrem osób pozbawionych wolności prowadzonym przez Służbę Więzienną"
   ],
-  "wyjasnienie": "REJA24 służy do zgłaszania i obsługi utraty dokumentów (kradzież, zagubienie).",
+  "wyjasnienie": "REJA24 to rejestr jachtów i innych jednostek pływających o długości do 24 m, prowadzony elektronicznie przez Urząd Morski w Szczecinie. W teście 11 pytanie przypisywało REJA24 do spraw zgubionych dokumentów, co jest błędem, i żadna z odpowiedzi nie była poprawna – dlatego pytanie przerobiono.",
   "zrodlo": "test"
  },
  {
   "id": "ed1cce22a1",
-  "temat": "Systemy policyjne i pozapolicyjne",
+  "temat": "4. Pozapolicyjne systemy informacyjne i ich zawartość",
   "pytanie": "Rozwiń skrót CEIDG.",
   "poprawna": "Centralna Ewidencja i Informacja o Działalności Gospodarczej",
   "bledne": [
@@ -404,7 +404,7 @@
  },
  {
   "id": "8d938cfa37",
-  "temat": "Systemy policyjne i pozapolicyjne",
+  "temat": "4. Pozapolicyjne systemy informacyjne i ich zawartość",
   "pytanie": "Rozwiń skrót KCIK.",
   "poprawna": "Krajowe Centrum Informacji Kryminalnych",
   "bledne": [
@@ -417,7 +417,7 @@
  },
  {
   "id": "98f0aadc91",
-  "temat": "Systemy policyjne i pozapolicyjne",
+  "temat": "4. Pozapolicyjne systemy informacyjne i ich zawartość",
   "pytanie": "Czym jest I24/7?",
   "poprawna": "Globalnym policyjnym systemem komunikacji i baz danych Interpolu",
   "bledne": [
@@ -430,7 +430,7 @@
  },
  {
   "id": "213e07c933",
-  "temat": "Systemy policyjne i pozapolicyjne",
+  "temat": "4. Pozapolicyjne systemy informacyjne i ich zawartość",
   "pytanie": "Rozwiń skrót SIS.",
   "poprawna": "System Informacyjny Schengen",
   "bledne": [
@@ -443,7 +443,7 @@
  },
  {
   "id": "682b2cfdaf",
-  "temat": "Systemy policyjne i pozapolicyjne",
+  "temat": "4. Pozapolicyjne systemy informacyjne i ich zawartość",
   "pytanie": "Do czego służy EUCARIS?",
   "poprawna": "Do wymiany informacji o pojazdach, prawach jazdy i powiązanych danych między państwami",
   "bledne": [
@@ -456,7 +456,7 @@
  },
  {
   "id": "31a167fa83",
-  "temat": "Systemy policyjne i pozapolicyjne",
+  "temat": "4. Pozapolicyjne systemy informacyjne i ich zawartość",
   "pytanie": "Do czego Policja wykorzystuje KRK według materiału?",
   "poprawna": "Do sprawdzania historii karnej, prowadzenia śledztw i ustalania, czy osoba była karana",
   "bledne": [
@@ -469,7 +469,7 @@
  },
  {
   "id": "15a5aab383",
-  "temat": "Systemy policyjne i pozapolicyjne",
+  "temat": "4. Pozapolicyjne systemy informacyjne i ich zawartość",
   "pytanie": "Który zestaw danych znajduje się w zbiorze PESEL/CEL według materiału?",
   "poprawna": "Imię i nazwisko, data i miejsce urodzenia, płeć, numer PESEL, obywatelstwo i stan cywilny",
   "bledne": [
@@ -482,7 +482,7 @@
  },
  {
   "id": "eed73b6ee2",
-  "temat": "Systemy policyjne i pozapolicyjne",
+  "temat": "4. Pozapolicyjne systemy informacyjne i ich zawartość",
   "pytanie": "Która dana z materiału pozwala odróżnić obecne nazwisko od nazwiska sprzed jego zmiany?",
   "poprawna": "Nazwisko rodowe",
   "bledne": [
@@ -495,7 +495,7 @@
  },
  {
   "id": "b0a1af1313",
-  "temat": "Systemy policyjne i pozapolicyjne",
+  "temat": "4. Pozapolicyjne systemy informacyjne i ich zawartość",
   "pytanie": "Jakie dane o rodzicach wymieniono w zbiorze PESEL/CEL?",
   "poprawna": "Imiona i nazwiska rodowe rodziców",
   "bledne": [
@@ -508,7 +508,7 @@
  },
  {
   "id": "ffd68b5ce0",
-  "temat": "Systemy policyjne i pozapolicyjne",
+  "temat": "4. Pozapolicyjne systemy informacyjne i ich zawartość",
   "pytanie": "Który zestaw dwóch danych urodzeniowych wymieniono w PESEL/CEL?",
   "poprawna": "Data i miejsce urodzenia",
   "bledne": [
@@ -521,7 +521,7 @@
  },
  {
   "id": "7affb55128",
-  "temat": "Systemy policyjne i pozapolicyjne",
+  "temat": "4. Pozapolicyjne systemy informacyjne i ich zawartość",
   "pytanie": "Która z poniższych danych jest wymieniona w PESEL/CEL?",
   "poprawna": "Płeć",
   "bledne": [
@@ -534,7 +534,7 @@
  },
  {
   "id": "32a2993280",
-  "temat": "Systemy policyjne i pozapolicyjne",
+  "temat": "4. Pozapolicyjne systemy informacyjne i ich zawartość",
   "pytanie": "Która dana jest podstawowym identyfikatorem osoby w rejestrze PESEL?",
   "poprawna": "Numer PESEL",
   "bledne": [
@@ -547,7 +547,7 @@
  },
  {
   "id": "7c59dd865d",
-  "temat": "Systemy policyjne i pozapolicyjne",
+  "temat": "4. Pozapolicyjne systemy informacyjne i ich zawartość",
   "pytanie": "Która dana wskazuje więź osoby z określonym państwem i jest wymieniona w PESEL/CEL?",
   "poprawna": "Obywatelstwo",
   "bledne": [
@@ -560,7 +560,7 @@
  },
  {
   "id": "295ab9f99e",
-  "temat": "Systemy policyjne i pozapolicyjne",
+  "temat": "4. Pozapolicyjne systemy informacyjne i ich zawartość",
   "pytanie": "Która dana z PESEL/CEL opisuje sytuację osoby jako np. kawaler/panna, żonaty/zamężna lub rozwiedziony/rozwiedziona?",
   "poprawna": "Stan cywilny",
   "bledne": [
@@ -573,7 +573,7 @@
  },
  {
   "id": "67af8ba4ea",
-  "temat": "Systemy policyjne i pozapolicyjne",
+  "temat": "4. Pozapolicyjne systemy informacyjne i ich zawartość",
   "pytanie": "Jaką dodatkową informację dotyczącą relacji rodzinnej wskazano w zbiorze PESEL/CEL?",
   "poprawna": "Informację o małżeństwie, jeżeli dotyczy",
   "bledne": [
@@ -585,34 +585,8 @@
   "zrodlo": "test"
  },
  {
-  "id": "b59e9074c7",
-  "temat": "Podstawy prawne i ochrona danych",
-  "pytanie": "Który artykuł ustawy o Policji ponownie wskazano w materiale jako podstawę prawną wykorzystywania baz danych przez funkcjonariuszy?",
-  "poprawna": "Art. 20",
-  "bledne": [
-   "Art. 15a",
-   "Art. 20e",
-   "Art. 51"
-  ],
-  "wyjasnienie": "Art. 20 ustawy o Policji – gromadzenie, przetwarzanie i wykorzystywanie informacji w bazach danych.",
-  "zrodlo": "test"
- },
- {
-  "id": "180b489fd9",
-  "temat": "Systemy policyjne i pozapolicyjne",
-  "pytanie": "Który zestaw zawiera wyłącznie systemy policyjne wymienione w drugim materiale?",
-  "poprawna": "SESPol, KSIP, SEWiK, POSIGRAF, AFIS, SWD, SMI",
-  "bledne": [
-   "CEPiK, REGON, EUCARIS, RDO, RDP",
-   "SIS, VIS, I24/7, KRS, KRK",
-   "PESEL, KRS, KRK, VIS, CEIDG"
-  ],
-  "wyjasnienie": "Wszystkie elementy pierwszego zestawu prowadzi Policja. Pozostałe zestawy zawierają rejestry innych organów albo systemy międzynarodowe.",
-  "zrodlo": "test"
- },
- {
   "id": "8fbf199b34",
-  "temat": "Systemy policyjne i pozapolicyjne",
+  "temat": "4. Pozapolicyjne systemy informacyjne i ich zawartość",
   "pytanie": "Który system najlepiej wybrać do sprawdzenia danych pojazdu i kierowcy w krajowej ewidencji?",
   "poprawna": "CEPiK",
   "bledne": [
@@ -625,7 +599,7 @@
  },
  {
   "id": "75c92f848b",
-  "temat": "Systemy policyjne i pozapolicyjne",
+  "temat": "4. Pozapolicyjne systemy informacyjne i ich zawartość",
   "pytanie": "Który rejestr należy skojarzyć z wpisami przedsiębiorców będących osobami fizycznymi?",
   "poprawna": "CEIDG",
   "bledne": [
@@ -637,21 +611,8 @@
   "zrodlo": "test"
  },
  {
-  "id": "cc454d4781",
-  "temat": "SIS i wymiana międzynarodowa",
-  "pytanie": "Jakie jest podstawowe zadanie biura SIRENE?",
-  "poprawna": "Przekazywanie informacji uzupełniających związanych z wpisami SIS",
-  "bledne": [
-   "Wydawanie wiz Schengen",
-   "Prowadzenie polskiego rejestru karnego",
-   "Rejestrowanie dowodów osobistych"
-  ],
-  "wyjasnienie": "SIRENE (Supplementary Information REquest at the National Entry) – wymiana informacji uzupełniających do wpisów SIS.",
-  "zrodlo": "test"
- },
- {
   "id": "89117a343c",
-  "temat": "SIS i wymiana międzynarodowa",
+  "temat": "4. Pozapolicyjne systemy informacyjne i ich zawartość",
   "pytanie": "Z jakim systemem daktyloskopijnym współpracuje SIS zgodnie z materiałem?",
   "poprawna": "AFIS",
   "bledne": [
@@ -664,7 +625,7 @@
  },
  {
   "id": "7008f38d58",
-  "temat": "SIS i wymiana międzynarodowa",
+  "temat": "4. Pozapolicyjne systemy informacyjne i ich zawartość",
   "pytanie": "Jak brzmi angielskie rozwinięcie skrótu AFIS?",
   "poprawna": "Automated Fingerprint Identification System",
   "bledne": [
@@ -677,7 +638,7 @@
  },
  {
   "id": "ae78da2027",
-  "temat": "SIS i wymiana międzynarodowa",
+  "temat": "4. Pozapolicyjne systemy informacyjne i ich zawartość",
   "pytanie": "Które rozporządzenie UE wskazano w materiale przy kategoriach wpisów SIS w obszarze współpracy policyjnej i sądowej?",
   "poprawna": "Rozporządzenie (UE) 2018/1862 z 28 listopada 2018 r.",
   "bledne": [
@@ -689,190 +650,8 @@
   "zrodlo": "test"
  },
  {
-  "id": "555d2c27f2",
-  "temat": "SIS i wymiana międzynarodowa",
-  "pytanie": "Art. 24 (rozporządzenia 2018/1861) – zgodnie z zaznaczeniem w materiale – dotyczy:",
-  "poprawna": "Cudzoziemców niepożądanych na obszarze Schengen",
-  "bledne": [
-   "Osób zaginionych",
-   "Osób poszukiwanych w celu ekstradycji",
-   "Przedmiotów poszukiwanych"
-  ],
-  "wyjasnienie": "Wpisy dotyczące odmowy wjazdu i pobytu to art. 24 rozporządzenia 2018/1861 (w materiale opisane przy 2018/1862).",
-  "zrodlo": "test"
- },
- {
-  "id": "8872332126",
-  "temat": "SIS i wymiana międzynarodowa",
-  "pytanie": "Art. 26 rozporządzenia (UE) 2018/1862 dotyczy wpisów o:",
-  "poprawna": "Osobach poszukiwanych w celu aresztowania dla przekazania lub ekstradycji",
-  "bledne": [
-   "Cudzoziemcach objętych odmową wjazdu",
-   "Przedmiotach poszukiwanych do zajęcia",
-   "Osobach zaginionych"
-  ],
-  "wyjasnienie": "Art. 26 – aresztowanie w celu przekazania (ENA) albo ekstradycji. Kod CZERWONY 88/99.",
-  "zrodlo": "test"
- },
- {
-  "id": "a7799b0d5e",
-  "temat": "SIS i wymiana międzynarodowa",
-  "pytanie": "Art. 32 rozporządzenia (UE) 2018/1862 dotyczy wpisów o:",
-  "poprawna": "Osobach zaginionych oraz osobach wymagających ochrony przed podróżą",
-  "bledne": [
-   "Osobach objętych kontrolą niejawną",
-   "Osobach poszukiwanych do postępowania sądowego",
-   "Przedmiotach do zajęcia"
-  ],
-  "wyjasnienie": "Art. 32 – osoby zaginione i osoby narażone, którym należy uniemożliwić podróż.",
-  "zrodlo": "test"
- },
- {
-  "id": "03c69d6ed0",
-  "temat": "SIS i wymiana międzynarodowa",
-  "pytanie": "Art. 34 rozporządzenia (UE) 2018/1862 dotyczy wpisów o:",
-  "poprawna": "Osobach poszukiwanych w celu wsparcia postępowania sądowego",
-  "bledne": [
-   "Osobach poszukiwanych do ekstradycji",
-   "Cudzoziemcach niepożądanych",
-   "Przedmiotach poszukiwanych"
-  ],
-  "wyjasnienie": "Art. 34 – osoby, których obecność jest wymagana w postępowaniu (świadkowie, wezwani, osoby do doręczeń). Zwykle chodzi o ustalenie miejsca pobytu.",
-  "zrodlo": "test"
- },
- {
-  "id": "3900482399",
-  "temat": "SIS i wymiana międzynarodowa",
-  "pytanie": "Art. 36 rozporządzenia (UE) 2018/1862 dotyczy wpisów w celu:",
-  "poprawna": "Kontroli niejawnej, kontroli sprawdzającej lub kontroli szczególnej",
-  "bledne": [
-   "Wyłącznie zatrzymania osoby",
-   "Wydania wizy Schengen",
-   "Rejestracji wyroku skazującego"
-  ],
-  "wyjasnienie": "Art. 36 – kontrole niejawne, rozpytania kontrolne i kontrole szczególne (kod ŻÓŁTY 44, NIEBIESKI 144).",
-  "zrodlo": "test"
- },
- {
-  "id": "759b9310c1",
-  "temat": "SIS i wymiana międzynarodowa",
-  "pytanie": "Art. 35 rozporządzenia (UE) 2018/1862 – zgodnie z zaznaczeniem w materiale – dotyczy:",
-  "poprawna": "Wykonania działania wobec osób poszukiwanych do postępowania sądowego",
-  "bledne": [
-   "Kontroli niejawnej osób i przedmiotów",
-   "Osób poszukiwanych do aresztowania",
-   "Poszukiwanych przedmiotów"
-  ],
-  "wyjasnienie": "Art. 35 – działania podejmowane na podstawie wpisu z art. 34 (przekazanie informacji o miejscu pobytu).",
-  "zrodlo": "test"
- },
- {
-  "id": "91dcd82282",
-  "temat": "SIS i wymiana międzynarodowa",
-  "pytanie": "Który artykuł rozporządzenia (UE) 2018/1862 dotyczy przedmiotów poszukiwanych w celu zajęcia lub wykorzystania jako dowód?",
-  "poprawna": "Art. 38",
-  "bledne": [
-   "Art. 36",
-   "Art. 24",
-   "Art. 35"
-  ],
-  "wyjasnienie": "Art. 38 – przedmioty do zajęcia lub wykorzystania jako dowód w postępowaniu karnym.",
-  "zrodlo": "test"
- },
- {
-  "id": "8b02c18319",
-  "temat": "SIS i wymiana międzynarodowa",
-  "pytanie": "Która sekwencja poprawnie łączy artykuły rozporządzenia 2018/1862 z kategoriami wpisów?",
-  "poprawna": "26 – aresztowanie; 32 – osoby zaginione; 34 – postępowanie sądowe; 36 – kontrole; 38 – przedmioty",
-  "bledne": [
-   "26 – wizy; 32 – przedmioty; 34 – aresztowanie; 36 – osoby zaginione; 38 – PESEL",
-   "26 – osoby zaginione; 32 – aresztowanie; 34 – przedmioty; 36 – wizy; 38 – kontrole",
-   "26 – kontrole; 32 – postępowanie sądowe; 34 – wizy; 36 – przedmioty; 38 – aresztowanie"
-  ],
-  "wyjasnienie": "Ściąga: 26 aresztowanie, 32 zaginieni, 34 sąd, 36 kontrole, 38 przedmioty, 40 nieznani poszukiwani.",
-  "zrodlo": "test"
- },
- {
-  "id": "ae92152f8c",
-  "temat": "SIS i wymiana międzynarodowa",
-  "pytanie": "Co oznacza skrót ENA w kontekście art. 26 SIS?",
-  "poprawna": "Europejski Nakaz Aresztowania",
-  "bledne": [
-   "Europejska Nota Administracyjna",
-   "Elektroniczny Numer Alertu",
-   "Europejska Niejawna Akcja"
-  ],
-  "wyjasnienie": "ENA – Europejski Nakaz Aresztowania. Wpis z art. 26 często opiera się na ENA.",
-  "zrodlo": "test"
- },
- {
-  "id": "351b68c0e0",
-  "temat": "SIS i wymiana międzynarodowa",
-  "pytanie": "Co oznacza skrót UMP użyty w materiale przy osobach poszukiwanych?",
-  "poprawna": "Ustalenie miejsca pobytu",
-  "bledne": [
-   "Urzędowe miejsce przesłuchania",
-   "Ustalenie majątku podejrzanego",
-   "Ukryte monitorowanie pojazdu"
-  ],
-  "wyjasnienie": "UMP – ustalenie miejsca pobytu. Osoby z takim celem poszukiwania się nie zatrzymuje.",
-  "zrodlo": "test"
- },
- {
-  "id": "7cf9517f3c",
-  "temat": "SIS i wymiana międzynarodowa",
-  "pytanie": "Czym różni się kontrola niejawna od kontroli szczególnej w SIS?",
-  "poprawna": "Przy kontroli niejawnej osoba nie powinna dowiedzieć się o wpisie, a kontrola szczególna może obejmować przeszukanie zgodnie z prawem krajowym",
-  "bledne": [
-   "Kontrola szczególna zawsze oznacza aresztowanie",
-   "Nie różnią się – to dwie nazwy zatrzymania",
-   "Kontrola niejawna dotyczy tylko pojazdów, a szczególna tylko osób"
-  ],
-  "wyjasnienie": "Kontrola niejawna: zbiera się informacje bez ujawniania wpisu. Kontrola szczególna: przeszukanie osoby, pojazdu i bagażu zgodnie z prawem krajowym.",
-  "zrodlo": "test"
- },
- {
-  "id": "e12eca27f2",
-  "temat": "SIS i wymiana międzynarodowa",
-  "pytanie": "Dlaczego po trafieniu na wpis SIS często potrzebna jest wymiana przez SIRENE?",
-  "poprawna": "Wpis wskazuje wymagane działanie, a informacje uzupełniające pozwalają je prawidłowo wykonać i skoordynować",
-  "bledne": [
-   "SIRENE zastępuje wszystkie krajowe bazy danych",
-   "SIRENE wydaje wyroki i nakazy aresztowania",
-   "SIRENE nadaje numery PESEL cudzoziemcom"
-  ],
-  "wyjasnienie": "Załącznik nr 41 przy wielu kodach: „Wystąpić do Biura SIRENE o przesłanie informacji uzupełniających”.",
-  "zrodlo": "test"
- },
- {
-  "id": "47a4e92526",
-  "temat": "Podstawy prawne i ochrona danych",
-  "pytanie": "Użytkownik KSIP zmienił dane, ale system nie pozwala ustalić, kto wykonał operację. Który filar bezpieczeństwa został naruszony?",
-  "poprawna": "Rozliczalność",
-  "bledne": [
-   "Poufność",
-   "Dostępność",
-   "Integralność"
-  ],
-  "wyjasnienie": "Rozliczalność oznacza, że każdą operację da się przypisać konkretnemu użytkownikowi.",
-  "zrodlo": "test"
- },
- {
-  "id": "5ba91d8a79",
-  "temat": "Podstawy prawne i ochrona danych",
-  "pytanie": "Które przyporządkowanie przepisów ustawy o Policji jest właściwe według materiału?",
-  "poprawna": "Art. 15 – rejestrowanie obrazu i dźwięku; art. 20 – przetwarzanie informacji; art. 20c – określone dane komunikacyjne",
-  "bledne": [
-   "Art. 15 – KRK; art. 20 – CEPiK; art. 20c – PESEL",
-   "Art. 15 – SIS; art. 20 – VIS; art. 20c – EUCARIS",
-   "Art. 15 – dane komunikacyjne; art. 20 – rejestrowanie dźwięku; art. 20c – imprezy masowe"
-  ],
-  "wyjasnienie": "Art. 15 – uprawnienia, w tym rejestrowanie obrazu i dźwięku; art. 20 – przetwarzanie informacji; art. 20c – dane telekomunikacyjne, pocztowe i internetowe.",
-  "zrodlo": "test"
- },
- {
   "id": "2fa4af599e",
-  "temat": "SIS i wymiana międzynarodowa",
+  "temat": "4. Pozapolicyjne systemy informacyjne i ich zawartość",
   "pytanie": "Podstawowe akty prawne 2018/1860, 2018/1861 i 2018/1862, dotyczące funkcjonowania i użytkowania SIS, to:",
   "poprawna": "Rozporządzenia",
   "bledne": [
@@ -884,21 +663,8 @@
   "zrodlo": "test"
  },
  {
-  "id": "cbb7b4bfc2",
-  "temat": "SIS i wymiana międzynarodowa",
-  "pytanie": "Państwa stowarzyszone w ramach strefy Schengen, niebędące członkami Unii Europejskiej, to:",
-  "poprawna": "Islandia, Liechtenstein, Norwegia i Szwajcaria",
-  "bledne": [
-   "Norwegia, Andora, San Marino i Szwajcaria",
-   "Watykan, Monako, Norwegia i Szwajcaria",
-   "Irlandia, Andora, Wyspy Owcze i Kosowo"
-  ],
-  "wyjasnienie": "Cztery państwa EFTA. Irlandia jest w UE, ale poza Schengen.",
-  "zrodlo": "test"
- },
- {
   "id": "eab1ed2645",
-  "temat": "SIS i wymiana międzynarodowa",
+  "temat": "4. Pozapolicyjne systemy informacyjne i ich zawartość",
   "pytanie": "Do wpisów w SIS można dodawać dane daktyloskopijne, które są przeszukiwane przy pomocy:",
   "poprawna": "SIS AFIS",
   "bledne": [
@@ -911,7 +677,7 @@
  },
  {
   "id": "7891fec5a1",
-  "temat": "SIS i wymiana międzynarodowa",
+  "temat": "4. Pozapolicyjne systemy informacyjne i ich zawartość",
   "pytanie": "System informatyczny gromadzący dane biometryczne osób ubiegających się o ochronę międzynarodową oraz określonych kategorii obywateli państw trzecich na obszarze UE to:",
   "poprawna": "Eurodac",
   "bledne": [
@@ -923,112 +689,8 @@
   "zrodlo": "test"
  },
  {
-  "id": "23a3c1826e",
-  "temat": "SIS i wymiana międzynarodowa",
-  "pytanie": "O wpisie obejmującym kategorię „wpisy dotyczące nieznanych osób poszukiwanych” mówi:",
-  "poprawna": "Żaden z wymienionych artykułów",
-  "bledne": [
-   "Art. 3",
-   "Art. 7",
-   "Art. 38"
-  ],
-  "wyjasnienie": "Nieznane osoby poszukiwane (np. ślady daktyloskopijne sprawcy) to art. 40 rozporządzenia 2018/1862 – nie ma go wśród odpowiedzi.",
-  "zrodlo": "test"
- },
- {
-  "id": "b9c520f77a",
-  "temat": "SIS i wymiana międzynarodowa",
-  "pytanie": "Strefa Schengen to obszar, na którym zniesiono kontrole na granicach wewnętrznych. Aktualnie obszar ten liczy:",
-  "poprawna": "29 państw",
-  "bledne": [
-   "24 państwa",
-   "25 państw",
-   "27 państw"
-  ],
-  "wyjasnienie": "25 państw UE (bez Irlandii i Cypru) oraz 4 państwa stowarzyszone. Od 2025 r. Bułgaria i Rumunia są pełnoprawnymi członkami.",
-  "zrodlo": "test"
- },
- {
-  "id": "e03daa1dd7",
-  "temat": "SIS i wymiana międzynarodowa",
-  "pytanie": "Organ centralny odpowiedzialny za część krajową SIS w państwie członkowskim to:",
-  "poprawna": "N.SIS",
-  "bledne": [
-   "Biuro SIRENE",
-   "I-24/7",
-   "EIS"
-  ],
-  "wyjasnienie": "N.SIS – krajowy system SIS (w Polsce w ramach KSI). SIRENE wymienia informacje uzupełniające, ale nie jest systemem.",
-  "zrodlo": "test"
- },
- {
-  "id": "e38afbc20c",
-  "temat": "SIS i wymiana międzynarodowa",
-  "pytanie": "Agencja Unii Europejskiej ds. Zarządzania Operacyjnego Wielkoskalowymi Systemami Informatycznymi w Przestrzeni Wolności, Bezpieczeństwa i Sprawiedliwości nazywana jest w skrócie:",
-  "poprawna": "eu-LISA",
-  "bledne": [
-   "Biuro SIRENE",
-   "N.SIS",
-   "EIS"
-  ],
-  "wyjasnienie": "eu-LISA zarządza m.in. centralnym SIS, VIS i Eurodac.",
-  "zrodlo": "test"
- },
- {
-  "id": "94ba403235",
-  "temat": "SIS i wymiana międzynarodowa",
-  "pytanie": "Aplikacja do bezpiecznej wymiany informacji w ramach Europolu to:",
-  "poprawna": "SIENA",
-  "bledne": [
-   "BRAVO",
-   "PUNTO",
-   "EURO-TASK"
-  ],
-  "wyjasnienie": "SIENA – Secure Information Exchange Network Application (Europol).",
-  "zrodlo": "test"
- },
- {
-  "id": "d7e0bdf0a0",
-  "temat": "SIS i wymiana międzynarodowa",
-  "pytanie": "Jakie noty INTERPOL-u są dostępne do wglądu podczas legitymowania przez funkcjonariusza Policji przy użyciu terminala mobilnego za pośrednictwem SPP?",
-  "poprawna": "Czerwona, żółta, niebieska",
-  "bledne": [
-   "Czerwona, zielona, żółta",
-   "Czerwona, zielona, czarna",
-   "Czerwona, niebieska, pomarańczowa"
-  ],
-  "wyjasnienie": "UWAGA – niepewne: w oryginale dwie odpowiedzi były identyczne (czerwona, zielona, żółta), więc żadna z nich nie mogła być jedyną poprawną. Jedną zmieniono na „czerwona, zielona, czarna”, żeby się nie dublowały. Przy legitymowaniu liczą się noty czerwona (zatrzymanie), żółta (zaginieni) i niebieska (ustalenie miejsca pobytu).",
-  "zrodlo": "test"
- },
- {
-  "id": "d614607983",
-  "temat": "SIS i wymiana międzynarodowa",
-  "pytanie": "Wniosek o ściganie osoby w ramach art. 26 rozporządzenia SIS wnosi lub wnoszą:",
-  "poprawna": "Prokurator lub sąd",
-  "bledne": [
-   "Prokurator",
-   "Sąd",
-   "Biuro SIRENE podległe KGP"
-  ],
-  "wyjasnienie": "Art. 3 ust. 1 pkt 1–2 ustawy o udziale RP w SIS i VIS: wpisy dotyczące osób poszukiwanych do tymczasowego aresztowania wprowadza sąd lub prokuratura.",
-  "zrodlo": "test"
- },
- {
-  "id": "0e6459cd18",
-  "temat": "SIS i wymiana międzynarodowa",
-  "pytanie": "Polska zawiesiła działalność w strukturach INTERPOL-u ze względów politycznych w okresie:",
-  "poprawna": "1952–1990",
-  "bledne": [
-   "1945–1989",
-   "1947–1988",
-   "1953–1989"
-  ],
-  "wyjasnienie": "Polska wystąpiła z Interpolu w 1952 r. i wróciła w 1990 r.",
-  "zrodlo": "test"
- },
- {
   "id": "e17f607965",
-  "temat": "SIS i wymiana międzynarodowa",
+  "temat": "4. Pozapolicyjne systemy informacyjne i ich zawartość",
   "pytanie": "Co to są dane PNR?",
   "poprawna": "Dane dotyczące przelotu pasażera gromadzone przez przewoźnika lotniczego",
   "bledne": [
@@ -1040,21 +702,294 @@
   "zrodlo": "test"
  },
  {
-  "id": "ddb3b0dfbb",
-  "temat": "SIS i wymiana międzynarodowa",
-  "pytanie": "Europejski Nakaz Aresztowania obejmuje osoby prawomocnie skazane albo ścigane za czyn zagrożony karą pozbawienia wolności, gdy próg wynosi:",
-  "poprawna": "orzeczona kara co najmniej 4 miesięcy albo czyn zagrożony karą o górnej granicy co najmniej 12 miesięcy",
+  "id": "db8d1ad9be",
+  "temat": "4. Pozapolicyjne systemy informacyjne i ich zawartość",
+  "pytanie": "EUCARIS pozwala na wymianę informacji o:",
+  "poprawna": "pojazdach oraz danych właścicieli pojazdów / kierowców",
   "bledne": [
-   "orzeczona kara 6 miesięcy albo zagrożenie 1 rokiem",
-   "orzeczona kara 6 miesięcy albo zagrożenie 2 latami",
-   "orzeczona kara 12 miesięcy albo zagrożenie 3 latami"
+   "pojazdach",
+   "pojazdach, danych właścicieli pojazdów / kierowców oraz OC",
+   "pojazdach, danych właścicieli pojazdów / kierowców, OC oraz terrorystach"
   ],
-  "wyjasnienie": "Art. 607b k.p.k.: ENA jest niedopuszczalny przy zagrożeniu do roku albo przy karze orzeczonej do 4 miesięcy.",
+  "wyjasnienie": "EUCARIS – Europejski System Informacji o Pojazdach i Prawach Jazdy: dane pojazdów oraz ich właścicieli/posiadaczy i kierowców (prawa jazdy). Nie obejmuje OC ani danych o terrorystach.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "70cf1bf3a0",
+  "temat": "5. Ochrona dostępu do informacji w zbiorach",
+  "pytanie": "Który dodatkowy filar polityki bezpieczeństwa KSIP uzupełnia triadę CIA?",
+  "poprawna": "Rozliczalność",
+  "bledne": [
+   "Niezaprzeczalność",
+   "Minimalizacja",
+   "Anonimowość"
+  ],
+  "wyjasnienie": "Cztery filary KSIP: poufność, integralność, dostępność i rozliczalność (możliwość przypisania każdej operacji konkretnemu użytkownikowi).",
+  "zrodlo": "test"
+ },
+ {
+  "id": "5db1cbac78",
+  "temat": "5. Ochrona dostępu do informacji w zbiorach",
+  "pytanie": "Który zestaw przedstawia cztery filary polityki bezpieczeństwa KSIP podane w materiale?",
+  "poprawna": "Poufność, dostępność, integralność, rozliczalność",
+  "bledne": [
+   "Integralność, szyfrowanie, archiwizacja, retencja",
+   "Poufność, legalność, proporcjonalność, celowość",
+   "Dostępność, anonimowość, niezawodność, jawność"
+  ],
+  "wyjasnienie": "Polityka bezpieczeństwa KSIP opiera się na poufności, integralności, dostępności i rozliczalności.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "47a4e92526",
+  "temat": "5. Ochrona dostępu do informacji w zbiorach",
+  "pytanie": "Użytkownik KSIP zmienił dane, ale system nie pozwala ustalić, kto wykonał operację. Który filar bezpieczeństwa został naruszony?",
+  "poprawna": "Rozliczalność",
+  "bledne": [
+   "Poufność",
+   "Dostępność",
+   "Integralność"
+  ],
+  "wyjasnienie": "Rozliczalność oznacza, że każdą operację da się przypisać konkretnemu użytkownikowi.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "4640db4c49",
+  "temat": "6. Sposoby dostępu do informacji w systemach",
+  "pytanie": "Rozwiń skrót SPP.",
+  "poprawna": "System Poszukiwawczy Policji",
+  "bledne": [
+   "System Przetwarzania Pism",
+   "System Postępowań Przygotowawczych",
+   "Sieć Powiadamiania Policji"
+  ],
+  "wyjasnienie": "§ 2 pkt 49 Zarządzenia nr 70 KGP: SPP – System Poszukiwawczy Policji, funkcjonalność KSIP, która jednym zapytaniem sprawdza zbiory KSIP i zbiory pozapolicyjne.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "cc454d4781",
+  "temat": "6. Sposoby dostępu do informacji w systemach",
+  "pytanie": "Jakie jest podstawowe zadanie biura SIRENE?",
+  "poprawna": "Przekazywanie informacji uzupełniających związanych z wpisami SIS",
+  "bledne": [
+   "Wydawanie wiz Schengen",
+   "Prowadzenie polskiego rejestru karnego",
+   "Rejestrowanie dowodów osobistych"
+  ],
+  "wyjasnienie": "SIRENE (Supplementary Information REquest at the National Entry) – wymiana informacji uzupełniających do wpisów SIS.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "e03daa1dd7",
+  "temat": "6. Sposoby dostępu do informacji w systemach",
+  "pytanie": "Organ centralny odpowiedzialny za część krajową SIS w państwie członkowskim to:",
+  "poprawna": "N.SIS",
+  "bledne": [
+   "Biuro SIRENE",
+   "I-24/7",
+   "EIS"
+  ],
+  "wyjasnienie": "N.SIS – krajowy system SIS (w Polsce w ramach KSI). SIRENE wymienia informacje uzupełniające, ale nie jest systemem.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "d7e0bdf0a0",
+  "temat": "6. Sposoby dostępu do informacji w systemach",
+  "pytanie": "Jakie noty INTERPOL-u są dostępne do wglądu podczas legitymowania przez funkcjonariusza Policji przy użyciu terminala mobilnego za pośrednictwem SPP?",
+  "poprawna": "Czerwona, żółta, niebieska",
+  "bledne": [
+   "Czerwona, zielona, żółta",
+   "Czerwona, zielona, czarna",
+   "Czerwona, niebieska, pomarańczowa"
+  ],
+  "wyjasnienie": "UWAGA – niepewne: w oryginale dwie odpowiedzi były identyczne (czerwona, zielona, żółta), więc żadna z nich nie mogła być jedyną poprawną. Jedną zmieniono na „czerwona, zielona, czarna”, żeby się nie dublowały. Przy legitymowaniu liczą się noty czerwona (zatrzymanie), żółta (zaginieni) i niebieska (ustalenie miejsca pobytu).",
+  "zrodlo": "test"
+ },
+ {
+  "id": "555d2c27f2",
+  "temat": "7. Sprawdzenia w systemach i wykorzystanie wyników",
+  "pytanie": "Art. 24 (rozporządzenia 2018/1861) – zgodnie z zaznaczeniem w materiale – dotyczy:",
+  "poprawna": "Cudzoziemców niepożądanych na obszarze Schengen",
+  "bledne": [
+   "Osób zaginionych",
+   "Osób poszukiwanych w celu ekstradycji",
+   "Przedmiotów poszukiwanych"
+  ],
+  "wyjasnienie": "Wpisy dotyczące odmowy wjazdu i pobytu to art. 24 rozporządzenia 2018/1861 (w materiale opisane przy 2018/1862).",
+  "zrodlo": "test"
+ },
+ {
+  "id": "8872332126",
+  "temat": "7. Sprawdzenia w systemach i wykorzystanie wyników",
+  "pytanie": "Art. 26 rozporządzenia (UE) 2018/1862 dotyczy wpisów o:",
+  "poprawna": "Osobach poszukiwanych w celu aresztowania dla przekazania lub ekstradycji",
+  "bledne": [
+   "Cudzoziemcach objętych odmową wjazdu",
+   "Przedmiotach poszukiwanych do zajęcia",
+   "Osobach zaginionych"
+  ],
+  "wyjasnienie": "Art. 26 – aresztowanie w celu przekazania (ENA) albo ekstradycji. Kod CZERWONY 88/99.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "a7799b0d5e",
+  "temat": "7. Sprawdzenia w systemach i wykorzystanie wyników",
+  "pytanie": "Art. 32 rozporządzenia (UE) 2018/1862 dotyczy wpisów o:",
+  "poprawna": "Osobach zaginionych oraz osobach wymagających ochrony przed podróżą",
+  "bledne": [
+   "Osobach objętych kontrolą niejawną",
+   "Osobach poszukiwanych do postępowania sądowego",
+   "Przedmiotach do zajęcia"
+  ],
+  "wyjasnienie": "Art. 32 – osoby zaginione i osoby narażone, którym należy uniemożliwić podróż.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "03c69d6ed0",
+  "temat": "7. Sprawdzenia w systemach i wykorzystanie wyników",
+  "pytanie": "Art. 34 rozporządzenia (UE) 2018/1862 dotyczy wpisów o:",
+  "poprawna": "Osobach poszukiwanych w celu wsparcia postępowania sądowego",
+  "bledne": [
+   "Osobach poszukiwanych do ekstradycji",
+   "Cudzoziemcach niepożądanych",
+   "Przedmiotach poszukiwanych"
+  ],
+  "wyjasnienie": "Art. 34 – osoby, których obecność jest wymagana w postępowaniu (świadkowie, wezwani, osoby do doręczeń). Zwykle chodzi o ustalenie miejsca pobytu.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "3900482399",
+  "temat": "7. Sprawdzenia w systemach i wykorzystanie wyników",
+  "pytanie": "Art. 36 rozporządzenia (UE) 2018/1862 dotyczy wpisów w celu:",
+  "poprawna": "Kontroli niejawnej, kontroli sprawdzającej lub kontroli szczególnej",
+  "bledne": [
+   "Wyłącznie zatrzymania osoby",
+   "Wydania wizy Schengen",
+   "Rejestracji wyroku skazującego"
+  ],
+  "wyjasnienie": "Art. 36 – kontrole niejawne, rozpytania kontrolne i kontrole szczególne (kod ŻÓŁTY 44, NIEBIESKI 144).",
+  "zrodlo": "test"
+ },
+ {
+  "id": "759b9310c1",
+  "temat": "7. Sprawdzenia w systemach i wykorzystanie wyników",
+  "pytanie": "Art. 35 rozporządzenia (UE) 2018/1862 – zgodnie z zaznaczeniem w materiale – dotyczy:",
+  "poprawna": "Wykonania działania wobec osób poszukiwanych do postępowania sądowego",
+  "bledne": [
+   "Kontroli niejawnej osób i przedmiotów",
+   "Osób poszukiwanych do aresztowania",
+   "Poszukiwanych przedmiotów"
+  ],
+  "wyjasnienie": "Art. 35 – działania podejmowane na podstawie wpisu z art. 34 (przekazanie informacji o miejscu pobytu).",
+  "zrodlo": "test"
+ },
+ {
+  "id": "91dcd82282",
+  "temat": "7. Sprawdzenia w systemach i wykorzystanie wyników",
+  "pytanie": "Który artykuł rozporządzenia (UE) 2018/1862 dotyczy przedmiotów poszukiwanych w celu zajęcia lub wykorzystania jako dowód?",
+  "poprawna": "Art. 38",
+  "bledne": [
+   "Art. 36",
+   "Art. 24",
+   "Art. 35"
+  ],
+  "wyjasnienie": "Art. 38 – przedmioty do zajęcia lub wykorzystania jako dowód w postępowaniu karnym.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "8b02c18319",
+  "temat": "7. Sprawdzenia w systemach i wykorzystanie wyników",
+  "pytanie": "Która sekwencja poprawnie łączy artykuły rozporządzenia 2018/1862 z kategoriami wpisów?",
+  "poprawna": "26 – aresztowanie; 32 – osoby zaginione; 34 – postępowanie sądowe; 36 – kontrole; 38 – przedmioty",
+  "bledne": [
+   "26 – wizy; 32 – przedmioty; 34 – aresztowanie; 36 – osoby zaginione; 38 – PESEL",
+   "26 – osoby zaginione; 32 – aresztowanie; 34 – przedmioty; 36 – wizy; 38 – kontrole",
+   "26 – kontrole; 32 – postępowanie sądowe; 34 – wizy; 36 – przedmioty; 38 – aresztowanie"
+  ],
+  "wyjasnienie": "Ściąga: 26 aresztowanie, 32 zaginieni, 34 sąd, 36 kontrole, 38 przedmioty, 40 nieznani poszukiwani.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "ae92152f8c",
+  "temat": "7. Sprawdzenia w systemach i wykorzystanie wyników",
+  "pytanie": "Co oznacza skrót ENA w kontekście art. 26 SIS?",
+  "poprawna": "Europejski Nakaz Aresztowania",
+  "bledne": [
+   "Europejska Nota Administracyjna",
+   "Elektroniczny Numer Alertu",
+   "Europejska Niejawna Akcja"
+  ],
+  "wyjasnienie": "ENA – Europejski Nakaz Aresztowania. Wpis z art. 26 często opiera się na ENA.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "351b68c0e0",
+  "temat": "7. Sprawdzenia w systemach i wykorzystanie wyników",
+  "pytanie": "Co oznacza skrót UMP użyty w materiale przy osobach poszukiwanych?",
+  "poprawna": "Ustalenie miejsca pobytu",
+  "bledne": [
+   "Urzędowe miejsce przesłuchania",
+   "Ustalenie majątku podejrzanego",
+   "Ukryte monitorowanie pojazdu"
+  ],
+  "wyjasnienie": "UMP – ustalenie miejsca pobytu. Osoby z takim celem poszukiwania się nie zatrzymuje.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "7cf9517f3c",
+  "temat": "7. Sprawdzenia w systemach i wykorzystanie wyników",
+  "pytanie": "Czym różni się kontrola niejawna od kontroli szczególnej w SIS?",
+  "poprawna": "Przy kontroli niejawnej osoba nie powinna dowiedzieć się o wpisie, a kontrola szczególna może obejmować przeszukanie zgodnie z prawem krajowym",
+  "bledne": [
+   "Kontrola szczególna zawsze oznacza aresztowanie",
+   "Nie różnią się – to dwie nazwy zatrzymania",
+   "Kontrola niejawna dotyczy tylko pojazdów, a szczególna tylko osób"
+  ],
+  "wyjasnienie": "Kontrola niejawna: zbiera się informacje bez ujawniania wpisu. Kontrola szczególna: przeszukanie osoby, pojazdu i bagażu zgodnie z prawem krajowym.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "e12eca27f2",
+  "temat": "7. Sprawdzenia w systemach i wykorzystanie wyników",
+  "pytanie": "Dlaczego po trafieniu na wpis SIS często potrzebna jest wymiana przez SIRENE?",
+  "poprawna": "Wpis wskazuje wymagane działanie, a informacje uzupełniające pozwalają je prawidłowo wykonać i skoordynować",
+  "bledne": [
+   "SIRENE zastępuje wszystkie krajowe bazy danych",
+   "SIRENE wydaje wyroki i nakazy aresztowania",
+   "SIRENE nadaje numery PESEL cudzoziemcom"
+  ],
+  "wyjasnienie": "Załącznik nr 41 przy wielu kodach: „Wystąpić do Biura SIRENE o przesłanie informacji uzupełniających”.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "23a3c1826e",
+  "temat": "7. Sprawdzenia w systemach i wykorzystanie wyników",
+  "pytanie": "O wpisie obejmującym kategorię „wpisy dotyczące nieznanych osób poszukiwanych” mówi:",
+  "poprawna": "Żaden z wymienionych artykułów",
+  "bledne": [
+   "Art. 3",
+   "Art. 7",
+   "Art. 38"
+  ],
+  "wyjasnienie": "Nieznane osoby poszukiwane (np. ślady daktyloskopijne sprawcy) to art. 40 rozporządzenia 2018/1862 – nie ma go wśród odpowiedzi.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "d614607983",
+  "temat": "7. Sprawdzenia w systemach i wykorzystanie wyników",
+  "pytanie": "Wniosek o ściganie osoby w ramach art. 26 rozporządzenia SIS wnosi lub wnoszą:",
+  "poprawna": "Prokurator lub sąd",
+  "bledne": [
+   "Prokurator",
+   "Sąd",
+   "Biuro SIRENE podległe KGP"
+  ],
+  "wyjasnienie": "Art. 3 ust. 1 pkt 1–2 ustawy o udziale RP w SIS i VIS: wpisy dotyczące osób poszukiwanych do tymczasowego aresztowania wprowadza sąd lub prokuratura.",
   "zrodlo": "test"
  },
  {
   "id": "ed26d6d6a1",
-  "temat": "SIS i wymiana międzynarodowa",
+  "temat": "7. Sprawdzenia w systemach i wykorzystanie wyników",
   "pytanie": "O wpisie dotyczącym osób poszukiwanych w celu ich aresztowania i wydania lub aresztowania i ekstradycji mówi:",
   "poprawna": "art. 26",
   "bledne": [
@@ -1067,7 +1002,7 @@
  },
  {
   "id": "df09236aa1",
-  "temat": "SIS i wymiana międzynarodowa",
+  "temat": "7. Sprawdzenia w systemach i wykorzystanie wyników",
   "pytanie": "O wpisie dotyczącym osób poszukiwanych jako zaginione mówi:",
   "poprawna": "art. 32",
   "bledne": [
@@ -1080,7 +1015,7 @@
  },
  {
   "id": "466f9fdbf8",
-  "temat": "SIS i wymiana międzynarodowa",
+  "temat": "7. Sprawdzenia w systemach i wykorzystanie wyników",
   "pytanie": "O wpisie dotyczącym osób poszukiwanych, których obecność jest wymagana do celów postępowania prowadzonego przez organy wymiaru sprawiedliwości, mówi:",
   "poprawna": "art. 34",
   "bledne": [
@@ -1093,7 +1028,7 @@
  },
  {
   "id": "66e97ace8c",
-  "temat": "SIS i wymiana międzynarodowa",
+  "temat": "7. Sprawdzenia w systemach i wykorzystanie wyników",
   "pytanie": "O wpisie dotyczącym osób i przedmiotów wprowadzanych w celu przeprowadzania kontroli niejawnych, rozpytania kontrolnego lub kontroli szczególnych mówi:",
   "poprawna": "art. 36",
   "bledne": [
@@ -1106,7 +1041,7 @@
  },
  {
   "id": "c441069be5",
-  "temat": "SIS i wymiana międzynarodowa",
+  "temat": "7. Sprawdzenia w systemach i wykorzystanie wyników",
   "pytanie": "O wpisie obejmującym kategorię „wpisy dotyczące odmowy wjazdu i pobytu” mówi:",
   "poprawna": "art. 24",
   "bledne": [
@@ -1118,16 +1053,81 @@
   "zrodlo": "test"
  },
  {
-  "id": "db8d1ad9be",
-  "temat": "SIS i wymiana międzynarodowa",
-  "pytanie": "EUCARIS pozwala na wymianę informacji o:",
-  "poprawna": "pojazdach oraz danych właścicieli pojazdów / kierowców",
+  "id": "cbb7b4bfc2",
+  "temat": "Spoza decyzji – Schengen, Interpol, Europol",
+  "pytanie": "Państwa stowarzyszone w ramach strefy Schengen, niebędące członkami Unii Europejskiej, to:",
+  "poprawna": "Islandia, Liechtenstein, Norwegia i Szwajcaria",
   "bledne": [
-   "pojazdach",
-   "pojazdach, danych właścicieli pojazdów / kierowców oraz OC",
-   "pojazdach, danych właścicieli pojazdów / kierowców, OC oraz terrorystach"
+   "Norwegia, Andora, San Marino i Szwajcaria",
+   "Watykan, Monako, Norwegia i Szwajcaria",
+   "Irlandia, Andora, Wyspy Owcze i Kosowo"
   ],
-  "wyjasnienie": "EUCARIS – Europejski System Informacji o Pojazdach i Prawach Jazdy: dane pojazdów oraz ich właścicieli/posiadaczy i kierowców (prawa jazdy). Nie obejmuje OC ani danych o terrorystach.",
+  "wyjasnienie": "Cztery państwa EFTA. Irlandia jest w UE, ale poza Schengen.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "b9c520f77a",
+  "temat": "Spoza decyzji – Schengen, Interpol, Europol",
+  "pytanie": "Strefa Schengen to obszar, na którym zniesiono kontrole na granicach wewnętrznych. Aktualnie obszar ten liczy:",
+  "poprawna": "29 państw",
+  "bledne": [
+   "24 państwa",
+   "25 państw",
+   "27 państw"
+  ],
+  "wyjasnienie": "25 państw UE (bez Irlandii i Cypru) oraz 4 państwa stowarzyszone. Od 2025 r. Bułgaria i Rumunia są pełnoprawnymi członkami.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "e38afbc20c",
+  "temat": "Spoza decyzji – Schengen, Interpol, Europol",
+  "pytanie": "Agencja Unii Europejskiej ds. Zarządzania Operacyjnego Wielkoskalowymi Systemami Informatycznymi w Przestrzeni Wolności, Bezpieczeństwa i Sprawiedliwości nazywana jest w skrócie:",
+  "poprawna": "eu-LISA",
+  "bledne": [
+   "Biuro SIRENE",
+   "N.SIS",
+   "EIS"
+  ],
+  "wyjasnienie": "eu-LISA zarządza m.in. centralnym SIS, VIS i Eurodac.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "94ba403235",
+  "temat": "Spoza decyzji – Schengen, Interpol, Europol",
+  "pytanie": "Aplikacja do bezpiecznej wymiany informacji w ramach Europolu to:",
+  "poprawna": "SIENA",
+  "bledne": [
+   "BRAVO",
+   "PUNTO",
+   "EURO-TASK"
+  ],
+  "wyjasnienie": "SIENA – Secure Information Exchange Network Application (Europol).",
+  "zrodlo": "test"
+ },
+ {
+  "id": "0e6459cd18",
+  "temat": "Spoza decyzji – Schengen, Interpol, Europol",
+  "pytanie": "Polska zawiesiła działalność w strukturach INTERPOL-u ze względów politycznych w okresie:",
+  "poprawna": "1952–1990",
+  "bledne": [
+   "1945–1989",
+   "1947–1988",
+   "1953–1989"
+  ],
+  "wyjasnienie": "Polska wystąpiła z Interpolu w 1952 r. i wróciła w 1990 r.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "ddb3b0dfbb",
+  "temat": "Spoza decyzji – Schengen, Interpol, Europol",
+  "pytanie": "Europejski Nakaz Aresztowania obejmuje osoby prawomocnie skazane albo ścigane za czyn zagrożony karą pozbawienia wolności, gdy próg wynosi:",
+  "poprawna": "orzeczona kara co najmniej 4 miesięcy albo czyn zagrożony karą o górnej granicy co najmniej 12 miesięcy",
+  "bledne": [
+   "orzeczona kara 6 miesięcy albo zagrożenie 1 rokiem",
+   "orzeczona kara 6 miesięcy albo zagrożenie 2 latami",
+   "orzeczona kara 12 miesięcy albo zagrożenie 3 latami"
+  ],
+  "wyjasnienie": "Art. 607b k.p.k.: ENA jest niedopuszczalny przy zagrożeniu do roku albo przy karze orzeczonej do 4 miesięcy.",
   "zrodlo": "test"
  }
 ]
