@@ -133,7 +133,9 @@ function nastepne() {
   wznowCzas();
   odswiezStatystyki();
   const status = s.s === "retry" ? `<span class="tag retry">powtórka</span>` : "";
-  const zrodlo = p.zrodlo === "test" ? `<span class="tag test">z testu</span>` : `<span class="tag pres">z prezentacji</span>`;
+  const ETYKIETY = { test: ["test", "z testu"], prezentacje: ["pres", "z prezentacji"], wlasne: ["wlasne", "opracowane z ustawy"] };
+  const [klasa, napis] = ETYKIETY[p.zrodlo] || ETYKIETY.prezentacje;
+  const zrodlo = `<span class="tag ${klasa}">${napis}</span>`;
   card.innerHTML = `
     <div class="meta"><span>${esc(p.temat)} ${zrodlo}</span>
       <span>${status}<span class="licznik" title="Ile razy to pytanie już się pojawiło">${s.ile}</span></span></div>

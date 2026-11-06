@@ -30,13 +30,13 @@ Postęp zapisuje się w Twojej przeglądarce, więc każdy uczy się osobno. Po 
 |---|---|---|
 | **JM04 JS01** | Strzelanie broń krótka (bezpieczeństwo, broń i amunicja, P99, Beretta APX, REX Zero 1, Glock, teoria strzału, podstawy celnego strzelania, zacięcia) | 120 |
 | **JM03 JS01** | Systemy informacyjne Policji (podstawy prawne, ochrona danych, systemy policyjne i pozapolicyjne, SIS) | 87 |
-| **JM01 JS03** | Prawo karne szczegółowe (wybrane przestępstwa i wykroczenia) | 69 |
-| **JM01 JS04** | Ustawy szczególne (Prawo telekomunikacyjne, broń, tytoń, narkomania, dowody osobiste, prawo autorskie, dostęp warunkowy) | 92 |
+| **JM01 JS03** | Prawo karne szczegółowe – artykuły z decyzji SZPC JS03 | 78 |
+| **JM01 JS04** | Ustawy szczególne (Prawo telekomunikacyjne, broń, tytoń, narkomania, dowody osobiste, prawo autorskie, dostęp warunkowy) | 79 |
 
 ## Skąd są pytania
 
 - Pytania oznaczone **„z testu”** pochodzą z prawdziwych testów i quizów.
-- Pozostałe są ułożone na podstawie prezentacji z zajęć.
+- Pozostałe są ułożone na podstawie prezentacji z zajęć albo – gdy w testach brakowało pytań o artykuł z decyzji – opracowane z tekstu ustawy (etykieta **„opracowane z ustawy”**).
 - Odpowiedzi sprawdzono w prezentacjach, przepisach (m.in. Zarządzenie nr 2 KGP z 15.01.2024 w sprawie wyszkolenia strzeleckiego) i materiałach szkół Policji.
 - Jeśli odpowiedzi nie dało się w pełni potwierdzić, wyjaśnienie zaczyna się od **„UWAGA – niepewne”**. Przy takich pytaniach warto dopytać prowadzącego.
 

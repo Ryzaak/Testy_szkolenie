@@ -234,19 +234,6 @@
   "zrodlo": "test"
  },
  {
-  "id": "2f5d57497d",
-  "temat": "b) Ustawa o broni i amunicji – art. 50 i 51",
-  "pytanie": "Istotnymi częściami broni są:",
-  "poprawna": "szkielet broni, baskila, lufa z komorą nabojową, zamek, komora zamkowa, bęben nabojowy",
-  "bledne": [
-   "szkielet broni, lufa z komorą nabojową, zamek, komora nabojowa",
-   "szkielet broni, lufa z komorą zamkową, zamek",
-   "szkielet broni, lufa, zamek, iglica"
-  ],
-  "wyjasnienie": "Art. 5 ust. 2 ustawy o broni i amunicji: szkielet broni, baskila, lufa z komorą nabojową, zamek, komora zamkowa oraz bęben nabojowy.",
-  "zrodlo": "test"
- },
- {
   "id": "bfac24e2bb",
   "temat": "b) Ustawa o broni i amunicji – art. 50 i 51",
   "pytanie": "W rozumieniu ustawy o broni i amunicji bronią palną nie jest broń:",
@@ -257,58 +244,6 @@
    "gazowa"
   ],
   "wyjasnienie": "Broń palna (art. 7) obejmuje m.in. broń bojową, myśliwską, sportową, gazową, alarmową i sygnałową. Broń pneumatyczna to osobna kategoria (art. 8).",
-  "zrodlo": "test"
- },
- {
-  "id": "fb4991aa9b",
-  "temat": "b) Ustawa o broni i amunicji – art. 50 i 51",
-  "pytanie": "Pozwolenia na broń nie wymaga się w przypadku posiadania broni palnej rozdzielnego ładowania wytworzonej przed rokiem:",
-  "poprawna": "1885",
-  "bledne": [
-   "1850",
-   "1870",
-   "1905"
-  ],
-  "wyjasnienie": "Art. 11 pkt 10 ustawy o broni i amunicji: broń palna rozdzielnego ładowania wytworzona przed rokiem 1885 oraz jej repliki.",
-  "zrodlo": "test"
- },
- {
-  "id": "56ff17727b",
-  "temat": "b) Ustawa o broni i amunicji – art. 50 i 51",
-  "pytanie": "Pozwolenie na broń wydaje się w szczególności w celach:",
-  "poprawna": "ochrony osobistej, ochrony osób i mienia, łowieckich, sportowych, rekonstrukcji historycznych, kolekcjonerskich, pamiątkowych, szkoleniowych",
-  "bledne": [
-   "ochrony osobistej, ochrony osób, łowieckich, sportowych, rekonstrukcji historycznych, kolekcjonerskich, pamiątkowych, szkoleniowych",
-   "ochrony osobistej, ochrony mienia, łowieckich, sportowych, kolekcjonerskich, szkoleniowych",
-   "ochrony osobistej, ochrony osób i mienia, łowieckich, kolekcjonerskich, pamiątkowych"
-  ],
-  "wyjasnienie": "Art. 10 ust. 2 ustawy o broni i amunicji – 8 celów, w tym „ochrony osób i mienia” jako jeden cel.",
-  "zrodlo": "test"
- },
- {
-  "id": "68a7b2fae9",
-  "temat": "b) Ustawa o broni i amunicji – art. 50 i 51",
-  "pytanie": "Pozwolenie na broń palną wydaje się osobom, które ukończyły:",
-  "poprawna": "21 lat",
-  "bledne": [
-   "18 lat",
-   "25 lat",
-   "20 lat"
-  ],
-  "wyjasnienie": "Art. 15 ust. 1 pkt 1: pozwolenia nie wydaje się osobom niemającym ukończonych 21 lat (z wyjątkami z ust. 2, np. pozwolenie sportowe lub łowieckie od 18 lat).",
-  "zrodlo": "test"
- },
- {
-  "id": "1198f7afcc",
-  "temat": "b) Ustawa o broni i amunicji – art. 50 i 51",
-  "pytanie": "Pozwolenie na broń palną i amunicję wydaje właściwy ze względu na miejsce stałego pobytu zainteresowanej osoby:",
-  "poprawna": "Komendant Wojewódzki Policji",
-  "bledne": [
-   "Komendant Powiatowy Policji",
-   "Komendant Komisariatu Policji",
-   "Dyrektor Biura Prewencji Komendy Wojewódzkiej Policji"
-  ],
-  "wyjasnienie": "Art. 9 ust. 1 ustawy o broni i amunicji (dla żołnierzy zawodowych – komendant oddziału Żandarmerii Wojskowej).",
   "zrodlo": "test"
  },
  {
@@ -728,58 +663,6 @@
   "zrodlo": "test"
  },
  {
-  "id": "a50b30e4ef",
-  "temat": "d) Ustawa o przeciwdziałaniu narkomanii – art. 62 i 63",
-  "pytanie": "Nadzór nad uprawami maku lub konopi włóknistych sprawuje:",
-  "poprawna": "właściwy miejscowo wójt (burmistrz, prezydent miasta)",
-  "bledne": [
-   "właściwy Komendant Wojewódzki Policji",
-   "Minister Zdrowia i Opieki Społecznej",
-   "Minister Spraw Wewnętrznych"
-  ],
-  "wyjasnienie": "UWAGA – dawny stan prawny: test opiera się na przepisach sprzed 2022 r., kiedy nadzór należał do wójta. Obecnie uprawy wpisuje się do rejestrów KOWR, a kontrolę prowadzi dyrektor oddziału Krajowego Ośrodka Wsparcia Rolnictwa (art. 47b–47f ustawy).",
-  "zrodlo": "test"
- },
- {
-  "id": "801e2a87a1",
-  "temat": "d) Ustawa o przeciwdziałaniu narkomanii – art. 62 i 63",
-  "pytanie": "Zezwolenie na uprawę maku lub konopi włóknistych wydaje:",
-  "poprawna": "wójt, burmistrz lub prezydent miasta właściwy ze względu na miejsce położenia uprawy",
-  "bledne": [
-   "wójt, burmistrz lub prezydent miasta najbliższy miejscu zamieszkania wnioskodawcy",
-   "Komendant Główny Policji po zasięgnięciu opinii komendanta wojewódzkiego Policji",
-   "Komendant Wojewódzki Policji po analizie stanu bezpieczeństwa"
-  ],
-  "wyjasnienie": "UWAGA – dawny stan prawny: według przepisów sprzed 2022 r. Obecnie zamiast zezwolenia wójta jest wpis do rejestru maku lub konopi włóknistych prowadzonego przez KOWR.",
-  "zrodlo": "test"
- },
- {
-  "id": "dc79e9f320",
-  "temat": "d) Ustawa o przeciwdziałaniu narkomanii – art. 62 i 63",
-  "pytanie": "Przeciwdziałanie narkomanii należy do zadań własnych:",
-  "poprawna": "gminy",
-  "bledne": [
-   "starostwa",
-   "rady powiatu",
-   "sejmiku województwa"
-  ],
-  "wyjasnienie": "Art. 10 ust. 1 ustawy o przeciwdziałaniu narkomanii.",
-  "zrodlo": "test"
- },
- {
-  "id": "e5a076e815",
-  "temat": "d) Ustawa o przeciwdziałaniu narkomanii – art. 62 i 63",
-  "pytanie": "Narkomania to:",
-  "poprawna": "stałe lub okresowe używanie w celach innych niż medyczne środków odurzających, substancji psychotropowych albo środków zastępczych",
-  "bledne": [
-   "wyłącznie okresowe używanie w celach innych niż medyczne środków odurzających",
-   "stałe używanie substancji zabronionych niezależnie od celu",
-   "kilkukrotne zażycie środków psychotropowych"
-  ],
-  "wyjasnienie": "Art. 4 pkt 11 (także nowe substancje psychoaktywne), w wyniku czego może powstać lub powstało uzależnienie.",
-  "zrodlo": "test"
- },
- {
   "id": "58a7845a3a",
   "temat": "d) Ustawa o przeciwdziałaniu narkomanii – art. 62 i 63",
   "pytanie": "Jan K. posiadał przy sobie znaczną ilość środków odurzających. Poniesie odpowiedzialność z art. 62 ustawy o przeciwdziałaniu narkomanii w typie:",
@@ -855,58 +738,6 @@
    "jest przestępstwem"
   ],
   "wyjasnienie": "Art. 79 pkt 1 – ograniczenie wolności albo grzywna, tryb k.p.s.w. (art. 80), czyli wykroczenie. Posiadanie innego dokumentu (np. paszportu) nie zwalnia z obowiązku.",
-  "zrodlo": "test"
- },
- {
-  "id": "e11f0cfa28",
-  "temat": "e) Ustawa o dowodach osobistych – art. 79",
-  "pytanie": "Zgodnie z ustawą dowód osobisty wydaje się osobom:",
-  "poprawna": "do 12 lat na 5 lat, osobom powyżej 12 lat na 10 lat",
-  "bledne": [
-   "do lat 18 na 5 lat, osobom powyżej 18 lat bezterminowo",
-   "do lat 10 na 5 lat, osobom powyżej 10 lat na 10 lat",
-   "do 5 lat na 5 lat, osobom powyżej 5 lat na 10 lat"
-  ],
-  "wyjasnienie": "Art. 7 ust. 1–2 ustawy o dowodach osobistych.",
-  "zrodlo": "test"
- },
- {
-  "id": "d154ce9594",
-  "temat": "e) Ustawa o dowodach osobistych – art. 79",
-  "pytanie": "Wydanie dowodu osobistego osobie, która ukończyła 12. rok życia, od której chwilowo fizycznie nie jest możliwe pobranie odcisków któregokolwiek z palców, jest:",
-  "poprawna": "możliwe w przypadku ważności na okres 12 miesięcy od daty jego wydania",
-  "bledne": [
-   "niedozwolone",
-   "możliwe w przypadku ważności na okres 3 lat od daty jego wydania",
-   "możliwe w przypadku ważności na okres 5 lat od daty jego wydania"
-  ],
-  "wyjasnienie": "Art. 7 ust. 3 ustawy o dowodach osobistych: dowód ważny 12 miesięcy.",
-  "zrodlo": "test"
- },
- {
-  "id": "ea571fd5e9",
-  "temat": "e) Ustawa o dowodach osobistych – art. 79",
-  "pytanie": "Uprawnionym organem do wydawania dowodu osobistego jest:",
-  "poprawna": "wójt, burmistrz lub prezydent miasta",
-  "bledne": [
-   "wójt, burmistrz i prezydent miasta łącznie",
-   "burmistrz, prezydent miasta i marszałek województwa",
-   "tylko prezydent miasta"
-  ],
-  "wyjasnienie": "Organ gminy – wójt, burmistrz lub prezydent miasta (art. 2 ust. 2 i art. 24 ustawy).",
-  "zrodlo": "test"
- },
- {
-  "id": "e27f90fc10",
-  "temat": "e) Ustawa o dowodach osobistych – art. 79",
-  "pytanie": "Kradzież cudzego dowodu osobistego jest:",
-  "poprawna": "przestępstwem z art. 275 § 1 k.k.",
-  "bledne": [
-   "wykroczeniem",
-   "wykroczeniem z ustawy o dowodach osobistych",
-   "naruszeniem przepisów administracyjnych"
-  ],
-  "wyjasnienie": "Art. 275 § 1 k.k.: kradzież lub przywłaszczenie dokumentu stwierdzającego tożsamość – przestępstwo bez względu na wartość. Art. 79 ustawy o dowodach dotyczy tylko bezprawnego zatrzymania cudzego dowodu.",
   "zrodlo": "test"
  },
  {

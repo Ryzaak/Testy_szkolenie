@@ -1,5 +1,83 @@
 [
  {
+  "id": "5a3395f5e4",
+  "temat": "1. Systematyka części szczególnej k.k.",
+  "pytanie": "Tytuły rozdziałów części szczególnej kodeksu karnego i kodeksu wykroczeń wskazują:",
+  "poprawna": "rodzajowy przedmiot ochrony",
+  "bledne": [
+   "indywidualny przedmiot czynności wykonawczej",
+   "stronę podmiotową czynów",
+   "wysokość grożącej kary"
+  ],
+  "wyjasnienie": "Rozdziały grupują czyny według dobra prawnego, które chronią (rodzajowy przedmiot ochrony), np. „Przestępstwa przeciwko mieniu”.",
+  "zrodlo": "wlasne"
+ },
+ {
+  "id": "c798d62fb3",
+  "temat": "1. Systematyka części szczególnej k.k.",
+  "pytanie": "Przestępstwa przeciwko ochronie informacji (art. 267–269b k.k.) znajdują się w rozdziale:",
+  "poprawna": "XXXIII k.k.",
+  "bledne": [
+   "XXIX k.k.",
+   "XXXIV k.k.",
+   "XXXV k.k."
+  ],
+  "wyjasnienie": "XXIX – instytucje państwowe, XXX – wymiar sprawiedliwości, XXXIII – ochrona informacji, XXXIV – wiarygodność dokumentów, XXXV – mienie.",
+  "zrodlo": "wlasne"
+ },
+ {
+  "id": "22d6c45787",
+  "temat": "1. Systematyka części szczególnej k.k.",
+  "pytanie": "Rodzajowym przedmiotem ochrony przestępstw z rozdziału XXIX k.k. (m.in. art. 222–231a) jest:",
+  "poprawna": "działalność instytucji państwowych oraz samorządu terytorialnego",
+  "bledne": [
+   "wymiar sprawiedliwości",
+   "wiarygodność dokumentów",
+   "porządek publiczny"
+  ],
+  "wyjasnienie": "Rozdział XXIX k.k.: „Przestępstwa przeciwko działalności instytucji państwowych oraz samorządu terytorialnego”.",
+  "zrodlo": "wlasne"
+ },
+ {
+  "id": "0359b1a81b",
+  "temat": "1. Systematyka części szczególnej k.k.",
+  "pytanie": "Wyłudzenie kredytu (art. 297 k.k.) i pranie pieniędzy (art. 299 k.k.) należą do rozdziału k.k. o przestępstwach przeciwko:",
+  "poprawna": "obrotowi gospodarczemu i interesom majątkowym w obrocie cywilnoprawnym",
+  "bledne": [
+   "mieniu",
+   "porządkowi publicznemu",
+   "obrotowi pieniędzmi i papierami wartościowymi"
+  ],
+  "wyjasnienie": "Rozdział XXXVI k.k. Oszustwo (art. 286, 287) jest w rozdziale XXXV (mienie), a fałszowanie pieniędzy w XXXVII.",
+  "zrodlo": "wlasne"
+ },
+ {
+  "id": "a306ca411f",
+  "temat": "1. Systematyka części szczególnej k.k.",
+  "pytanie": "Udział w zorganizowanej grupie przestępczej (art. 258 k.k.) jest przestępstwem przeciwko:",
+  "poprawna": "porządkowi publicznemu",
+  "bledne": [
+   "mieniu",
+   "działalności instytucji państwowych",
+   "wymiarowi sprawiedliwości"
+  ],
+  "wyjasnienie": "Art. 258 znajduje się w rozdziale XXXII k.k. – „Przestępstwa przeciwko porządkowi publicznemu”.",
+  "zrodlo": "wlasne"
+ },
+ {
+  "id": "f13c68474a",
+  "temat": "1. Systematyka części szczególnej k.k.",
+  "pytanie": "Handel ludźmi (art. 189a), groźba karalna (art. 190) i stalking (art. 190a) to przestępstwa z rozdziału k.k.:",
+  "poprawna": "XXIII – przeciwko wolności",
+  "bledne": [
+   "XXV – przeciwko wolności seksualnej i obyczajności",
+   "XIX – przeciwko życiu i zdrowiu",
+   "XXVII – przeciwko czci i nietykalności cielesnej"
+  ],
+  "wyjasnienie": "Rozdział XXIII – wolność (189a–191a). Rozdział XXV – wolność seksualna i obyczajność (m.in. 200, 200a, 200b, 202).",
+  "zrodlo": "wlasne"
+ },
+ {
   "id": "9f9a1bdd1c",
   "temat": "2. Przestępstwa przeciwko wolności oraz wolności seksualnej i obyczajności",
   "pytanie": "Przy przestępstwie handlu ludźmi (art. 189a k.k.) ustawodawca przewiduje odpowiedzialność karną:",
@@ -23,19 +101,6 @@
    "poniżej 18 lat w każdym przypadku"
   ],
   "wyjasnienie": "Art. 200 § 1 k.k.: obcowanie płciowe z małoletnim poniżej lat 15 – od 2 do 15 lat pozbawienia wolności.",
-  "zrodlo": "test"
- },
- {
-  "id": "89c9827510",
-  "temat": "2. Przestępstwa przeciwko wolności oraz wolności seksualnej i obyczajności",
-  "pytanie": "Michał B., chcąc skłonić poznaną w klubie Jolantę A. do obcowania płciowego, obiecał jej w przyszłości małżeństwo. Kobieta zgodziła się, a mężczyzna po wspólnej nocy zniknął. Michał B.:",
-  "poprawna": "nie popełnia przestępstwa",
-  "bledne": [
-   "popełnia przestępstwo oszustwa",
-   "popełnia przestępstwo zgwałcenia przez podstęp",
-   "popełnia przestępstwo zmuszania do określonego zachowania"
-  ],
-  "wyjasnienie": "UWAGA – niepewne: podstęp z art. 197 k.k. musi dotyczyć samej czynności seksualnej (np. podszycie się pod inną osobę). Fałszywa obietnica małżeństwa dotyczy tylko motywacji przy dobrowolnej zgodzie. Oszustwo (art. 286) wymaga niekorzystnego rozporządzenia mieniem.",
   "zrodlo": "test"
  },
  {
@@ -63,6 +128,123 @@
   ],
   "wyjasnienie": "Art. 200b k.k.: „Kto publicznie propaguje lub pochwala zachowania o charakterze pedofilskim” – do lat 3.",
   "zrodlo": "test"
+ },
+ {
+  "id": "45076f29d6",
+  "temat": "2. Przestępstwa przeciwko wolności oraz wolności seksualnej i obyczajności",
+  "pytanie": "Stalking (art. 190a § 1 k.k.) polega na:",
+  "poprawna": "uporczywym nękaniu innej osoby lub osoby jej najbliższej, które wzbudza uzasadnione poczucie zagrożenia, poniżenia lub udręczenia lub istotnie narusza jej prywatność",
+  "bledne": [
+   "jednorazowym grożeniu popełnieniem przestępstwa, które wzbudza uzasadnioną obawę jego spełnienia",
+   "zmuszaniu innej osoby przemocą do określonego działania, zaniechania lub znoszenia",
+   "rozpowszechnianiu bez zgody wizerunku nagiej osoby"
+  ],
+  "wyjasnienie": "Art. 190a § 1 – od 6 miesięcy do lat 8. Kluczowe jest UPORCZYWE nękanie. Jednorazowa groźba to art. 190, a zmuszanie to art. 191.",
+  "zrodlo": "wlasne"
+ },
+ {
+  "id": "9d9cc4da50",
+  "temat": "2. Przestępstwa przeciwko wolności oraz wolności seksualnej i obyczajności",
+  "pytanie": "Kto, podszywając się pod inną osobę, wykorzystuje jej wizerunek lub inne dane osobowe i przez to wyrządza jej szkodę majątkową lub osobistą, odpowiada z:",
+  "poprawna": "art. 190a § 2 k.k. (kradzież tożsamości)",
+  "bledne": [
+   "art. 190 § 1 k.k.",
+   "art. 191a § 1 k.k.",
+   "art. 267 § 1 k.k."
+  ],
+  "wyjasnienie": "Art. 190a § 2 – tej samej karze co stalking (od 6 miesięcy do lat 8).",
+  "zrodlo": "wlasne"
+ },
+ {
+  "id": "b462e47378",
+  "temat": "2. Przestępstwa przeciwko wolności oraz wolności seksualnej i obyczajności",
+  "pytanie": "Ściganie stalkingu (art. 190a § 1 lub 2 k.k.) następuje:",
+  "poprawna": "na wniosek pokrzywdzonego",
+  "bledne": [
+   "z urzędu",
+   "z oskarżenia prywatnego",
+   "na żądanie pokrzywdzonego"
+  ],
+  "wyjasnienie": "Art. 190a § 4. Jeżeli następstwem jest targnięcie się pokrzywdzonego na życie (§ 3), grozi od 2 do 15 lat.",
+  "zrodlo": "wlasne"
+ },
+ {
+  "id": "0d3aa1a843",
+  "temat": "2. Przestępstwa przeciwko wolności oraz wolności seksualnej i obyczajności",
+  "pytanie": "Zmuszanie do określonego zachowania (art. 191 § 1 k.k.) polega na:",
+  "poprawna": "zmuszaniu innej osoby, przy użyciu przemocy wobec osoby lub groźby bezprawnej, do określonego działania, zaniechania lub znoszenia",
+  "bledne": [
+   "grożeniu innej osobie popełnieniem przestępstwa na jej szkodę",
+   "uporczywym nękaniu innej osoby",
+   "przyjęciu korzyści majątkowej w zamian za określone zachowanie"
+  ],
+  "wyjasnienie": "Art. 191 § 1 – do lat 3, ściganie na wniosek (§ 3). Działanie w celu wymuszenia zwrotu wierzytelności – od 3 miesięcy do lat 5 (§ 2).",
+  "zrodlo": "wlasne"
+ },
+ {
+  "id": "e6f8f51153",
+  "temat": "2. Przestępstwa przeciwko wolności oraz wolności seksualnej i obyczajności",
+  "pytanie": "Bezprawne utrwalanie lub rozpowszechnianie wizerunku (art. 191a § 1 k.k.) obejmuje:",
+  "poprawna": "utrwalanie wizerunku nagiej osoby lub osoby w trakcie czynności seksualnej przy użyciu przemocy, groźby lub podstępu albo rozpowszechnianie takiego wizerunku bez jej zgody",
+  "bledne": [
+   "każde fotografowanie innej osoby w miejscu publicznym bez jej zgody",
+   "publiczne prezentowanie treści pornograficznych osobie, która tego sobie nie życzy",
+   "wykorzystanie cudzego wizerunku do podszywania się pod tę osobę"
+  ],
+  "wyjasnienie": "Art. 191a § 1 – od 3 miesięcy do lat 5, ściganie na wniosek (§ 2). Podszywanie się to art. 190a § 2, a narzucanie pornografii – art. 202 § 1.",
+  "zrodlo": "wlasne"
+ },
+ {
+  "id": "96940f5b77",
+  "temat": "2. Przestępstwa przeciwko wolności oraz wolności seksualnej i obyczajności",
+  "pytanie": "Kontakt z małoletnim w celach pedofilskich (art. 200a § 1 k.k.) dotyczy osoby małoletniej:",
+  "poprawna": "poniżej lat 15, z którą sprawca nawiązuje kontakt za pośrednictwem systemu teleinformatycznego lub sieci telekomunikacyjnej, zmierzając do spotkania",
+  "bledne": [
+   "poniżej lat 18, z którą sprawca spotyka się osobiście",
+   "poniżej lat 13, z którą sprawca utrzymuje kontakt listowny",
+   "poniżej lat 16, niezależnie od sposobu nawiązania kontaktu"
+  ],
+  "wyjasnienie": "Art. 200a § 1 (tzw. grooming) – do lat 3. Sprawca działa w celu popełnienia m.in. czynu z art. 200 lub produkowania treści pornograficznych, wprowadzając w błąd, wyzyskując błąd lub grożąc.",
+  "zrodlo": "wlasne"
+ },
+ {
+  "id": "6a0eb53e2a",
+  "temat": "2. Przestępstwa przeciwko wolności oraz wolności seksualnej i obyczajności",
+  "pytanie": "Art. 200a § 2 k.k. penalizuje sprawcę, który za pośrednictwem systemu teleinformatycznego małoletniemu poniżej lat 15:",
+  "poprawna": "składa propozycję obcowania płciowego lub innej czynności seksualnej albo udziału w produkowaniu treści pornograficznych i zmierza do jej realizacji",
+  "bledne": [
+   "wysyła jakąkolwiek wiadomość bez zgody rodziców",
+   "publikuje jego zdjęcie w mediach społecznościowych",
+   "proponuje spotkanie w celach towarzyskich"
+  ],
+  "wyjasnienie": "Art. 200a § 2 – grzywna, ograniczenie wolności albo pozbawienie wolności do lat 2.",
+  "zrodlo": "wlasne"
+ },
+ {
+  "id": "7be32c78f9",
+  "temat": "2. Przestępstwa przeciwko wolności oraz wolności seksualnej i obyczajności",
+  "pytanie": "Art. 202 § 1 k.k. penalizuje publiczne prezentowanie treści pornograficznych:",
+  "poprawna": "w taki sposób, że może to narzucić ich odbiór osobie, która tego sobie nie życzy",
+  "bledne": [
+   "w każdym przypadku, nawet osobom pełnoletnim, które wyraziły zgodę",
+   "wyłącznie w telewizji przed godz. 23:00",
+   "tylko gdy sprawca działa w celu osiągnięcia korzyści majątkowej"
+  ],
+  "wyjasnienie": "Art. 202 § 1 – do lat 3. Treści z udziałem małoletniego to cięższe typy (§ 3–4b).",
+  "zrodlo": "wlasne"
+ },
+ {
+  "id": "ab39f89cc6",
+  "temat": "2. Przestępstwa przeciwko wolności oraz wolności seksualnej i obyczajności",
+  "pytanie": "Przechowywanie, posiadanie lub uzyskiwanie dostępu do treści pornograficznych z udziałem małoletniego (art. 202 § 4a k.k.) jest zagrożone karą:",
+  "poprawna": "pozbawienia wolności od 3 miesięcy do lat 5",
+  "bledne": [
+   "grzywny albo ograniczenia wolności",
+   "pozbawienia wolności do roku",
+   "pozbawienia wolności od lat 2 do 15"
+  ],
+  "wyjasnienie": "Art. 202 § 4a. Utrwalanie takich treści – od roku do lat 10 (§ 4), a produkowanie w celu rozpowszechniania – od 2 do 15 lat (§ 3).",
+  "zrodlo": "wlasne"
  },
  {
   "id": "9719c1a3a5",
@@ -102,6 +284,45 @@
   ],
   "wyjasnienie": "Oszustwo nie jest czynem przepołowionym (nie ma go w art. 119 k.w.) – zawsze przestępstwo z art. 286 k.k.",
   "zrodlo": "test"
+ },
+ {
+  "id": "6a82d42a9a",
+  "temat": "3. Przestępstwa przeciwko mieniu (oszustwo)",
+  "pytanie": "Oszustwo komputerowe (art. 287 § 1 k.k.) popełnia ten, kto w celu osiągnięcia korzyści majątkowej lub wyrządzenia szkody, bez upoważnienia:",
+  "poprawna": "wpływa na automatyczne przetwarzanie, gromadzenie lub przekazywanie danych informatycznych albo zmienia, usuwa lub wprowadza nowy zapis danych",
+  "bledne": [
+   "wprowadza inną osobę w błąd i doprowadza ją do niekorzystnego rozporządzenia mieniem",
+   "uzyskuje dostęp do informacji, przełamując jej zabezpieczenie",
+   "niszczy dane informatyczne o szczególnym znaczeniu dla obronności kraju"
+  ],
+  "wyjasnienie": "Art. 287 § 1 – od 3 miesięcy do lat 5. W odróżnieniu od art. 286 nie trzeba wprowadzać w błąd człowieka – sprawca „oszukuje” system. Dostęp z przełamaniem zabezpieczeń to art. 267, a dane o szczególnym znaczeniu – art. 269.",
+  "zrodlo": "wlasne"
+ },
+ {
+  "id": "62bdfa6250",
+  "temat": "3. Przestępstwa przeciwko mieniu (oszustwo)",
+  "pytanie": "Najważniejsza różnica między oszustwem (art. 286 k.k.) a oszustwem komputerowym (art. 287 k.k.) polega na tym, że:",
+  "poprawna": "przy art. 287 sprawca nie wprowadza w błąd człowieka, tylko bez upoważnienia ingeruje w dane lub ich przetwarzanie",
+  "bledne": [
+   "art. 287 jest wykroczeniem, a art. 286 przestępstwem",
+   "art. 287 dotyczy wyłącznie szkody powyżej 800 zł",
+   "przy art. 287 nie jest wymagany żaden cel działania sprawcy"
+  ],
+  "wyjasnienie": "Oba są przestępstwami kierunkowymi (cel korzyści, a przy art. 287 także cel wyrządzenia szkody). Art. 286 wymaga doprowadzenia człowieka do niekorzystnego rozporządzenia mieniem przez wprowadzenie w błąd.",
+  "zrodlo": "wlasne"
+ },
+ {
+  "id": "f811d08796",
+  "temat": "3. Przestępstwa przeciwko mieniu (oszustwo)",
+  "pytanie": "Jeżeli oszustwo komputerowe (art. 287 k.k.) popełniono na szkodę osoby najbliższej, ściganie następuje:",
+  "poprawna": "na wniosek pokrzywdzonego",
+  "bledne": [
+   "z urzędu",
+   "z oskarżenia prywatnego",
+   "na żądanie pokrzywdzonego"
+  ],
+  "wyjasnienie": "Art. 287 § 3. Wypadek mniejszej wagi – grzywna, ograniczenie wolności albo pozbawienie wolności do roku (§ 2).",
+  "zrodlo": "wlasne"
  },
  {
   "id": "661278dc6c",
@@ -221,6 +442,45 @@
   "zrodlo": "test"
  },
  {
+  "id": "c4f13e0f3f",
+  "temat": "4. Przestępstwa przeciwko instytucjom państwowym i samorządowi",
+  "pytanie": "Wywieranie wpływu na czynności urzędowe (art. 224 § 1 k.k.) polega na:",
+  "poprawna": "wywieraniu wpływu na czynności urzędowe organu administracji rządowej, innego organu państwowego lub samorządu terytorialnego przemocą lub groźbą bezprawną",
+  "bledne": [
+   "znieważaniu funkcjonariusza publicznego podczas czynności służbowych",
+   "udzielaniu korzyści majątkowej osobie pełniącej funkcję publiczną",
+   "podawaniu się za funkcjonariusza publicznego"
+  ],
+  "wyjasnienie": "Art. 224 § 1 – do lat 3. Stosowanie przemocy lub groźby w celu zmuszenia funkcjonariusza do czynności lub jej zaniechania to § 2.",
+  "zrodlo": "wlasne"
+ },
+ {
+  "id": "df2f15c857",
+  "temat": "4. Przestępstwa przeciwko instytucjom państwowym i samorządowi",
+  "pytanie": "Wywołanie niepotrzebnej czynności (art. 224a k.k.) popełnia ten, kto, wiedząc, że zagrożenie nie istnieje:",
+  "poprawna": "zawiadamia o zdarzeniu zagrażającym życiu lub zdrowiu wielu osób lub mieniu w znacznych rozmiarach i przez to wywołuje czynność służb mającą uchylić zagrożenie",
+  "bledne": [
+   "blokuje numer alarmowy, utrudniając pracę centrum powiadamiania ratunkowego",
+   "zawiadamia o przestępstwie, którego nie popełniono",
+   "fałszywą informacją wprowadza w błąd dowolną instytucję użyteczności publicznej"
+  ],
+  "wyjasnienie": "Art. 224a § 1 – od 6 miesięcy do lat 8 (np. fałszywy alarm bombowy), a przy więcej niż jednym zdarzeniu od 2 do 15 lat. Sąd obowiązkowo orzeka co najmniej 10 000 zł nawiązki i 10 000 zł świadczenia (art. 224b). Mniej poważne wprowadzenie służb w błąd to wykroczenie z art. 66 k.w.",
+  "zrodlo": "wlasne"
+ },
+ {
+  "id": "e8a39924bc",
+  "temat": "4. Przestępstwa przeciwko instytucjom państwowym i samorządowi",
+  "pytanie": "Przywłaszczenie funkcji publicznej (art. 227 k.k.) popełnia ten, kto:",
+  "poprawna": "podając się za funkcjonariusza publicznego albo wyzyskując błędne przeświadczenie o tym innej osoby, wykonuje czynność związaną z jego funkcją",
+  "bledne": [
+   "nosi bez uprawnienia mundur lub odznakę Policji",
+   "przekracza swoje uprawnienia jako funkcjonariusz publiczny",
+   "przyjmuje korzyść majątkową w związku z pełnioną funkcją"
+  ],
+  "wyjasnienie": "Art. 227 – grzywna, ograniczenie wolności albo pozbawienie wolności do roku. Konieczne jest WYKONANIE czynności (np. „kontrola” czy „mandat”). Samo przekroczenie uprawnień przez prawdziwego funkcjonariusza to art. 231.",
+  "zrodlo": "wlasne"
+ },
+ {
   "id": "397eb55d92",
   "temat": "5. Przestępstwa przeciwko wymiarowi sprawiedliwości",
   "pytanie": "Składanie fałszywych zeznań (art. 233 § 1 k.k.) polega na:",
@@ -232,6 +492,45 @@
   ],
   "wyjasnienie": "Art. 233 § 1 k.k.: kto, składając zeznanie mające służyć za dowód, zeznaje nieprawdę lub zataja prawdę.",
   "zrodlo": "test"
+ },
+ {
+  "id": "8a907d5bf0",
+  "temat": "5. Przestępstwa przeciwko wymiarowi sprawiedliwości",
+  "pytanie": "Fałszywe oskarżenie (art. 234 k.k.) polega na:",
+  "poprawna": "fałszywym oskarżeniu innej osoby przed organem powołanym do ścigania lub orzekania o popełnienie przestępstwa, przestępstwa skarbowego, wykroczenia lub przewinienia dyscyplinarnego",
+  "bledne": [
+   "zawiadomieniu o przestępstwie, którego w ogóle nie popełniono, bez wskazywania sprawcy",
+   "zeznaniu nieprawdy przez świadka",
+   "zatajeniu dowodów niewinności osoby podejrzanej"
+  ],
+  "wyjasnienie": "Art. 234 – od 3 miesięcy do lat 5. Fałszywie oskarża się KONKRETNĄ osobę. Zawiadomienie o czynie, którego nie było, to art. 238, a fałszywe zeznania – art. 233.",
+  "zrodlo": "wlasne"
+ },
+ {
+  "id": "4ab315552e",
+  "temat": "5. Przestępstwa przeciwko wymiarowi sprawiedliwości",
+  "pytanie": "Zawiadomienie o niepopełnionym przestępstwie (art. 238 k.k.) popełnia ten, kto:",
+  "poprawna": "zawiadamia organ powołany do ścigania o przestępstwie lub przestępstwie skarbowym, wiedząc, że go nie popełniono",
+  "bledne": [
+   "fałszywie oskarża konkretną osobę o popełnienie wykroczenia",
+   "nie zawiadamia o przestępstwie, o którym wie",
+   "zawiadamia o wykroczeniu, którego nie popełniono"
+  ],
+  "wyjasnienie": "Art. 238 – grzywna, ograniczenie wolności albo pozbawienie wolności do lat 2. Dotyczy tylko przestępstw i przestępstw skarbowych (nie wykroczeń) i nie wymaga wskazania sprawcy.",
+  "zrodlo": "wlasne"
+ },
+ {
+  "id": "163ad46133",
+  "temat": "5. Przestępstwa przeciwko wymiarowi sprawiedliwości",
+  "pytanie": "Czym różni się fałszywe oskarżenie (art. 234 k.k.) od zawiadomienia o niepopełnionym przestępstwie (art. 238 k.k.)?",
+  "poprawna": "przy art. 234 sprawca wskazuje konkretną osobę jako sprawcę, a przy art. 238 zawiadamia o czynie, którego nie było",
+  "bledne": [
+   "art. 234 jest wykroczeniem, a art. 238 przestępstwem",
+   "art. 238 wymaga złożenia fałszywych zeznań przed sądem",
+   "nie różnią się – to dwie nazwy tego samego przestępstwa"
+  ],
+  "wyjasnienie": "Art. 234 chroni osobę fałszywie oskarżaną (kara od 3 miesięcy do 5 lat), a art. 238 chroni organy ścigania przed niepotrzebnym działaniem (do 2 lat).",
+  "zrodlo": "wlasne"
  },
  {
   "id": "1276c04772",
@@ -258,6 +557,97 @@
   ],
   "wyjasnienie": "Art. 269 § 1: od 6 miesięcy do lat 8. Zbrodnia wymaga dolnej granicy co najmniej 3 lat, więc to występek.",
   "zrodlo": "test"
+ },
+ {
+  "id": "acf77c7233",
+  "temat": "6. Przestępstwa przeciwko ochronie informacji",
+  "pytanie": "Bezprawne uzyskanie informacji (art. 267 § 1 k.k.) popełnia ten, kto bez uprawnienia uzyskuje dostęp do informacji dla niego nieprzeznaczonej:",
+  "poprawna": "otwierając zamknięte pismo, podłączając się do sieci telekomunikacyjnej lub przełamując albo omijając jej zabezpieczenie",
+  "bledne": [
+   "w jakikolwiek sposób, także czytając informację pozostawioną na widoku",
+   "wyłącznie wtedy, gdy następnie ją sprzeda",
+   "tylko gdy informacja stanowi tajemnicę państwową"
+  ],
+  "wyjasnienie": "Art. 267 § 1 – grzywna, ograniczenie wolności albo pozbawienie wolności do lat 2, ściganie na wniosek (§ 5). Sam nieuprawniony dostęp do systemu informatycznego (bez przełamania zabezpieczeń) to § 2.",
+  "zrodlo": "wlasne"
+ },
+ {
+  "id": "f4525fe7e5",
+  "temat": "6. Przestępstwa przeciwko ochronie informacji",
+  "pytanie": "Kto bez uprawnienia uzyskuje dostęp do całości lub części systemu informatycznego, odpowiada z:",
+  "poprawna": "art. 267 § 2 k.k.",
+  "bledne": [
+   "art. 268a § 1 k.k.",
+   "art. 269a k.k.",
+   "art. 287 § 1 k.k."
+  ],
+  "wyjasnienie": "Art. 267 § 2 – sam dostęp do systemu („włamanie”), bez konieczności przełamywania zabezpieczeń. Niszczenie danych to art. 268a, zakłócanie pracy systemu – art. 269a.",
+  "zrodlo": "wlasne"
+ },
+ {
+  "id": "6aca249b1c",
+  "temat": "6. Przestępstwa przeciwko ochronie informacji",
+  "pytanie": "Ściganie przestępstw z art. 267 § 1–4 k.k. (bezprawne uzyskanie informacji) następuje:",
+  "poprawna": "na wniosek pokrzywdzonego",
+  "bledne": [
+   "z urzędu",
+   "z oskarżenia prywatnego",
+   "wyłącznie na wniosek prokuratora"
+  ],
+  "wyjasnienie": "Art. 267 § 5. Na wniosek ściga się też art. 268 i art. 268a, natomiast art. 269 i 269a – z urzędu.",
+  "zrodlo": "wlasne"
+ },
+ {
+  "id": "550c0d7465",
+  "temat": "6. Przestępstwa przeciwko ochronie informacji",
+  "pytanie": "Utrudnianie zapoznania się z informacją osobie uprawnionej (art. 268 § 1 k.k.) polega na tym, że sprawca, nie będąc uprawnionym:",
+  "poprawna": "niszczy, uszkadza, usuwa lub zmienia zapis istotnej informacji albo w inny sposób udaremnia lub znacznie utrudnia osobie uprawnionej zapoznanie się z nią",
+  "bledne": [
+   "uzyskuje dostęp do informacji, przełamując jej zabezpieczenie",
+   "zakłada urządzenie podsłuchowe",
+   "ujawnia innej osobie informację uzyskaną bez uprawnienia"
+  ],
+  "wyjasnienie": "Art. 268 § 1 – do lat 2. Gdy dotyczy zapisu na informatycznym nośniku danych – do lat 3 (§ 2), przy znacznej szkodzie majątkowej – od 3 miesięcy do lat 5 (§ 3). Ściganie na wniosek (§ 4).",
+  "zrodlo": "wlasne"
+ },
+ {
+  "id": "54ec816cee",
+  "temat": "6. Przestępstwa przeciwko ochronie informacji",
+  "pytanie": "Art. 268a § 1 k.k. penalizuje sprawcę, który nie będąc do tego uprawnionym:",
+  "poprawna": "niszczy, uszkadza, usuwa, zmienia lub utrudnia dostęp do danych informatycznych albo w istotnym stopniu zakłóca ich automatyczne przetwarzanie, gromadzenie lub przekazywanie",
+  "bledne": [
+   "wytwarza programy komputerowe przystosowane do popełniania przestępstw",
+   "uzyskuje dostęp do całości lub części systemu informatycznego",
+   "wpływa na przetwarzanie danych w celu osiągnięcia korzyści majątkowej"
+  ],
+  "wyjasnienie": "Art. 268a § 1 – do lat 3, przy znacznej szkodzie majątkowej od 3 miesięcy do 5 lat (§ 2), ściganie na wniosek (§ 3). Działanie w celu korzyści to oszustwo komputerowe (art. 287).",
+  "zrodlo": "wlasne"
+ },
+ {
+  "id": "ed2ac8618b",
+  "temat": "6. Przestępstwa przeciwko ochronie informacji",
+  "pytanie": "Art. 269b § 1 k.k. penalizuje m.in.:",
+  "poprawna": "wytwarzanie, pozyskiwanie, zbywanie lub udostępnianie programów komputerowych przystosowanych do popełniania przestępstw oraz haseł i kodów dostępu",
+  "bledne": [
+   "każde posiadanie programu antywirusowego",
+   "uzyskanie dostępu do systemu informatycznego bez uprawnienia",
+   "zakłócenie pracy sieci teleinformatycznej"
+  ],
+  "wyjasnienie": "Art. 269b § 1 – od 3 miesięcy do lat 5. Nie popełnia przestępstwa, kto działa wyłącznie w celu zabezpieczenia systemu albo opracowania metody zabezpieczenia (§ 1a).",
+  "zrodlo": "wlasne"
+ },
+ {
+  "id": "64b5ffacbd",
+  "temat": "6. Przestępstwa przeciwko ochronie informacji",
+  "pytanie": "Nie popełnia przestępstwa z art. 269b § 1 k.k. osoba, która tworzy narzędzie do testowania zabezpieczeń:",
+  "poprawna": "wyłącznie w celu zabezpieczenia systemu przed przestępstwem albo opracowania metody takiego zabezpieczenia",
+  "bledne": [
+   "jeżeli udostępni je bezpłatnie w internecie",
+   "jeżeli nie osiągnęła z tego korzyści majątkowej",
+   "w każdym przypadku, gdy jest informatykiem z wykształcenia"
+  ],
+  "wyjasnienie": "Art. 269b § 1a – kontratyp dla testerów bezpieczeństwa (np. pentesterów).",
+  "zrodlo": "wlasne"
  },
  {
   "id": "ecbb20f42d",
@@ -297,6 +687,45 @@
   ],
   "wyjasnienie": "Dowodem osobistym posiadacz nie może wyłącznie rozporządzać (to dokument publiczny), więc jego zniszczenie wypełnia art. 276 k.k.",
   "zrodlo": "test"
+ },
+ {
+  "id": "e27f90fc10",
+  "temat": "7. Przestępstwa przeciwko wiarygodności dokumentów",
+  "pytanie": "Kradzież cudzego dowodu osobistego jest:",
+  "poprawna": "przestępstwem z art. 275 § 1 k.k.",
+  "bledne": [
+   "wykroczeniem",
+   "wykroczeniem z ustawy o dowodach osobistych",
+   "naruszeniem przepisów administracyjnych"
+  ],
+  "wyjasnienie": "Art. 275 § 1 k.k.: kto posługuje się dokumentem stwierdzającym tożsamość innej osoby albo jej prawa majątkowe lub dokument taki kradnie lub przywłaszcza – grzywna, ograniczenie wolności albo pozbawienie wolności do lat 2. Bez względu na wartość – to nie jest wykroczenie.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "6d27dea219",
+  "temat": "7. Przestępstwa przeciwko wiarygodności dokumentów",
+  "pytanie": "Fałsz intelektualny (art. 271 § 1 k.k.) popełnia:",
+  "poprawna": "funkcjonariusz publiczny lub inna osoba uprawniona do wystawienia dokumentu, która poświadcza w nim nieprawdę co do okoliczności mającej znaczenie prawne",
+  "bledne": [
+   "każdy, kto w celu użycia za autentyczny podrabia lub przerabia dokument",
+   "każdy, kto niszczy dokument, którym nie może wyłącznie rozporządzać",
+   "każdy, kto posługuje się dokumentem stwierdzającym tożsamość innej osoby"
+  ],
+  "wyjasnienie": "Art. 271 § 1 – od 3 miesięcy do lat 5, a w celu korzyści majątkowej lub osobistej – od 6 miesięcy do lat 8 (§ 3). Dokument jest autentyczny, ale zawiera nieprawdę. Podrabianie to fałsz materialny (art. 270).",
+  "zrodlo": "wlasne"
+ },
+ {
+  "id": "4dba36f736",
+  "temat": "7. Przestępstwa przeciwko wiarygodności dokumentów",
+  "pytanie": "Czym różni się fałsz materialny (art. 270 k.k.) od fałszu intelektualnego (art. 271 k.k.)?",
+  "poprawna": "przy fałszu materialnym dokument jest podrobiony lub przerobiony, a przy intelektualnym autentyczny dokument wystawiony przez uprawnioną osobę zawiera nieprawdę",
+  "bledne": [
+   "fałsz materialny dotyczy wyłącznie pieniędzy, a intelektualny dokumentów",
+   "fałsz intelektualny może popełnić każdy, a materialny tylko funkcjonariusz",
+   "nie różnią się – to dwie nazwy tego samego czynu"
+  ],
+  "wyjasnienie": "Art. 270 – podmiot powszechny („kto”), art. 271 – podmiot indywidualny (funkcjonariusz lub osoba uprawniona do wystawienia dokumentu).",
+  "zrodlo": "wlasne"
  },
  {
   "id": "a05f762acb",
@@ -351,56 +780,134 @@
   "zrodlo": "test"
  },
  {
-  "id": "533e0888a3",
-  "temat": "9. Kwalifikowanie stanów faktycznych – przestępstwa",
-  "pytanie": "Łukasz Z. wyłamał z zawiasów drzwi wejściowe do pomieszczenia piwnicznego, następnie zabrał w celu przywłaszczenia rower dziecięcy, powodując stratę o łącznej wartości 450 zł. Czyn należy zakwalifikować jako:",
-  "poprawna": "przestępstwo kradzieży z włamaniem – art. 279 § 1 k.k.",
+  "id": "b9936c5e1c",
+  "temat": "8. Grupa przestępcza, mienie znacznej wartości, wyłudzenie kredytu, pranie pieniędzy",
+  "pytanie": "Art. 294 § 1 k.k. przewiduje zaostrzenie kary (od roku do 10 lat) m.in. za oszustwo (art. 286 § 1) lub oszustwo komputerowe (art. 287 § 1), jeżeli czyn popełniono:",
+  "poprawna": "w stosunku do mienia znacznej wartości",
   "bledne": [
-   "wykroczenie kradzieży mienia – art. 119 § 1 k.w.",
-   "przestępstwo uszkodzenia mienia – art. 124 § 1 k.w.",
-   "przestępstwo uszkodzenia mienia – art. 288 § 1 k.k. w zbiegu pozornym z przestępstwem z art. 278 § 1 k.k."
+   "na szkodę osoby najbliższej",
+   "w ramach wypadku mniejszej wagi",
+   "w stosunku do mienia o wartości do 800 zł"
   ],
-  "wyjasnienie": "Kradzież z włamaniem jest przestępstwem bez względu na wartość – nie ma jej odpowiednika w k.w.",
-  "zrodlo": "test"
+  "wyjasnienie": "Art. 294 § 1. Mienie znacznej wartości to ponad 200 000 zł (art. 115 § 5). Przy mieniu o wartości ponad pięciokrotność mienia wielkiej wartości grozi od 3 do 20 lat (§ 3).",
+  "zrodlo": "wlasne"
  },
  {
-  "id": "d4cce3cc57",
+  "id": "47a11cd1d6",
   "temat": "9. Kwalifikowanie stanów faktycznych – przestępstwa",
-  "pytanie": "Piotr K. przeciął kłódkę zabezpieczającą drzwi do piwnicy, z której zabrał wózek dziecięcy wartości 300 zł na szkodę Anny J. Czyn Piotra K. kwalifikujemy jako:",
-  "poprawna": "przestępstwo kradzieży z włamaniem – art. 279 § 1 k.k.",
+  "pytanie": "Adam K. złamał hasło do skrzynki e-mail byłej partnerki i odczytał jej prywatną korespondencję. Czyn należy zakwalifikować jako:",
+  "poprawna": "przestępstwo z art. 267 § 1 k.k. (bezprawne uzyskanie informacji), ścigane na wniosek",
   "bledne": [
-   "przestępstwo uszkodzenia mienia – art. 288 § 1 k.k. w zbiegu z art. 278 § 1 k.k.",
-   "wykroczenia uszkodzenia mienia – art. 124 § 1 k.w. i kradzieży mienia – art. 119 § 1 k.w.",
-   "wykroczenie przywłaszczenia – art. 119 § 1 k.w."
+   "przestępstwo z art. 287 § 1 k.k. (oszustwo komputerowe)",
+   "przestępstwo z art. 269a k.k. (zakłócenie pracy systemu)",
+   "wykroczenie, bo nie wyrządził szkody majątkowej"
   ],
-  "wyjasnienie": "Pokonanie zabezpieczenia (kłódki) to włamanie – przestępstwo bez względu na wartość rzeczy.",
-  "zrodlo": "test"
+  "wyjasnienie": "Przełamanie zabezpieczenia (hasła) i dostęp do informacji dla niego nieprzeznaczonej – art. 267 § 1. Nie działał w celu korzyści ani nie zmieniał danych, więc to nie art. 287.",
+  "zrodlo": "wlasne"
  },
  {
-  "id": "5e6b2fec9b",
+  "id": "3a990df73c",
   "temat": "9. Kwalifikowanie stanów faktycznych – przestępstwa",
-  "pytanie": "Krzysztof O. pożyczył siostrze odtwarzacz DVD wartości 1400 zł, który miała zwrócić po 2 tygodniach. Odtwarzacz nie został zwrócony. Siostra dopuściła się:",
-  "poprawna": "przywłaszczenia z art. 284 k.k., ściganego na wniosek pokrzywdzonego",
+  "pytanie": "Przez dwa miesiące Tomasz W. codziennie wysyłał byłej żonie dziesiątki SMS-ów i czekał pod jej pracą. Kobieta boi się wychodzić z domu. Czyn należy zakwalifikować jako:",
+  "poprawna": "uporczywe nękanie – art. 190a § 1 k.k.",
   "bledne": [
-   "oszustwa z art. 286 § 2 k.k., ściganego z urzędu",
-   "przywłaszczenia z art. 284 § 2 k.k., ściganego z oskarżenia prywatnego",
-   "zaboru w celu przywłaszczenia z art. 278 § 1 k.k., ściganego z urzędu"
+   "groźbę karalną – art. 190 § 1 k.k.",
+   "zmuszanie do określonego zachowania – art. 191 § 1 k.k.",
+   "złośliwe niepokojenie – wykroczenie z art. 107 k.w."
   ],
-  "wyjasnienie": "UWAGA – niepewne: pożyczona rzecz jest powierzona, więc formalnie to art. 284 § 2 (przywłaszczenie rzeczy powierzonej). Na szkodę osoby najbliższej ściganie następuje na wniosek (§ 4), a nie z oskarżenia prywatnego. W oryginale ta odpowiedź mówi o § 1, ale tylko ona ma właściwy tryb ścigania.",
-  "zrodlo": "test"
+  "wyjasnienie": "Uporczywość (długotrwałe, powtarzające się zachowania) i uzasadnione poczucie zagrożenia – stalking z art. 190a § 1.",
+  "zrodlo": "wlasne"
  },
  {
-  "id": "60a133316c",
+  "id": "b4c58913dd",
   "temat": "9. Kwalifikowanie stanów faktycznych – przestępstwa",
-  "pytanie": "Sprawca rozboju, który w trakcie zdarzenia posługiwał się pistoletem typu „straszak” kupionym w kiosku, odpowie za:",
-  "poprawna": "typ podstawowy rozboju, a świadomość pokrzywdzonego co do rodzaju broni nie ma tu znaczenia",
+  "pytanie": "Mężczyzna w kamizelce z napisem „Policja” zatrzymał samochód, „skontrolował” dokumenty kierowcy i pobrał od niego 200 zł „mandatu”. Nie był policjantem. Przestępstwo przeciwko instytucjom państwowym, którego się dopuścił, to:",
+  "poprawna": "przywłaszczenie funkcji publicznej – art. 227 k.k.",
   "bledne": [
-   "nic – nie odpowie za rozbój, gdyż użył niewłaściwych narzędzi",
-   "typ kwalifikowany rozboju ze względu na użyty przedmiot i to, co myślał pokrzywdzony",
-   "typ podstawowy rozboju, ale tylko pod warunkiem, że pokrzywdzony wiedział, że to straszak"
+   "nadużycie funkcji – art. 231 § 1 k.k.",
+   "łapownictwo bierne – art. 228 § 1 k.k.",
+   "czynna napaść na funkcjonariusza – art. 223 k.k."
   ],
-  "wyjasnienie": "Art. 280 § 2 wymaga broni palnej lub podobnie niebezpiecznego przedmiotu. Atrapa nim nie jest (nie liczy się wrażenie ofiary), więc to rozbój z § 1.",
-  "zrodlo": "test"
+  "wyjasnienie": "Podał się za funkcjonariusza i wykonał czynność związaną z jego funkcją – art. 227. Pobranie pieniędzy może dodatkowo wypełniać oszustwo (art. 286).",
+  "zrodlo": "wlasne"
+ },
+ {
+  "id": "f5c5a97164",
+  "temat": "9. Kwalifikowanie stanów faktycznych – przestępstwa",
+  "pytanie": "Uczeń zadzwonił na numer alarmowy, informując o podłożeniu bomby w szkole, choć wiedział, że to nieprawda. Przeprowadzono ewakuację i sprawdzenie budynku. Czyn należy zakwalifikować jako:",
+  "poprawna": "przestępstwo z art. 224a § 1 k.k. (wywołanie niepotrzebnej czynności)",
+  "bledne": [
+   "wykroczenie z art. 66 § 1 k.w. (fałszywy alarm)",
+   "przestępstwo z art. 238 k.k. (zawiadomienie o niepopełnionym przestępstwie)",
+   "wykroczenie z art. 65 § 1 k.w."
+  ],
+  "wyjasnienie": "Fałszywa informacja o zagrożeniu życia wielu osób, która wywołała akcję służb – art. 224a § 1 (od 6 miesięcy do 8 lat). Art. 66 k.w. dotyczy mniej poważnego wprowadzenia służb w błąd.",
+  "zrodlo": "wlasne"
+ },
+ {
+  "id": "0938ef9fd8",
+  "temat": "9. Kwalifikowanie stanów faktycznych – przestępstwa",
+  "pytanie": "Pracownik banku bez upoważnienia zmienił zapisy w systemie informatycznym i przelał 5 000 zł z kont klientów na własny rachunek. Czyn należy zakwalifikować jako:",
+  "poprawna": "oszustwo komputerowe – art. 287 § 1 k.k.",
+  "bledne": [
+   "oszustwo – art. 286 § 1 k.k.",
+   "bezprawne uzyskanie informacji – art. 267 § 1 k.k.",
+   "fałsz intelektualny – art. 271 § 1 k.k."
+  ],
+  "wyjasnienie": "Nikogo nie wprowadził w błąd, tylko w celu korzyści majątkowej zmienił zapis danych – art. 287 § 1.",
+  "zrodlo": "wlasne"
+ },
+ {
+  "id": "f9c9a6c243",
+  "temat": "9. Kwalifikowanie stanów faktycznych – przestępstwa",
+  "pytanie": "Kierowca zatrzymany do kontroli okazał policjantowi dowód osobisty brata, podając się za niego. Czyn należy zakwalifikować jako:",
+  "poprawna": "przestępstwo z art. 275 § 1 k.k. (posługiwanie się dokumentem stwierdzającym tożsamość innej osoby)",
+  "bledne": [
+   "wyłącznie wykroczenie z art. 65 § 1 k.w.",
+   "przestępstwo z art. 270 § 1 k.k. (fałsz materialny)",
+   "przestępstwo z art. 276 k.k. (ukrywanie dokumentu)"
+  ],
+  "wyjasnienie": "Posłużył się autentycznym, cudzym dokumentem tożsamości – art. 275 § 1. Dokument nie był podrobiony, więc nie art. 270. Wprowadzenie w błąd co do tożsamości (art. 65 k.w.) jest pochłonięte przez przestępstwo.",
+  "zrodlo": "wlasne"
+ },
+ {
+  "id": "74cb26ba90",
+  "temat": "9. Kwalifikowanie stanów faktycznych – przestępstwa",
+  "pytanie": "Jan N. podczas legitymowania uderzył policjanta pięścią w twarz, działając sam, bez żadnego narzędzia. Czyn należy zakwalifikować jako:",
+  "poprawna": "naruszenie nietykalności cielesnej funkcjonariusza publicznego – art. 222 § 1 k.k.",
+  "bledne": [
+   "czynną napaść na funkcjonariusza – art. 223 § 1 k.k.",
+   "znieważenie funkcjonariusza – art. 226 § 1 k.k.",
+   "wykroczenie z art. 65a k.w."
+  ],
+  "wyjasnienie": "Art. 223 wymaga działania wspólnie z inną osobą albo użycia broni, noża, niebezpiecznego przedmiotu lub środka obezwładniającego. Tu tego nie było, więc to art. 222 § 1.",
+  "zrodlo": "wlasne"
+ },
+ {
+  "id": "802f9bfe6e",
+  "temat": "10. Systematyka części szczególnej k.w.",
+  "pytanie": "Art. 65, 65a i 66 k.w. znajdują się w rozdziale IX k.w. obejmującym wykroczenia przeciwko:",
+  "poprawna": "instytucjom państwowym, samorządowym i społecznym",
+  "bledne": [
+   "porządkowi i spokojowi publicznemu",
+   "bezpieczeństwu osób i mienia",
+   "obyczajności publicznej"
+  ],
+  "wyjasnienie": "Rozdział VIII – porządek i spokój publiczny (np. art. 51), IX – instytucje państwowe, samorządowe i społeczne (art. 65–66), X – bezpieczeństwo osób i mienia.",
+  "zrodlo": "wlasne"
+ },
+ {
+  "id": "ed239a29c7",
+  "temat": "10. Systematyka części szczególnej k.w.",
+  "pytanie": "Rodzajowym przedmiotem ochrony wykroczeń z rozdziału IX k.w. (art. 65–66) jest:",
+  "poprawna": "prawidłowe funkcjonowanie instytucji państwowych, samorządowych i społecznych",
+  "bledne": [
+   "mienie",
+   "obyczajność publiczna",
+   "bezpieczeństwo w komunikacji"
+  ],
+  "wyjasnienie": "Te wykroczenia chronią sprawne działanie organów, np. przed wprowadzaniem ich w błąd (art. 65), utrudnianiem czynności (art. 65a) i fałszywymi alarmami (art. 66).",
+  "zrodlo": "wlasne"
  },
  {
   "id": "dc0f7abe88",
@@ -468,432 +975,42 @@
   "zrodlo": "test"
  },
  {
-  "id": "82ea69d192",
+  "id": "c896f3dcb2",
   "temat": "12. Kwalifikowanie stanów faktycznych – wykroczenia",
-  "pytanie": "Łukasz R., kierując pojazdem, nie zastosował się do znaku A-1 „ustąp pierwszeństwa”, przez co kierujący BMW musiał gwałtownie hamować i zmienić pas ruchu. Czyn należy zakwalifikować jako:",
-  "poprawna": "spowodowanie zagrożenia bezpieczeństwa w ruchu drogowym (art. 86 § 1 k.w.), za co może być orzeczony zakaz prowadzenia pojazdów",
+  "pytanie": "Podczas legitymowania Marek S. umyślnie podał policjantom fałszywe imię, nazwisko i adres zamieszkania (nie posłużył się cudzym dokumentem). Czyn należy zakwalifikować jako:",
+  "poprawna": "wykroczenie z art. 65 § 1 k.w.",
   "bledne": [
-   "brak wykroczenia",
-   "niezastosowanie się do znaku drogowego – art. 92 § 1 k.w.",
-   "spowodowanie wypadku komunikacyjnego – art. 177 § 1 k.k."
+   "przestępstwo z art. 275 § 1 k.k.",
+   "wykroczenie z art. 66 § 1 k.w.",
+   "przestępstwo z art. 233 § 1 k.k."
   ],
-  "wyjasnienie": "Wymuszenie pierwszeństwa, które spowodowało realne zagrożenie (gwałtowne hamowanie) – art. 86 § 1 k.w. Nie było obrażeń, więc to nie wypadek. Art. 92 to samo niezastosowanie się do znaku, bez zagrożenia.",
-  "zrodlo": "test"
+  "wyjasnienie": "Umyślne wprowadzenie w błąd organu uprawnionego do legitymowania co do tożsamości i miejsca zamieszkania – art. 65 § 1 k.w.",
+  "zrodlo": "wlasne"
  },
  {
-  "id": "e78ef44e63",
+  "id": "5104c945aa",
   "temat": "12. Kwalifikowanie stanów faktycznych – wykroczenia",
-  "pytanie": "Patrol WRD zatrzymał Kazimierza Z., który jechał rowerem po drodze publicznej i miał 0,45 mg/dm³ alkoholu w wydychanym powietrzu. Kazimierz Z. odpowie za:",
-  "poprawna": "wykroczenie z art. 87 § 1a k.w. – prowadzenie pojazdu innego niż mechaniczny w stanie nietrzeźwości",
+  "pytanie": "Paweł G. dla żartu zgłosił Policji fikcyjną kolizję drogową bez rannych. Na miejsce wysłano patrol, który niczego nie zastał. Czyn należy zakwalifikować jako:",
+  "poprawna": "wykroczenie z art. 66 § 1 k.w. (fałszywy alarm)",
   "bledne": [
-   "wykroczenie z art. 87 § 1 k.w. – prowadzenie pojazdu mechanicznego w stanie nietrzeźwości",
-   "przestępstwo z art. 178a § 1 k.k. – prowadzenie pojazdu mechanicznego w stanie nietrzeźwości",
-   "wykroczenie z art. 87 § 2 k.w. – prowadzenie pojazdu innego niż mechaniczny w stanie po użyciu alkoholu"
+   "przestępstwo z art. 224a § 1 k.k.",
+   "przestępstwo z art. 238 k.k.",
+   "wykroczenie z art. 65a k.w."
   ],
-  "wyjasnienie": "0,45 mg/dm³ to więcej niż 0,25, czyli stan nietrzeźwości. Rower nie jest pojazdem mechanicznym, więc to wykroczenie z art. 87 § 1a k.w., a nie przestępstwo.",
-  "zrodlo": "test"
+  "wyjasnienie": "Chcąc wywołać niepotrzebną czynność, fałszywą informacją wprowadził w błąd organ ochrony porządku – art. 66 § 1 pkt 1 k.w. Zdarzenie nie zagrażało życiu wielu osób, więc to nie art. 224a. Kolizja nie jest przestępstwem, więc nie art. 238.",
+  "zrodlo": "wlasne"
  },
  {
-  "id": "fcaf1472df",
+  "id": "c06fe13d84",
   "temat": "12. Kwalifikowanie stanów faktycznych – wykroczenia",
-  "pytanie": "Jan K. o 23:00 w Legionowie obnażał się w miejscu publicznym, czym zgorszył obecną w pobliżu Hannę P. Czyn należy zakwalifikować jako:",
-  "poprawna": "nieobyczajny wybryk – art. 140 k.w.",
+  "pytanie": "W czasie zatrzymania podejrzanego jego kolega, mimo wielokrotnych poleceń policjantów, stawał przed radiowozem i nie pozwalał odjechać, istotnie utrudniając czynność. Nie używał przemocy. Czyn należy zakwalifikować jako:",
+  "poprawna": "wykroczenie z art. 65a k.w.",
   "bledne": [
-   "czyn nieprzyzwoitej działalności karnej sprawcy wykroczenia z uwagi na porę nocną",
-   "publiczne prezentowanie treści pornograficznych – art. 202 § 1 k.k.",
-   "zakłócenie spokoju i porządku publicznego (wywołanie zgorszenia) – art. 51 § 1 k.w."
+   "przestępstwo z art. 222 § 1 k.k.",
+   "przestępstwo z art. 224 § 2 k.k.",
+   "wykroczenie z art. 65 § 1 k.w."
   ],
-  "wyjasnienie": "Art. 140 k.w.: publiczne dopuszczenie się nieobyczajnego wybryku – obnażanie się to typowy przykład.",
-  "zrodlo": "test"
- },
- {
-  "id": "46da94c770",
-  "temat": "12. Kwalifikowanie stanów faktycznych – wykroczenia",
-  "pytanie": "Uszkodzenie automatu pobierającego opłaty za parking miejski o wartości 400 zł jest czynem polegającym na:",
-  "poprawna": "uszkodzeniu rzeczy – art. 124 § 1 k.w.",
-  "bledne": [
-   "zniszczeniu mienia – art. 288 § 1 k.k.",
-   "zniszczeniu cudzej rzeczy niemajątkowej – art. 126 § 1 k.w.",
-   "utrudnieniu korzystania z urządzeń przeznaczonych do użytku publicznego – art. 143 § 1 k.w."
-  ],
-  "wyjasnienie": "Szkoda 400 zł, czyli do 800 zł, więc to wykroczenie z art. 124 § 1 k.w.",
-  "zrodlo": "test"
- },
- {
-  "id": "e523805f93",
-  "temat": "12. Kwalifikowanie stanów faktycznych – wykroczenia",
-  "pytanie": "Mirosław D. w parku miejskim, kopiąc w ławkę, wyłamał w niej dwa szczeble, powodując szkodę nieprzekraczającą 500 zł. Popełnił:",
-  "poprawna": "uszkodzenie z art. 143 § 1 k.w.",
-  "bledne": [
-   "zniszczenie z art. 124 § 1 k.w.",
-   "szalbierstwo z art. 121 § 2 k.w.",
-   "zniszczenie cudzej rzeczy niemajątkowej z art. 126 § 1 k.w."
-  ],
-  "wyjasnienie": "Art. 143 § 1 k.w. wprost wymienia ławkę: ze złośliwości lub swawoli uszkadza urządzenie przeznaczone do użytku publicznego. To przepis szczególny wobec ogólnego art. 124.",
-  "zrodlo": "test"
- },
- {
-  "id": "173d0b172c",
-  "temat": "Spoza decyzji – inne przestępstwa i wykroczenia",
-  "pytanie": "Typem kwalifikowanym przestępstwa pobicia jest:",
-  "poprawna": "użycie broni palnej, noża lub innego niebezpiecznego narzędzia",
-  "bledne": [
-   "współudział w pobiciu",
-   "spowodowanie utraty mienia o znacznych rozmiarach",
-   "spowodowanie obrażeń ciała średniego uszczerbku na zdrowiu"
-  ],
-  "wyjasnienie": "Art. 159 k.k.: udział w bójce lub pobiciu z użyciem broni palnej, noża lub innego podobnie niebezpiecznego przedmiotu – od 6 miesięcy do lat 8.",
-  "zrodlo": "test"
- },
- {
-  "id": "53eefdbb29",
-  "temat": "Spoza decyzji – inne przestępstwa i wykroczenia",
-  "pytanie": "Lekki uszczerbek na zdrowiu określony w art. 157 § 2 k.k. ma miejsce, gdy doszło do:",
-  "poprawna": "naruszenia czynności narządu ciała lub rozstroju zdrowia trwającego nie dłużej niż 7 dni",
-  "bledne": [
-   "trwałej utraty słuchu",
-   "amputacji palca dłoni",
-   "naruszenia czynności narządu ciała lub rozstroju zdrowia trwającego dłużej niż 7 dni"
-  ],
-  "wyjasnienie": "Art. 157 § 2 k.k.: do 7 dni – lekki (ściganie na wniosek, § 4). Powyżej 7 dni – średni (§ 1). Utrata słuchu – ciężki (art. 156).",
-  "zrodlo": "test"
- },
- {
-  "id": "ac9002766a",
-  "temat": "Spoza decyzji – inne przestępstwa i wykroczenia",
-  "pytanie": "Typem kwalifikowanym przestępstwa zabójstwa jest:",
-  "poprawna": "zabicie człowieka ze szczególnym okrucieństwem",
-  "bledne": [
-   "zabójstwo w afekcie",
-   "zabicie człowieka w wyniku wypadku drogowego",
-   "podżeganie do popełnienia zabójstwa"
-  ],
-  "wyjasnienie": "Art. 148 § 2 pkt 1 k.k. Zabójstwo w afekcie to typ uprzywilejowany (§ 4).",
-  "zrodlo": "test"
- },
- {
-  "id": "9769af92ab",
-  "temat": "Spoza decyzji – inne przestępstwa i wykroczenia",
-  "pytanie": "Osoba, która jest obecna na miejscu bójki i w czasie jej trwania swoim zachowaniem „zagrzewa” do jej popełnienia, odpowie za:",
-  "poprawna": "nic – nie poniesie odpowiedzialności karnej",
-  "bledne": [
-   "udział w bójce",
-   "udział w pobiciu",
-   "udział w nieumyślnym spowodowaniu uszczerbku na zdrowiu"
-  ],
-  "wyjasnienie": "UWAGA – niepewne: uczestnikiem bójki (art. 158 k.k.) jest osoba, która fizycznie bierze w niej udział. Samo dopingowanie z boku zwykle nie wypełnia znamion udziału.",
-  "zrodlo": "test"
- },
- {
-  "id": "29abae434e",
-  "temat": "Spoza decyzji – inne przestępstwa i wykroczenia",
-  "pytanie": "Podmiot w przestępstwie znęcania się (art. 207 k.k.) może być:",
-  "poprawna": "tylko indywidualny",
-  "bledne": [
-   "tylko ogólny",
-   "powszechny lub indywidualny",
-   "mieszany"
-  ],
-  "wyjasnienie": "UWAGA – niepewne: sprawcą może być tylko osoba, wobec której pokrzywdzony jest osobą najbliższą albo pozostaje w stałym lub przemijającym stosunku zależności. Dlatego w testach zwykle przyjmuje się przestępstwo indywidualne. W doktrynie są też inne poglądy.",
-  "zrodlo": "test"
- },
- {
-  "id": "549b6c9c3b",
-  "temat": "Spoza decyzji – inne przestępstwa i wykroczenia",
-  "pytanie": "Przywłaszczenie rzeczy znalezionej określone w art. 284 § 3 k.k.:",
-  "poprawna": "jest typem uprzywilejowanym przestępstwa polegającego na przywłaszczeniu mienia",
-  "bledne": [
-   "nie jest przestępstwem",
-   "odwołuje się do art. 119 § 1 k.w.",
-   "jest typem kwalifikowanym przestępstwa polegającego na przywłaszczeniu mienia"
-  ],
-  "wyjasnienie": "Art. 284 § 3 k.k.: wypadek mniejszej wagi albo przywłaszczenie rzeczy znalezionej – łagodniejsza kara (typ uprzywilejowany).",
-  "zrodlo": "test"
- },
- {
-  "id": "a92e64ba1b",
-  "temat": "Spoza decyzji – inne przestępstwa i wykroczenia",
-  "pytanie": "Rozbój to przestępstwo, w którym sprawca:",
-  "poprawna": "kradnie, używając przemocy wobec osoby lub grożąc natychmiastowym jej użyciem albo doprowadzając człowieka do stanu nieprzytomności lub bezbronności",
-  "bledne": [
-   "w celu utrzymania się w posiadaniu zabranej rzeczy, bezpośrednio po dokonaniu kradzieży używa przemocy wobec osoby",
-   "w celu osiągnięcia korzyści majątkowej, przemocą, groźbą zamachu na życie lub zdrowie albo gwałtownego zamachu na mienie, doprowadza inną osobę do rozporządzenia mieniem",
-   "w celu osiągnięcia korzyści majątkowej doprowadza inną osobę do niekorzystnego rozporządzenia mieniem za pomocą wprowadzenia jej w błąd albo wyzyskania błędu"
-  ],
-  "wyjasnienie": "Art. 280 § 1 k.k. Pozostałe odpowiedzi to: kradzież rozbójnicza (art. 281), wymuszenie rozbójnicze (art. 282) i oszustwo (art. 286).",
-  "zrodlo": "test"
- },
- {
-  "id": "a02ae7d809",
-  "temat": "Spoza decyzji – inne przestępstwa i wykroczenia",
-  "pytanie": "Kradzież pojazdu mechanicznego od jego krótkotrwałego użycia różni się:",
-  "poprawna": "celem dokonania zaboru pojazdu",
-  "bledne": [
-   "miejscem dokonania zaboru pojazdu",
-   "użytymi przez sprawcę narzędziami",
-   "sposobem dokonania zaboru"
-  ],
-  "wyjasnienie": "Kradzież (art. 278) – zabór w celu przywłaszczenia. Zabór w celu krótkotrwałego użycia to art. 289.",
-  "zrodlo": "test"
- },
- {
-  "id": "c81b30ecc3",
-  "temat": "Spoza decyzji – inne przestępstwa i wykroczenia",
-  "pytanie": "Sprawca, który zabiera w celu krótkotrwałego użycia cudzy pojazd mechaniczny, uprzednio pokonując jego zabezpieczenie przed użyciem przez osobę nieupoważnioną, odpowie za:",
-  "poprawna": "typ kwalifikowany przestępstwa z art. 289 k.k.",
-  "bledne": [
-   "typ podstawowy przestępstwa z art. 289 k.k.",
-   "typ podstawowy przestępstwa z art. 279 k.k.",
-   "typ kwalifikowany przestępstwa z art. 278 k.k."
-  ],
-  "wyjasnienie": "Art. 289 § 2 k.k.: pokonanie zabezpieczenia – od 3 miesięcy do lat 5 (typ kwalifikowany).",
-  "zrodlo": "test"
- },
- {
-  "id": "60415b79fc",
-  "temat": "Spoza decyzji – inne przestępstwa i wykroczenia",
-  "pytanie": "Przy zdarzeniu kradzieży ważna jest kwota strat. Jeżeli wynosi ona równo 800 zł, mamy do czynienia z:",
-  "poprawna": "wykroczeniem",
-  "bledne": [
-   "przestępstwem",
-   "zbrodnią",
-   "wypadkiem mniejszej wagi"
-  ],
-  "wyjasnienie": "Art. 119 § 1 k.w.: wartość NIE PRZEKRACZA 800 zł, czyli 800 zł to jeszcze wykroczenie. Od 800,01 zł to przestępstwo.",
-  "zrodlo": "test"
- },
- {
-  "id": "f4fe37bdb9",
-  "temat": "Spoza decyzji – inne przestępstwa i wykroczenia",
-  "pytanie": "Kradzież energii elektrycznej na szkodę osoby najbliższej jest:",
-  "poprawna": "przestępstwem ściganym na wniosek pokrzywdzonego",
-  "bledne": [
-   "wykroczeniem",
-   "przestępstwem ściganym z urzędu",
-   "przestępstwem ściganym na żądanie pokrzywdzonego"
-  ],
-  "wyjasnienie": "Energia to art. 278 § 5 k.k. (zawsze przestępstwo – art. 119 k.w. dotyczy rzeczy ruchomych). Na szkodę osoby najbliższej ściganie następuje na wniosek (art. 278 § 4). „Na żądanie” to pojęcie z k.w.",
-  "zrodlo": "test"
- },
- {
-  "id": "d95abcbff5",
-  "temat": "Spoza decyzji – inne przestępstwa i wykroczenia",
-  "pytanie": "Zachowanie sprawcy w przestępstwie paserstwa umyślnego polega na tym, że sprawca:",
-  "poprawna": "rzecz uzyskaną za pomocą czynu zabronionego nabywa lub pomaga do jej zbycia albo tę rzecz przyjmuje lub pomaga do jej ukrycia",
-  "bledne": [
-   "przedmiot znaleziony na ulicy użytkuje jak własny",
-   "cudzą rzecz niszczy, uszkadza lub czyni niezdatną do użytku",
-   "nabywa korzyść majątkową w zamian za zwrot bezprawnie zabranej rzeczy"
-  ],
-  "wyjasnienie": "Art. 291 § 1 k.k.: paserstwo to nabycie, pomoc w zbyciu, przyjęcie lub pomoc w ukryciu rzeczy uzyskanej za pomocą czynu zabronionego. Pozostałe odpowiedzi opisują inne czyny (przywłaszczenie rzeczy znalezionej, zniszczenie rzeczy).",
-  "zrodlo": "test"
- },
- {
-  "id": "e12a46a69b",
-  "temat": "Spoza decyzji – inne przestępstwa i wykroczenia",
-  "pytanie": "Strona podmiotowa w przestępstwie uszkodzenia lub zniszczenia rzeczy (art. 288 k.k.) to:",
-  "poprawna": "tylko umyślność",
-  "bledne": [
-   "umyślność lub nieumyślność",
-   "tylko nieumyślność",
-   "strona podmiotowa kombinowana"
-  ],
-  "wyjasnienie": "Art. 288 k.k. nie przewiduje typu nieumyślnego – karalne jest tylko umyślne niszczenie lub uszkadzanie.",
-  "zrodlo": "test"
- },
- {
-  "id": "e9879b765f",
-  "temat": "Spoza decyzji – inne przestępstwa i wykroczenia",
-  "pytanie": "Sutenerstwo to:",
-  "poprawna": "czerpanie korzyści majątkowych z uprawiania prostytucji przez inną osobę",
-  "bledne": [
-   "nakłanianie innej osoby do uprawiania prostytucji",
-   "czerpanie korzyści majątkowych z uprawiania prostytucji",
-   "ułatwianie innej osobie uprawiania prostytucji w celu uzyskania korzyści majątkowej"
-  ],
-  "wyjasnienie": "Art. 204 § 2 k.k. Nakłanianie i ułatwianie w celu korzyści to stręczycielstwo i kuplerstwo (art. 204 § 1).",
-  "zrodlo": "test"
- },
- {
-  "id": "9c33919f99",
-  "temat": "Spoza decyzji – inne przestępstwa i wykroczenia",
-  "pytanie": "Okolicznościami modalnymi miejsca przestępstwa kierowania pojazdem mechanicznym w stanie nietrzeźwości (art. 178a k.k.) są:",
-  "poprawna": "ruch lądowy, wodny, powietrzny",
-  "bledne": [
-   "tylko ruch lądowy i wodny",
-   "droga publiczna, strefa ruchu, strefa zamieszkania",
-   "ruch lądowy, wodny, powietrzny tylko w miejscach, gdzie odbywa się ruch"
-  ],
-  "wyjasnienie": "Art. 178a § 1 k.k.: „prowadzi pojazd mechaniczny w ruchu lądowym, wodnym lub powietrznym”.",
-  "zrodlo": "test"
- },
- {
-  "id": "11ac850a2b",
-  "temat": "Spoza decyzji – inne przestępstwa i wykroczenia",
-  "pytanie": "Przestępstwo wypadku drogowego zaistnieje wówczas, gdy:",
-  "poprawna": "kierujący pojazdem mechanicznym naruszy chociażby nieumyślnie zasady bezpieczeństwa i doprowadzi do zderzenia, w wyniku którego pasażer drugiego pojazdu dozna złamania nogi",
-  "bledne": [
-   "kierujący pojazdem mechanicznym na skutek niezachowania ostrożności uderzy w przydrożny słup i dozna złamania ręki",
-   "kierujący pojazdem mechanicznym w stanie nietrzeźwości doprowadzi do zderzenia z drugim pojazdem mechanicznym",
-   "kierujący pojazdem mechanicznym robi to wbrew orzeczonemu przez sąd zakazowi i znajduje się w stanie nietrzeźwości"
-  ],
-  "wyjasnienie": "Art. 177 § 1 k.k.: naruszenie zasad bezpieczeństwa i wypadek, w którym INNA osoba doznała obrażeń trwających powyżej 7 dni (np. złamanie nogi). Obrażenia samego sprawcy się nie liczą.",
-  "zrodlo": "test"
- },
- {
-  "id": "29f2f75633",
-  "temat": "Spoza decyzji – inne przestępstwa i wykroczenia",
-  "pytanie": "Niezabezpieczenie miejsca niebezpiecznego (art. 72 k.w.) jest:",
-  "poprawna": "wykroczeniem formalnym – nie jest konieczne wystąpienie skutku w postaci niebezpieczeństwa",
-  "bledne": [
-   "przestępstwem",
-   "wykroczeniem tylko w przypadku, jeśli dojdzie do lekkiego uszczerbku na zdrowiu",
-   "wykroczeniem materialnym – nie jest konieczne wystąpienie skutku w postaci niebezpieczeństwa"
-  ],
-  "wyjasnienie": "Art. 72 k.w.: samo niedokonanie zabezpieczenia wbrew obowiązkowi wypełnia znamiona (wykroczenie formalne, bezskutkowe).",
-  "zrodlo": "test"
- },
- {
-  "id": "214df32539",
-  "temat": "Spoza decyzji – inne przestępstwa i wykroczenia",
-  "pytanie": "Wykroczenie uszkodzenia rzeczy określone w art. 124 § 1 k.w. można popełnić:",
-  "poprawna": "wyłącznie umyślnie",
-  "bledne": [
-   "wyłącznie celowo",
-   "wyłącznie nieumyślnie",
-   "umyślnie i nieumyślnie"
-  ],
-  "wyjasnienie": "Art. 124 § 1 k.w.: „Kto cudzą rzecz UMYŚLNIE niszczy, uszkadza lub czyni niezdatną do użytku…”.",
-  "zrodlo": "test"
- },
- {
-  "id": "98b6aaf8a3",
-  "temat": "Spoza decyzji – inne przestępstwa i wykroczenia",
-  "pytanie": "Przy wykroczeniu uszkodzenia rzeczy (art. 124 k.w.) wartość mienia:",
-  "poprawna": "zawsze nie może przekraczać 800 zł",
-  "bledne": [
-   "nie jest określona i nie ma żadnego znaczenia",
-   "nie ma znaczenia, ale tylko przy umyślnym działaniu sprawcy",
-   "może przekraczać 800 zł, ale tylko przy nieumyślnym działaniu sprawcy"
-  ],
-  "wyjasnienie": "Art. 124 § 1 k.w.: szkoda nie może przekraczać 800 zł. Powyżej tej kwoty to przestępstwo z art. 288 k.k.",
-  "zrodlo": "test"
- },
- {
-  "id": "baa74e36a6",
-  "temat": "Spoza decyzji – inne przestępstwa i wykroczenia",
-  "pytanie": "Deptanie trawnika określone w art. 144 § 1 k.w.:",
-  "poprawna": "jest popełnione niezależnie od tego, czy doszło do uszkodzenia trawnika",
-  "bledne": [
-   "jest wykroczeniem materialnym",
-   "jest popełnione tylko wtedy, gdy doszło do uszkodzenia trawnika",
-   "jest popełnione tylko wtedy, gdy można ustalić wartość uszkodzonego trawnika"
-  ],
-  "wyjasnienie": "Art. 144 § 1 k.w.: „depcze trawnik lub zieleniec” w miejscach innych niż wyznaczone – samo deptanie wystarcza.",
-  "zrodlo": "test"
- },
- {
-  "id": "b997e9400c",
-  "temat": "Spoza decyzji – inne przestępstwa i wykroczenia",
-  "pytanie": "Szalbierstwo określone w art. 121 § 2 k.w. to zachowanie polegające na:",
-  "poprawna": "wyłudzeniu pożywienia lub napoju w zakładzie żywienia zbiorowego, przejazdu środkiem lokomocji przedsiębiorstwa niedysponującego karami pieniężnymi w taryfie, wstępu na imprezę artystyczną, rozrywkową lub sportową, działania automatu lub innego podobnego świadczenia, o którym wie, że jest płatne",
-  "bledne": [
-   "zmuszaniu innej osoby do żebrania",
-   "wyłudzeniu wyłącznie pożywienia, o którym wie, że jest płatne",
-   "wyłudzeniu wyłącznie przejazdu środkiem lokomocji należącym do przedsiębiorstwa niedysponującego karami pieniężnymi określonymi w taryfie"
-  ],
-  "wyjasnienie": "Art. 121 § 2 k.w. wymienia wszystkie te świadczenia – odpowiedzi „wyłącznie…” są niepełne.",
-  "zrodlo": "test"
- },
- {
-  "id": "96fdc4c4b0",
-  "temat": "Spoza decyzji – inne przestępstwa i wykroczenia",
-  "pytanie": "Wykroczenie zakłócenia spokoju i porządku publicznego (art. 51 k.w.) może być popełnione:",
-  "poprawna": "krzykiem, hałasem, alarmem lub innym wybrykiem",
-  "bledne": [
-   "tylko krzykiem",
-   "tylko hałasem",
-   "poprzez wprowadzenie w błąd organu samorządowego"
-  ],
-  "wyjasnienie": "Art. 51 § 1 k.w.: „Kto krzykiem, hałasem, alarmem lub innym wybrykiem zakłóca spokój…”.",
-  "zrodlo": "test"
- },
- {
-  "id": "f8288deded",
-  "temat": "Spoza decyzji – inne przestępstwa i wykroczenia",
-  "pytanie": "Wykroczenie żebractwa popełnia ten, kto:",
-  "poprawna": "mając środki egzystencji lub będąc zdolny do pracy żebrze w miejscu publicznym albo żebrze w miejscu publicznym w sposób natarczywy lub oszukańczy",
-  "bledne": [
-   "mając środki egzystencji i będąc zdolny do pracy przyjmuje drobne rzeczy od nieznanych mu osób",
-   "żebrze z powodu niezdolności do pracy i nie ma środków egzystencji",
-   "zbiera niepotrzebne rzeczy wystawione przez osoby trzecie w miejscach ogólnodostępnych"
-  ],
-  "wyjasnienie": "Art. 58 § 1 i § 2 k.w.",
-  "zrodlo": "test"
- },
- {
-  "id": "710c1dacbd",
-  "temat": "Spoza decyzji – inne przestępstwa i wykroczenia",
-  "pytanie": "O popełnieniu wykroczenia nieopuszczenia zbiegowiska można mówić wtedy, gdy:",
-  "poprawna": "sprawca nie opuszcza zbiegowiska publicznego pomimo wezwania właściwego organu",
-  "bledne": [
-   "sprawca nie opuszcza zbiegowiska publicznego",
-   "sprawca nie opuszcza zbiegowiska publicznego pomimo wezwania jakiegokolwiek organu",
-   "sprawca opuszcza zbiegowisko na wezwanie właściwego organu"
-  ],
-  "wyjasnienie": "Art. 50 k.w.: „Kto nie opuszcza zbiegowiska publicznego pomimo wezwania właściwego organu”.",
-  "zrodlo": "test"
- },
- {
-  "id": "ef51840cca",
-  "temat": "Spoza decyzji – inne przestępstwa i wykroczenia",
-  "pytanie": "Typem kwalifikowanym przestępstwa bójki jest:",
-  "poprawna": "użycie broni palnej",
-  "bledne": [
-   "spowodowanie obrażeń ciała średniego uszczerbku na zdrowiu",
-   "współudział w pobiciu",
-   "narażenie człowieka na niebezpieczeństwo utraty mienia o wielkich rozmiarach"
-  ],
-  "wyjasnienie": "Art. 159 k.k.: udział w bójce lub pobiciu z użyciem broni palnej, noża lub innego podobnie niebezpiecznego przedmiotu.",
-  "zrodlo": "test"
- },
- {
-  "id": "0aa5c5210e",
-  "temat": "Spoza decyzji – inne przestępstwa i wykroczenia",
-  "pytanie": "Typem uprzywilejowanym zabójstwa jest:",
-  "poprawna": "zabicie człowieka pod wpływem silnego wzburzenia usprawiedliwionego okolicznościami",
-  "bledne": [
-   "aborcja za zgodą kobiety",
-   "zabicie osoby najbliższej",
-   "zabicie człowieka z użyciem materiałów wybuchowych"
-  ],
-  "wyjasnienie": "Art. 148 § 4 k.k. (zabójstwo w afekcie) – od roku do lat 10. Materiały wybuchowe to typ kwalifikowany (§ 2).",
-  "zrodlo": "test"
- },
- {
-  "id": "29a339814f",
-  "temat": "Spoza decyzji – inne przestępstwa i wykroczenia",
-  "pytanie": "Lekki uszczerbek na zdrowiu (art. 157 k.k.) ma miejsce, gdy:",
-  "poprawna": "biegły lekarz sądowy stwierdził, że jakiś narząd ciała pokrzywdzonego nie funkcjonuje prawidłowo przez czas nieprzekraczający 7 dni",
-  "bledne": [
-   "pokrzywdzony otrzymał zwolnienie lekarskie na okres do 7 dni",
-   "zgłaszający utracił w wypadku mały palec u lewej ręki",
-   "ratownik medyczny stwierdził u pokrzywdzonego ciężkie obrażenia ciała"
-  ],
-  "wyjasnienie": "Art. 157 § 2: naruszenie czynności narządu ciała lub rozstrój zdrowia do 7 dni – ocenia to biegły, a nie długość zwolnienia lekarskiego. (W pytaniu pomylono § 1 z § 2.)",
-  "zrodlo": "test"
- },
- {
-  "id": "44a4e88de4",
-  "temat": "Spoza decyzji – inne przestępstwa i wykroczenia",
-  "pytanie": "Dla bytu wykroczenia z art. 106 k.w. (pozostawienie małoletniego do lat 7 bez opieki) konieczne jest, aby sprawca:",
-  "poprawna": "dopuścił do przebywania małoletniego w okolicznościach niebezpiecznych dla zdrowia",
-  "bledne": [
-   "działał z niskich pobudek zasługujących na szczególne potępienie",
-   "działał w warunkach recydywy i był w stanie nietrzeźwości",
-   "pozostawił małoletniego w okolicznościach niebezpiecznych po raz drugi w ciągu roku"
-  ],
-  "wyjasnienie": "Art. 106 k.w.: mając obowiązek opieki nad małoletnim do lat 7, dopuszcza do jego przebywania w okolicznościach niebezpiecznych dla zdrowia człowieka.",
-  "zrodlo": "test"
+  "wyjasnienie": "Umyślne niestosowanie się do poleceń, które istotnie utrudnia czynność służbową – art. 65a k.w. Przy użyciu przemocy lub groźby wchodziłby w grę art. 224 § 2 lub art. 222 k.k.",
+  "zrodlo": "wlasne"
  }
 ]
