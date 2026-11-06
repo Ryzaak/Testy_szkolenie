@@ -325,16 +325,16 @@
   "zrodlo": "wlasne"
  },
  {
-  "id": "661278dc6c",
+  "id": "ad9a6c32f0",
   "temat": "4. Przestępstwa przeciwko instytucjom państwowym i samorządowi",
-  "pytanie": "Korzyścią majątkową lub osobistą w rozumieniu art. 115 § 4 k.k. jest korzyść:",
+  "pytanie": "Łapownictwo bierne (art. 228 k.k.) i czynne (art. 229 k.k.) dotyczy korzyści majątkowej lub osobistej przeznaczonej:",
   "poprawna": "zarówno dla siebie, jak i dla kogoś innego",
   "bledne": [
    "wyłącznie dla siebie",
    "wyłącznie dla innej osoby",
    "wyłącznie korzyść finansowa"
   ],
-  "wyjasnienie": "Art. 115 § 4 k.k.: korzyścią majątkową lub osobistą jest korzyść zarówno dla siebie, jak i dla kogo innego. Ma to znaczenie m.in. przy łapownictwie (art. 228–229 k.k.).",
+  "wyjasnienie": "Korzyść w art. 228 i 229 k.k. to korzyść zarówno dla siebie, jak i dla kogo innego (definicja z art. 115 § 4 k.k.). Łapownictwem jest więc też przyjęcie korzyści np. dla członka rodziny.",
   "zrodlo": "test"
  },
  {
@@ -728,16 +728,16 @@
   "zrodlo": "wlasne"
  },
  {
-  "id": "a05f762acb",
+  "id": "574349b8d5",
   "temat": "8. Grupa przestępcza, mienie znacznej wartości, wyłudzenie kredytu, pranie pieniędzy",
-  "pytanie": "Mieniem znacznej wartości (art. 115 § 5 k.k.) jest mienie, którego wartość:",
+  "pytanie": "Zaostrzenie kary z art. 294 k.k. dotyczy mienia znacznej wartości, czyli mienia, którego wartość:",
   "poprawna": "w chwili popełnienia czynu przekracza kwotę 200 000 zł",
   "bledne": [
    "przed popełnieniem czynu wynosiła 100 000 zł",
    "po popełnionym czynie karalnym przekroczyła kwotę 200 000 zł, uwzględniając stopień inflacji i najniższe miesięczne uposażenie na dzień szkody",
    "w chwili popełnienia czynu zabronionego przekracza 200-krotną wartość najniższego miesięcznego wynagrodzenia"
   ],
-  "wyjasnienie": "Art. 115 § 5 k.k.: mienie, którego wartość w czasie popełnienia czynu zabronionego przekracza 200 000 zł. Mienie wielkiej wartości to ponad 1 000 000 zł (§ 6).",
+  "wyjasnienie": "Mienie znacznej wartości to mienie, którego wartość w czasie popełnienia czynu zabronionego przekracza 200 000 zł (definicja z art. 115 § 5 k.k.). Od tego zależy typ kwalifikowany z art. 294 § 1 k.k. (od roku do lat 10).",
   "zrodlo": "test"
  },
  {
