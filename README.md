@@ -32,6 +32,7 @@ Postęp zapisuje się w Twojej przeglądarce, więc każdy uczy się osobno. Po 
 | **JM03 JS01** | Systemy informacyjne Policji (podstawy prawne, ochrona danych, systemy policyjne i pozapolicyjne, SIS) | 87 |
 | **JM01 JS03** | Prawo karne szczegółowe – artykuły z decyzji SZPC JS03 | 78 |
 | **JM01 JS04** | Ustawy szczególne (Prawo telekomunikacyjne, broń, tytoń, narkomania, dowody osobiste, prawo autorskie, dostęp warunkowy, art. 263 k.k.) | 83 |
+| **JM02 JS06** | Zatrzymanie osoby (ujęcie i zatrzymanie, podstawy, prawa zatrzymanego, czas, badania lekarskie, nieletni, cudzoziemcy, dokumentacja) | 54 |
 
 ## Skąd są pytania
 

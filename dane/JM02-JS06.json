@@ -1,0 +1,704 @@
+[
+ {
+  "id": "e78e5ccb81",
+  "temat": "1–2. Ujęcie i zatrzymanie – pojęcia",
+  "pytanie": "Środek przymusu polegający na krótkotrwałym pozbawieniu wolności określonej osoby przez uprawnione do takiego działania organy władzy państwowej, zgodnie z obowiązującymi przepisami prawa, to:",
+  "poprawna": "zatrzymanie",
+  "bledne": [
+   "ujęcie",
+   "przymus bezpośredni",
+   "tymczasowe aresztowanie"
+  ],
+  "wyjasnienie": "Zatrzymania dokonuje uprawniony organ (np. Policja). Ujęcia (art. 243 k.p.k.) może dokonać każdy. Tymczasowe aresztowanie to środek zapobiegawczy stosowany przez sąd.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "6dccd42554",
+  "temat": "1–2. Ujęcie i zatrzymanie – pojęcia",
+  "pytanie": "Ująć osobę na gorącym uczynku popełnienia przestępstwa lub w pościgu podjętym bezpośrednio po popełnieniu przestępstwa, jeżeli zachodzi obawa ukrycia się tej osoby lub nie można ustalić jej tożsamości, ma prawo:",
+  "poprawna": "każda osoba",
+  "bledne": [
+   "tylko świadek zdarzenia",
+   "tylko pokrzywdzony",
+   "tylko policjant"
+  ],
+  "wyjasnienie": "Art. 243 § 1 k.p.k.: „Każdy ma prawo ująć osobę…” – tzw. ujęcie obywatelskie.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "e0950c4299",
+  "temat": "1–2. Ujęcie i zatrzymanie – pojęcia",
+  "pytanie": "Zgodnie z art. 243 Kodeksu postępowania karnego można ująć osobę na gorącym uczynku przestępstwa, jeżeli zachodzi obawa:",
+  "poprawna": "ukrycia się tej osoby",
+  "bledne": [
+   "matactwa",
+   "ucieczki tej osoby",
+   "zatarcia śladów wykroczenia"
+  ],
+  "wyjasnienie": "Art. 243 § 1 k.p.k.: obawa UKRYCIA SIĘ albo brak możliwości ustalenia tożsamości. Obawa ucieczki i zatarcia śladów to przesłanki zatrzymania przez Policję (art. 244 § 1).",
+  "zrodlo": "test"
+ },
+ {
+  "id": "f3df93b69a",
+  "temat": "1–2. Ujęcie i zatrzymanie – pojęcia",
+  "pytanie": "Maksymalny czas pozbawienia wolności osoby w ramach ujęcia obywatelskiego:",
+  "poprawna": "nie jest określony w godzinach",
+  "bledne": [
+   "wynosi 72 godziny",
+   "wynosi 48 godzin",
+   "wynosi 24 godziny"
+  ],
+  "wyjasnienie": "Art. 243 § 2 k.p.k.: osobę ujętą należy NIEZWŁOCZNIE oddać w ręce Policji. Przepis nie podaje liczby godzin.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "9c15802d28",
+  "temat": "1–2. Ujęcie i zatrzymanie – pojęcia",
+  "pytanie": "Ujęcie obywatelskie może być dokonane w sytuacji, gdy:",
+  "poprawna": "inna osoba ujęła sprawcę podczas kradzieży kieszonkowej, nie można było ustalić jego tożsamości i wezwano Policję",
+  "bledne": [
+   "Policja zatrzymała osobę w bezpośrednim pościgu po kradzieży roweru",
+   "pokrzywdzony następnego dnia odnalazł osobę, którą podejrzewa o rozbój",
+   "straż miejska doprowadziła osobę nietrzeźwą do izby wytrzeźwień"
+  ],
+  "wyjasnienie": "Art. 243 k.p.k.: ujęcie na gorącym uczynku lub w pościgu bezpośrednio po przestępstwie, gdy zachodzi obawa ukrycia się lub nie można ustalić tożsamości, a potem niezwłoczne oddanie Policji. Odnalezienie sprawcy następnego dnia nie jest gorącym uczynkiem ani pościgiem.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "0d0ec921c7",
+  "temat": "1–2. Ujęcie i zatrzymanie – pojęcia",
+  "pytanie": "Prawo zatrzymania osoby podejrzanej, jeżeli istnieje uzasadnione przypuszczenie, że popełniła ona przestępstwo, przysługuje:",
+  "poprawna": "policjantowi",
+  "bledne": [
+   "każdej osobie prawnej",
+   "każdej osobie fizycznej",
+   "tylko policjantowi działającemu na polecenie prokuratora"
+  ],
+  "wyjasnienie": "Art. 244 § 1 k.p.k.: „Policja ma prawo zatrzymać osobę podejrzaną…”. Polecenie prokuratora nie jest potrzebne. Osoba fizyczna może jedynie UJĄĆ sprawcę (art. 243).",
+  "zrodlo": "test"
+ },
+ {
+  "id": "0babed7484",
+  "temat": "1–2. Ujęcie i zatrzymanie – pojęcia",
+  "pytanie": "Rozróżniamy następujące rodzaje zatrzymania osoby:",
+  "poprawna": "penitencjarne, administracyjne, porządkowe, procesowe",
+  "bledne": [
+   "procesowe, zwyczajne, administracyjne, penitencjarne",
+   "zwyczajowe, prewencyjne, procesowe, administracyjne",
+   "porządkowe, penitencjarne, administracyjne, zwyczajowe"
+  ],
+  "wyjasnienie": "To podział z materiałów szkoleniowych. Procesowe – k.p.k. i k.p.w., administracyjne (prewencyjne) – np. art. 15 ust. 1 pkt 3 ustawy o Policji, penitencjarne – np. art. 15 ust. 1 pkt 2a, porządkowe – np. w celu zapewnienia porządku czynności. Pojęć „zwyczajne” i „zwyczajowe” w podziale nie ma.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "a1e5a70e3d",
+  "temat": "1–2. Ujęcie i zatrzymanie – pojęcia",
+  "pytanie": "Zatrzymanie osoby w celu zapewnienia prawidłowego toku postępowania karnego to zatrzymanie:",
+  "poprawna": "procesowe",
+  "bledne": [
+   "administracyjne",
+   "porządkowe",
+   "penitencjarne"
+  ],
+  "wyjasnienie": "Zatrzymanie procesowe (art. 244 k.p.k.) służy zabezpieczeniu toku postępowania karnego. Administracyjne (prewencyjne) chroni przed zagrożeniem, np. z art. 15 ust. 1 pkt 3 ustawy o Policji.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "a741533895",
+  "temat": "3–4. Podstawy prawne i faktyczne zatrzymania",
+  "pytanie": "Policja ma prawo zatrzymać osobę podejrzaną, jeżeli istnieje uzasadnione przypuszczenie, że popełniła ona przestępstwo, a ponadto zachodzi obawa:",
+  "poprawna": "ucieczki lub ukrycia się tej osoby",
+  "bledne": [
+   "że została ujęta na gorącym uczynku popełnienia przestępstwa lub w pościgu podjętym bezpośrednio potem",
+   "że popełniła wykroczenie",
+   "że należy ją przymusowo doprowadzić z powodu niestawiennictwa"
+  ],
+  "wyjasnienie": "Art. 244 § 1 k.p.k.: obawa ucieczki lub ukrycia się albo zatarcia śladów, brak możliwości ustalenia tożsamości albo przesłanki trybu przyspieszonego.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "a922815cf4",
+  "temat": "3–4. Podstawy prawne i faktyczne zatrzymania",
+  "pytanie": "Policja ma prawo zatrzymać osobę, gdy:",
+  "poprawna": "istnieje uzasadnione przypuszczenie popełnienia przez nią przestępstwa i zachodzi obawa jej ukrycia się",
+  "bledne": [
+   "przełożony wydał takie polecenie, ponieważ osoba nie stawiła się na wezwanie",
+   "w jej mieszkaniu mogą znajdować się przedmioty stanowiące dowód",
+   "odmówiła przyjęcia mandatu karnego"
+  ],
+  "wyjasnienie": "Art. 244 § 1 k.p.k. Przedmioty w mieszkaniu uzasadniają przeszukanie, a nie zatrzymanie. Odmowa przyjęcia mandatu skutkuje wnioskiem o ukaranie. (W teście były 3 odpowiedzi – czwartą dopisano).",
+  "zrodlo": "test"
+ },
+ {
+  "id": "95f258c8c3",
+  "temat": "3–4. Podstawy prawne i faktyczne zatrzymania",
+  "pytanie": "W czasie kontroli osobistej u Adama Z. – sprawcy wykroczenia kradzieży sklepowej – policjanci znaleźli dwa woreczki z suszem ziela koloru zielonego. Adam Z. był wcześniej notowany za przestępczość narkotykową. Policjanci ukarali go mandatem i wystawili wezwanie do jednostki. Policjanci:",
+  "poprawna": "powinni zatrzymać Adama Z. w związku z uzasadnionym przypuszczeniem posiadania środków zabronionych i obawą zatarcia śladów przestępstwa",
+  "bledne": [
+   "postąpili prawidłowo, ponieważ nie byli w stanie stwierdzić, czy susz ziela jest rzeczywiście narkotykiem",
+   "postąpili prawidłowo, gdyż nie popełnia przestępstwa osoba posiadająca niewielką ilość narkotyków na własny użytek",
+   "powinni zatrzymać Adama Z. w związku z uzasadnionym podejrzeniem popełnienia przestępstwa i obawą ucieczki"
+  ],
+  "wyjasnienie": "Posiadanie środków odurzających to przestępstwo (art. 62 ustawy o przeciwdziałaniu narkomanii) – także w niewielkiej ilości. Art. 244 § 1 k.p.k. mówi o „uzasadnionym PRZYPUSZCZENIU”, a z okoliczności wynika obawa zatarcia śladów (pozbycia się narkotyków). Nic nie wskazuje na obawę ucieczki.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "d7cf27296a",
+  "temat": "3–4. Podstawy prawne i faktyczne zatrzymania",
+  "pytanie": "Art. 244 § 1a Kodeksu postępowania karnego przewiduje zatrzymanie osoby podejrzanej o przestępstwo z użyciem przemocy na szkodę osoby wspólnie zamieszkującej, gdy:",
+  "poprawna": "zachodzi obawa, że ponownie popełni przestępstwo z użyciem przemocy wobec tej osoby, zwłaszcza gdy tym grozi",
+  "bledne": [
+   "prokurator wydał zarządzenie o zatrzymaniu i przymusowym doprowadzeniu",
+   "osoba jest poszukiwana listem gończym",
+   "przestępstwo popełniono na szkodę dowolnego członka rodziny"
+  ],
+  "wyjasnienie": "Art. 244 § 1a k.p.k. Jeżeli przestępstwo popełniono przy użyciu broni palnej, noża lub innego niebezpiecznego przedmiotu, Policja ZATRZYMUJE obowiązkowo (§ 1b).",
+  "zrodlo": "test"
+ },
+ {
+  "id": "c0a8001cc6",
+  "temat": "3–4. Podstawy prawne i faktyczne zatrzymania",
+  "pytanie": "Zgodnie z art. 15a ustawy o Policji policjant ma prawo zatrzymać:",
+  "poprawna": "sprawcę przemocy domowej stwarzającego bezpośrednie zagrożenie dla życia lub zdrowia ludzkiego",
+  "bledne": [
+   "osobę pozbawioną wolności, która nie powróciła w terminie do zakładu karnego",
+   "osobę stwarzającą w sposób oczywisty bezpośrednie zagrożenie dla życia lub zdrowia ludzkiego",
+   "każdego sprawcę ujętego na gorącym uczynku przestępstwa"
+  ],
+  "wyjasnienie": "Art. 15a ust. 1: osoba stosująca przemoc domową, stwarzająca bezpośrednie zagrożenie dla życia lub zdrowia ludzkiego. Niepowrót do zakładu karnego to art. 15 ust. 1 pkt 2a, a oczywiste zagrożenie – art. 15 ust. 1 pkt 3.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "20a308cd19",
+  "temat": "3–4. Podstawy prawne i faktyczne zatrzymania",
+  "pytanie": "Ustawa o Policji daje policjantowi prawo do zatrzymania osób:",
+  "poprawna": "stwarzających w sposób oczywisty bezpośrednie zagrożenie dla mienia",
+  "bledne": [
+   "gdy ich zachowanie wskazuje jedynie na możliwość zakłócenia porządku publicznego",
+   "korzystających z przepustki w zakładzie karnym",
+   "mogących spowodować zagrożenie dla życia lub zdrowia ludzkiego"
+  ],
+  "wyjasnienie": "Art. 15 ust. 1 pkt 3: osoby stwarzające W SPOSÓB OCZYWISTY BEZPOŚREDNIE zagrożenie dla życia lub zdrowia ludzkiego, a także dla mienia. Sama możliwość zagrożenia nie wystarcza. Korzystanie z przepustki nie jest podstawą – dopiero niepowrót w terminie (pkt 2a).",
+  "zrodlo": "test"
+ },
+ {
+  "id": "78ffb494fe",
+  "temat": "3–4. Podstawy prawne i faktyczne zatrzymania",
+  "pytanie": "Nietrzeźwego sprawcę awantury domowej policjant może zatrzymać, gdy swoim zachowaniem w sposób oczywisty stwarza bezpośrednie zagrożenie:",
+  "poprawna": "dla życia lub zdrowia ludzkiego, a także dla mienia",
+  "bledne": [
+   "tylko dla życia ludzkiego",
+   "dla życia lub zdrowia ludzkiego, jeżeli współmałżonek złoży pisemny wniosek",
+   "tylko dla zdrowia ludzkiego"
+  ],
+  "wyjasnienie": "Art. 15 ust. 1 pkt 3 ustawy o Policji. Wniosek pokrzywdzonego nie jest potrzebny.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "87d4deca7d",
+  "temat": "3–4. Podstawy prawne i faktyczne zatrzymania",
+  "pytanie": "Art. 15 ust. 1 pkt 2a ustawy o Policji reguluje zatrzymanie osoby:",
+  "poprawna": "która na podstawie zezwolenia właściwego organu opuściła areszt śledczy albo zakład karny i nie powróciła do niego w wyznaczonym terminie",
+  "bledne": [
+   "która swoim zachowaniem powoduje realne bezpośrednie zagrożenie dla życia lub zdrowia ludzkiego albo mienia",
+   "poszukiwanej przez sąd, która nie stawiła się do odbycia kary pozbawienia wolności",
+   "poszukiwanej przez Policję na podstawie przepisów kpk oraz innych ustaw"
+  ],
+  "wyjasnienie": "Art. 15 ust. 1 pkt 2a: osoby pozbawione wolności, które uciekły z aresztu, zakładu karnego, strzeżonego ośrodka lub aresztu dla cudzoziemców, uciekły w trakcie konwojowania lub zatrudnienia albo nie powróciły w terminie z zezwolenia lub przerwy w karze (zatrzymanie penitencjarne).",
+  "zrodlo": "test"
+ },
+ {
+  "id": "b10f39cc60",
+  "temat": "3–4. Podstawy prawne i faktyczne zatrzymania",
+  "pytanie": "Zatrzymanie i przymusowe doprowadzenie (art. 75 § 2 k.p.k.) można zastosować wobec:",
+  "poprawna": "oskarżonego, który bez usprawiedliwienia nie stawia się na wezwanie organu prowadzącego postępowanie",
+  "bledne": [
+   "podejrzanego, który bez usprawiedliwienia nie stawia się na dozór kuratora",
+   "biegłego albo świadka, który nie stawia się na wezwanie",
+   "obwinionego, który nie odbiera korespondencji"
+  ],
+  "wyjasnienie": "Art. 75 § 2 k.p.k.: w razie nieusprawiedliwionego niestawiennictwa oskarżonego można go zatrzymać i sprowadzić przymusowo (przepis stosuje się też do podejrzanego – art. 71 § 3). Obwiniony to strona postępowania w sprawach o wykroczenia.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "43b9065b3c",
+  "temat": "5. Prawa osoby zatrzymanej",
+  "pytanie": "Zatrzymanemu na jego żądanie należy niezwłocznie umożliwić:",
+  "poprawna": "nawiązanie w dostępnej formie kontaktu z adwokatem lub radcą prawnym, a także bezpośrednią z nimi rozmowę",
+  "bledne": [
+   "bezpośredni kontakt z rodziną",
+   "jedynie jedną rozmowę telefoniczną z dowolną osobą",
+   "kontakt z obrońcą tylko za zgodą kierownika jednostki Policji"
+  ],
+  "wyjasnienie": "Art. 245 § 1 k.p.k. W wyjątkowych wypadkach zatrzymujący może zastrzec, że będzie obecny przy rozmowie. O zatrzymaniu zawiadamia się osobę najbliższą (art. 245 § 3 w zw. z art. 261), ale bezpośredni kontakt z rodziną nie jest prawem zatrzymanego.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "8c90a26985",
+  "temat": "5. Prawa osoby zatrzymanej",
+  "pytanie": "Zatrzymanemu należy niezwłocznie umożliwić nawiązanie w dostępnej formie kontaktu z adwokatem lub radcą prawnym. Następuje to:",
+  "poprawna": "na żądanie zatrzymanego",
+  "bledne": [
+   "po wydaniu decyzji przez sąd",
+   "na wniosek kierownika jednostki Policji",
+   "zawsze z urzędu, bez względu na wolę zatrzymanego"
+  ],
+  "wyjasnienie": "Art. 245 § 1 k.p.k.: „Zatrzymanemu NA JEGO ŻĄDANIE należy niezwłocznie umożliwić…”.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "e172907206",
+  "temat": "5. Prawa osoby zatrzymanej",
+  "pytanie": "Zgodnie z Kodeksem postępowania karnego zatrzymanego należy poinformować o przyczynach zatrzymania i o przysługujących mu prawach:",
+  "poprawna": "natychmiast",
+  "bledne": [
+   "nagle",
+   "bezzwłocznie",
+   "niezwłocznie"
+  ],
+  "wyjasnienie": "Art. 244 § 2 k.p.k.: „Zatrzymanego należy NATYCHMIAST poinformować…”. Tak samo przy wykroczeniu (art. 46 § 1 k.p.w.) i nieletnim (art. 48 ust. 3 ustawy o wspieraniu i resocjalizacji nieletnich).",
+  "zrodlo": "test"
+ },
+ {
+  "id": "c29a795b74",
+  "temat": "5. Prawa osoby zatrzymanej",
+  "pytanie": "Prawo osoby zatrzymanej do poinformowania jej przez organ zatrzymujący o przyczynie zatrzymania obejmuje podanie jej wiadomości:",
+  "poprawna": "podstawy prawnej i faktycznej zatrzymania",
+  "bledne": [
+   "miejsca doprowadzenia",
+   "rzeczywistego powodu zatrzymania",
+   "przypuszczalnego czasu zatrzymania"
+  ],
+  "wyjasnienie": "Poinformowanie o przyczynie (art. 244 § 2 k.p.k., art. 5 ust. 2 EKPC) oznacza wskazanie, na jakiej podstawie prawnej i z jakich faktycznych powodów osobę zatrzymano, a przy k.p.k. także o jakie przestępstwo się ją podejrzewa.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "dd6e642a5a",
+  "temat": "5. Prawa osoby zatrzymanej",
+  "pytanie": "Policjant, dokonując zatrzymania prewencyjnego osoby, której zachowanie wskazywało, że jest pod wpływem alkoholu, nie poinformował jej o przysługujących prawach. Postępowanie funkcjonariusza było:",
+  "poprawna": "prawidłowe, gdyż w przypadku gdy osoba jest pod wpływem alkoholu poinformowanie o przysługujących prawach wykonuje się po ustaniu przyczyny zakłócającej świadomość osoby zatrzymanej",
+  "bledne": [
+   "nieprawidłowe, powinien poinformować o prawach zatrzymanego na miejscu zatrzymania, niezwłocznie po jego dokonaniu",
+   "prawidłowe, ale tylko w przypadku gdy niezwłocznie po przybyciu do jednostki Policji poinformował zatrzymanego o jego prawach",
+   "niedopuszczalne, gdyż nie informując o prawach pozbawiamy zatrzymanego jego konstytucyjnych praw"
+  ],
+  "wyjasnienie": "§ 9 ust. 3 rozporządzenia Rady Ministrów z 8 listopada 2023 r. w sprawie postępowania przy wykonywaniu niektórych uprawnień policjantów: jeżeli zatrzymany jest pod wpływem alkoholu lub ma zakłóconą świadomość, informowanie o prawach i doręczenie kopii protokołu następują po ustaniu przyczyn zakłócających świadomość.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "521493cce9",
+  "temat": "5. Prawa osoby zatrzymanej",
+  "pytanie": "Osoba zatrzymana ma prawo złożenia zażalenia na zasadność, legalność i prawidłowość zatrzymania do:",
+  "poprawna": "sądu",
+  "bledne": [
+   "komendanta właściwej jednostki Policji",
+   "prokuratora",
+   "inspektora generalnego"
+  ],
+  "wyjasnienie": "Art. 246 § 1 k.p.k. Zażalenie przekazuje się niezwłocznie sądowi rejonowemu miejsca zatrzymania lub prowadzenia postępowania (§ 2).",
+  "zrodlo": "test"
+ },
+ {
+  "id": "861360561e",
+  "temat": "5. Prawa osoby zatrzymanej",
+  "pytanie": "Osobie zatrzymanej na gorącym uczynku popełnienia wykroczenia, której tożsamości nie można ustalić, przysługuje zażalenie na zatrzymanie do sądu. W zażaleniu tym zatrzymany może domagać się zbadania:",
+  "poprawna": "zasadności, legalności i prawidłowości zatrzymania",
+  "bledne": [
+   "zasadności, prawidłowości i rzetelności zatrzymania",
+   "subiektywności, legalności i prawidłowości zatrzymania",
+   "zasadności, legalności i obiektywności zatrzymania"
+  ],
+  "wyjasnienie": "Art. 47 § 1 k.p.w. (tak samo art. 246 § 1 k.p.k.): zasadność, legalność, prawidłowość.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "f2bcca7091",
+  "temat": "5. Prawa osoby zatrzymanej",
+  "pytanie": "Osobie zatrzymanej przysługuje prawo złożenia zażalenia na sposób przeprowadzenia czynności zatrzymania do:",
+  "poprawna": "właściwego miejscowo prokuratora",
+  "bledne": [
+   "sądu",
+   "sądu w ciągu 7 dni",
+   "prokuratury bez wskazania właściwości miejscowej"
+  ],
+  "wyjasnienie": "Art. 15 ust. 7 ustawy o Policji: na SPOSÓB prowadzenia czynności przysługuje zażalenie do właściwego miejscowo prokuratora. Zasadność, legalność i prawidłowość zatrzymania bada sąd (art. 246 k.p.k.).",
+  "zrodlo": "test"
+ },
+ {
+  "id": "867b2a3b2a",
+  "temat": "5. Prawa osoby zatrzymanej",
+  "pytanie": "Prawa osoby pozbawionej wolności wynikają z art. 5 Konwencji o ochronie praw człowieka i podstawowych wolności. Zgodnie z nim każdy zatrzymany powinien zostać:",
+  "poprawna": "niezwłocznie poinformowany w zrozumiałym dla niego języku o przyczynach zatrzymania i o stawianych mu zarzutach",
+  "bledne": [
+   "poinformowany o przyczynach zatrzymania dopiero przed sądem",
+   "poinformowany o przyczynach zatrzymania wyłącznie na piśmie, w języku urzędowym państwa",
+   "zwolniony, jeżeli nie przyzna się do zarzucanego czynu"
+  ],
+  "wyjasnienie": "Art. 5 ust. 2 EKPC. Konwencja wymaga też, by zatrzymany był niezwłocznie postawiony przed sędzią (ust. 3) i mógł odwołać się do sądu (ust. 4).",
+  "zrodlo": "wlasne"
+ },
+ {
+  "id": "4c0a5a4cfb",
+  "temat": "5. Prawa osoby zatrzymanej",
+  "pytanie": "W sprawie Witold Litwa przeciwko Polsce (wyrok z 4 kwietnia 2000 r.) Europejski Trybunał Praw Człowieka stwierdził naruszenie art. 5 ust. 1 Konwencji, ponieważ:",
+  "poprawna": "osobę niewidomą doprowadzono do izby wytrzeźwień, choć nie było to konieczne, a można było zastosować łagodniejsze środki",
+  "bledne": [
+   "policjanci nie zawiadomili rodziny zatrzymanego",
+   "zatrzymanie trwało dłużej niż 48 godzin",
+   "zatrzymanemu nie zapewniono tłumacza"
+  ],
+  "wyjasnienie": "Trybunał uznał, że pozbawienie wolności osoby nietrzeźwej musi być ostatecznością – gdy wystarczą łagodniejsze środki, zatrzymanie jest arbitralne. Odpowiada to art. 15 ust. 3 ustawy o Policji: zatrzymanie tylko wtedy, gdy inne środki okazały się bezcelowe lub nieskuteczne.",
+  "zrodlo": "wlasne"
+ },
+ {
+  "id": "fdacc45835",
+  "temat": "6. Czas zatrzymania i czynności podobne",
+  "pytanie": "Czas zatrzymania osoby przez Policję liczy się od chwili:",
+  "poprawna": "faktycznego pozbawienia jej wolności",
+  "bledne": [
+   "sporządzenia protokołu jej zatrzymania",
+   "doprowadzenia jej do jednostki organizacyjnej Policji",
+   "podpisania protokołu zatrzymania"
+  ],
+  "wyjasnienie": "Art. 248 § 1 k.p.k. – „od chwili zatrzymania”, czyli faktycznego pozbawienia wolności. Przy wykroczeniach – od chwili ujęcia (art. 46 § 6 k.p.w.).",
+  "zrodlo": "test"
+ },
+ {
+  "id": "f5ea639d68",
+  "temat": "6. Czas zatrzymania i czynności podobne",
+  "pytanie": "Zatrzymanego należy zwolnić, jeżeli w ciągu ilu godzin od chwili zatrzymania nie zostanie on przekazany do dyspozycji sądu wraz z wnioskiem o zastosowanie tymczasowego aresztowania?",
+  "poprawna": "48",
+  "bledne": [
+   "24",
+   "72",
+   "36"
+  ],
+  "wyjasnienie": "Art. 248 § 1 k.p.k.: 48 godzin. Sąd ma potem 24 godziny na doręczenie lub ogłoszenie postanowienia o areszcie (§ 2) – łącznie maksymalnie 72 godziny.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "fe8b8ef929",
+  "temat": "6. Czas zatrzymania i czynności podobne",
+  "pytanie": "Osobę zatrzymaną należy natychmiast zwolnić, gdy:",
+  "poprawna": "ustanie przyczyna zatrzymania",
+  "bledne": [
+   "wynika to z decyzji kierownika jednostki organizacyjnej Policji",
+   "złoży ona zażalenie do właściwego prokuratora na sposób zatrzymania",
+   "posiada widoczne obrażenie ciała"
+  ],
+  "wyjasnienie": "Art. 248 § 1 k.p.k. (oraz art. 46 § 5 k.p.w.). Zwalnia się też na polecenie sądu lub prokuratora.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "c2ada620f1",
+  "temat": "6. Czas zatrzymania i czynności podobne",
+  "pytanie": "Osobę zatrzymaną, a następnie zwolnioną, można ponownie zatrzymać w tej samej sprawie:",
+  "poprawna": "jeżeli zostaną ujawnione nowe dowody i fakty w tej sprawie",
+  "bledne": [
+   "tylko raz, gdy zarządzi to kierownik jednostki organizacyjnej Policji",
+   "jeżeli jest to konieczne dla dobra prowadzonej sprawy",
+   "jeżeli czas jej zatrzymania nie przekroczył 48 godzin"
+  ],
+  "wyjasnienie": "Art. 248 § 3 k.p.k.: ponowne zatrzymanie osoby podejrzanej na podstawie TYCH SAMYCH faktów i dowodów jest niedopuszczalne. Możliwe jest więc tylko w razie ujawnienia nowych.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "ff1dc1a5f8",
+  "temat": "6. Czas zatrzymania i czynności podobne",
+  "pytanie": "Policja ma prawo zatrzymać osobę ujętą na gorącym uczynku popełnienia wykroczenia lub bezpośrednio potem, jeżeli nie można ustalić jej tożsamości. Czas zatrzymania w tym przypadku nie może przekroczyć:",
+  "poprawna": "24 godzin",
+  "bledne": [
+   "12 godzin",
+   "48 godzin",
+   "72 godzin"
+  ],
+  "wyjasnienie": "Art. 46 § 6 k.p.w.: 24 godziny. 48 godzin – gdy zatrzymano w związku z postępowaniem przyspieszonym (art. 45 § 1 pkt 1).",
+  "zrodlo": "test"
+ },
+ {
+  "id": "ce59ccfa7a",
+  "temat": "6. Czas zatrzymania i czynności podobne",
+  "pytanie": "Do ilu godzin maksymalnie osoba doprowadzona do izby wytrzeźwień, placówki albo jednostki Policji może pozostać tam do wytrzeźwienia?",
+  "poprawna": "24",
+  "bledne": [
+   "48",
+   "64",
+   "72"
+  ],
+  "wyjasnienie": "Art. 40 ustawy o wychowaniu w trzeźwości i przeciwdziałaniu alkoholizmowi: do wytrzeźwienia, nie dłużej niż 24 godziny. Doprowadzenie w celu wytrzeźwienia jest czynnością podobną do zatrzymania.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "e573cdd81f",
+  "temat": "7. Bezpieczeństwo podczas zatrzymania i badania lekarskie",
+  "pytanie": "Przystępując do zatrzymania osoby, policjant zobowiązany jest:",
+  "poprawna": "sprawdzić, czy osoba zatrzymana posiada broń lub niebezpieczne narzędzia",
+  "bledne": [
+   "znać tożsamość osoby zatrzymanej",
+   "sprawdzić stan trzeźwości osoby zatrzymanej",
+   "uzyskać zgodę dyżurnego jednostki lub bezpośredniego przełożonego"
+  ],
+  "wyjasnienie": "§ 8 ust. 1 pkt 2 rozporządzenia RM z 8 listopada 2023 r.: policjant dokonuje sprawdzenia prewencyjnego, a w szczególności sprawdza, czy osoba posiada broń lub inne niebezpieczne przedmioty, i je odbiera.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "ff64433359",
+  "temat": "7. Bezpieczeństwo podczas zatrzymania i badania lekarskie",
+  "pytanie": "Osobę zatrzymaną należy niezwłocznie poddać badaniu lekarskiemu lub udzielić jej pierwszej pomocy medycznej:",
+  "poprawna": "w przypadku uzasadnionej potrzeby",
+  "bledne": [
+   "zawsze, gdy jest nietrzeźwa",
+   "przy każdym zatrzymaniu",
+   "tylko na polecenie dyżurnego jednostki"
+  ],
+  "wyjasnienie": "Art. 15 ust. 5 ustawy o Policji: „niezwłocznie poddać – w razie uzasadnionej potrzeby – badaniu lekarskiemu lub udzielić pierwszej pomocy medycznej”.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "108eaf8f4b",
+  "temat": "7. Bezpieczeństwo podczas zatrzymania i badania lekarskie",
+  "pytanie": "Obowiązek poddania osoby zatrzymanej badaniu lekarskiemu zachodzi, gdy:",
+  "poprawna": "posiada widoczne obrażenia ciała niewskazujące na stan nagłego zagrożenia życia i zdrowia",
+  "bledne": [
+   "stwierdzono, że jest ona osobą bezdomną",
+   "zatrzymanie może pogorszyć stan jej zdrowia",
+   "zatrzymanie nastąpiło w związku z popełnieniem przestępstwa z art. 280 k.k"
+  ],
+  "wyjasnienie": "§ 1 ust. 3 pkt 1 rozporządzenia MSW o badaniach lekarskich osób zatrzymanych przez Policję. Przy stanie nagłego zagrożenia zdrowotnego udziela się pierwszej pomocy i wzywa dyspozytora medycznego (§ 1 ust. 1–2).",
+  "zrodlo": "test"
+ },
+ {
+  "id": "88a2e3c072",
+  "temat": "7. Bezpieczeństwo podczas zatrzymania i badania lekarskie",
+  "pytanie": "Osobę zatrzymaną poddaje się badaniu lekarskiemu w przypadku, gdy:",
+  "poprawna": "jest nieletnim po spożyciu alkoholu",
+  "bledne": [
+   "jest osobą chorą",
+   "żąda tego osoba trzecia",
+   "policjant podejmie taką decyzję"
+  ],
+  "wyjasnienie": "§ 1 ust. 3 pkt 2 lit. e rozporządzenia o badaniach lekarskich. Badanie jest obowiązkowe także m.in. u kobiety w ciąży lub karmiącej, osoby chorej zakaźnie, z zaburzeniami psychicznymi i na żądanie samego zatrzymanego.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "a08e2d98ff",
+  "temat": "7. Bezpieczeństwo podczas zatrzymania i badania lekarskie",
+  "pytanie": "Jeżeli osoba zatrzymana oświadcza, że cierpi na chorobę zakaźną, badanie lekarskie jest:",
+  "poprawna": "obowiązkowe",
+  "bledne": [
+   "wykonywane tylko na jej żądanie",
+   "wykonywane tylko wtedy, gdy jest to istotne dla ubezpieczenia zdrowotnego",
+   "wykonywane wyłącznie wtedy, gdy policjant uzna je za potrzebne"
+  ],
+  "wyjasnienie": "§ 1 ust. 3 pkt 2 lit. c rozporządzenia o badaniach lekarskich: osoba chora zakaźnie. Obowiązkowe jest też badanie osoby, która oświadcza, że cierpi na schorzenie wymagające stałego leczenia (pkt 1).",
+  "zrodlo": "test"
+ },
+ {
+  "id": "7411241a0c",
+  "temat": "7. Bezpieczeństwo podczas zatrzymania i badania lekarskie",
+  "pytanie": "Przewiezienie osoby zatrzymanej do najbliższego podmiotu leczniczego w celu przeprowadzenia badania lekarskiego zapewnia:",
+  "poprawna": "Policja",
+  "bledne": [
+   "zatrzymany we własnym zakresie",
+   "prokurator",
+   "sąd"
+  ],
+  "wyjasnienie": "§ 3 ust. 1 rozporządzenia o badaniach lekarskich osób zatrzymanych przez Policję.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "fca96c00a1",
+  "temat": "7. Bezpieczeństwo podczas zatrzymania i badania lekarskie",
+  "pytanie": "Decyzję o obecności policjanta w trakcie badania lekarskiego osoby zatrzymanej podejmuje:",
+  "poprawna": "lekarz wykonujący badanie",
+  "bledne": [
+   "policjant konwojujący",
+   "dyżurny jednostki Policji",
+   "osoba zatrzymana"
+  ],
+  "wyjasnienie": "§ 4 ust. 2 rozporządzenia o badaniach lekarskich. Badanie przeprowadza się niezwłocznie, w miarę możliwości przed innymi oczekującymi (§ 4 ust. 1).",
+  "zrodlo": "wlasne"
+ },
+ {
+  "id": "d3572c8eb1",
+  "temat": "8. Zatrzymanie ze względu na status prawny",
+  "pytanie": "Policjant ma prawo zatrzymać osobę ujętą na gorącym uczynku popełnienia wykroczenia, jeżeli:",
+  "poprawna": "nie posiada przy sobie dokumentu tożsamości i odmówiła podania swoich danych personalnych, przez co nie można ustalić jej tożsamości",
+  "bledne": [
+   "nie posiada przy sobie dokumentu stwierdzającego tożsamość",
+   "zachodzą podstawy do prowadzenia postępowania nakazowego",
+   "czyn popełniła wspólnie i w porozumieniu z osobą nieletnią"
+  ],
+  "wyjasnienie": "Art. 45 § 1 pkt 2 k.p.w.: nie można ustalić tożsamości. Sam brak dokumentu nie wystarcza, jeśli tożsamość da się ustalić inaczej. Drugą podstawą jest tryb PRZYSPIESZONY (pkt 1), nie nakazowy.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "821f0a56f2",
+  "temat": "8. Zatrzymanie ze względu na status prawny",
+  "pytanie": "Policja ma prawo zatrzymać osobę ujętą na gorącym uczynku popełnienia wykroczenia lub bezpośrednio potem, jeżeli:",
+  "poprawna": "zachodzą podstawy do zastosowania wobec niej postępowania przyspieszonego",
+  "bledne": [
+   "nie można ustalić jej danych kontaktowych",
+   "mieszka daleko od miejsca popełnienia wykroczenia",
+   "nie przyznaje się do wykroczenia"
+  ],
+  "wyjasnienie": "Art. 45 § 1 pkt 1 k.p.w. Wtedy zatrzymanie może trwać do 48 godzin (art. 46 § 6).",
+  "zrodlo": "test"
+ },
+ {
+  "id": "efeae4e56a",
+  "temat": "8. Zatrzymanie ze względu na status prawny",
+  "pytanie": "Podstawą zatrzymania nieletniego podejrzanego o czyn karalny w postaci rozboju i umieszczenia go w policyjnej izbie dziecka jest:",
+  "poprawna": "art. 48 ustawy o wspieraniu i resocjalizacji nieletnich",
+  "bledne": [
+   "art. 32g uchylonej ustawy o postępowaniu w sprawach nieletnich",
+   "art. 244 § 1 Kodeksu postępowania karnego",
+   "art. 40 § 1 uchylonej ustawy o postępowaniu w sprawach nieletnich"
+  ],
+  "wyjasnienie": "Ustawa z 9 czerwca 2022 r. o wspieraniu i resocjalizacji nieletnich zastąpiła ustawę o postępowaniu w sprawach nieletnich. Art. 48 ust. 1: uzasadnione przypuszczenie czynu karalnego i obawa ucieczki, ukrycia się, zatarcia śladów albo brak możliwości ustalenia tożsamości.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "b7928b492d",
+  "temat": "8. Zatrzymanie ze względu na status prawny",
+  "pytanie": "O fakcie i przyczynie zatrzymania nieletniego, a także o jego umieszczeniu w policyjnej izbie dziecka, Policja zawiadamia bezzwłocznie:",
+  "poprawna": "sąd rodzinny oraz rodziców albo opiekuna nieletniego",
+  "bledne": [
+   "dyżurnego jednostki",
+   "właściwego miejscowo prokuratora",
+   "sąd rejonowy"
+  ],
+  "wyjasnienie": "Art. 48 ust. 5 ustawy o wspieraniu i resocjalizacji nieletnich: sąd rodzinny (z kopią protokołu) i rodziców albo opiekuna.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "c5def700f2",
+  "temat": "8. Zatrzymanie ze względu na status prawny",
+  "pytanie": "Nieletni zatrzymany w trakcie samowolnego pobytu poza zakładem poprawczym może zostać umieszczony w policyjnej izbie dziecka na czas nie dłuższy niż:",
+  "poprawna": "5 dni",
+  "bledne": [
+   "48 godzin",
+   "72 godziny",
+   "14 dni"
+  ],
+  "wyjasnienie": "Art. 49 ust. 1 pkt 2 ustawy o wspieraniu i resocjalizacji nieletnich: na czas niezbędny do przekazania, nie dłużej niż 5 dni. Przerwa w konwoju – do 24 godzin, polecenie sądu rodzinnego – do 48 godzin (art. 50).",
+  "zrodlo": "test"
+ },
+ {
+  "id": "eae6fc8996",
+  "temat": "8. Zatrzymanie ze względu na status prawny",
+  "pytanie": "Zatrzymanego nieletniego należy natychmiast zwolnić i przekazać rodzicowi, jeżeli Policja nie przekazała sądowi rodzinnemu całości materiałów w ciągu:",
+  "poprawna": "24 godzin od chwili zatrzymania",
+  "bledne": [
+   "48 godzin od chwili zatrzymania",
+   "72 godzin od chwili zatrzymania",
+   "12 godzin od chwili zatrzymania"
+  ],
+  "wyjasnienie": "Art. 48 ust. 9 pkt 3 ustawy o wspieraniu i resocjalizacji nieletnich. Sąd ma potem kolejne 24 godziny na ogłoszenie postanowienia o środku tymczasowym (pkt 4).",
+  "zrodlo": "wlasne"
+ },
+ {
+  "id": "18106310df",
+  "temat": "8. Zatrzymanie ze względu na status prawny",
+  "pytanie": "Policjant ma prawo zatrzymać cudzoziemca, wobec którego zachodzą okoliczności uzasadniające wydanie decyzji o zobowiązaniu do powrotu, na podstawie:",
+  "poprawna": "art. 394 ustawy o cudzoziemcach",
+  "bledne": [
+   "art. 612 w zw. z art. 244 Kodeksu postępowania karnego",
+   "art. 45 Kodeksu postępowania w sprawach o wykroczenia w zw. z art. 243 Kodeksu postępowania karnego",
+   "art. 105 ustawy o cudzoziemcach"
+  ],
+  "wyjasnienie": "Art. 394 ust. 1 ustawy o cudzoziemcach: zatrzymanie na okres nie dłuższy niż 48 godzin.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "96032139c7",
+  "temat": "8. Zatrzymanie ze względu na status prawny",
+  "pytanie": "Osoba korzystająca z immunitetu senatora Rzeczypospolitej Polskiej może być zatrzymana bez zgody Senatu:",
+  "poprawna": "w razie ujęcia na gorącym uczynku przestępstwa, jeżeli zatrzymanie jest niezbędne do zapewnienia prawidłowego toku postępowania",
+  "bledne": [
+   "na polecenie sądu",
+   "po uprzednim poinformowaniu Marszałka Senatu",
+   "w każdym przypadku podejrzenia popełnienia przestępstwa"
+  ],
+  "wyjasnienie": "Art. 105 ust. 5 w zw. z art. 108 Konstytucji RP. O zatrzymaniu niezwłocznie powiadamia się Marszałka Senatu, który może nakazać natychmiastowe zwolnienie.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "5fb6108b83",
+  "temat": "9–12. Taktyka i czynności policjanta, prawa człowieka",
+  "pytanie": "Jeżeli z posiadanych informacji wynika, że zatrzymywana osoba może mieć broń lub inne niebezpieczne przedmioty, policjant, przystępując do zatrzymania:",
+  "poprawna": "poprzedza je okrzykiem „Policja!”, a następnie dokonuje sprawdzenia prewencyjnego i odbiera broń",
+  "bledne": [
+   "najpierw legitymuje osobę, a dopiero potem sprawdza, czy ma broń",
+   "musi uzyskać zgodę dyżurnego na użycie broni palnej",
+   "odstępuje od zatrzymania do czasu przybycia kontrterrorystów"
+  ],
+  "wyjasnienie": "§ 8 ust. 2 rozporządzenia RM z 8 listopada 2023 r.: okrzyk „Policja!”, sprawdzenie prewencyjne i odebranie broni, czynności z § 2, legitymowanie, poinformowanie o zatrzymaniu i doprowadzenie.",
+  "zrodlo": "wlasne"
+ },
+ {
+  "id": "18dcfb496f",
+  "temat": "9–12. Taktyka i czynności policjanta, prawa człowieka",
+  "pytanie": "Po doprowadzeniu osoby zatrzymanej do jednostki organizacyjnej Policji policjant m.in.:",
+  "poprawna": "informuje ją o prawach, wysłuchuje, sporządza protokół, doręcza kopię protokołu i zawiadamia prokuratora",
+  "bledne": [
+   "zawiadamia sąd rodzinny i pracodawcę zatrzymanego",
+   "czeka z protokołem na decyzję prokuratora",
+   "zawiadamia rodzinę zatrzymanego, nawet gdy ten tego nie chce"
+  ],
+  "wyjasnienie": "§ 9 ust. 1 rozporządzenia RM z 8 listopada 2023 r. Prokuratora nie zawiadamia się przy zatrzymaniu penitencjarnym z art. 15 ust. 1 pkt 2a (§ 9 ust. 2).",
+  "zrodlo": "wlasne"
+ },
+ {
+  "id": "107d3b7f5b",
+  "temat": "9–12. Taktyka i czynności policjanta, prawa człowieka",
+  "pytanie": "Zatrzymanie osoby na podstawie ustawy o Policji może być zastosowane:",
+  "poprawna": "tylko wówczas, gdy inne środki okazały się bezcelowe lub nieskuteczne",
+  "bledne": [
+   "zawsze, gdy policjant uzna to za celowe",
+   "wyłącznie za zgodą prokuratora",
+   "tylko wobec osób pełnoletnich"
+  ],
+  "wyjasnienie": "Art. 15 ust. 3 ustawy o Policji – zasada ostateczności. Czynności wykonuje się w sposób możliwie najmniej naruszający dobra osobiste (ust. 6).",
+  "zrodlo": "wlasne"
+ },
+ {
+  "id": "dea840c470",
+  "temat": "9–12. Taktyka i czynności policjanta, prawa człowieka",
+  "pytanie": "Zgodnie z zasadą równego traktowania policjant podczas zatrzymania nie może różnicować traktowania osoby m.in. ze względu na:",
+  "poprawna": "kolor skóry, pochodzenie etniczne, religię, orientację seksualną lub niepełnosprawność",
+  "bledne": [
+   "status prawny zatrzymania (np. sprawca wykroczenia albo przestępstwa)",
+   "stopień zagrożenia, jaki stwarza zatrzymywany",
+   "to, czy zatrzymywany posiada broń"
+  ],
+  "wyjasnienie": "Poradnik JS06 wymienia obowiązek równego, niedyskryminacyjnego traktowania m.in. bez względu na kolor skóry, pochodzenie, religię, orientację seksualną, tożsamość płciową, niepełnosprawność czy sytuację materialną. Status prawny i zagrożenie wpływają natomiast na tryb i taktykę zatrzymania.",
+  "zrodlo": "wlasne"
+ },
+ {
+  "id": "03bbc10785",
+  "temat": "13. Dokumentacja zatrzymania",
+  "pytanie": "Z czynności zatrzymania osoby policjant sporządza protokół zatrzymania osoby:",
+  "poprawna": "niezwłocznie po doprowadzeniu zatrzymanego do jednostki organizacyjnej Policji",
+  "bledne": [
+   "dopiero po osadzeniu zatrzymanego w pomieszczeniu dla osób zatrzymanych",
+   "po zakończeniu wszystkich czynności przez grupę dochodzeniowo-śledczą",
+   "wyłącznie w obecności prokuratora albo kierownika jednostki"
+  ],
+  "wyjasnienie": "§ 9 ust. 1 pkt 3 rozporządzenia RM z 8 listopada 2023 r. (po doprowadzeniu do jednostki). Kopię protokołu doręcza się zatrzymanemu za potwierdzeniem odbioru.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "549521639f",
+  "temat": "13. Dokumentacja zatrzymania",
+  "pytanie": "W protokole zatrzymania, w razie niemożności ustalenia tożsamości osoby zatrzymanej, należy podać:",
+  "poprawna": "jej rysopis",
+  "bledne": [
+   "wyłącznie numer protokołu",
+   "dane osoby, która ją ujęła",
+   "przypuszczalne imię i nazwisko podane przez świadków"
+  ],
+  "wyjasnienie": "Art. 244 § 3 k.p.k. i art. 46 § 2 k.p.w.: imię, nazwisko i funkcję zatrzymującego, dane zatrzymanego, a w razie niemożności ustalenia tożsamości – rysopis, oraz dzień, godzinę, miejsce i przyczynę zatrzymania.",
+  "zrodlo": "wlasne"
+ }
+]
