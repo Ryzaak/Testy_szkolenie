@@ -1,0 +1,783 @@
+[
+ {
+  "id": "bd7a493c1b",
+  "temat": "1–5. Historia Policji i związki zawodowe",
+  "pytanie": "Policja, w której służymy, powstała na mocy Ustawy o Policji.",
+  "poprawna": "Prawda",
+  "bledne": [
+   "Fałsz"
+  ],
+  "wyjasnienie": "Ustawa z 6 kwietnia 1990 r. o Policji powołała Policję w miejsce Milicji Obywatelskiej.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "b689e27e97",
+  "temat": "1–5. Historia Policji i związki zawodowe",
+  "pytanie": "Policja Państwowa powstała na mocy ustawy z dnia 2 lutego 1918 r.",
+  "poprawna": "Fałsz",
+  "bledne": [
+   "Prawda"
+  ],
+  "wyjasnienie": "Policję Państwową powołała ustawa z 24 lipca 1919 r. o Policji Państwowej.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "d303833e95",
+  "temat": "1–5. Historia Policji i związki zawodowe",
+  "pytanie": "Policja Państwowa została powołana ustawą z dnia 24 czerwca 1919 r. Na pamiątkę tego wydarzenia do dziś obchodzimy Święto Policji właśnie 24 czerwca.",
+  "poprawna": "Fałsz",
+  "bledne": [
+   "Prawda"
+  ],
+  "wyjasnienie": "Ustawa o Policji Państwowej jest z 24 LIPCA 1919 r. i to 24 lipca obchodzimy Święto Policji.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "7401aba934",
+  "temat": "1–5. Historia Policji i związki zawodowe",
+  "pytanie": "Insp. gen. Władysław Henszel był pierwszym komendantem Milicji Obywatelskiej.",
+  "poprawna": "Fałsz",
+  "bledne": [
+   "Prawda"
+  ],
+  "wyjasnienie": "Władysław Henszel był pierwszym Komendantem Głównym POLICJI PAŃSTWOWEJ (1919–1922). Pierwszym komendantem głównym MO był Franciszek Jóźwiak.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "d0d147c4e2",
+  "temat": "1–5. Historia Policji i związki zawodowe",
+  "pytanie": "Pierwszym Komendantem Głównym Policji był nadinsp. Leszek Lamparski.",
+  "poprawna": "Prawda",
+  "bledne": [
+   "Fałsz"
+  ],
+  "wyjasnienie": "Leszek Lamparski kierował Policją od 1990 r., po jej utworzeniu ustawą z 6 kwietnia 1990 r.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "b2ce153134",
+  "temat": "1–5. Historia Policji i związki zawodowe",
+  "pytanie": "Służba w Policji Państwowej dzieliła się na mundurową, kryminalną i polityczną.",
+  "poprawna": "Prawda",
+  "bledne": [
+   "Fałsz"
+  ],
+  "wyjasnienie": "Wyróżniano policję ogólną (mundurową), kryminalną (śledczą) i polityczną – tę w 1926 r. włączono do służby śledczej (publikacja Biura Historii i Tradycji Policji).",
+  "zrodlo": "test"
+ },
+ {
+  "id": "6ff70c652a",
+  "temat": "1–5. Historia Policji i związki zawodowe",
+  "pytanie": "W Policji Państwowej służby nie mogły pełnić kobiety.",
+  "poprawna": "Fałsz",
+  "bledne": [
+   "Prawda"
+  ],
+  "wyjasnienie": "Od 1925 r. działała Policja Kobieca (dowodziła nią m.in. Stanisława Paleolog), zajmująca się m.in. zwalczaniem handlu kobietami i ochroną nieletnich.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "875d899857",
+  "temat": "1–5. Historia Policji i związki zawodowe",
+  "pytanie": "Kobiety nie mogły służyć w Milicji Obywatelskiej.",
+  "poprawna": "Fałsz",
+  "bledne": [
+   "Prawda"
+  ],
+  "wyjasnienie": "Kobiety pełniły służbę w MO.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "359d3033d3",
+  "temat": "1–5. Historia Policji i związki zawodowe",
+  "pytanie": "Policja Grafitowa to inna nazwa Policji Państwowej. Nazwa pochodzi od szarego koloru mundurów.",
+  "poprawna": "Fałsz",
+  "bledne": [
+   "Prawda"
+  ],
+  "wyjasnienie": "Zasadniczy kolor munduru Policji Państwowej był GRANATOWY (rozporządzenie z 2 marca 1920 r.) – PP nazywano „granatową armią”. Nazwy „policja grafitowa” nie ma.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "6675e0909b",
+  "temat": "1–5. Historia Policji i związki zawodowe",
+  "pytanie": "„Policja granatowa” funkcjonowała na terenie Generalnego Gubernatorstwa od końca 1939 r. pod nadzorem niemieckiej administracji.",
+  "poprawna": "Prawda",
+  "bledne": [
+   "Fałsz"
+  ],
+  "wyjasnienie": "Policję Polską Generalnego Gubernatorstwa powołały władze niemieckie jesienią 1939 r. Podlegała niemieckiej policji porządkowej. W teście literówka: „grantowa”.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "272eea32f1",
+  "temat": "1–5. Historia Policji i związki zawodowe",
+  "pytanie": "5 marca 1940 r. na podstawie pisemnego wniosku szefa NKWD Berii i za aprobatą Józefa Stalina zapadła decyzja o zagładzie polskich policjantów znajdujących się w sowieckich obozach jenieckich.",
+  "poprawna": "Prawda",
+  "bledne": [
+   "Fałsz"
+  ],
+  "wyjasnienie": "Decyzja Biura Politycznego WKP(b) z 5 marca 1940 r. Policjantów z obozu w Ostaszkowie zamordowano w Kalininie (Twer) i pogrzebano w Miednoje.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "ca2f58eaa9",
+  "temat": "1–5. Historia Policji i związki zawodowe",
+  "pytanie": "Policjanci więzieni w obozie w Ostaszkowie zostali zamordowani w Kalininie (Twerze) i pogrzebani w Miednoje.",
+  "poprawna": "Prawda",
+  "bledne": [
+   "Fałsz"
+  ],
+  "wyjasnienie": "Tak wskazuje poradnik JS09: Ostaszków – Kalinin – Miednoje. Jeńców z Kozielska zamordowano w Katyniu, a ze Starobielska – w Charkowie.",
+  "zrodlo": "wlasne"
+ },
+ {
+  "id": "79dde502cc",
+  "temat": "1–5. Historia Policji i związki zawodowe",
+  "pytanie": "Największa na świecie policyjna nekropolia znajduje się w Nowym Jorku.",
+  "poprawna": "Fałsz",
+  "bledne": [
+   "Prawda"
+  ],
+  "wyjasnienie": "Za największy cmentarz policjantów uważa się Polski Cmentarz Wojenny w Miednoje (ok. 6300 ofiar, w większości policjantów z Ostaszkowa).",
+  "zrodlo": "test"
+ },
+ {
+  "id": "ab176b7b96",
+  "temat": "1–5. Historia Policji i związki zawodowe",
+  "pytanie": "Słowa Roty przysięgi służbowej policjanta Policji Państwowej przetrwały w niezmienionej formie do dziś i wypowiada je każdy policjant wstępujący do służby.",
+  "poprawna": "Fałsz",
+  "bledne": [
+   "Prawda"
+  ],
+  "wyjasnienie": "Obecna rota ślubowania jest w art. 27 ust. 1 ustawy o Policji z 1990 r. i różni się od roty przysięgi PP.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "c8311a770b",
+  "temat": "1–5. Historia Policji i związki zawodowe",
+  "pytanie": "Skrót ZOMO oznacza Zmilitaryzowane Oddziały Milicji Obywatelskiej.",
+  "poprawna": "Fałsz",
+  "bledne": [
+   "Prawda"
+  ],
+  "wyjasnienie": "ZOMO to Zmotoryzowane Odwody Milicji Obywatelskiej.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "52e947124b",
+  "temat": "1–5. Historia Policji i związki zawodowe",
+  "pytanie": "Rozwinięcie skrótu ZOMO brzmi: Zmilitaryzowane Odwody Milicji Obywatelskiej.",
+  "poprawna": "Fałsz",
+  "bledne": [
+   "Prawda"
+  ],
+  "wyjasnienie": "ZOMO to ZMOTORYZOWANE (nie zmilitaryzowane) Odwody Milicji Obywatelskiej.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "7de91d7ed4",
+  "temat": "1–5. Historia Policji i związki zawodowe",
+  "pytanie": "Skrót ORMO oznacza Ochotnicze Rezerwy Milicji Obywatelskiej.",
+  "poprawna": "Fałsz",
+  "bledne": [
+   "Prawda"
+  ],
+  "wyjasnienie": "Pełna nazwa to Ochotnicza Rezerwa Milicji Obywatelskiej (liczba pojedyncza). UWAGA – niepewne: na teście ta różnica może być pominięta i twierdzenie uznane za prawdziwe.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "6cc6fd5c98",
+  "temat": "1–5. Historia Policji i związki zawodowe",
+  "pytanie": "Milicja Obywatelska została utworzona w 1944 r., a pierwszym jej komendantem głównym był Franciszek Jóźwiak.",
+  "poprawna": "Prawda",
+  "bledne": [
+   "Fałsz"
+  ],
+  "wyjasnienie": "MO powołano dekretem PKWN z 7 października 1944 r. Działała do 1990 r.",
+  "zrodlo": "wlasne"
+ },
+ {
+  "id": "918e9b7e8b",
+  "temat": "1–5. Historia Policji i związki zawodowe",
+  "pytanie": "Związki zawodowe policjantów funkcjonowały już za czasów Policji Państwowej.",
+  "poprawna": "Fałsz",
+  "bledne": [
+   "Prawda"
+  ],
+  "wyjasnienie": "Na początku 1919 r. próbowano utworzyć związek zawodowy (Związek Zawodowy Milicjantów), ale MSW wymusiło jego rozwiązanie. Ustawa o PP pozwalała należeć do związków i stowarzyszeń tylko za zezwoleniem (art. 63). Związek zawodowy policjantów powstał dopiero w 1989–1990 r. (NSZZ Policjantów). UWAGA – niepewne.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "d0457f0fca",
+  "temat": "1–5. Historia Policji i związki zawodowe",
+  "pytanie": "W Policji, jako formacji podległej MSWiA, nie mogą funkcjonować związki zawodowe.",
+  "poprawna": "Fałsz",
+  "bledne": [
+   "Prawda"
+  ],
+  "wyjasnienie": "Związki zawodowe w Policji działają na zasadach z art. 67 ustawy o Policji (m.in. NSZZ Policjantów).",
+  "zrodlo": "test"
+ },
+ {
+  "id": "af72d6ea81",
+  "temat": "6. Etyka zawodowa policjanta",
+  "pytanie": "Etyka to dział filozofii zajmujący się moralnością.",
+  "poprawna": "Prawda",
+  "bledne": [
+   "Fałsz"
+  ],
+  "wyjasnienie": "Definicja etyki z zajęć.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "e6e7732787",
+  "temat": "6. Etyka zawodowa policjanta",
+  "pytanie": "Etyka wobec prawa pełni funkcję subsydiarną, czyli inaczej pomocniczą.",
+  "poprawna": "Prawda",
+  "bledne": [
+   "Fałsz"
+  ],
+  "wyjasnienie": "Poradnik JS09: subsydiarny (pomocniczy) i komplementarny (uzupełniający) charakter etyki w stosunku do prawa.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "7e4eb8a738",
+  "temat": "6. Etyka zawodowa policjanta",
+  "pytanie": "Komplementarność oznacza uzupełnianie, a subsydiarność to inaczej pomocniczość.",
+  "poprawna": "Prawda",
+  "bledne": [
+   "Fałsz"
+  ],
+  "wyjasnienie": "Etyka uzupełnia prawo (komplementarność) i działa pomocniczo tam, gdzie prawo milczy (subsydiarność).",
+  "zrodlo": "test"
+ },
+ {
+  "id": "bba2fe9da5",
+  "temat": "6. Etyka zawodowa policjanta",
+  "pytanie": "Moralność jest to ogół ocen, norm, wzorców i prawideł postępowania.",
+  "poprawna": "Prawda",
+  "bledne": [
+   "Fałsz"
+  ],
+  "wyjasnienie": "Definicja moralności z zajęć.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "a3c0bd7b75",
+  "temat": "6. Etyka zawodowa policjanta",
+  "pytanie": "Podstawowymi elementami moralności są: wartość, norma moralna, ocena moralna, sankcje moralne i wzór postępowania.",
+  "poprawna": "Fałsz",
+  "bledne": [
+   "Prawda"
+  ],
+  "wyjasnienie": "Poradnik JS09 wymienia cztery elementy moralności: wartość, norma, ocena i sankcja – bez „wzoru postępowania”. UWAGA – niepewne: zależy od materiałów prowadzącego.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "f9dc0771c9",
+  "temat": "6. Etyka zawodowa policjanta",
+  "pytanie": "Etyka zawodowa przedstawia, jak z moralnego punktu widzenia powinni zachowywać się przedstawiciele danej grupy zawodowej. Zbiór takich norm nazywamy również deontologią.",
+  "poprawna": "Prawda",
+  "bledne": [
+   "Fałsz"
+  ],
+  "wyjasnienie": "Deontologia – nauka o powinnościach, etyka zawodowa.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "8632ddd0ac",
+  "temat": "6. Etyka zawodowa policjanta",
+  "pytanie": "Utylitaryzm to nauka o powinnościach i obowiązkach.",
+  "poprawna": "Fałsz",
+  "bledne": [
+   "Prawda"
+  ],
+  "wyjasnienie": "Nauka o powinnościach to DEONTOLOGIA. Utylitaryzm ocenia czyny według ich użyteczności (skutków).",
+  "zrodlo": "test"
+ },
+ {
+  "id": "88332854aa",
+  "temat": "6. Etyka zawodowa policjanta",
+  "pytanie": "Etykę zawodową policjanta reguluje Zarządzenie nr 805 Komendanta Głównego Policji z dnia 31 grudnia 2003 r. w sprawie „Zasad etyki zawodowej policjanta”.",
+  "poprawna": "Prawda",
+  "bledne": [
+   "Fałsz"
+  ],
+  "wyjasnienie": "Zasady etyki zawodowej policjanta są załącznikiem do zarządzenia nr 805 KGP z 31 grudnia 2003 r.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "dfc447ac6c",
+  "temat": "6. Etyka zawodowa policjanta",
+  "pytanie": "Etykę zawodową policjanta reguluje Rozporządzenie nr 806 Komendanta Głównego Policji z dnia 31 grudnia 2003 r.",
+  "poprawna": "Fałsz",
+  "bledne": [
+   "Prawda"
+  ],
+  "wyjasnienie": "To ZARZĄDZENIE nr 805 KGP. Komendant Główny nie wydaje rozporządzeń.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "fa2d3e8961",
+  "temat": "6. Etyka zawodowa policjanta",
+  "pytanie": "Jedna z zasad etyki zawodowej policjanta brzmi: „Policjant powinien rzetelnie wykonywać polecenia przełożonego oraz odnosić się do niego z szacunkiem.”",
+  "poprawna": "Prawda",
+  "bledne": [
+   "Fałsz"
+  ],
+  "wyjasnienie": "§ 21 Zasad etyki zawodowej policjanta.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "0780d9ea43",
+  "temat": "6. Etyka zawodowa policjanta",
+  "pytanie": "W Zasadach Etyki Zawodowej Policjanta nie ma wzmianki o schludnym wyglądzie, gdyż jest to uregulowane w Rozporządzeniu MSWiA w sprawie umundurowania policjantów.",
+  "poprawna": "Fałsz",
+  "bledne": [
+   "Prawda"
+  ],
+  "wyjasnienie": "§ 7 Zasad: „Policjant powinien przestrzegać zasad poprawnego zachowania, kultury osobistej i dbać o schludny wygląd.”",
+  "zrodlo": "test"
+ },
+ {
+  "id": "f3fd3391e7",
+  "temat": "6. Etyka zawodowa policjanta",
+  "pytanie": "Policjant nie ma formalnego obowiązku przestrzegania Zasad etyki zawodowej policjanta, są to jedynie pożądane normy jego postępowania.",
+  "poprawna": "Fałsz",
+  "bledne": [
+   "Prawda"
+  ],
+  "wyjasnienie": "§ 1 ust. 2 Zasad: obowiązkiem policjanta jest przestrzeganie zasad etyki. Ślubowanie (art. 27 ustawy o Policji) obejmuje przestrzeganie zasad etyki, a ich nieprzestrzeganie jest przewinieniem dyscyplinarnym (art. 132 ust. 1).",
+  "zrodlo": "test"
+ },
+ {
+  "id": "fc1c0084ac",
+  "temat": "6. Etyka zawodowa policjanta",
+  "pytanie": "Policjant nie może inicjować, stosować lub tolerować tortur bądź nieludzkiego lub poniżającego traktowania albo karania.",
+  "poprawna": "Prawda",
+  "bledne": [
+   "Fałsz"
+  ],
+  "wyjasnienie": "§ 4 pkt 2 Zasad etyki zawodowej policjanta.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "eec6bdfc76",
+  "temat": "6. Etyka zawodowa policjanta",
+  "pytanie": "Policjant za swoje nieetyczne zachowanie może ponieść aż trzy rodzaje odpowiedzialności: karną, moralną, dyscyplinarną.",
+  "poprawna": "Prawda",
+  "bledne": [
+   "Fałsz"
+  ],
+  "wyjasnienie": "Poradnik JS09: odpowiedzialność karna, dyscyplinarna i moralna policjanta za nieetyczne zachowanie.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "ae49e1bfcb",
+  "temat": "6. Etyka zawodowa policjanta",
+  "pytanie": "Jedną z kar dyscyplinarnych, jaką można zastosować wobec policjanta, który łamie zasady etyki zawodowej, jest zakaz opuszczania wyznaczonego miejsca przebywania.",
+  "poprawna": "Fałsz",
+  "bledne": [
+   "Prawda"
+  ],
+  "wyjasnienie": "Art. 134 ustawy o Policji: upomnienie, nagana, ostrzeżenie o niepełnej przydatności do służby na zajmowanym stanowisku, wyznaczenie na niższe stanowisko, obniżenie stopnia, ostrzeżenie o niepełnej przydatności do służby, wydalenie ze służby.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "68b9f67bfc",
+  "temat": "6. Etyka zawodowa policjanta",
+  "pytanie": "Karami dyscyplinarnymi są m.in.: upomnienie, nagana, nawiązka, wydalenie ze służby.",
+  "poprawna": "Fałsz",
+  "bledne": [
+   "Prawda"
+  ],
+  "wyjasnienie": "Nawiązka nie jest karą dyscyplinarną (art. 134 ustawy o Policji). Pozostałe trzy są.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "7502ca483b",
+  "temat": "6. Etyka zawodowa policjanta",
+  "pytanie": "Policjant odpowiada dyscyplinarnie za popełnienie przewinienia dyscyplinarnego za granicą.",
+  "poprawna": "Prawda",
+  "bledne": [
+   "Fałsz"
+  ],
+  "wyjasnienie": "Art. 132 ust. 5 ustawy o Policji.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "c92d378c41",
+  "temat": "6. Etyka zawodowa policjanta",
+  "pytanie": "Sygnalista w ujęciu działań antykorupcyjnych to osoba, która monitoruje zachowania ksenofobiczne, rasistowskie, homofobiczne, antysemickie i islamofobiczne.",
+  "poprawna": "Fałsz",
+  "bledne": [
+   "Prawda"
+  ],
+  "wyjasnienie": "Sygnalista to osoba, która zgłasza lub ujawnia naruszenia prawa (np. korupcję), o których dowiedziała się w związku z pracą lub służbą.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "26422b2b13",
+  "temat": "6. Etyka zawodowa policjanta",
+  "pytanie": "Sygnalista to osoba, która zgłasza lub publicznie ujawnia informację o naruszeniu prawa uzyskaną w kontekście związanym z pracą lub służbą.",
+  "poprawna": "Prawda",
+  "bledne": [
+   "Fałsz"
+  ],
+  "wyjasnienie": "Ustawa z 14 czerwca 2024 r. o ochronie sygnalistów. Sygnaliści pomagają zapobiegać korupcji i naruszeniom zasad etyki w Policji.",
+  "zrodlo": "wlasne"
+ },
+ {
+  "id": "201e72e674",
+  "temat": "7–11. Korupcja",
+  "pytanie": "Łapownictwo czynne to inaczej sprzedajność.",
+  "poprawna": "Fałsz",
+  "bledne": [
+   "Prawda"
+  ],
+  "wyjasnienie": "Sprzedajność to łapownictwo BIERNE (art. 228 k.k. – przyjmowanie korzyści). Łapownictwo czynne to przekupstwo (art. 229 k.k. – udzielanie korzyści).",
+  "zrodlo": "test"
+ },
+ {
+  "id": "593cd5bad5",
+  "temat": "7–11. Korupcja",
+  "pytanie": "Przestępstwo łapownictwa biernego penalizuje art. 228 kk.",
+  "poprawna": "Prawda",
+  "bledne": [
+   "Fałsz"
+  ],
+  "wyjasnienie": "Art. 228 k.k. – sprzedajność. Przekupstwo (łapownictwo czynne) to art. 229 k.k.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "886da99abb",
+  "temat": "7–11. Korupcja",
+  "pytanie": "Przyjęcie obietnicy korzyści osobistej w zamian za odstąpienie od czynności nie będzie korupcją.",
+  "poprawna": "Fałsz",
+  "bledne": [
+   "Prawda"
+  ],
+  "wyjasnienie": "Art. 228 k.k. obejmuje przyjęcie korzyści majątkowej LUB OSOBISTEJ albo jej OBIETNICY w związku z pełnieniem funkcji publicznej.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "277ba062a7",
+  "temat": "7–11. Korupcja",
+  "pytanie": "Korzyść osobista to każde dobro zaspokajające określoną potrzebę, którego wartość da się wyrazić w pieniądzu.",
+  "poprawna": "Fałsz",
+  "bledne": [
+   "Prawda"
+  ],
+  "wyjasnienie": "Tak definiuje się korzyść MAJĄTKOWĄ. Korzyść osobista to korzyść niemajątkowa (np. awans, przysługa, usługa seksualna).",
+  "zrodlo": "test"
+ },
+ {
+  "id": "fc7279c3ad",
+  "temat": "7–11. Korupcja",
+  "pytanie": "Sąd nie może ogłosić przepadku korzyści majątkowej uzyskanej bezpośrednio z korupcji.",
+  "poprawna": "Fałsz",
+  "bledne": [
+   "Prawda"
+  ],
+  "wyjasnienie": "Art. 45 § 1 k.k.: sąd orzeka przepadek korzyści majątkowej osiągniętej z przestępstwa, choćby pośrednio.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "448898b122",
+  "temat": "7–11. Korupcja",
+  "pytanie": "Korupcja biała to korupcja, która spotyka się z niejednolitą oceną społeczną.",
+  "poprawna": "Fałsz",
+  "bledne": [
+   "Prawda"
+  ],
+  "wyjasnienie": "Korupcja biała – społecznie akceptowana (np. drobne upominki), szara – niejednolita ocena społeczna, czarna – jednoznacznie potępiana.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "8cadd018fa",
+  "temat": "7–11. Korupcja",
+  "pytanie": "Korupcja szara to taka, która spotyka się z niejednolitą oceną społeczną.",
+  "poprawna": "Prawda",
+  "bledne": [
+   "Fałsz"
+  ],
+  "wyjasnienie": "Podział: biała (akceptowana), szara (niejednolita ocena), czarna (potępiana) – serwis Antykorupcja na policja.pl.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "4368a8ddb1",
+  "temat": "7–11. Korupcja",
+  "pytanie": "Korupcja czarna to zachowania korupcyjne jednoznacznie potępiane zarówno przez społeczeństwo, jak i przez prawo.",
+  "poprawna": "Prawda",
+  "bledne": [
+   "Fałsz"
+  ],
+  "wyjasnienie": "Np. łapówka za odstąpienie od mandatu albo za „załatwienie” sprawy.",
+  "zrodlo": "wlasne"
+ },
+ {
+  "id": "d985734335",
+  "temat": "7–11. Korupcja",
+  "pytanie": "Biuro Spraw Wewnętrznych Policji podlega bezpośrednio Ministrowi właściwemu do spraw wewnętrznych i administracji, z pominięciem Komendanta Głównego Policji.",
+  "poprawna": "Fałsz",
+  "bledne": [
+   "Prawda"
+  ],
+  "wyjasnienie": "Art. 5b ust. 2 ustawy o Policji: Komendant BSWP jest organem Policji podległym Komendantowi Głównemu Policji. Minister go powołuje i odwołuje (ust. 4).",
+  "zrodlo": "test"
+ },
+ {
+  "id": "0dca31833c",
+  "temat": "7–11. Korupcja",
+  "pytanie": "Biuro Spraw Wewnętrznych Policji rozpoznaje, zapobiega i zwalcza przestępstwa popełniane przez policjantów i pracowników Policji.",
+  "poprawna": "Prawda",
+  "bledne": [
+   "Fałsz"
+  ],
+  "wyjasnienie": "Art. 5b ust. 1 ustawy o Policji. Policjant może zgłosić korupcję m.in. przełożonemu, BSWP lub przez zakładkę „Antykorupcja” na policja.pl.",
+  "zrodlo": "wlasne"
+ },
+ {
+  "id": "831b62f459",
+  "temat": "12. Prawa człowieka",
+  "pytanie": "Prawa człowieka to zestaw praw i wolności przynależnych każdemu.",
+  "poprawna": "Prawda",
+  "bledne": [
+   "Fałsz"
+  ],
+  "wyjasnienie": "Prawa człowieka są powszechne – przysługują każdemu z racji bycia człowiekiem.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "cf4dd09198",
+  "temat": "12. Prawa człowieka",
+  "pytanie": "Prawa człowieka są zbywalne, co oznacza, że można się zrzec swoich praw człowieka.",
+  "poprawna": "Fałsz",
+  "bledne": [
+   "Prawda"
+  ],
+  "wyjasnienie": "Prawa człowieka są NIEZBYWALNE – nie można się ich zrzec ani ich przekazać.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "b8f8ea88cc",
+  "temat": "12. Prawa człowieka",
+  "pytanie": "Art. 30 Konstytucji RP z dnia 2 kwietnia 1997 r. mówi, że przyrodzona i niezbywalna godność człowieka stanowi źródło wolności i praw człowieka i obywatela.",
+  "poprawna": "Prawda",
+  "bledne": [
+   "Fałsz"
+  ],
+  "wyjasnienie": "Art. 30 Konstytucji RP. Godność jest nienaruszalna, a jej poszanowanie i ochrona jest obowiązkiem władz publicznych.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "246d18c11f",
+  "temat": "12. Prawa człowieka",
+  "pytanie": "Prawa człowieka, w przeciwieństwie do wolności człowieka, nakładają na państwo obowiązek określonego zachowania względem obywatela, np. prawo do edukacji wiąże się z zapewnieniem dostępu do publicznego szkolnictwa.",
+  "poprawna": "Prawda",
+  "bledne": [
+   "Fałsz"
+  ],
+  "wyjasnienie": "Wolność wymaga od państwa nieingerowania, a prawo – działania państwa (świadczenia).",
+  "zrodlo": "test"
+ },
+ {
+  "id": "c12b00bdfa",
+  "temat": "12. Prawa człowieka",
+  "pytanie": "Jednym z gwarantów przestrzegania w Polsce praw człowieka jest Konstytucja.",
+  "poprawna": "Prawda",
+  "bledne": [
+   "Fałsz"
+  ],
+  "wyjasnienie": "Konstytucja RP, rozdział II – Wolności, prawa i obowiązki człowieka i obywatela.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "dafc85fa0d",
+  "temat": "12. Prawa człowieka",
+  "pytanie": "Powszechna Deklaracja Praw Człowieka została przyjęta w 1948 r. przez Zgromadzenie Ogólne ONZ.",
+  "poprawna": "Prawda",
+  "bledne": [
+   "Fałsz"
+  ],
+  "wyjasnienie": "10 grudnia 1948 r. w Paryżu.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "d11b929c1e",
+  "temat": "12. Prawa człowieka",
+  "pytanie": "Art. 14 ust. 3 ustawy o Policji z 6 kwietnia 1990 r. mówi, że: „Policjanci w toku wykonywania czynności służbowych mają obowiązek respektowania godności ludzkiej oraz przestrzegania i ochrony praw człowieka.”",
+  "poprawna": "Prawda",
+  "bledne": [
+   "Fałsz"
+  ],
+  "wyjasnienie": "Dosłowne brzmienie art. 14 ust. 3 ustawy o Policji.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "fd8887cd81",
+  "temat": "12. Prawa człowieka",
+  "pytanie": "Prawo do wolności słowa nie może podlegać żadnym ograniczeniom.",
+  "poprawna": "Fałsz",
+  "bledne": [
+   "Prawda"
+  ],
+  "wyjasnienie": "Wolność wypowiedzi może być ograniczona ustawą, gdy jest to konieczne w demokratycznym państwie, np. dla ochrony bezpieczeństwa, porządku publicznego lub praw innych osób (art. 31 ust. 3 Konstytucji, art. 10 ust. 2 EKPC).",
+  "zrodlo": "test"
+ },
+ {
+  "id": "b879e51bc8",
+  "temat": "12. Prawa człowieka",
+  "pytanie": "W przypadku zaistnienia stanu nadzwyczajnego (np. klęski żywiołowej) można ograniczyć część praw człowieka, takich jak np. swoboda poruszania się, prawo do posiadania własności.",
+  "poprawna": "Prawda",
+  "bledne": [
+   "Fałsz"
+  ],
+  "wyjasnienie": "Art. 233 ust. 3 Konstytucji: w stanie klęski żywiołowej można ograniczyć m.in. wolność przemieszczania się i prawo własności.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "ce21ea7e38",
+  "temat": "12. Prawa człowieka",
+  "pytanie": "Zakaz stosowania tortur ma charakter względny i może być ograniczony, jeśli jest określony prawem, uzasadniony, konieczny i proporcjonalny.",
+  "poprawna": "Fałsz",
+  "bledne": [
+   "Prawda"
+  ],
+  "wyjasnienie": "Zakaz tortur jest ABSOLUTNY – nie podlega ograniczeniom nawet w stanie wojny (art. 3 i art. 15 ust. 2 EKPC, art. 40 i art. 233 ust. 1 Konstytucji).",
+  "zrodlo": "test"
+ },
+ {
+  "id": "f33b34ad2d",
+  "temat": "12. Prawa człowieka",
+  "pytanie": "Nie ma w polskim prawodawstwie zakazu stosowania kar cielesnych.",
+  "poprawna": "Fałsz",
+  "bledne": [
+   "Prawda"
+  ],
+  "wyjasnienie": "Art. 40 Konstytucji RP zakazuje tortur, okrutnego, nieludzkiego lub poniżającego traktowania i karania oraz stosowania kar cielesnych.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "190ef6a723",
+  "temat": "12. Prawa człowieka",
+  "pytanie": "Członkowie Krajowego Mechanizmu Prewencji Tortur mają dostęp do miejsc, w których przebywają osoby zatrzymane, sprawdzania ich warunków bytowych i rozmowy z nimi.",
+  "poprawna": "Prawda",
+  "bledne": [
+   "Fałsz"
+  ],
+  "wyjasnienie": "KMPT działa w Biurze Rzecznika Praw Obywatelskich i może bez zapowiedzi wizytować miejsca pozbawienia wolności, w tym policyjne pomieszczenia dla zatrzymanych.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "a4a9fb158c",
+  "temat": "13–15. Dyskryminacja i przestępstwa z nienawiści",
+  "pytanie": "Dyskryminacja to nierówne, gorsze traktowanie kogoś np. z powodu innej rasy, pochodzenia etnicznego, religii, przekonań, płci, wieku, niepełnosprawności lub orientacji seksualnej.",
+  "poprawna": "Prawda",
+  "bledne": [
+   "Fałsz"
+  ],
+  "wyjasnienie": "Definicja dyskryminacji. Dyskryminacja może być bezpośrednia lub pośrednia.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "256f4dbbdf",
+  "temat": "13–15. Dyskryminacja i przestępstwa z nienawiści",
+  "pytanie": "Tolerancja nie ma charakteru absolutnego – nie obejmuje idei zbrodniczych ani antyhumanitarnych.",
+  "poprawna": "Prawda",
+  "bledne": [
+   "Fałsz"
+  ],
+  "wyjasnienie": "Tolerancja nie oznacza akceptacji poglądów nawołujących do przemocy czy nienawiści.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "57b6845b99",
+  "temat": "13–15. Dyskryminacja i przestępstwa z nienawiści",
+  "pytanie": "Ksenofobia to niechęć do obcych, szczególnie innego pochodzenia etnicznego lub narodowego.",
+  "poprawna": "Prawda",
+  "bledne": [
+   "Fałsz"
+  ],
+  "wyjasnienie": "Definicja ksenofobii.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "ebe029600c",
+  "temat": "13–15. Dyskryminacja i przestępstwa z nienawiści",
+  "pytanie": "Ksenofobia jest synonimem rasizmu.",
+  "poprawna": "Fałsz",
+  "bledne": [
+   "Prawda"
+  ],
+  "wyjasnienie": "Ksenofobia to niechęć do obcych, a rasizm – przekonanie o wyższości jednych ras nad innymi. To pojęcia pokrewne, ale nie synonimy.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "f8f0039d7c",
+  "temat": "13–15. Dyskryminacja i przestępstwa z nienawiści",
+  "pytanie": "Uprzedzenia, w kontekście dyskryminacji, to zachowanie polegające na wykonaniu wcześniej zaplanowanego czynu karalnego.",
+  "poprawna": "Fałsz",
+  "bledne": [
+   "Prawda"
+  ],
+  "wyjasnienie": "Uprzedzenie to negatywna postawa (emocjonalne nastawienie) wobec osoby z powodu jej przynależności do grupy, zwykle oparta na stereotypie.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "34b791f0a7",
+  "temat": "13–15. Dyskryminacja i przestępstwa z nienawiści",
+  "pytanie": "Łańcuch dyskryminacji opisuje przejście od stereotypu, przez uprzedzenie, do dyskryminacji, a w skrajnej postaci do przemocy.",
+  "poprawna": "Prawda",
+  "bledne": [
+   "Fałsz"
+  ],
+  "wyjasnienie": "Stereotyp (uproszczone przekonanie) → uprzedzenie (negatywna postawa) → dyskryminacja (zachowanie) → przemoc.",
+  "zrodlo": "wlasne"
+ },
+ {
+  "id": "43654321ae",
+  "temat": "13–15. Dyskryminacja i przestępstwa z nienawiści",
+  "pytanie": "Nękanie czy zastraszanie pracownika przez kolegów z pracy nie będzie mobbingiem, bo o mobbingu mówimy jedynie, gdy takich czynów dopuszcza się przełożony.",
+  "poprawna": "Fałsz",
+  "bledne": [
+   "Prawda"
+  ],
+  "wyjasnienie": "Art. 94³ § 2 Kodeksu pracy: mobbing to działania dotyczące pracownika lub skierowane przeciwko niemu – może go stosować także współpracownik.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "eb53a39ccd",
+  "temat": "13–15. Dyskryminacja i przestępstwa z nienawiści",
+  "pytanie": "Incydent motywowany nienawiścią to czyn powodowany uprzedzeniami, który nie jest przestępstwem.",
+  "poprawna": "Prawda",
+  "bledne": [
+   "Fałsz"
+  ],
+  "wyjasnienie": "Poradnik JS09 każe odróżniać „przestępstwo z nienawiści” od „incydentu motywowanego uprzedzeniami”. Incydent też należy dokumentować, bo może poprzedzać przestępstwo.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "091c780440",
+  "temat": "13–15. Dyskryminacja i przestępstwa z nienawiści",
+  "pytanie": "Przestępstwo publicznego propagowania faszyzmu lub totalitaryzmu penalizuje art. 256 kk.",
+  "poprawna": "Prawda",
+  "bledne": [
+   "Fałsz"
+  ],
+  "wyjasnienie": "Art. 256 § 1 k.k. obejmuje też nawoływanie do nienawiści na tle różnic narodowościowych, etnicznych, rasowych, wyznaniowych.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "04ff4cd619",
+  "temat": "13–15. Dyskryminacja i przestępstwa z nienawiści",
+  "pytanie": "Publiczne znieważenie grupy ludności albo osoby z powodu jej przynależności narodowej, etnicznej, rasowej, wyznaniowej penalizuje art. 257 kk.",
+  "poprawna": "Prawda",
+  "bledne": [
+   "Fałsz"
+  ],
+  "wyjasnienie": "Art. 257 k.k. Przemoc lub groźba bezprawna z takich powodów to art. 119 § 1 k.k.",
+  "zrodlo": "wlasne"
+ }
+]

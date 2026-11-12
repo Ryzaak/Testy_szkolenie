@@ -33,11 +33,12 @@ Postęp zapisuje się w Twojej przeglądarce, więc każdy uczy się osobno. Po 
 | **JM01 JS03** | Prawo karne szczegółowe – artykuły z decyzji SZPC JS03 | 78 |
 | **JM01 JS04** | Ustawy szczególne (Prawo telekomunikacyjne, broń, tytoń, narkomania, dowody osobiste, prawo autorskie, dostęp warunkowy, art. 263 k.k.) | 83 |
 | **JM02 JS06** | Zatrzymanie osoby (ujęcie i zatrzymanie, podstawy, prawa zatrzymanego, czas, badania lekarskie, nieletni, cudzoziemcy, dokumentacja) | 54 |
+| **JM01 JS09** | Historia Policji, etyka zawodowa, korupcja, prawa człowieka, dyskryminacja (pytania prawda/fałsz) | 71 |
 
 ## Skąd są pytania
 
 - Pytania oznaczone **„z testu”** pochodzą z prawdziwych testów i quizów.
-- Pozostałe są ułożone na podstawie prezentacji z zajęć albo – gdy w testach brakowało pytań o artykuł z decyzji – opracowane z tekstu ustawy (etykieta **„opracowane z ustawy”**).
+- Pozostałe są ułożone na podstawie prezentacji z zajęć albo – gdy w testach brakowało pytań o artykuł z decyzji – opracowane na podstawie przepisów i sylabusa (etykieta **„opracowane”**).
 - Odpowiedzi sprawdzono w prezentacjach, przepisach (m.in. Zarządzenie nr 2 KGP z 15.01.2024 w sprawie wyszkolenia strzeleckiego) i materiałach szkół Policji.
 - Jeśli odpowiedzi nie dało się w pełni potwierdzić, wyjaśnienie zaczyna się od **„UWAGA – niepewne”**. Przy takich pytaniach warto dopytać prowadzącego.
 
@@ -78,7 +79,7 @@ app.py, uruchom.bat   podgląd lokalny → http://localhost:8770
 }
 ```
 
-`bledne` ma zawsze dokładnie 3 elementy. `zrodlo` to `"test"` albo `"prezentacje"`.
+`bledne` ma 3 elementy, a w pytaniach prawda/fałsz – 1 (`"poprawna": "Prawda"`, `"bledne": ["Fałsz"]` lub odwrotnie). `zrodlo` to `"test"`, `"prezentacje"` albo `"wlasne"`.
 
 ### Nowa zakładka
 

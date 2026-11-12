@@ -128,12 +128,15 @@ function nastepne() {
   const s = stan.p[p.id] || (stan.p[p.id] = { s: "new", left: 0, zle: 0, ile: 0 });
   s.ile = (s.ile || 0) + 1;
   zapisz();
-  const opcje = tasuj([{ t: p.poprawna, ok: true }, ...p.bledne.map(t => ({ t, ok: false }))]);
+  // pytania prawda/fałsz mają stałą kolejność odpowiedzi
+  const opcje = p.bledne.length === 1
+    ? ["Prawda", "Fałsz"].map(t => ({ t, ok: t === p.poprawna }))
+    : tasuj([{ t: p.poprawna, ok: true }, ...p.bledne.map(t => ({ t, ok: false }))]);
   biezace = { p, opcje, odpowiedziano: false };
   wznowCzas();
   odswiezStatystyki();
   const status = s.s === "retry" ? `<span class="tag retry">powtórka</span>` : "";
-  const ETYKIETY = { test: ["test", "z testu"], prezentacje: ["pres", "z prezentacji"], wlasne: ["wlasne", "opracowane z ustawy"] };
+  const ETYKIETY = { test: ["test", "z testu"], prezentacje: ["pres", "z prezentacji"], wlasne: ["wlasne", "opracowane"] };
   const [klasa, napis] = ETYKIETY[p.zrodlo] || ETYKIETY.prezentacje;
   const zrodlo = `<span class="tag ${klasa}">${napis}</span>`;
   card.innerHTML = `
@@ -196,7 +199,7 @@ document.addEventListener("keydown", e => {
   if (e.ctrlKey || e.altKey || e.metaKey) return;
   const k = e.key.toLowerCase();
   const idx = ["1", "2", "3", "4"].indexOf(k) >= 0 ? +k - 1 : ["a", "b", "c", "d"].indexOf(k);
-  if (idx >= 0 && biezace && !biezace.odpowiedziano) { odpowiedz(idx); e.preventDefault(); }
+  if (idx >= 0 && biezace && !biezace.odpowiedziano && idx < biezace.opcje.length) { odpowiedz(idx); e.preventDefault(); }
   else if ((k === "enter" || k === " ") && biezace?.odpowiedziano) { nastepne(); e.preventDefault(); }
 });
 
