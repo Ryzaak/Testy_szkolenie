@@ -61,7 +61,7 @@
    "Monitorze Polskim",
    "Dzienniku Urzędowym Unii Europejskiej"
   ],
-  "wyjasnienie": "Art. 9 ust. 1 pkt 6 ustawy o ogłaszaniu aktów normatywnych.",
+  "wyjasnienie": "Art. 9 ust. 1 pkt 6 ustawy o ogłaszaniu aktów normatywnych: w Dzienniku Ustaw ogłasza się m.in. Konstytucję, ustawy, rozporządzenia i ratyfikowane umowy międzynarodowe. Monitor Polski – m.in. uchwały i zarządzenia RM.",
   "zrodlo": "test"
  },
  {
@@ -74,7 +74,7 @@
    "zawsze ustawę nową",
    "ustawę wybraną przez sąd"
   ],
-  "wyjasnienie": "Art. 4 § 1 k.k.",
+  "wyjasnienie": "Art. 4 § 1 k.k.: co do zasady stosuje się ustawę nową (z czasu orzekania), ale jeśli ustawa z czasu popełnienia czynu jest dla sprawcy korzystniejsza – stosuje się ją (zasada lex mitior agit).",
   "zrodlo": "test"
  },
  {
@@ -87,7 +87,7 @@
    "każdy czyn, w sprawie którego trzeba prowadzić śledztwo",
    "przestępstwo nieumyślne zagrożone karą od 3 do 25 lat"
   ],
-  "wyjasnienie": "Art. 7 § 2 k.k. Zbrodnię można popełnić tylko umyślnie (art. 8 k.k.).",
+  "wyjasnienie": "Art. 7 § 2 k.k.: zbrodnia – kara pozbawienia wolności od 3 lat albo surowsza. Występek (art. 7 § 3) – grzywna powyżej 30 stawek, ograniczenie wolności albo pozbawienie wolności powyżej miesiąca. Zbrodnię można popełnić tylko umyślnie (art. 8 k.k.).",
   "zrodlo": "test"
  },
  {
@@ -100,7 +100,7 @@
    "na kim ciążył obowiązek zapobiegnięcia przestępstwu",
    "kto z mocy ustawy zobowiązany był do zapobiegnięcia przestępstwu"
   ],
-  "wyjasnienie": "Art. 2 k.k.",
+  "wyjasnienie": "Art. 2 k.k.: za skutek spowodowany zaniechaniem odpowiada tylko ten, na kim ciążył prawny, szczególny obowiązek zapobiegnięcia skutkowi (np. ratownik, rodzic, policjant), a nie każdy, kto mógł pomóc.",
   "zrodlo": "test"
  },
  {
@@ -113,7 +113,7 @@
    "jest karą tylko łącznie z ograniczeniem wolności",
    "jest środkiem karnym"
   ],
-  "wyjasnienie": "Art. 32 pkt 1 k.k.",
+  "wyjasnienie": "Art. 32 k.k. – katalog kar: grzywna, ograniczenie wolności, pozbawienie wolności, 25 lat pozbawienia wolności, dożywocie. Grzywna jest więc karą samoistną, a nie środkiem karnym.",
   "zrodlo": "test"
  },
  {
@@ -126,7 +126,7 @@
    "świadczenie pieniężne",
    "zakaz prowadzenia pojazdów"
   ],
-  "wyjasnienie": "Art. 39 k.k. Przepadek jest uregulowany osobno (rozdział V k.k. – przepadek i środki kompensacyjne).",
+  "wyjasnienie": "Art. 39 k.k. – środki karne to m.in. pozbawienie praw publicznych, zakazy (zajmowania stanowiska, prowadzenia pojazdów, kontaktu), świadczenie pieniężne, podanie wyroku do publicznej wiadomości. Przepadek przedmiotów jest osobną instytucją (rozdział Va k.k. – przepadek i środki kompensacyjne).",
   "zrodlo": "test"
  },
  {
@@ -139,7 +139,7 @@
    "w zależności od odpowiedzialności większości współdziałających",
    "tak samo jak wszyscy współdziałający"
   ],
-  "wyjasnienie": "Art. 20 k.k. – zasada indywidualizacji odpowiedzialności.",
+  "wyjasnienie": "Art. 20 k.k.: każdy ze współdziałających odpowiada w granicach swojej umyślności lub nieumyślności, niezależnie od odpowiedzialności pozostałych (np. jeden może być niepoczytalny, a drugi odpowie normalnie).",
   "zrodlo": "test"
  },
  {
@@ -152,7 +152,7 @@
    "uchylaniu bezpośredniego niebezpieczeństwa grożącego dobru",
    "odpieraniu niebezpieczeństwa tylko gdy zagrożone jest życie"
   ],
-  "wyjasnienie": "Art. 25 § 1 k.k. Uchylanie niebezpieczeństwa to stan wyższej konieczności (art. 26).",
+  "wyjasnienie": "Art. 25 § 1 k.k.: nie popełnia przestępstwa, kto w obronie koniecznej odpiera bezpośredni, bezprawny zamach na jakiekolwiek dobro chronione prawem (życie, zdrowie, mienie, nietykalność). Uchylanie niebezpieczeństwa, które nie jest zamachem człowieka, to stan wyższej konieczności (art. 26).",
   "zrodlo": "test"
  },
  {
@@ -165,7 +165,7 @@
    "zamach na dobra materialne",
    "ochrona człowieka wyłącznie przed poniżaniem"
   ],
-  "wyjasnienie": "Art. 26 k.k.",
+  "wyjasnienie": "Art. 26 § 1 k.k.: nie popełnia przestępstwa, kto działa w celu uchylenia bezpośredniego niebezpieczeństwa grożącego dobru chronionemu prawem, jeśli niebezpieczeństwa nie można inaczej uniknąć, a poświęcone dobro przedstawia wartość niższą niż ratowane.",
   "zrodlo": "test"
  },
  {
@@ -178,7 +178,7 @@
    "na żądanie pokrzywdzonego",
    "z oskarżenia prywatnego"
   ],
-  "wyjasnienie": "Art. 190 § 2 k.k.",
+  "wyjasnienie": "Art. 190 § 2 k.k.: ściganie groźby karalnej następuje na wniosek pokrzywdzonego. Po złożeniu wniosku postępowanie toczy się z urzędu (art. 12 k.p.k.).",
   "zrodlo": "test"
  },
  {
@@ -191,7 +191,7 @@
    "na jej szkodę, a groźba może wzbudzić obawę",
    "wyłącznie na szkodę osoby najbliższej, bez wymogu obawy"
   ],
-  "wyjasnienie": "Art. 190 § 1 k.k.",
+  "wyjasnienie": "Art. 190 § 1 k.k.: kto grozi innej osobie popełnieniem przestępstwa na jej szkodę lub szkodę osoby najbliższej, jeżeli groźba wzbudza w zagrożonym uzasadnioną obawę, że będzie spełniona – podlega karze do 2 lat. Obawa musi być realna i uzasadniona.",
   "zrodlo": "test"
  },
  {
@@ -204,7 +204,7 @@
    "wzbudzanie wyłącznie poczucia poniżenia lub udręczenia",
    "wyłącznie istotne naruszanie prywatności"
   ],
-  "wyjasnienie": "Art. 190a § 1 k.k.",
+  "wyjasnienie": "Art. 190a § 1 k.k.: kto przez uporczywe nękanie innej osoby lub osoby jej najbliższej wzbudza u niej uzasadnione okolicznościami poczucie zagrożenia, poniżenia lub udręczenia lub istotnie narusza jej prywatność – podlega karze od 6 miesięcy do 8 lat. Wystarczy jeden z tych skutków.",
   "zrodlo": "test"
  },
  {
@@ -217,7 +217,7 @@
    "pod wpływem silnego wzburzenia",
    "na jego żądanie i pod wpływem współczucia"
   ],
-  "wyjasnienie": "Art. 148 § 3 k.k.",
+  "wyjasnienie": "Art. 148 § 3 k.k.: surowszej karze podlega, kto zabija człowieka, będąc wcześniej prawomocnie skazanym za zabójstwo (także m.in. zabicie więcej niż jednej osoby lub funkcjonariusza). Dzieciobójstwo (art. 149), zabójstwo w afekcie (§ 4) i eutanazja (art. 150) to typy uprzywilejowane.",
   "zrodlo": "test"
  },
  {
@@ -230,7 +230,7 @@
    "tylko z działania",
    "również nieumyślnie"
   ],
-  "wyjasnienie": "Wdarcie się – działanie, nieopuszczenie miejsca wbrew żądaniu – zaniechanie.",
+  "wyjasnienie": "Art. 193 k.k.: kto wdziera się do cudzego domu, mieszkania, lokalu lub ogrodzonego terenu (działanie) albo wbrew żądaniu osoby uprawnionej miejsca nie opuszcza (zaniechanie) – podlega karze. Oba warianty to to samo przestępstwo.",
   "zrodlo": "test"
  },
  {
@@ -243,7 +243,7 @@
    "przywłaszczenie rzeczy na szkodę osoby najbliższej",
    "przywłaszczenie rzeczy znacznej wartości"
   ],
-  "wyjasnienie": "Art. 284 § 2 k.k.",
+  "wyjasnienie": "Art. 284 § 2 k.k.: kto przywłaszcza sobie powierzoną mu rzecz ruchomą – sprzeniewierzenie (kara od 3 miesięcy do 5 lat). Sprawca miał rzecz legalnie w posiadaniu, np. pożyczony samochód.",
   "zrodlo": "test"
  },
  {
@@ -269,7 +269,7 @@
    "wykroczenia przywłaszczenia mienia",
    "przestępstwa przywłaszczenia mienia"
   ],
-  "wyjasnienie": "Art. 119 § 1 k.w. – kradzież mienia o wartości nieprzekraczającej 800 zł.",
+  "wyjasnienie": "Art. 119 § 1 k.w.: kradzież lub przywłaszczenie mienia o wartości nieprzekraczającej 800 zł to wykroczenie. Powyżej 800 zł – przestępstwo z art. 278 k.k. (czyn przepołowiony).",
   "zrodlo": "test"
  },
  {
@@ -282,7 +282,7 @@
    "prawidłowo, gdyż sprawca zamierzał sprzedać perfumy",
    "prawidłowo, gdyż kradzież w sklepie nie jest czynem przepołowionym"
   ],
-  "wyjasnienie": "Art. 119 § 1 k.w. – próg 800 zł. Cel sprzedaży nie zmienia kwalifikacji.",
+  "wyjasnienie": "Art. 119 § 1 k.w.: wartość 799,99 zł nie przekracza progu 800 zł, więc to wykroczenie. Zamiar sprzedaży nie ma znaczenia – liczy się wartość skradzionego mienia.",
   "zrodlo": "test"
  },
  {
@@ -295,7 +295,7 @@
    "wykroczenie z art. 119 k.w",
    "kradzież rozbójniczą z art. 280 § 1 k.k"
   ],
-  "wyjasnienie": "Włamanie wymaga pokonania zabezpieczenia – otwarte okno nim nie jest. Wartość powyżej 800 zł – przestępstwo.",
+  "wyjasnienie": "Art. 279 k.k. (kradzież z włamaniem) wymaga pokonania zabezpieczenia – np. wyłamania zamka, wybicia szyby. Wejście przez otwarte okno to zwykła kradzież (art. 278 § 1), a wartość 2000 zł przekracza próg 800 zł, więc to przestępstwo, nie wykroczenie.",
   "zrodlo": "test"
  },
  {
@@ -308,7 +308,7 @@
    "kradzieży i naruszenia nietykalności",
    "kradzieży szczególnie zuchwałej"
   ],
-  "wyjasnienie": "Art. 280 § 1 k.k.",
+  "wyjasnienie": "Art. 280 § 1 k.k.: rozbój – kradzież z użyciem przemocy wobec osoby, groźby jej natychmiastowego użycia albo doprowadzenia człowieka do nieprzytomności lub bezbronności (kara od 2 do 12 lat). Przemoc służy tu ZABRANIU rzeczy.",
   "zrodlo": "test"
  },
  {
@@ -321,7 +321,7 @@
    "kradzież zwykła",
    "wymuszenie rozbójnicze"
   ],
-  "wyjasnienie": "Art. 281 k.k. Przemoc PRZED lub W CELU kradzieży – rozbój (art. 280).",
+  "wyjasnienie": "Art. 281 k.k.: kradzież rozbójnicza – sprawca najpierw kradnie, a BEZPOŚREDNIO PO kradzieży stosuje przemoc lub groźbę, by utrzymać się w posiadaniu rzeczy. Gdy przemoc jest przed zaborem lub w jego trakcie – rozbój (art. 280).",
   "zrodlo": "test"
  },
  {
@@ -334,7 +334,7 @@
    "wyłącznie umyślnie zasady bezpieczeństwa",
    "chociażby nieumyślnie zasady wyłącznie w ruchu lądowym"
   ],
-  "wyjasnienie": "Art. 177 § 1 k.k. Skutek (obrażenia) sprawca powoduje nieumyślnie.",
+  "wyjasnienie": "Art. 177 § 1 k.k.: kto, naruszając – chociażby nieumyślnie – zasady bezpieczeństwa w ruchu lądowym, wodnym lub powietrznym, nieumyślnie powoduje wypadek, w którym inna osoba doznała obrażeń powyżej 7 dni (art. 157 § 1) – podlega karze do 3 lat.",
   "zrodlo": "test"
  },
  {
@@ -347,7 +347,7 @@
    "z urzędu",
    "na żądanie pokrzywdzonego"
   ],
-  "wyjasnienie": "Art. 177 § 3 k.k.",
+  "wyjasnienie": "Art. 177 § 3 k.k.: jeżeli pokrzywdzonym jest wyłącznie osoba najbliższa, ściganie wypadku z § 1 następuje na jej wniosek. Wypadek ze skutkiem śmiertelnym lub ciężkim (§ 2) zawsze ściga się z urzędu.",
   "zrodlo": "test"
  },
  {
@@ -373,7 +373,7 @@
    "kuplerstwa",
    "proponowania czynu nierządnego"
   ],
-  "wyjasnienie": "Art. 204 § 2 k.k. Nakłanianie – stręczycielstwo, ułatwianie – kuplerstwo (art. 204 § 1).",
+  "wyjasnienie": "Art. 204 k.k.: nakłanianie do prostytucji lub ułatwianie jej w celu korzyści – stręczycielstwo i kuplerstwo (§ 1); czerpanie korzyści majątkowych z cudzej prostytucji – sutenerstwo (§ 2). Samo uprawianie prostytucji w Polsce nie jest karalne.",
   "zrodlo": "test"
  },
  {
@@ -386,7 +386,7 @@
    "przepadek przedmiotów",
    "nagana"
   ],
-  "wyjasnienie": "Art. 41 k.w.: pouczenie, zwrócenie uwagi, ostrzeżenie lub inne środki oddziaływania wychowawczego.",
+  "wyjasnienie": "Art. 41 k.w.: wobec sprawcy wykroczenia można zamiast kary zastosować pouczenie, zwrócenie uwagi, ostrzeżenie lub inne środki oddziaływania wychowawczego. Nawiązka i przepadek to środki karne (art. 28 k.w.), a nagany k.w. nie przewiduje.",
   "zrodlo": "test"
  },
  {
@@ -399,7 +399,7 @@
    "środek karny",
    "środek oddziaływania społecznego"
   ],
-  "wyjasnienie": "Art. 41 k.w.",
+  "wyjasnienie": "Art. 41 k.w.: wobec sprawcy wykroczenia można poprzestać na pouczeniu, zwróceniu uwagi, ostrzeżeniu albo zastosować inne środki oddziaływania wychowawczego – zamiast kary.",
   "zrodlo": "test"
  },
  {
@@ -412,7 +412,7 @@
    "jednoczesne rejestrowanie przesłuchania",
    "przesłuchanie w budynku organu administracji"
   ],
-  "wyjasnienie": "Art. 233 § 2 k.k. (lub odebranie przyrzeczenia).",
+  "wyjasnienie": "Art. 233 § 2 k.k.: odpowiedzialność za fałszywe zeznania zachodzi tylko wtedy, gdy przyjmujący zeznanie uprzedził zeznającego o odpowiedzialności karnej za fałszywe zeznanie lub odebrał od niego przyrzeczenie.",
   "zrodlo": "test"
  },
  {
@@ -438,7 +438,7 @@
    "ustalenie danych uczestników zdarzenia",
    "ochrona widocznych śladów kryminalistycznych"
   ],
-  "wyjasnienie": "Ratowanie życia ma pierwszeństwo przed ochroną śladów.",
+  "wyjasnienie": "Zasada nadrzędna (art. 162 k.k., art. 36 ustawy o ŚPB, JM01 JS05): ratowanie życia i zdrowia ma pierwszeństwo przed ochroną śladów i ustaleniem sprawcy. Ślady zabezpiecza się tak, by nie utrudniać pomocy.",
   "zrodlo": "test"
  },
  {
@@ -451,7 +451,7 @@
    "obowiązkową w każdym przypadku",
    "z której jedynym zapisem jest notatka urzędowa"
   ],
-  "wyjasnienie": "Art. 207 § 1 k.p.k. Z oględzin sporządza się protokół (art. 143 § 1 pkt 3).",
+  "wyjasnienie": "Art. 207 § 1 k.p.k.: oględziny miejsca, osoby lub rzeczy przeprowadza się „w razie potrzeby”, a nie obowiązkowo w każdej sprawie. Z oględzin sporządza się protokół (art. 143 § 1 pkt 3), a nie notatkę.",
   "zrodlo": "test"
  },
  {
@@ -464,7 +464,7 @@
    "utrwalenie miejsca za pomocą urządzeń technicznych",
    "ustalenie danych osobowych osób obecnych w rejonie"
   ],
-  "wyjasnienie": "Cel oględzin (JM01 JS06).",
+  "wyjasnienie": "Art. 207 k.p.k. i JM01 JS06: oględziny służą ujawnieniu, utrwaleniu i zabezpieczeniu śladów i dowodów (np. odciski, mikroślady, DNA), a nie tylko opisaniu miejsca. Z oględzin sporządza się protokół (art. 143 § 1 pkt 3 k.p.k.).",
   "zrodlo": "test"
  },
  {
@@ -477,7 +477,7 @@
    "rozmowa dzielnicowego z mieszkańcami",
    "sprawdzenie terenu przy poszukiwaniu osób"
   ],
-  "wyjasnienie": "Art. 143 § 1 pkt 3 k.p.k.",
+  "wyjasnienie": "Art. 143 § 1 pkt 3 k.p.k.: protokół sporządza się m.in. z oględzin, przeszukania, przesłuchania i zatrzymania. Rozpytanie, rozmowy dzielnicowego i sprawdzenie terenu dokumentuje się notatką.",
   "zrodlo": "test"
  },
  {
@@ -490,7 +490,7 @@
    "każda, bez względu na płeć",
    "zawsze tej samej płci, bez wyjątków"
   ],
-  "wyjasnienie": "Art. 208 k.p.k.",
+  "wyjasnienie": "Art. 208 k.p.k.: oględzin i badań ciała, które mogą wywołać uczucie wstydu, dokonuje osoba tej samej płci, chyba że łączy się z tym szczególne trudności (np. brak takiej osoby, a czynność jest pilna); wtedy wybiera się lekarza.",
   "zrodlo": "test"
  },
  {
@@ -529,7 +529,7 @@
    "przewodniczący rozprawy i protokolant",
    "wyłącznie osoba składająca zawiadomienie"
   ],
-  "wyjasnienie": "Art. 150 § 1 k.p.k.",
+  "wyjasnienie": "Art. 150 § 1 k.p.k.: protokół podpisują wszystkie osoby biorące udział w czynności – każdą stronę i niezwłocznie po zakończeniu czynności. Odmowę lub brak podpisu odnotowuje się w protokole.",
   "zrodlo": "test"
  },
  {
@@ -542,7 +542,7 @@
    "pokrzywdzony staje się oskarżycielem posiłkowym",
    "pokrzywdzony musi złożyć wnioski dowodowe"
   ],
-  "wyjasnienie": "Art. 12 § 1 k.p.k.",
+  "wyjasnienie": "Art. 12 § 1 k.p.k.: w przestępstwach wnioskowych (np. groźba karalna) postępowanie, po złożeniu wniosku przez pokrzywdzonego, toczy się z urzędu – wniosek można cofnąć tylko za zgodą prokuratora lub sądu.",
   "zrodlo": "test"
  },
  {
@@ -555,7 +555,7 @@
    "popełnia przestępstwo, chyba że zawiadomi przed organami",
    "popełnia wykroczenie"
   ],
-  "wyjasnienie": "Art. 304 § 1 k.p.k. Karalne jest tylko niezawiadomienie o przestępstwach z art. 240 § 1 k.k.",
+  "wyjasnienie": "Art. 304 § 1 k.p.k.: każdy, kto dowie się o przestępstwie ściganym z urzędu, ma SPOŁECZNY obowiązek zawiadomić prokuratora lub Policję – bez sankcji. Prawny obowiązek mają instytucje państwowe i samorządowe (§ 2), a karalne jest tylko niezawiadomienie o najcięższych przestępstwach z art. 240 § 1 k.k. (np. zabójstwo, terroryzm).",
   "zrodlo": "test"
  },
  {
@@ -568,7 +568,7 @@
    "każdego obrońcy, duchownego i radcy co do okoliczności hańbiących",
    "dzieci, wnuków i prawnuków osoby najbliższej"
   ],
-  "wyjasnienie": "Art. 178 pkt 1 k.p.k.",
+  "wyjasnienie": "Art. 178 pkt 1 k.p.k. – zakaz bezwzględny: nie wolno przesłuchiwać obrońcy (i adwokata/radcy działającego z art. 245) co do faktów, o których dowiedział się, udzielając porady lub prowadząc sprawę. Także duchownego co do spowiedzi (pkt 2).",
   "zrodlo": "test"
  },
  {
@@ -581,7 +581,7 @@
    "małoletni",
    "osobą niewładającą językiem polskim"
   ],
-  "wyjasnienie": "Art. 182 § 1 k.p.k.",
+  "wyjasnienie": "Art. 182 § 1 k.p.k.: osoba najbliższa dla oskarżonego (m.in. małżonek, krewny w linii prostej, rodzeństwo, osoba we wspólnym pożyciu) może odmówić zeznań. Podejrzany o udział w tym samym czynie może uchylić się od odpowiedzi (art. 183), a nie odmówić zeznań w całości.",
   "zrodlo": "test"
  },
  {
@@ -594,7 +594,7 @@
    "zatajenie prawdy",
    "zatajenie informacji o karalności"
   ],
-  "wyjasnienie": "Art. 190 § 1 k.p.k.",
+  "wyjasnienie": "Art. 190 § 1 k.p.k.: przed przesłuchaniem uprzedza się świadka o odpowiedzialności karnej za zeznanie nieprawdy lub zatajenie prawdy (art. 233 k.k.) – bez tego nie poniesie odpowiedzialności.",
   "zrodlo": "test"
  },
  {
@@ -620,7 +620,7 @@
    "można nałożyć karę od 100 do 1000 zł",
    "nie można nałożyć kary pieniężnej"
   ],
-  "wyjasnienie": "Art. 285 § 1 k.p.k.",
+  "wyjasnienie": "Art. 285 § 1 k.p.k.: na świadka, biegłego, tłumacza lub specjalistę, który bez usprawiedliwienia nie stawił się lub bez zezwolenia wydalił z miejsca czynności, można nałożyć karę pieniężną do 3000 zł.",
   "zrodlo": "test"
  },
  {
@@ -633,7 +633,7 @@
    "sąd",
    "adwokat"
   ],
-  "wyjasnienie": "Art. 247 § 1 k.p.k.",
+  "wyjasnienie": "Art. 247 § 1 k.p.k.: sąd lub prokurator może zarządzić zatrzymanie i przymusowe doprowadzenie podejrzanego, m.in. gdy uporczywie uchyla się od stawiennictwa na wezwanie. Policja wykonuje to zarządzenie.",
   "zrodlo": "test"
  },
  {
@@ -646,7 +646,7 @@
    "sąd",
    "kurator sądowy"
   ],
-  "wyjasnienie": "Art. 214 § 1 k.p.k. Przeprowadza go kurator sądowy (wyjątkowo Policja).",
+  "wyjasnienie": "Art. 214 § 1 k.p.k.: wywiad środowiskowy zarządza w postępowaniu przygotowawczym prokurator (lub sąd), a przeprowadza go kurator sądowy; Policja – tylko w wyjątkowych przypadkach.",
   "zrodlo": "test"
  },
  {
@@ -659,7 +659,7 @@
    "występki",
    "czyny karalne"
   ],
-  "wyjasnienie": "Art. 214 § 2 pkt 1 k.p.k.",
+  "wyjasnienie": "Art. 214 § 2 k.p.k.: wywiad środowiskowy jest obowiązkowy w sprawach o zbrodnie oraz o występki, gdy oskarżony w chwili czynu nie ukończył 21 lat.",
   "zrodlo": "test"
  },
  {
@@ -672,7 +672,7 @@
    "zbiór norm powszechnie obowiązujących w społeczności",
    "zasada metodologiczna budowania systemu etycznego"
   ],
-  "wyjasnienie": "JM01 JS09.",
+  "wyjasnienie": "Etyka zawodowa to normy moralne dla przedstawicieli konkretnego zawodu, szczególnie takiego, który ma kontakt z wartościami jak życie, zdrowie, wolność (lekarz, policjant). W Policji – Zasady etyki zawodowej policjanta (JM01 JS09).",
   "zrodlo": "test"
  },
  {
@@ -685,7 +685,7 @@
    "uchwały",
    "rozporządzenia"
   ],
-  "wyjasnienie": "Zarządzenie nr 805 KGP z 31 grudnia 2003 r.",
+  "wyjasnienie": "Zasady etyki zawodowej policjanta stanowią załącznik do Zarządzenia nr 805 KGP z 31 grudnia 2003 r. – to akt wewnętrzny rangi zarządzenia, a nie ustawa czy rozporządzenie.",
   "zrodlo": "test"
  },
  {
@@ -698,7 +698,7 @@
    "oczekiwaniami podwładnych",
    "własnymi sympatiami i antypatiami"
   ],
-  "wyjasnienie": "§ 19 Zasad etyki zawodowej policjanta.",
+  "wyjasnienie": "§ 19 Zasad etyki zawodowej policjanta: przełożony ocenia podwładnych według jasno określonych i znanych im kryteriów, kierując się sprawiedliwością i obiektywizmem – nie sympatiami ani „równym rozdawaniem nagród”.",
   "zrodlo": "test"
  },
  {
@@ -711,7 +711,7 @@
    "zachować dyskrecję co do korupcji innych",
    "przyjmować jedynie drobne upominki"
   ],
-  "wyjasnienie": "§ 11 Zasad etyki zawodowej policjanta.",
+  "wyjasnienie": "§ 11 Zasad etyki zawodowej policjanta: policjant wystrzega się korupcji w każdej postaci i zwalcza jej przejawy – nie przyjmuje korzyści ani nie toleruje korupcji u innych.",
   "zrodlo": "test"
  },
  {
@@ -724,7 +724,7 @@
    "w 1945 r. w San Francisco",
    "w 1945 r. w Nowym Jorku"
   ],
-  "wyjasnienie": "10 grudnia 1948 r., Zgromadzenie Ogólne ONZ.",
+  "wyjasnienie": "Powszechną Deklarację Praw Człowieka uchwaliło Zgromadzenie Ogólne ONZ 10 grudnia 1948 r. w Paryżu (stąd 10 grudnia – Dzień Praw Człowieka). Nie jest umową międzynarodową, ale stała się wzorcem dla późniejszych paktów.",
   "zrodlo": "test"
  },
  {
@@ -737,7 +737,7 @@
    "prawa solidarnościowe (kolektywne)",
    "prawa wynikające z obywatelstwa UE"
   ],
-  "wyjasnienie": "I generacja – osobiste i polityczne, II – ekonomiczne, socjalne, kulturalne, III – solidarnościowe.",
+  "wyjasnienie": "Generacje praw człowieka: I – prawa osobiste i polityczne (życie, wolność, prawo do sądu, wybory), II – ekonomiczne, socjalne i kulturalne (praca, ochrona zdrowia, edukacja), III – solidarnościowe (pokój, rozwój, czyste środowisko). Najsilniej chronione są prawa I generacji, np. przez Europejską Konwencję Praw Człowieka.",
   "zrodlo": "test"
  },
  {
@@ -750,7 +750,7 @@
    "szarżę pod Husynnem w 1939 r",
    "utworzenie Policji w 1990 r"
   ],
-  "wyjasnienie": "Ustawa z 24 lipca 1919 r. o Policji Państwowej.",
+  "wyjasnienie": "Ustawą z 24 lipca 1919 r. powołano Policję Państwową; na pamiątkę tego 24 lipca obchodzi się Święto Policji.",
   "zrodlo": "test"
  },
  {
@@ -763,7 +763,7 @@
    "ograniczonej wolności myśli",
    "wolności wypowiedzi nieuderzającej w rząd"
   ],
-  "wyjasnienie": "Art. 14 Konstytucji i art. 1 Prawa prasowego.",
+  "wyjasnienie": "Art. 14 Konstytucji RP gwarantuje wolność prasy, a art. 1 Prawa prasowego stanowi, że prasa korzysta z wolności wypowiedzi i urzeczywistnia prawo obywateli do rzetelnego informowania, jawności życia publicznego oraz kontroli i krytyki społecznej.",
   "zrodlo": "test"
  },
  {
@@ -789,7 +789,7 @@
    "najstarszy stopniem lub służbą",
    "policjant, który przybył jako pierwszy"
   ],
-  "wyjasnienie": "JM01 JS10 – zasady udzielania informacji na miejscu zdarzenia.",
+  "wyjasnienie": "Zasady pracy z mediami (JM01 JS10): na miejscu zdarzenia informacji udziela kierujący działaniami lub osoba przez niego wyznaczona – jedna osoba, żeby przekaz był spójny i nie ujawniał danych szkodzących postępowaniu.",
   "zrodlo": "test"
  },
  {
@@ -802,7 +802,7 @@
    "rzecznik prasowy samodzielnie",
    "wyłącznie kierownik jednostki Policji"
   ],
-  "wyjasnienie": "JM01 JS10.",
+  "wyjasnienie": "Zasady pracy z mediami (JM01 JS10): o dopuszczeniu dziennikarzy do miejsca czynności decyduje dowodzący działaniami, w porozumieniu z rzecznikiem lub oficerem prasowym – tak, by nie zagrozić bezpieczeństwu ani śladom.",
   "zrodlo": "test"
  },
  {
@@ -815,7 +815,7 @@
    "spotkania z Komendantem Głównym Policji",
    "mijania wyższych i równych stopniem"
   ],
-  "wyjasnienie": "Zasady regulaminowego zachowania (JM01 JS11).",
+  "wyjasnienie": "Regulaminowe zachowanie (JM01 JS11): honorów nie oddaje się m.in. podczas przechodzenia przez jezdnię i gdy mijający się są w odległości większej niż ok. 15 kroków; mijając przełożonych i starszych stopniem oddaje się je normalnie.",
   "zrodlo": "test"
  },
  {
@@ -828,7 +828,7 @@
    "przyjmują postawę swobodną",
    "przyjmują postawę swobodną i salutują"
   ],
-  "wyjasnienie": "Ceremoniał policyjny (JM01 JS11).",
+  "wyjasnienie": "Ceremoniał policyjny (JM01 JS11): podczas hymnu RP policjant w umundurowaniu z nakryciem głowy przyjmuje postawę zasadniczą i salutuje; bez nakrycia głowy – tylko postawa zasadnicza.",
   "zrodlo": "test"
  },
  {
@@ -841,7 +841,7 @@
    "„BACZNOŚĆ!”",
    "nie wydaje się komendy"
   ],
-  "wyjasnienie": "Zasady regulaminowego zachowania (JM01 JS11).",
+  "wyjasnienie": "Regulaminowe zachowanie (JM01 JS11): w wąskim przejściu ten, kto pierwszy zauważy przełożonego, podaje komendę „PRZEJŚCIE!”, a policjanci ustępują mu drogi.",
   "zrodlo": "test"
  },
  {
@@ -867,7 +867,7 @@
    "trzech",
    "dwóch"
   ],
-  "wyjasnienie": "Ustawa o działaniach antyterrorystycznych: ALFA, BRAVO, CHARLIE, DELTA.",
+  "wyjasnienie": "Art. 15 ustawy o działaniach antyterrorystycznych: cztery stopnie alarmowe – ALFA, BRAVO, CHARLIE, DELTA (i odpowiednio cztery stopnie CRP dla zagrożeń w cyberprzestrzeni). Wprowadza je Prezes RM, w pilnych sprawach minister właściwy do spraw wewnętrznych.",
   "zrodlo": "test"
  },
  {
@@ -906,7 +906,7 @@
    "wywołujących zaburzenia w OUN",
    "wywołujących halucynacje"
   ],
-  "wyjasnienie": "JM01 JS13 – rozpoznawanie środków odurzających.",
+  "wyjasnienie": "Amfetamina jest stymulantem – pobudza ośrodkowy układ nerwowy (wzmożona aktywność, brak senności i łaknienia, rozszerzone źrenice). Depresanty (np. heroina, barbiturany) hamują OUN, halucynogeny (LSD) zaburzają percepcję. Ustawa o przeciwdziałaniu narkomanii umieszcza ją w wykazie substancji psychotropowych.",
   "zrodlo": "test"
  },
  {
@@ -919,7 +919,7 @@
    "półprodukt",
    "prekursor khatu"
   ],
-  "wyjasnienie": "JM01 JS13.",
+  "wyjasnienie": "Amfetamina jest otrzymywana wyłącznie syntetycznie, w laboratoriach (z prekursorów, np. BMK), w odróżnieniu od narkotyków pochodzenia roślinnego, jak marihuana, kokaina czy khat.",
   "zrodlo": "test"
  },
  {
@@ -932,7 +932,7 @@
    "marihuanę, barbiturany i kokainę",
    "khat, meskalinę, kokainę i metadon"
   ],
-  "wyjasnienie": "Relanium, heroina, barbiturany, metadon działają depresyjnie.",
+  "wyjasnienie": "Stymulanty pobudzają OUN: amfetamina, kokaina i crack, khat, ecstasy (MDMA). Relanium (benzodiazepina), heroina, barbiturany i metadon działają depresyjnie (uspokajająco, nasennie), meskalina – halucynogennie.",
   "zrodlo": "test"
  },
  {
@@ -945,7 +945,7 @@
    "dozwolone na własny użytek",
    "karalne tylko przy tzw. narkotykach twardych"
   ],
-  "wyjasnienie": "Art. 62 ustawy o przeciwdziałaniu narkomanii.",
+  "wyjasnienie": "Art. 62 ustawy o przeciwdziałaniu narkomanii: posiadanie środków odurzających lub substancji psychotropowych wbrew ustawie jest przestępstwem (do 3 lat; znaczna ilość – od 1 do 10 lat). Ilość wpływa na karę, a nie na samą karalność; „własny użytek” nie wyłącza odpowiedzialności, najwyżej umożliwia umorzenie (art. 62a).",
   "zrodlo": "test"
  },
  {
@@ -1010,7 +1010,7 @@
    "notatkę służbową",
    "raport"
   ],
-  "wyjasnienie": "Art. 48 ust. 4 UWRN.",
+  "wyjasnienie": "Art. 48 ust. 4 ustawy o wspieraniu i resocjalizacji nieletnich: z zatrzymania nieletniego sporządza się protokół (jak przy zatrzymaniu dorosłego – art. 244 § 3 k.p.k.), a odpis doręcza się nieletniemu.",
   "zrodlo": "test"
  },
  {
@@ -1023,7 +1023,7 @@
    "zawsze należy powiadomić sąd rodzinny i prokuratora",
    "nie ma obowiązku powiadamiania"
   ],
-  "wyjasnienie": "Art. 48 ust. 5 UWRN – sąd rodzinny i rodzice albo opiekun.",
+  "wyjasnienie": "Art. 48 ust. 5 UWRN: o zatrzymaniu nieletniego niezwłocznie zawiadamia się sąd rodzinny oraz rodziców albo opiekuna. Prokuratora co do zasady się nie zawiadamia – sprawy nieletnich prowadzi sąd rodzinny.",
   "zrodlo": "test"
  },
  {
@@ -1036,7 +1036,7 @@
    "ustały przesłanki trybu przyspieszonego",
    "polecił to prokurator"
   ],
-  "wyjasnienie": "Art. 48 ust. 9 UWRN.",
+  "wyjasnienie": "Art. 48 ust. 9 UWRN: nieletniego natychmiast zwalnia się i przekazuje rodzicom, gdy ustała przyczyna zatrzymania, polecił to sąd rodzinny, Policja w ciągu 24 godzin nie przekazała sądowi rodzinnemu materiałów albo w ciągu kolejnych 24 godzin sąd nie ogłosił postanowienia o środku tymczasowym. Prokurator nie decyduje w sprawach nieletnich.",
   "zrodlo": "test"
  },
  {
@@ -1049,7 +1049,7 @@
    "Służba Celno-Skarbowa",
    "Służba Ochrony Państwa"
   ],
-  "wyjasnienie": "Art. 48 ust. 2 UWRN.",
+  "wyjasnienie": "Art. 48 ust. 2 UWRN: w policyjnej izbie dziecka może umieścić nieletniego Policja, a także Straż Graniczna (gdy zatrzymała go w zakresie swojej właściwości).",
   "zrodlo": "test"
  },
  {
@@ -1062,7 +1062,7 @@
    "sposób korespondencji między dwoma użytkownikami",
    "sieć radiową ruchomą organizowaną doraźnie"
   ],
-  "wyjasnienie": "JM02 JS01.",
+  "wyjasnienie": "Łączność radiowa (JM02 JS01): w systemach trankingowych/cyfrowych (np. TETRA) grupa rozmówna to wydzielona wirtualnie grupa użytkowników – np. patrole jednej komendy – która korzysta z kanału przydzielanego dynamicznie lub statycznie.",
   "zrodlo": "test"
  },
  {
@@ -1075,7 +1075,7 @@
    "do przesyłania sygnalizacji zwrotnej",
    "retransmisyjny określany przedziałem częstotliwości"
   ],
-  "wyjasnienie": "JM02 JS01.",
+  "wyjasnienie": "Łączność radiowa (JM02 JS01): kanał radiowy to tor transmisyjny, którym informacja przesyłana jest bezprzewodowo za pomocą fal elektromagnetycznych o określonej częstotliwości.",
   "zrodlo": "test"
  },
  {
@@ -1088,7 +1088,7 @@
    "tor transmisyjny wykorzystujący fale elektromagnetyczne",
    "łączność między stacjami na przydzielonym kanale"
   ],
-  "wyjasnienie": "JM02 JS01.",
+  "wyjasnienie": "Łączność radiowa (JM02 JS01): kanał roboczy to kanał radiowy przydzielony do pracy danej sieci radiowej (np. sieci komendy powiatowej). Zespół stacji pracujących według wspólnych danych to sieć radiowa.",
   "zrodlo": "test"
  },
  {
@@ -1101,7 +1101,7 @@
    "wzajemną",
    "dobrej słyszalności"
   ],
-  "wyjasnienie": "JM02 JS01.",
+  "wyjasnienie": "Łączność radiowa (JM02 JS01): łączność między stacjami radiowymi na przydzielonym kanale nazywa się łącznością radiową – to podstawowa forma łączności patrolu z dyżurnym.",
   "zrodlo": "test"
  },
  {
@@ -1114,7 +1114,7 @@
    "oddać telefon do kontroli",
    "podpisać oświadczenie"
   ],
-  "wyjasnienie": "Art. 65 k.w. – wprowadzenie w błąd co do tożsamości jest wykroczeniem.",
+  "wyjasnienie": "Art. 15 ust. 1 pkt 1 ustawy o Policji pozwala legitymować, a legitymowany musi podać prawdziwe dane. Art. 65 k.w.: kto wprowadza w błąd organ co do tożsamości (swojej lub innej osoby) albo odmawia podania danych – popełnia wykroczenie.",
   "zrodlo": "test"
  },
  {
@@ -1127,7 +1127,7 @@
    "za każdym razem",
    "na polecenie legitymowanego"
   ],
-  "wyjasnienie": "§ 5 ust. 2 rozporządzenia RM z 8 listopada 2023 r.",
+  "wyjasnienie": "§ 5 ust. 2 rozporządzenia RM z 8 listopada 2023 r. w sprawie legitymowania: gdy policjant legitymuje bezpośrednio po sobie kolejne osoby w tym samym miejscu i z tej samej przyczyny, przedstawia się tylko raz.",
   "zrodlo": "test"
  },
  {
@@ -1140,7 +1140,7 @@
    "musi tylko ustnie potwierdzić tożsamość",
    "zobowiązany jest ją wylegitymować"
   ],
-  "wyjasnienie": "§ 6 rozporządzenia RM z 8 listopada 2023 r.",
+  "wyjasnienie": "§ 6 rozporządzenia RM z 8 listopada 2023 r.: policjant może odstąpić od legitymowania osoby, którą zna osobiście, i sprawdzić jej dane w systemach na podstawie własnej wiedzy.",
   "zrodlo": "test"
  },
  {
@@ -1153,7 +1153,7 @@
    "nieprawidłowo – może żądać tylko od legitymowanego",
    "nieprawidłowo – nie może tego żądać od nikogo"
   ],
-  "wyjasnienie": "§ 5 ust. 1 rozporządzenia RM z 8 listopada 2023 r.",
+  "wyjasnienie": "§ 5 ust. 1 rozporządzenia RM z 8 listopada 2023 r.: legitymując osobę w pojeździe, policjant może – ze względów bezpieczeństwa – polecić opuszczenie pojazdu legitymowanemu i wszystkim innym osobom w pojeździe.",
   "zrodlo": "test"
  },
  {
@@ -1166,7 +1166,7 @@
    "tylko świadków",
    "tylko pokrzywdzonych"
   ],
-  "wyjasnienie": "§ 2 ust. 4 rozporządzenia RM z 8 listopada 2023 r.",
+  "wyjasnienie": "§ 2 ust. 4 rozporządzenia RM z 8 listopada 2023 r.: każdą osobę objętą legitymowaniem informuje się ustnie o prawie złożenia zażalenia do prokuratora na sposób przeprowadzenia czynności.",
   "zrodlo": "test"
  },
  {
@@ -1192,7 +1192,7 @@
    "ustalenia miejsca pracy",
    "kontroli stanu zdrowia"
   ],
-  "wyjasnienie": "Art. 15 ust. 1 pkt 5 ustawy o Policji.",
+  "wyjasnienie": "Art. 15 ust. 1 pkt 5 ustawy o Policji: policjant może dokonać kontroli osobistej oraz przeglądać bagaż i ładunek w razie uzasadnionego podejrzenia popełnienia czynu zabronionego – w celu znalezienia przedmiotów, których posiadanie jest zabronione, przedmiotów pochodzących z przestępstwa lub mogących być dowodem.",
   "zrodlo": "test"
  },
  {
@@ -1205,7 +1205,7 @@
    "ostrzec o możliwości użycia ŚPB",
    "podać przyczynę, a podstawę prawną tylko na żądanie"
   ],
-  "wyjasnienie": "Art. 15d ust. 4 pkt 2 ustawy o Policji.",
+  "wyjasnienie": "Art. 15d ust. 4 ustawy o Policji: przed kontrolą osobistą policjant podaje imię, nazwisko i stopień (nieumundurowany okazuje legitymację), podstawę prawną i przyczynę kontroli. Dopiero przy oporze wzywa do zachowania zgodnego z prawem i uprzedza o ŚPB.",
   "zrodlo": "test"
  },
  {
@@ -1231,7 +1231,7 @@
    "raporcie służbowym",
    "książce kontroli lub notatce urzędowej"
   ],
-  "wyjasnienie": "Art. 15d ust. 10 ustawy o Policji – protokół tylko na żądanie lub przy znalezieniu przedmiotów.",
+  "wyjasnienie": "Art. 15d ust. 10 ustawy o Policji: z kontroli osobistej sporządza się protokół tylko na żądanie kontrolowanego albo gdy znaleziono lub zatrzymano przedmioty. W pozostałych przypadkach wystarczy zapis w notatniku służbowym lub notatka służbowa.",
   "zrodlo": "test"
  },
  {
@@ -1244,7 +1244,7 @@
    "komendanta Policji",
    "wojewódzkiego sądu administracyjnego"
   ],
-  "wyjasnienie": "Art. 15d ust. 11 ustawy o Policji – w terminie 7 dni.",
+  "wyjasnienie": "Art. 15d ust. 11 ustawy o Policji: na kontrolę osobistą (jej zasadność, legalność i prawidłowość) przysługuje zażalenie do sądu rejonowego właściwego miejscowo, w terminie 7 dni od jej dokonania. Na legitymowanie – do prokuratora.",
   "zrodlo": "test"
  },
  {
@@ -1257,7 +1257,7 @@
    "wykrycie osoby podejrzanej",
    "przymusowe doprowadzenie osoby podejrzanej"
   ],
-  "wyjasnienie": "Art. 219 § 1 k.p.k.",
+  "wyjasnienie": "Art. 219 § 1 k.p.k.: przeszukanie służy wykryciu, zatrzymaniu lub przymusowemu doprowadzeniu osoby podejrzanej oraz znalezieniu rzeczy mogących być dowodem lub podlegających zajęciu. Świadka doprowadza się w innym trybie (art. 285 § 2).",
   "zrodlo": "test"
  },
  {
@@ -1270,7 +1270,7 @@
    "zawsze po podaniu podstawy w identycznej formie",
    "wyłącznie na podstawie postanowienia sądu"
   ],
-  "wyjasnienie": "Art. 227 k.p.k.",
+  "wyjasnienie": "Art. 227 k.p.k.: przeszukanie przeprowadza się zgodnie z celem tej czynności, z umiarem i poszanowaniem godności osób, bez wyrządzania niepotrzebnych szkód i dolegliwości.",
   "zrodlo": "test"
  },
  {
@@ -1283,7 +1283,7 @@
    "zarządzenie dyżurnego",
    "postanowienie kierownika jednostki"
   ],
-  "wyjasnienie": "Art. 220 § 3 k.p.k. (albo NAKAZ kierownika jednostki).",
+  "wyjasnienie": "Art. 220 § 3 k.p.k.: w wypadkach niecierpiących zwłoki, gdy brak postanowienia sądu lub prokuratora, policjant przeszukuje na podstawie nakazu kierownika jednostki albo – wyjątkowo – legitymacji służbowej, a następnie zwraca się do prokuratora o zatwierdzenie.",
   "zrodlo": "test"
  },
  {
@@ -1296,7 +1296,7 @@
    "5 dni od daty czynności",
    "3 dni od daty czynności"
   ],
-  "wyjasnienie": "Art. 220 § 3 k.p.k.",
+  "wyjasnienie": "Art. 220 § 3 k.p.k.: przeszukanie bez postanowienia musi zatwierdzić sąd lub prokurator; na żądanie osoby przeszukanej postanowienie w tej sprawie doręcza się jej w terminie 7 dni od czynności.",
   "zrodlo": "test"
  },
  {
@@ -1335,7 +1335,7 @@
    "zwyczajne, nadzwyczajne i zastrzeżone",
    "wyłącznie prewencyjne i procesowe"
   ],
-  "wyjasnienie": "JM02 JS06.",
+  "wyjasnienie": "Podział z JM02 JS06: procesowe (k.p.k. – podejrzany), prewencyjne (art. 15 ust. 1 pkt 3 UoP – zagrożenie życia, zdrowia, mienia), porządkowe (k.p.w. – sprawca wykroczenia), administracyjne (np. nietrzeźwi, cudzoziemcy), penitencjarne (zbiegli z zakładu karnego).",
   "zrodlo": "test"
  },
  {
@@ -1348,7 +1348,7 @@
    "penitencjarnego",
    "do wytrzeźwienia"
   ],
-  "wyjasnienie": "Art. 15 ust. 1 pkt 3 ustawy o Policji.",
+  "wyjasnienie": "Art. 15 ust. 1 pkt 3 ustawy o Policji: osobę stwarzającą w sposób oczywisty bezpośrednie zagrożenie dla życia lub zdrowia ludzkiego albo mienia zatrzymuje się prewencyjnie. Sporządza się protokół zatrzymania (rozporządzenie RM o zatrzymaniu prewencyjnym).",
   "zrodlo": "test"
  },
  {
@@ -1361,7 +1361,7 @@
    "w ciągu 24 godzin",
    "po doprowadzeniu do jednostki"
   ],
-  "wyjasnienie": "Art. 244 § 2 k.p.k.",
+  "wyjasnienie": "Art. 244 § 2 k.p.k.: zatrzymanego natychmiast informuje się o przyczynach zatrzymania i jego prawach (m.in. do adwokata, odmowy wyjaśnień, zażalenia, badania lekarskiego) oraz wysłuchuje go.",
   "zrodlo": "test"
  },
  {
@@ -1374,7 +1374,7 @@
    "przełożonego policjanta",
    "organu przełożonego nad organem zatrzymującym"
   ],
-  "wyjasnienie": "Art. 246 k.p.k.",
+  "wyjasnienie": "Art. 246 § 1–3 k.p.k.: zatrzymany może złożyć zażalenie do sądu rejonowego miejsca zatrzymania lub prowadzenia postępowania; sąd bada zasadność, legalność i prawidłowość zatrzymania.",
   "zrodlo": "test"
  },
  {
@@ -1387,7 +1387,7 @@
    "jest kobietą w ciąży",
    "jest osobą duchowną"
   ],
-  "wyjasnienie": "Art. 248 § 1 k.p.k.",
+  "wyjasnienie": "Art. 248 § 1 k.p.k.: zatrzymanego zwalnia się natychmiast, gdy ustanie przyczyna zatrzymania, oraz jeśli w ciągu 48 godzin nie zostanie przekazany sądowi z wnioskiem o areszt (a w ciągu kolejnych 24 godzin nie zostanie mu doręczone postanowienie o areszcie).",
   "zrodlo": "test"
  },
  {
@@ -1400,7 +1400,7 @@
    "nie przyznaje się do wykroczenia",
    "mieszka daleko od miejsca czynu"
   ],
-  "wyjasnienie": "Art. 45 § 1 k.p.w. (lub nie można ustalić tożsamości).",
+  "wyjasnienie": "Art. 45 § 1 k.p.w.: Policja może zatrzymać osobę ujętą na gorącym uczynku wykroczenia lub bezpośrednio potem, jeżeli zachodzą podstawy do postępowania przyspieszonego albo nie można ustalić jej tożsamości.",
   "zrodlo": "test"
  },
  {
@@ -1413,7 +1413,7 @@
    "24 godzin",
    "72 godzin"
   ],
-  "wyjasnienie": "Art. 46 § 6 k.p.w.",
+  "wyjasnienie": "Art. 46 § 6 k.p.w.: zatrzymanego w związku z postępowaniem przyspieszonym przekazuje się sądowi, a czas zatrzymania – liczony od chwili ujęcia – nie może przekroczyć 48 godzin.",
   "zrodlo": "test"
  },
  {
@@ -1426,7 +1426,7 @@
    "wynosić lub przenosić przedmioty",
    "sprawdzić, czy egzekucja jest zasadna"
   ],
-  "wyjasnienie": "JM02 JS09 – pomoc i asysta. Policjant nie wykonuje czynności egzekucyjnych.",
+  "wyjasnienie": "JM02 JS09: pomoc Policji polega na zapewnieniu egzekutorowi bezpieczeństwa osobistego i przełamaniu oporu (art. 46 ustawy o postępowaniu egzekucyjnym w administracji). Policjant nie wykonuje za egzekutora czynności egzekucyjnych – nie przeszukuje, nie wynosi rzeczy, nie ocenia zasadności egzekucji.",
   "zrodlo": "test"
  },
  {
@@ -1439,7 +1439,7 @@
    "zarządzenia",
    "decyzji"
   ],
-  "wyjasnienie": "Art. 12 ust. 1 pkt 1 ustawy o środkach przymusu bezpośredniego i broni palnej.",
+  "wyjasnienie": "Katalog środków przymusu bezpośredniego, w tym siłę fizyczną, zawiera art. 12 ust. 1 ustawy z 24 maja 2013 r. o środkach przymusu bezpośredniego i broni palnej – czyli akt rangi ustawy.",
   "zrodlo": "test"
  },
  {
@@ -1452,7 +1452,7 @@
    "transportowe, obrony, obezwładnienia",
    "ataku, obrony, zatrzymania"
   ],
-  "wyjasnienie": "Art. 12 ust. 1 pkt 1 ustawy o środkach przymusu bezpośredniego i broni palnej.",
+  "wyjasnienie": "Art. 12 ust. 1 pkt 1 i art. 14 ustawy o ŚPB: siła fizyczna obejmuje techniki transportowe (np. dźwignie), obrony, ataku i obezwładnienia.",
   "zrodlo": "test"
  },
  {
@@ -1465,7 +1465,7 @@
    "nigdy – uderzenia są zakazane",
    "tylko w obronie przed niebezpiecznym narzędziem"
   ],
-  "wyjasnienie": "Art. 14 ust. 2 ustawy o środkach przymusu bezpośredniego i broni palnej.",
+  "wyjasnienie": "Art. 14 ust. 2 ustawy o ŚPB: siła fizyczna polega m.in. na technikach transportowych, obrony, ataku i obezwładnienia; uderzenia można zadawać tylko w celu odparcia zamachu na życie, zdrowie lub mienie albo przeciwdziałania ucieczce.",
   "zrodlo": "test"
  },
  {
@@ -1478,7 +1478,7 @@
    "tak, w celu tzw. „zmiękczenia”",
    "tak, gdy osoba jest silna"
   ],
-  "wyjasnienie": "Art. 6 i art. 14 ust. 2 ustawy o środkach przymusu bezpośredniego i broni palnej – brak przesłanek do użycia siły.",
+  "wyjasnienie": "Art. 6 ustawy o ŚPB: środki przymusu stosuje się tylko w niezbędnym zakresie i proporcjonalnie. Osoba wykonująca polecenia nie stawia oporu, więc nie ma podstawy z art. 11 do użycia siły – kopnięcie byłoby przekroczeniem uprawnień.",
   "zrodlo": "test"
  },
  {
@@ -1504,7 +1504,7 @@
    "dowódca konwoju",
    "dyżurny jednostki"
   ],
-  "wyjasnienie": "Art. 35 ust. 1 ustawy o środkach przymusu bezpośredniego i broni palnej.",
+  "wyjasnienie": "Art. 35 ust. 1 ustawy o ŚPB: o użyciu lub wykorzystaniu środka przymusu bezpośredniego decyduje samodzielnie uprawniony (policjant), chyba że działa w składzie oddziału – wtedy dowódca.",
   "zrodlo": "test"
  },
  {
@@ -1530,7 +1530,7 @@
    "chemicznych środków obezwładniających",
    "przedmiotów do obezwładniania energią elektryczną"
   ],
-  "wyjasnienie": "Art. 9 ust. 1 ustawy o środkach przymusu bezpośredniego i broni palnej.",
+  "wyjasnienie": "Art. 9 ust. 1 ustawy o ŚPB: wobec kobiet o widocznej ciąży, osób o widocznej niepełnosprawności i osób, których wygląd wskazuje na wiek do 13 lat, można użyć wyłącznie siły fizycznej w postaci technik obezwładnienia.",
   "zrodlo": "test"
  },
  {
@@ -1543,7 +1543,7 @@
    "jedynie siły fizycznej",
    "jedynie pałki służbowej"
   ],
-  "wyjasnienie": "Art. 9 ust. 2 ustawy o środkach przymusu bezpośredniego i broni palnej.",
+  "wyjasnienie": "Art. 9 ust. 2 ustawy o ŚPB: ograniczenie z ust. 1 (tylko techniki obezwładnienia) nie obowiązuje, gdy osoba dokonuje bezpośredniego zamachu na życie lub zdrowie albo przy użyciu niebezpiecznego narzędzia – wtedy wolno użyć innych ŚPB i broni palnej.",
   "zrodlo": "test"
  },
  {
@@ -1556,7 +1556,7 @@
    "nie mogą użyć żadnych środków",
    "mogą użyć siły w każdej postaci, kajdanek i pasa"
   ],
-  "wyjasnienie": "Art. 9 ust. 1 ustawy o środkach przymusu bezpośredniego i broni palnej.",
+  "wyjasnienie": "Art. 9 ust. 1 ustawy o ŚPB: wobec osoby o widocznej niepełnosprawności – jak wobec kobiety w ciąży i dziecka do 13 lat – wolno użyć tylko siły fizycznej w postaci technik obezwładnienia. Zachowanie (odpychanie) nie jest zamachem na życie, więc wyjątek z ust. 2 nie działa.",
   "zrodlo": "test"
  },
  {
@@ -1569,7 +1569,7 @@
    "przeciwdziałania autoagresji",
    "ujęcia osoby lub pościgu"
   ],
-  "wyjasnienie": "Art. 15 ust. 1 ustawy o środkach przymusu bezpośredniego i broni palnej – art. 11 pkt 1–11, 13 i 14 (bez pkt 12).",
+  "wyjasnienie": "Art. 15 ust. 1 ustawy o ŚPB: kajdanki można stosować w wielu przypadkach z art. 11 (m.in. pokonanie czynnego oporu, autoagresja, ujęcie, pościg), ale NIE w celu pokonania biernego oporu – np. gdy osoba siedzi i nie reaguje. Wtedy stosuje się siłę fizyczną.",
   "zrodlo": "test"
  },
  {
@@ -1582,7 +1582,7 @@
    "kierownika jednostki",
    "komornika"
   ],
-  "wyjasnienie": "Art. 15 ust. 2 ustawy o środkach przymusu bezpośredniego i broni palnej.",
+  "wyjasnienie": "Art. 15 ust. 2 ustawy o ŚPB: kajdanek można użyć także na polecenie sądu lub prokuratora oraz wobec osoby zatrzymanej, doprowadzanej lub konwojowanej, gdy zachodzi uzasadnione podejrzenie ucieczki lub zagrożenia.",
   "zrodlo": "test"
  },
  {
@@ -1595,7 +1595,7 @@
    "jednorazowe i wielorazowe",
    "policyjne i wojskowe"
   ],
-  "wyjasnienie": "Art. 12 ust. 1 pkt 2 ustawy o środkach przymusu bezpośredniego i broni palnej.",
+  "wyjasnienie": "Art. 12 ust. 1 pkt 2 ustawy o ŚPB: kajdanki zakładane na ręce, kajdanki zakładane na nogi oraz kajdanki zespolone (łączące ręce i nogi). Ustawa nie dzieli ich według materiału.",
   "zrodlo": "test"
  },
  {
@@ -1608,7 +1608,7 @@
    "utrudniać obiegu krwi (tylko)",
    "tamować obiegu krwi (tylko)"
   ],
-  "wyjasnienie": "Art. 16 ust. 4 ustawy o środkach przymusu bezpośredniego i broni palnej.",
+  "wyjasnienie": "Art. 16 ust. 4 ustawy o ŚPB: kaftan bezpieczeństwa i pas obezwładniający zakłada się tak, by nie utrudniać oddychania ani nie tamować obiegu krwi; stan osoby trzeba kontrolować.",
   "zrodlo": "test"
  },
  {
@@ -1621,7 +1621,7 @@
    "przeciwdziałania niszczeniu mienia",
    "pokonania biernego oporu"
   ],
-  "wyjasnienie": "Art. 17 ustawy o środkach przymusu bezpośredniego i broni palnej.",
+  "wyjasnienie": "Art. 17 ustawy o ŚPB: kask zabezpieczający stosuje się, by przeciwdziałać autoagresji (samookaleczeniu, uderzaniu głową) osoby obezwładnionej.",
   "zrodlo": "test"
  },
  {
@@ -1634,7 +1634,7 @@
    "miota się wyłącznie z innego urządzenia",
    "miota się wyłącznie z broni palnej"
   ],
-  "wyjasnienie": "Art. 18 ust. 3 ustawy o środkach przymusu bezpośredniego i broni palnej.",
+  "wyjasnienie": "Art. 18 ust. 3 ustawy o ŚPB: siatkę obezwładniającą miota się z broni palnej lub innego urządzenia albo zarzuca ręcznie – na całą sylwetkę lub jej część, unieruchamiając osobę.",
   "zrodlo": "test"
  },
  {
@@ -1647,7 +1647,7 @@
    "pokonania czynnego oporu",
    "zatrzymania osoby lub pościgu"
   ],
-  "wyjasnienie": "Art. 19 ust. 1 ustawy o środkach przymusu bezpośredniego i broni palnej – art. 11 pkt 1–11 i 13.",
+  "wyjasnienie": "Art. 19 ust. 1 ustawy o ŚPB: pałki służbowej nie używa się do pokonania biernego oporu – tylko przy oporze czynnym, zamachu, niszczeniu mienia, ucieczce itp.",
   "zrodlo": "test"
  },
  {
@@ -1660,7 +1660,7 @@
    "siły fizycznej",
    "konia służbowego"
   ],
-  "wyjasnienie": "Art. 19 ust. 2 ustawy o środkach przymusu bezpośredniego i broni palnej (z wyjątkiem dźwigni transportowych).",
+  "wyjasnienie": "Art. 19 ust. 2 ustawy o ŚPB: wobec osoby skutej kajdankami nie używa się pałki – poza dźwigniami transportowymi wykonywanymi pałką. Osoba skuta nie stanowi już takiego zagrożenia.",
   "zrodlo": "test"
  },
  {
@@ -1699,7 +1699,7 @@
    "tułów",
    "nogi"
   ],
-  "wyjasnienie": "Art. 25 ust. 4 ustawy o środkach przymusu bezpośredniego i broni palnej.",
+  "wyjasnienie": "Art. 25 ust. 4 ustawy o ŚPB: przedmiotem do obezwładniania energią elektryczną (paralizatorem) nie celuje się w głowę (np. oczy, twarz) – ryzyko poważnych obrażeń.",
   "zrodlo": "test"
  },
  {
@@ -1712,7 +1712,7 @@
    "siły fizycznej w postaci technik obrony",
    "siły fizycznej w postaci technik transportowych"
   ],
-  "wyjasnienie": "Art. 25 ust. 3 ustawy o środkach przymusu bezpośredniego i broni palnej (środki z art. 12 ust. 1 pkt 2–5).",
+  "wyjasnienie": "Art. 25 ust. 3 ustawy o ŚPB: paralizatora nie używa się wobec osoby, wobec której zastosowano już kajdanki, kaftan, pas obezwładniający lub kask – jest już obezwładniona.",
   "zrodlo": "test"
  },
  {
@@ -1725,7 +1725,7 @@
    "w jednym kierunku, co najmniej 500 m",
    "w obu kierunkach, co najmniej 50 m"
   ],
-  "wyjasnienie": "Art. 30 ust. 4 pkt 2 ustawy o środkach przymusu bezpośredniego i broni palnej.",
+  "wyjasnienie": "Art. 30 ust. 4 ustawy o ŚPB: przed użyciem kolczatki wstrzymuje się ruch w obu kierunkach w odległości co najmniej 100 m od miejsca jej ustawienia, by nie uszkodzić innych pojazdów. Wyjątek – blokada oznakowanym radiowozem (ust. 5).",
   "zrodlo": "test"
  },
  {
@@ -1738,7 +1738,7 @@
    "wstrzymuje się ruch w obu kierunkach co najmniej 50 m",
    "zawsze odstępuje się od wstrzymania ruchu"
   ],
-  "wyjasnienie": "Art. 30 ust. 5 ustawy o środkach przymusu bezpośredniego i broni palnej.",
+  "wyjasnienie": "Art. 30 ust. 5 ustawy o ŚPB: przy blokowaniu drogi oznakowanym pojazdem służbowym można odstąpić od wstrzymania ruchu, które normalnie poprzedza użycie kolczatki (100 m w obu kierunkach – ust. 4).",
   "zrodlo": "test"
  },
  {
@@ -1751,7 +1751,7 @@
    "wykorzystany przeciw autoagresji",
    "użyty do ochrony obiektów chronionych"
   ],
-  "wyjasnienie": "Art. 31 ustawy o środkach przymusu bezpośredniego i broni palnej – zatrzymanie lub zablokowanie innego pojazdu.",
+  "wyjasnienie": "Art. 31 ustawy o ŚPB: pojazd służbowy można wykorzystać do zatrzymania lub zablokowania innego pojazdu – w celu ujęcia osoby, udaremnienia jej ucieczki lub w pościgu.",
   "zrodlo": "test"
  },
  {
@@ -1764,7 +1764,7 @@
    "ustala tożsamość uczestników",
    "sprawdza osobę pod kątem niebezpiecznych przedmiotów"
   ],
-  "wyjasnienie": "Art. 36 ust. 1 ustawy o środkach przymusu bezpośredniego i broni palnej.",
+  "wyjasnienie": "Art. 36 ust. 1 ustawy o ŚPB: jeżeli w wyniku użycia ŚPB osoba doznała obrażeń, policjant niezwłocznie udziela jej pierwszej pomocy i wzywa pomoc medyczną (lub pozwala jej skorzystać z pomocy).",
   "zrodlo": "test"
  },
  {
@@ -1790,7 +1790,7 @@
    "wystarczający",
    "zdecydowany i bezpieczny"
   ],
-  "wyjasnienie": "Art. 7 ust. 1 ustawy o środkach przymusu bezpośredniego i broni palnej.",
+  "wyjasnienie": "Art. 7 ust. 1 ustawy o ŚPB: broń palną używa się i wykorzystuje w sposób wyrządzający możliwie najmniejszą szkodę; użycie nie może zmierzać do pozbawienia życia, a jedynie do obezwładnienia (art. 7 ust. 2).",
   "zrodlo": "test"
  },
  {
@@ -1803,7 +1803,7 @@
    "wyłącznie bezpieczeństwo powszechne",
    "wyłącznie mienie Skarbu Państwa"
   ],
-  "wyjasnienie": "Art. 45 pkt 1 lit. a ustawy o środkach przymusu bezpośredniego i broni palnej.",
+  "wyjasnienie": "Art. 45 pkt 1 lit. a ustawy o ŚPB: broni palnej można użyć m.in. w celu odparcia bezpośredniego, bezprawnego zamachu na życie, zdrowie lub wolność policjanta lub innej osoby. Zamach na mienie uzasadnia broń tylko w szczególnych przypadkach wymienionych w ustawie.",
   "zrodlo": "test"
  },
  {
@@ -1842,7 +1842,7 @@
    "„Stój, Policja!”",
    "„Ostrzegam o użyciu broni!”"
   ],
-  "wyjasnienie": "Art. 48 ust. 2 ustawy o środkach przymusu bezpośredniego i broni palnej.",
+  "wyjasnienie": "Art. 48 ust. 2 ustawy o ŚPB: przed użyciem broni policjant uprzedza okrzykiem „Policja!”, wzywa do zachowania zgodnego z prawem (np. porzucenia broni, zaniechania ucieczki), a w razie niepodporządkowania – uprzedza „Stój, bo strzelam!” i oddaje strzał ostrzegawczy.",
   "zrodlo": "test"
  },
  {
@@ -1855,7 +1855,7 @@
    "oddania strzału ostrzegawczego",
    "wezwania do porzucenia broni"
   ],
-  "wyjasnienie": "Art. 48 ustawy o środkach przymusu bezpośredniego i broni palnej. Zaalarmowanie to przypadek WYKORZYSTANIA broni (art. 47 pkt 3).",
+  "wyjasnienie": "Art. 48 ustawy o ŚPB – procedura przed użyciem broni: okrzyk „Policja!”, wezwanie do zachowania zgodnego z prawem (porzucenia broni, zaniechania ucieczki), uprzedzenie „Stój, bo strzelam!” i strzał ostrzegawczy. Zaalarmowanie lub wezwanie pomocy to WYKORZYSTANIE broni (art. 47), a nie element procedury.",
   "zrodlo": "test"
  },
  {
@@ -1868,7 +1868,7 @@
    "znęcania się psychicznego",
    "nieumyślnego spowodowania śmierci"
   ],
-  "wyjasnienie": "Art. 48 ust. 4 w zw. z art. 45 pkt 4 lit. b ustawy o środkach przymusu bezpośredniego i broni palnej (art. 280–282 k.k.).",
+  "wyjasnienie": "Art. 48 ust. 4 ustawy o ŚPB: przed konwojem lub doprowadzeniem uprzedza się osobę o możliwości użycia broni przy próbie ucieczki, gdy pozbawienie wolności wiąże się z przestępstwami z art. 45 pkt 4 lit. b – m.in. terroryzm, zabójstwo, rozbój, kradzież rozbójnicza, wymuszenie rozbójnicze (art. 280–282 k.k.).",
   "zrodlo": "test"
  },
  {
@@ -1894,7 +1894,7 @@
    "jednostki, w której pełni służbę",
    "Komendy Głównej Policji"
   ],
-  "wyjasnienie": "JM02 JS04 – czynności po utracie broni. UWAGA – niepewne: odpowiedź z klucza testu.",
+  "wyjasnienie": "JM02 JS04 – utrata broni: policjant niezwłocznie informuje dyżurnego najbliższej jednostki Policji (właściwej dla miejsca utraty), by od razu podjąć poszukiwania, a następnie przełożonego. UWAGA – niepewne: odpowiedź z klucza testu.",
   "zrodlo": "test"
  },
  {
@@ -1907,7 +1907,7 @@
    "według własnego uznania",
    "w miejscu trudno dostępnym"
   ],
-  "wyjasnienie": "Zasady postępowania z przydzieloną bronią (JM02 JS04).",
+  "wyjasnienie": "Zasady postępowania z bronią służbową (JM02 JS04): w ubiorze cywilnym broń krótką nosi się w miejscu niewidocznym, ale tak, by można ją szybko i sprawnie dobyć i bezpiecznie przenosić (kabura).",
   "zrodlo": "test"
  },
  {
@@ -1920,7 +1920,7 @@
    "palpitacje serca, trudności z oddychaniem, mdłości",
    "euforię, pomysłowość, kreatywność"
   ],
-  "wyjasnienie": "Użycie broni jako sytuacja traumatyczna (JM02 JS04). Palpitacje to reakcje fizjologiczne, zaburzenia pamięci – poznawcze.",
+  "wyjasnienie": "JM02 JS04 – reakcje na zdarzenie traumatyczne: emocjonalne (smutek, lęk, wstyd, bezradność, apatia, złość), fizjologiczne (palpitacje, duszność, mdłości), poznawcze (zaburzenia pamięci i koncentracji) i behawioralne.",
   "zrodlo": "test"
  },
  {
@@ -1933,7 +1933,7 @@
    "po obejrzeniu transmisji ataku terrorystycznego",
    "podczas czyszczenia broni"
   ],
-  "wyjasnienie": "JM02 JS04, pkt 19.",
+  "wyjasnienie": "JM02 JS04, pkt 19: uraz psychiczny po strzelaninie dotyczy osób bezpośrednio uczestniczących w zdarzeniu – także gdy postrzelony zostaje sprawca. Obejrzenie relacji lub czynności rutynowe (czyszczenie broni) nie są zdarzeniem traumatycznym.",
   "zrodlo": "test"
  },
  {
@@ -1946,7 +1946,7 @@
    "rozpocząć się po ustaleniu diagnozy",
    "trwać do przyjazdu służb"
   ],
-  "wyjasnienie": "JM02 JS05.",
+  "wyjasnienie": "JM02 JS05 – pierwsza pomoc psychologiczna: wsparcie zaczyna się jak najszybciej (już przy pierwszym kontakcie) i trwa, dopóki poszkodowany nie odzyska równowagi lub nie zostanie przekazany służbom.",
   "zrodlo": "test"
  },
  {
@@ -1959,7 +1959,7 @@
    "leżąca na brzuchu",
    "półsiedząca"
   ],
-  "wyjasnienie": "Zmniejsza napięcie mięśni brzucha.",
+  "wyjasnienie": "Przy urazie brzucha układa się poszkodowanego na plecach z nogami zgiętymi w biodrach i kolanach – rozluźnia to mięśnie brzucha i zmniejsza ból (JM02 JS05).",
   "zrodlo": "test"
  },
  {
@@ -1972,7 +1972,7 @@
    "wezwać natychmiast ZRM (bez innych działań)",
    "rozchylić usta długopisem"
   ],
-  "wyjasnienie": "Nie krępuje się ruchów i nie wkłada niczego do ust.",
+  "wyjasnienie": "Napad drgawek: chroni się głowę przed urazem i usuwa niebezpieczne przedmioty, nie krępuje się ruchów i niczego nie wkłada do ust; po napadzie udrażnia się drogi oddechowe i układa w pozycji bocznej (JM02 JS05).",
   "zrodlo": "test"
  },
  {
@@ -1985,7 +1985,7 @@
    "opatrunek osłonowy i pozycja bezpieczna",
    "opatrunek uciskowy i zawsze pozycja przeciwwstrząsowa"
   ],
-  "wyjasnienie": "JM02 JS05 – krwotoki.",
+  "wyjasnienie": "Krwotok zewnętrzny (JM02 JS05): najpierw ucisk bezpośredni na ranę, potem opatrunek uciskowy (przy masywnym krwotoku z kończyny – opaska uciskowa), następnie wezwanie ZRM i kontrola stanu.",
   "zrodlo": "test"
  },
  {
@@ -1998,7 +1998,7 @@
    "poszkodowany odzyska przytomność",
    "poszkodowany wskaże miejsce urazu"
   ],
-  "wyjasnienie": "Stan zagrażający życiu (A – drogi oddechowe) wymaga natychmiastowej interwencji.",
+  "wyjasnienie": "Ocena wstępna (ABC): gdy wykryje się stan bezpośrednio zagrażający życiu – np. niedrożność dróg oddechowych – przerywa się ocenę i od razu go usuwa (udrożnienie). Wywiad SAMPLE zbiera się później.",
   "zrodlo": "test"
  },
  {
@@ -2011,7 +2011,7 @@
    "reakcja alergiczna",
    "nagły spadek poziomu glukozy"
   ],
-  "wyjasnienie": "Hipowolemia – np. krwotok. Reakcja alergiczna to wstrząs anafilaktyczny.",
+  "wyjasnienie": "Wstrząs hipowolemiczny wynika z ubytku objętości krwi krążącej (krwotok, oparzenia, odwodnienie). Wstrząs anafilaktyczny – reakcja alergiczna, kardiogenny – niewydolność serca.",
   "zrodlo": "test"
  },
  {
@@ -2024,7 +2024,7 @@
    "15 uciśnięć, 2 wdechy",
    "2 wdechy, 15 uciśnięć"
   ],
-  "wyjasnienie": "Wytyczne ERC – dorośli 30:2.",
+  "wyjasnienie": "Wytyczne Europejskiej Rady Resuscytacji: u dorosłego 30 uciśnięć klatki piersiowej (głębokość 5–6 cm, tempo 100–120/min) na 2 oddechy ratownicze.",
   "zrodlo": "test"
  },
  {
@@ -2037,7 +2037,7 @@
    "utraciła przytomność",
    "zgłasza ból w klatce piersiowej"
   ],
-  "wyjasnienie": "Wytyczne ERC.",
+  "wyjasnienie": "Wytyczne ERC: RKO zaczyna się, gdy poszkodowany nie reaguje i nie oddycha prawidłowo (brak oddechu lub oddech agonalny). Przytomny z bólem w klatce piersiowej wymaga innego postępowania.",
   "zrodlo": "test"
  },
  {
@@ -2050,7 +2050,7 @@
    "jedną ręką",
    "splecionymi dwoma rękami"
   ],
-  "wyjasnienie": "Wytyczne ERC.",
+  "wyjasnienie": "Wytyczne ERC: u niemowląt uciska się klatkę piersiową dwoma kciukami (obejmując klatkę) lub dwoma palcami, na głębokość ok. 1/3 klatki (ok. 4 cm).",
   "zrodlo": "test"
  },
  {
@@ -2063,7 +2063,7 @@
    "wszyscy mogą dotykać poszkodowanego",
    "tylko ratownik może dotykać poszkodowanego"
   ],
-  "wyjasnienie": "Bezpieczeństwo przy użyciu AED.",
+  "wyjasnienie": "AED: w czasie analizy rytmu i wyładowania nikt nie może dotykać poszkodowanego – grozi to porażeniem ratownika i zakłóca analizę.",
   "zrodlo": "test"
  },
  {
@@ -2076,7 +2076,7 @@
    "czterokończynowej",
    "powypadkowej zastanej"
   ],
-  "wyjasnienie": "Chroni drożność dróg oddechowych.",
+  "wyjasnienie": "Pozycja boczna bezpieczna: dla osoby nieprzytomnej (lub z obniżoną świadomością), która oddycha prawidłowo – zapobiega zapadaniu się języka i zachłyśnięciu treścią żołądkową.",
   "zrodlo": "test"
  },
  {
@@ -2089,7 +2089,7 @@
    "1,5%",
    "2%"
   ],
-  "wyjasnienie": "Reguła dłoni przy ocenie oparzeń.",
+  "wyjasnienie": "Reguła dłoni: powierzchnia dłoni poszkodowanego (z palcami) to ok. 1% powierzchni jego ciała – służy do szacowania rozległości oparzeń.",
   "zrodlo": "test"
  },
  {
@@ -2102,7 +2102,7 @@
    "ratowniczych kraju",
    "ujętych w planie ratowniczym"
   ],
-  "wyjasnienie": "Definicja zdarzenia masowego (JM02 JS05).",
+  "wyjasnienie": "Zdarzenie masowe: liczba poszkodowanych przekracza możliwości sił i środków ratowniczych obecnych na miejscu – trzeba wtedy prowadzić segregację (triage) i wzywać dodatkowe siły (JM02 JS05).",
   "zrodlo": "test"
  },
  {
@@ -2115,7 +2115,7 @@
    "w ostatnim miesiącu leczyła się w szpitalu",
    "wygląda na mniej niż 15 lat"
   ],
-  "wyjasnienie": "§ 1 ust. 3 pkt 2 lit. e rozporządzenia o badaniach lekarskich osób zatrzymanych.",
+  "wyjasnienie": "Rozporządzenie MZ w sprawie badań lekarskich osób zatrzymanych (§ 1 ust. 3): badanie jest obowiązkowe m.in. u nieletnich po spożyciu alkoholu lub środka podobnie działającego, kobiet w ciąży, osób z obrażeniami, chorych wymagających leków. Sam wiek czy niedawny pobyt w szpitalu nie są przesłanką.",
   "zrodlo": "test"
  },
  {
@@ -2128,7 +2128,7 @@
    "indywidualności działania",
    "bezpośredniości działań"
   ],
-  "wyjasnienie": "JM02 JS10, pkt 9b.",
+  "wyjasnienie": "JM02 JS10, pkt 9b: przed i w trakcie interwencji policjant ocenia poziom ryzyka (miejsce, liczba osób, ich zachowanie, niebezpieczne przedmioty) i na tej podstawie dobiera taktykę i siły.",
   "zrodlo": "test"
  },
  {
@@ -2141,7 +2141,7 @@
    "nawiązać kontakt z bezpośrednim przełożonym",
    "uzyskać zgodę dyżurnego na pościg"
   ],
-  "wyjasnienie": "§ 6 zarządzenia nr 45 KGP.",
+  "wyjasnienie": "§ 6 zarządzenia nr 45 KGP w sprawie pościgu: podejmując pościg, policjant niezwłocznie informuje dyżurnego o jego podjęciu, przyczynie, kierunku ucieczki i rysopisie sprawcy (opisie pojazdu). Nie musi czekać na zgodę.",
   "zrodlo": "test"
  },
  {
@@ -2154,7 +2154,7 @@
    "dyżurnego jednostki, na której terenie pełni służbę",
    "komendanta swojej jednostki"
   ],
-  "wyjasnienie": "§ 7 ust. 2 zarządzenia nr 45 KGP.",
+  "wyjasnienie": "§ 7 ust. 2 zarządzenia nr 45 KGP: o odstąpieniu od pościgu lub jego przerwaniu policjant powiadamia dyżurnego jednostki właściwej dla miejsca, w którym to nastąpiło – bo to on dalej koordynuje działania.",
   "zrodlo": "test"
  },
  {
@@ -2167,7 +2167,7 @@
    "jest pod wpływem alkoholu",
    "to kolejna interwencja w tej rodzinie"
   ],
-  "wyjasnienie": "Art. 15a ustawy o Policji.",
+  "wyjasnienie": "Art. 15a ustawy o Policji: policjant może zatrzymać osobę stosującą przemoc domową, która stwarza bezpośrednie zagrożenie dla życia lub zdrowia ludzkiego. Prośba rodziny czy nietrzeźwość nie są samodzielną podstawą.",
   "zrodlo": "test"
  },
  {
@@ -2180,7 +2180,7 @@
    "przekazuje broszury o instytucjach pomocowych",
    "informuje o powiadomieniu dzielnicowego"
   ],
-  "wyjasnienie": "Ratowanie zdrowia ma pierwszeństwo.",
+  "wyjasnienie": "Procedura „Niebieskie Karty” i zasady interwencji: najpierw zapewnia się bezpieczeństwo i pomoc medyczną osobie doznającej przemocy, dopiero potem dokumentuje się zdarzenie i informuje o możliwościach pomocy.",
   "zrodlo": "test"
  },
  {
@@ -2193,7 +2193,7 @@
    "4,5%",
    "1,5%"
   ],
-  "wyjasnienie": "Art. 46 ust. 1 ustawy o wychowaniu w trzeźwości.",
+  "wyjasnienie": "Art. 46 ust. 1 ustawy o wychowaniu w trzeźwości: napój alkoholowy to produkt do spożycia zawierający alkohol etylowy pochodzenia rolniczego w stężeniu powyżej 0,5%.",
   "zrodlo": "test"
  },
  {
@@ -2206,7 +2206,7 @@
    "0,09 mg w 1 dm³",
    "powyżej 0,5 mg w 1 dm³"
   ],
-  "wyjasnienie": "Art. 46 ust. 2 ustawy o wychowaniu w trzeźwości: od 0,1 do 0,25 mg/dm³ (powyżej 0,25 – stan nietrzeźwości).",
+  "wyjasnienie": "Art. 46 ust. 2–3 ustawy o wychowaniu w trzeźwości: stan po użyciu alkoholu – 0,2–0,5‰ we krwi albo 0,1–0,25 mg/dm³ w wydychanym powietrzu; stan nietrzeźwości – powyżej 0,5‰ albo powyżej 0,25 mg/dm³. Wynik 0,25 to jeszcze stan po użyciu.",
   "zrodlo": "test"
  },
  {
@@ -2219,7 +2219,7 @@
    "wzrostu i masy ciała",
    "wieku i płci"
   ],
-  "wyjasnienie": "JM02 JS10 – badanie trzeźwości.",
+  "wyjasnienie": "§ 7 ust. 1 pkt 8 i ust. 2 rozporządzenia MZ i MSWiA z 28 grudnia 2018 r. w sprawie badań na zawartość alkoholu w organizmie: w protokole zapisuje się oświadczenie o ilości, rodzaju i godzinie spożycia alkoholu w ciągu ostatnich 24 godzin oraz o chorobach – o możliwości odmowy tych oświadczeń informuje się badanego.",
   "zrodlo": "test"
  },
  {
@@ -2232,7 +2232,7 @@
    "wynik wskazuje tylko stan nietrzeźwości",
    "wynik wskazuje tylko stan po użyciu alkoholu"
   ],
-  "wyjasnienie": "UWAGA – niepewne: odpowiedź z klucza testu (rozporządzenie o badaniach na zawartość alkoholu).",
+  "wyjasnienie": "§ 7 ust. 1 rozporządzenia MZ i MSWiA z 28 grudnia 2018 r. w sprawie badań na zawartość alkoholu w organizmie: protokół sporządza się z badania wskazującego na obecność alkoholu (wynik ponad 0,00). Przy wyniku 0,00 – tylko gdy toczy się dalsze postępowanie albo na żądanie badanego (§ 7 ust. 3).",
   "zrodlo": "test"
  },
  {
@@ -2245,7 +2245,7 @@
    "poświadczenie",
    "protokół zatrzymania osoby"
   ],
-  "wyjasnienie": "Art. 40 ust. 3 ustawy o wychowaniu w trzeźwości.",
+  "wyjasnienie": "Art. 40 ust. 3 ustawy o wychowaniu w trzeźwości: z doprowadzenia osoby nietrzeźwej (do izby wytrzeźwień, placówki, domu lub jednostki Policji) sporządza się protokół doprowadzenia w celu wytrzeźwienia.",
   "zrodlo": "test"
  },
  {
@@ -2258,7 +2258,7 @@
    "pałkę służbową",
    "techniki obrony lub ataku"
   ],
-  "wyjasnienie": "Ustawa o ochronie zdrowia psychicznego – przymus bezpośredni wobec osób z zaburzeniami (JM02 JS10, pkt 22f).",
+  "wyjasnienie": "Art. 18 ustawy o ochronie zdrowia psychicznego: przymus bezpośredni wobec osoby z zaburzeniami to przytrzymanie, przymusowe podanie leku, unieruchomienie lub izolacja; wybiera się środek najmniej uciążliwy – zaczyna się od przytrzymania (JM02 JS10).",
   "zrodlo": "test"
  },
  {
@@ -2271,7 +2271,7 @@
    "szybko wchodzić do środka",
    "pewnie wkroczyć do wnętrza, nie zważając na niebezpieczeństwo"
   ],
-  "wyjasnienie": "Bezpieczeństwo interwencji (JM02 JS10, JM05 JS05).",
+  "wyjasnienie": "Bezpieczeństwo interwencji (JM02 JS10, JM05 JS05): w miejscach o ograniczonej widoczności (klatki schodowe, piwnice) i przy wejściu do pomieszczeń zachowuje się szczególną ostrożność, ubezpieczenie partnera i gotowość do odparcia zamachu.",
   "zrodlo": "test"
  },
  {
@@ -2284,7 +2284,7 @@
    "doprowadzić wyłącznie do noclegowni",
    "jedynie ostrzec i pozostawić"
   ],
-  "wyjasnienie": "Art. 40 ust. 1–2 ustawy o wychowaniu w trzeźwości.",
+  "wyjasnienie": "Art. 40 ust. 1 ustawy o wychowaniu w trzeźwości: osobę nietrzeźwą, która zachowaniem daje powód do zgorszenia, znajduje się w okolicznościach zagrażających jej życiu lub zdrowiu albo zagraża innym, można doprowadzić do izby wytrzeźwień, placówki, podmiotu leczniczego albo do miejsca zamieszkania; w braku takich miejsc – do jednostki Policji.",
   "zrodlo": "test"
  },
  {
@@ -2297,7 +2297,7 @@
    "System Przeszukań Policji",
    "System Polskiej Policji"
   ],
-  "wyjasnienie": "JM03 JS10.",
+  "wyjasnienie": "SPP – System Poszukiwawczy Policji (JM03 JS10): narzędzie wspomagające poszukiwania osób i rzeczy, korzystające z danych KSIP i SIS.",
   "zrodlo": "test"
  },
  {
@@ -2310,7 +2310,7 @@
    "znaku sprawy i celu",
    "miejsca interwencji i danych osoby"
   ],
-  "wyjasnienie": "UWAGA – niepewne: odpowiedź z klucza testu (JM03 JS10).",
+  "wyjasnienie": "JM03 JS10 – każde sprawdzenie w systemach policyjnych musi być uzasadnione i rozliczalne, dlatego podaje się jego cel, znak/numer sprawy i kryteria sprawdzenia. UWAGA – niepewne: odpowiedź z klucza testu.",
   "zrodlo": "test"
  },
  {
@@ -2336,7 +2336,7 @@
    "zagubione, utracone, odnalezione",
    "stwarzające zagrożenie, utracone, zabezpieczone"
   ],
-  "wyjasnienie": "Zarządzenie o KSIP. UWAGA – niepewne: odpowiedź z klucza testu.",
+  "wyjasnienie": "Zarządzenie KGP o KSIP: przedmioty rejestruje się z powodami „utracony” (np. skradziony), „w zainteresowaniu” (objęty czynnościami Policji) albo „zabezpieczony” (np. dowód rzeczowy). UWAGA – niepewne: zarządzenie nie jest publiczne, odpowiedź z klucza testu.",
   "zrodlo": "test"
  },
  {
@@ -2349,7 +2349,7 @@
    "„zabezpieczono”",
    "„ujawniono”"
   ],
-  "wyjasnienie": "Zarządzenie o KSIP.",
+  "wyjasnienie": "Zarządzenie KGP o KSIP: powód „w zainteresowaniu” stosuje się do rzeczy objętych czynnościami operacyjno-rozpoznawczymi, dochodzeniowo-śledczymi lub administracyjno-porządkowymi; „utracono” – gdy właściciel stracił rzecz, „zabezpieczono” – gdy Policja ją zajęła.",
   "zrodlo": "test"
  },
  {
@@ -2362,7 +2362,7 @@
    "identyfikator KSIP osoby",
    "identyfikator KSIP podmiotu lub rzeczy"
   ],
-  "wyjasnienie": "Art. 21a ustawy o Policji.",
+  "wyjasnienie": "Art. 21a ustawy o Policji: bazę danych DNA prowadzi Komendant Główny Policji; gromadzi się w niej wyniki analizy DNA osób (m.in. podejrzanych, NN zwłok, zaginionych) i śladów z miejsc zdarzeń.",
   "zrodlo": "test"
  },
  {
@@ -2375,7 +2375,7 @@
    "ewidencji paszportów",
    "rejestrów w sprawach cudzoziemców"
   ],
-  "wyjasnienie": "JM03 JS01 – pozapolicyjne systemy.",
+  "wyjasnienie": "NOE.NET to system Służby Więziennej (Centralna Baza Danych Osób Pozbawionych Wolności) – pozwala sprawdzić, czy i gdzie osoba przebywa w zakładzie karnym lub areszcie (JM03 JS01).",
   "zrodlo": "test"
  },
  {
@@ -2388,7 +2388,7 @@
    "tylko policjanci prowadzący pracę operacyjną",
    "tylko policjanci po szkoleniu specjalistycznym"
   ],
-  "wyjasnienie": "JM03 JS07.",
+  "wyjasnienie": "JM03 JS07: obowiązek przekazywania informacji przydatnych dla Policji spoczywa na każdym policjancie, nie tylko na pionie kryminalnym – informacja z rozmowy na patrolu może pomóc w wykryciu sprawcy.",
   "zrodlo": "test"
  },
  {
@@ -2401,7 +2401,7 @@
    "stenogramu",
    "raportu"
   ],
-  "wyjasnienie": "JM03 JS07.",
+  "wyjasnienie": "JM03 JS07: informacje uzyskane od osoby informującej dokumentuje się w meldunku informacyjnym; notatkę urzędową sporządza się z czynności procesowych, a raport – do przełożonego w sprawach służbowych.",
   "zrodlo": "test"
  },
  {
@@ -2414,7 +2414,7 @@
    "autentyczność informacji i bezstronność źródła",
    "motywację źródła i rzetelność informacji"
   ],
-  "wyjasnienie": "Źródło: A, B, C, X; informacja: 1, 2, 3, 4.",
+  "wyjasnienie": "System 4×4 (JM03 JS07): wiarygodność źródła ocenia się literami A (pewne), B (zwykle pewne), C (niezbyt pewne), X (nie da się ocenić), a prawdziwość informacji cyframi 1 (pewna), 2 (znana źródłu osobiście), 3 (znana ze słyszenia, potwierdzona), 4 (nie da się ocenić).",
   "zrodlo": "test"
  },
  {
@@ -2427,7 +2427,7 @@
    "A",
    "B"
   ],
-  "wyjasnienie": "Kody H1–H3.",
+  "wyjasnienie": "JM03 JS07: kody H (H1, H2, H3) ograniczają sposób wykorzystania i przekazywania informacji z meldunku (np. zakaz przekazania poza Policję), chroniąc źródło.",
   "zrodlo": "test"
  },
  {
@@ -2453,7 +2453,7 @@
    "prewencyjna",
    "przypadkowa"
   ],
-  "wyjasnienie": "JM03 JS08.",
+  "wyjasnienie": "JM03 JS08: obserwacja doraźna to nieplanowane obserwowanie osoby lub miejsca przez każdego policjanta, bez specjalnego sprzętu i kwalifikacji – np. patrol obserwujący podejrzanego. Planową prowadzą wyspecjalizowane komórki.",
   "zrodlo": "test"
  },
  {
@@ -2466,7 +2466,7 @@
    "zwykły lub niecierpiący zwłoki",
    "planowy lub nieplanowy"
   ],
-  "wyjasnienie": "JM03 JS08.",
+  "wyjasnienie": "JM03 JS08: obserwacja może być planowa (zaplanowana, prowadzona przez wyspecjalizowane komórki) albo doraźna (podjęta spontanicznie przez każdego policjanta).",
   "zrodlo": "test"
  },
  {
@@ -2479,7 +2479,7 @@
    "tylko za zgodą ministra",
    "tylko za zgodą Komendanta Głównego Policji"
   ],
-  "wyjasnienie": "Art. 15 ust. 1 pkt 6 ustawy o Policji.",
+  "wyjasnienie": "Art. 15 ust. 1 pkt 6 ustawy o Policji: policjant może zwracać się o pomoc do instytucji państwowych, samorządowych i przedsiębiorców prowadzących działalność użyteczności publicznej – są oni obowiązani tej pomocy udzielić w ramach swojego działania.",
   "zrodlo": "test"
  },
  {
@@ -2492,7 +2492,7 @@
    "art. 15 ust. 1 pkt 1 ustawy o Policji",
    "art. 14 ust. 1 pkt 2 ustawy o Policji"
   ],
-  "wyjasnienie": "Art. 15 ust. 1 pkt 5a–5b ustawy o Policji (pkt 5b – interwencje poza miejscami publicznymi).",
+  "wyjasnienie": "Art. 15 ust. 1 pkt 5a ustawy o Policji: policjant może obserwować i rejestrować przy użyciu środków technicznych obraz zdarzeń w miejscach publicznych, a przy czynnościach z art. 15 ust. 1 (np. legitymowanie, zatrzymanie) także dźwięk – to podstawa kamer nasobnych.",
   "zrodlo": "test"
  },
  {
@@ -2505,7 +2505,7 @@
    "samorządu terytorialnego",
    "administracji rządowej"
   ],
-  "wyjasnienie": "Art. 14 ust. 1 pkt 2 ustawy o Policji.",
+  "wyjasnienie": "Art. 14 ust. 1 pkt 2 ustawy o Policji: Policja wykonuje czynności w celu poszukiwania osób ukrywających się przed organami ścigania lub wymiaru sprawiedliwości oraz osób zaginionych.",
   "zrodlo": "test"
  },
  {
@@ -2518,7 +2518,7 @@
    "ustne polecenie prokuratora",
    "notatka służbowa policjanta"
   ],
-  "wyjasnienie": "Art. 279 k.p.k.",
+  "wyjasnienie": "Art. 279 k.p.k.: jeżeli oskarżony (podejrzany) ukrywa się, a wydano wobec niego postanowienie o tymczasowym aresztowaniu, sąd lub prokurator może wydać list gończy – podstawę poszukiwań procesowych.",
   "zrodlo": "test"
  },
  {
@@ -2531,7 +2531,7 @@
    "nakaz ujęcia celem ustalenia miejsca pobytu",
    "postanowienie o zmianie środka zapobiegawczego"
   ],
-  "wyjasnienie": "Art. 279 § 1 k.p.k.",
+  "wyjasnienie": "Art. 279 § 1 k.p.k.: list gończy wydaje się, gdy oskarżony, wobec którego wydano postanowienie o tymczasowym aresztowaniu, ukrywa się. Zawiera m.in. dane, rysopis, zarzut i wezwanie do zawiadomienia organów.",
   "zrodlo": "test"
  },
  {
@@ -2544,7 +2544,7 @@
    "list organu przekazany przez KBI",
    "zarządzenie komendanta"
   ],
-  "wyjasnienie": "Art. 279 k.p.k.",
+  "wyjasnienie": "Art. 279 k.p.k.: list gończy (wydany przez sąd lub prokuratora) jest podstawą wszczęcia poszukiwań procesowych i wpisania osoby do KSIP jako poszukiwanej.",
   "zrodlo": "test"
  },
  {
@@ -2557,7 +2557,7 @@
    "obawa ukrycia się",
    "obawa zatarcia śladów"
   ],
-  "wyjasnienie": "Zatrzymanie realizuje dyspozycję organu – przesłanki areszt już ocenił sąd.",
+  "wyjasnienie": "List gończy (art. 279 k.p.k.) oznacza, że sąd już zastosował areszt, a osoba się ukrywa. Interweniujący policjant nie bada więc obawy ucieczki ani matactwa – wystarczy informacja o liście gończym (np. z KSIP), by osobę zatrzymać i doprowadzić.",
   "zrodlo": "test"
  },
  {
@@ -2596,7 +2596,7 @@
    "notatce urzędowej",
    "protokole zatrzymania"
   ],
-  "wyjasnienie": "zarządzenia nr 48 KGP w sprawie poszukiwania osoby zaginionej – odmowę dokumentuje się notatką służbową.",
+  "wyjasnienie": "Zarządzenie nr 48 KGP: odnaleziona osoba pełnoletnia może nie zgodzić się na ujawnienie miejsca pobytu – wtedy zgłaszającego informuje się tylko o odnalezieniu. Jej oświadczenie przyjmuje się na piśmie, a gdy odmówi jego złożenia, policjant dokumentuje to notatką służbową.",
   "zrodlo": "test"
  },
  {
@@ -2609,7 +2609,7 @@
    "20 lat",
    "30 lat"
   ],
-  "wyjasnienie": "§ 29 ust. 1 pkt 10 zarządzenia nr 48 KGP w sprawie poszukiwania osoby zaginionej.",
+  "wyjasnienie": "§ 29 ust. 1 pkt 10 zarządzenia nr 48 KGP: poszukiwanie osoby zaginionej kończy się m.in. po upływie 25 lat od ostatnich czynności poszukiwawczych (inne przesłanki to np. odnalezienie osoby lub zwłok, uznanie za zmarłą).",
   "zrodlo": "test"
  },
  {
@@ -2622,7 +2622,7 @@
    "z dwoma świadkami naraz",
    "z dwoma, ale opis po zeznaniach obu"
   ],
-  "wyjasnienie": "Świadkowie mogliby wpływać na siebie nawzajem (JM03 JS04).",
+  "wyjasnienie": "Portret pamięciowy (JM03 JS04): wykonuje się go zawsze z jednym świadkiem – kilku świadków sugerowałoby się nawzajem i obraz byłby uśredniony, a nie wierny.",
   "zrodlo": "test"
  },
  {
@@ -2635,7 +2635,7 @@
    "ustalające",
    "porównawcze"
   ],
-  "wyjasnienie": "§ 41 ust. 1 zarządzenia nr 48 KGP w sprawie poszukiwania osoby zaginionej.",
+  "wyjasnienie": "§ 41 ust. 1 zarządzenia nr 48 KGP: gdy nie da się ustalić danych osoby (np. zataja tożsamość, nie pamięta), podejmuje się czynności identyfikacyjne – m.in. odciski palców, zdjęcia, DNA, sprawdzenia w bazach.",
   "zrodlo": "test"
  },
  {
@@ -2648,7 +2648,7 @@
    "60 dni od rejestracji w KSIP",
    "90 dni od ujawnienia"
   ],
-  "wyjasnienie": "§ 43 zarządzenia nr 48 KGP w sprawie poszukiwania osoby zaginionej.",
+  "wyjasnienie": "§ 43 zarządzenia nr 48 KGP: policjant prowadzący czynności identyfikacyjne zleca oznaczenie profilu DNA osoby NN w terminie 60 dni od jej ujawnienia, aby porównać go z bazą DNA osób zaginionych.",
   "zrodlo": "test"
  },
  {
@@ -2661,7 +2661,7 @@
    "śledztwo lub dochodzenie",
    "czynności wyjaśniające"
   ],
-  "wyjasnienie": "§ 41 ust. 3 zarządzenia nr 48 KGP w sprawie poszukiwania osoby zaginionej.",
+  "wyjasnienie": "§ 41 ust. 3 zarządzenia nr 48 KGP: w przypadku dziecka pozostawionego w „oknie życia” Policja prowadzi czynności tylko w niezbędnym zakresie – takie pozostawienie jest legalne, więc nie wszczyna się poszukiwań rodzica.",
   "zrodlo": "test"
  },
  {
@@ -2674,7 +2674,7 @@
    "ustalają przyczynę zgonu",
    "ustalają czas i okoliczności zgonu"
   ],
-  "wyjasnienie": "Przyczynę i czas zgonu ustala biegły podczas oględzin.",
+  "wyjasnienie": "JM03 JS05: pierwsi policjanci na miejscu zabezpieczają miejsce znalezienia zwłok przed zmianą i dostępem osób postronnych. Przyczynę i czas zgonu ustala biegły lekarz podczas oględzin.",
   "zrodlo": "test"
  },
  {
@@ -2700,7 +2700,7 @@
    "Międzynarodowe Zrzeszenie Policjantów Kryminalnych",
    "Międzynarodowa Organizacja Policjantów Kryminalnych"
   ],
-  "wyjasnienie": "ICPO-INTERPOL.",
+  "wyjasnienie": "ICPO-INTERPOL – Międzynarodowa Organizacja Policji Kryminalnej z siedzibą w Lyonie. W Polsce działa Krajowe Biuro Interpolu w Biurze Międzynarodowej Współpracy Policji KGP.",
   "zrodlo": "test"
  },
  {
@@ -2713,7 +2713,7 @@
    "raport",
    "dyfuzja"
   ],
-  "wyjasnienie": "Dyfuzja – do wybranych państw lub stref.",
+  "wyjasnienie": "Interpol (JM03 JS09): nota (notice) jest publikowana przez Sekretariat Generalny do wszystkich państw członkowskich; dyfuzja – wysyłana przez krajowe biuro do wybranych państw lub stref.",
   "zrodlo": "test"
  },
  {
@@ -2726,7 +2726,7 @@
    "do państw strefy Schengen",
    "do wszystkich państw członkowskich"
   ],
-  "wyjasnienie": "JM03 JS09.",
+  "wyjasnienie": "Interpol (JM03 JS09): dyfuzja to wniosek lub ostrzeżenie wysyłane bezpośrednio przez Krajowe Biuro Interpolu do wybranych państw lub stref; nota trafia do wszystkich członków przez Sekretariat Generalny.",
   "zrodlo": "test"
  },
  {
@@ -2752,7 +2752,7 @@
    "przedmiotów utraconych w wyniku przestępstwa",
    "przedmiotów zagubionych"
   ],
-  "wyjasnienie": "Nota o skradzionych dziełach sztuki nie ma koloru.",
+  "wyjasnienie": "Interpol (JM03 JS09): oprócz kolorowych not (czerwona, żółta, niebieska, zielona, czarna, pomarańczowa, fioletowa) istnieje nota o skradzionych dziełach sztuki, która nie ma koloru, oraz specjalna nota Interpol–ONZ.",
   "zrodlo": "test"
  },
  {
@@ -2765,7 +2765,7 @@
    "6",
    "3"
   ],
-  "wyjasnienie": "Załącznik nr 4 do zarządzenia nr 2 KGP z 15 stycznia 2024 r. w sprawie wyszkolenia strzeleckiego.",
+  "wyjasnienie": "Załącznik nr 4 do zarządzenia nr 2 KGP z 15 stycznia 2024 r. w sprawie wyszkolenia strzeleckiego: szkolenie z broni krótkiej ma 5 poziomów zaawansowania, przez które policjant przechodzi kolejno w ramach doskonalenia.",
   "zrodlo": "test"
  },
  {
@@ -2778,7 +2778,7 @@
    "przygotowawcze, statyczne, szybkie",
    "statyczne, szybkie, sytuacyjne"
   ],
-  "wyjasnienie": "Załącznik nr 4 do zarządzenia nr 2 KGP z 15 stycznia 2024 r. w sprawie wyszkolenia strzeleckiego.",
+  "wyjasnienie": "Załącznik nr 4 do zarządzenia nr 2 KGP z 15 stycznia 2024 r. w sprawie wyszkolenia strzeleckiego: rodzaje strzelań z broni krótkiej – przygotowawcze, statyczne, szybkie, dynamiczne, sytuacyjne oraz interwencyjne, od najprostszych do odwzorowujących realną interwencję.",
   "zrodlo": "test"
  },
  {
@@ -2791,7 +2791,7 @@
    "siedzącej",
    "leżącej"
   ],
-  "wyjasnienie": "Tabela nr 1 załącznika nr 4 do zarządzenia nr 2 KGP z 15 stycznia 2024 r. w sprawie wyszkolenia strzeleckiego.",
+  "wyjasnienie": "Tabela nr 1 załącznika nr 4 do zarządzenia nr 2 KGP z 15 stycznia 2024 r. w sprawie wyszkolenia strzeleckiego: strzelania przygotowawcze i statyczne wykonuje się w postawie stojącej – służą opanowaniu podstaw (chwyt, celowanie, ściąganie spustu).",
   "zrodlo": "test"
  },
  {
@@ -2804,7 +2804,7 @@
    "sytuacyjnych",
    "dynamicznych"
   ],
-  "wyjasnienie": "Tabela nr 1 – kolejność strzelań zarządzenia nr 2 KGP z 15 stycznia 2024 r. w sprawie wyszkolenia strzeleckiego.",
+  "wyjasnienie": "Tabela nr 1 do zarządzenia nr 2 KGP z 15 stycznia 2024 r. w sprawie wyszkolenia strzeleckiego: najpierw strzelania przygotowawcze, potem statyczne – kolejne rodzaje strzelań wymagają opanowania poprzednich.",
   "zrodlo": "test"
  },
  {
@@ -2817,7 +2817,7 @@
    "stojącej, klęczącej, siedzącej",
    "leżącej, klęczącej, siedzącej"
   ],
-  "wyjasnienie": "Tabela nr 2 załącznika nr 4 do zarządzenia nr 2 KGP z 15 stycznia 2024 r. w sprawie wyszkolenia strzeleckiego.",
+  "wyjasnienie": "Tabela nr 2 do zarządzenia nr 2 KGP z 15 stycznia 2024 r. w sprawie wyszkolenia strzeleckiego: strzelania szybkie wykonuje się w postawach stojącej, klęczącej, leżącej i siedzącej – liczy się oddanie celnych strzałów w limicie czasu.",
   "zrodlo": "test"
  },
  {
@@ -2830,7 +2830,7 @@
    "zal./nzal. lub 1–6",
    "zal./nzal. i 1–6"
   ],
-  "wyjasnienie": "Tabela nr 2 – kryteria oceny zal./nzal. (zarządzenia nr 2 KGP z 15 stycznia 2024 r. w sprawie wyszkolenia strzeleckiego).",
+  "wyjasnienie": "Tabela nr 2 do zarządzenia nr 2 KGP z 15 stycznia 2024 r. w sprawie wyszkolenia strzeleckiego: strzelania szybkie ocenia się „zaliczone/niezaliczone” – trzeba uzyskać wymaganą liczbę trafień w limicie czasu, bez oceny 1–6.",
   "zrodlo": "test"
  },
  {
@@ -2843,7 +2843,7 @@
    "szybkie",
    "statyczne"
   ],
-  "wyjasnienie": "Tabela nr 4 zarządzenia nr 2 KGP z 15 stycznia 2024 r. w sprawie wyszkolenia strzeleckiego.",
+  "wyjasnienie": "Tabela nr 4 do zarządzenia nr 2 KGP z 15 stycznia 2024 r. w sprawie wyszkolenia strzeleckiego: strzelania sytuacyjne odwzorowują interwencję – są w nich cele neutralne (np. osoba z telefonem), więc strzelający musi rozpoznać cel przed oddaniem strzału.",
   "zrodlo": "test"
  },
  {
@@ -2856,7 +2856,7 @@
    "dynamiczne i szybkie",
    "statyczne i sytuacyjne"
   ],
-  "wyjasnienie": "Tabele nr 3 i 4 zarządzenia nr 2 KGP z 15 stycznia 2024 r. w sprawie wyszkolenia strzeleckiego.",
+  "wyjasnienie": "Tabele nr 3 i 4 do zarządzenia nr 2 KGP z 15 stycznia 2024 r. w sprawie wyszkolenia strzeleckiego: w strzelaniach dynamicznych (w ruchu) i sytuacyjnych policjant korzysta z osłon – uczy się prowadzenia ognia zza przeszkody.",
   "zrodlo": "test"
  },
  {
@@ -2895,7 +2895,7 @@
    "której większa część jest w obrysie celu",
    "której połowa obrysu jest w obrysie celu"
   ],
-  "wyjasnienie": "Część III ust. 5 załącznika nr 4 do zarządzenia nr 2 KGP z 15 stycznia 2024 r. w sprawie wyszkolenia strzeleckiego.",
+  "wyjasnienie": "Część III ust. 5 załącznika nr 4 do zarządzenia nr 2 KGP z 15 stycznia 2024 r. w sprawie wyszkolenia strzeleckiego: przy tarczach sylwetkowych trafienie zalicza się tylko wtedy, gdy cały obrys przestrzeliny mieści się w polu sylwetki – przestrzelina „na linii” nie jest trafieniem.",
   "zrodlo": "test"
  },
  {
@@ -2908,7 +2908,7 @@
    "„na linię startu”",
    "„ładuj broń”"
   ],
-  "wyjasnienie": "Część II ust. 1 pkt 4 załącznika nr 4 do zarządzenia nr 2 KGP z 15 stycznia 2024 r. w sprawie wyszkolenia strzeleckiego.",
+  "wyjasnienie": "Część II ust. 1 pkt 4 załącznika nr 4 do zarządzenia nr 2 KGP z 15 stycznia 2024 r. w sprawie wyszkolenia strzeleckiego: na komendę „przygotować się do strzelania” strzelający zakłada ochronniki wzroku i słuchu oraz dołącza magazynek; strzela dopiero na kolejne komendy prowadzącego.",
   "zrodlo": "test"
  },
  {
@@ -2921,7 +2921,7 @@
    "zasad bezpieczeństwa",
    "warunków i zasad wynikających z rodzaju strzelania"
   ],
-  "wyjasnienie": "zarządzenia nr 2 KGP z 15 stycznia 2024 r. w sprawie wyszkolenia strzeleckiego.",
+  "wyjasnienie": "Zgodnie z treścią zarządzenia nr 2 KGP z 15 stycznia 2024 r. w sprawie wyszkolenia strzeleckiego każdy na strzelnicy bezwzględnie przestrzega „warunków i zasad bezpieczeństwa” (m.in. broń zawsze w bezpiecznym kierunku, palec poza spustem, czynności tylko na komendę).",
   "zrodlo": "test"
  },
  {
@@ -2934,7 +2934,7 @@
    "uczestniczy w strzelaniu sytuacyjnym",
    "zamierza oddać strzał w kierunku celu"
   ],
-  "wyjasnienie": "Załącznik nr 1 do zarządzenia nr 2 KGP z 15 stycznia 2024 r. w sprawie wyszkolenia strzeleckiego.",
+  "wyjasnienie": "Załącznik nr 1 do zarządzenia nr 2 KGP z 15 stycznia 2024 r. w sprawie wyszkolenia strzeleckiego – zasady bezpieczeństwa: palec kładzie się na spuście dopiero, gdy świadomie oddaje się strzał do rozpoznanego celu określonego warunkami strzelania. W każdej innej sytuacji palec leży wyprostowany wzdłuż szkieletu.",
   "zrodlo": "test"
  },
  {
@@ -2947,7 +2947,7 @@
    "wykonująca obsługę bieżącą",
    "odbezpieczająca broń"
   ],
-  "wyjasnienie": "Podstawy celnego strzelania (JM04 JS01).",
+  "wyjasnienie": "JM04 JS01 – podstawy strzelania: ręka wiodąca trzyma broń i naciska spust; ręka wspierająca stabilizuje chwyt, ładuje magazynek i obsługuje broń.",
   "zrodlo": "test"
  },
  {
@@ -2960,7 +2960,7 @@
    "wyrzucenie łuski z lufy",
    "wyrzucenie zamka"
   ],
-  "wyjasnienie": "Teoria strzału (JM04 JS01).",
+  "wyjasnienie": "JM04 JS01 – teoria strzału: strzał to wyrzucenie pocisku z przewodu lufy energią gazów prochowych powstałych przy spalaniu ładunku miotającego. Łuska zostaje wyrzucona przez zamek, nie przez lufę.",
   "zrodlo": "test"
  },
  {
@@ -2973,7 +2973,7 @@
    "po lewej stronie szkieletu na zewnątrz",
    "w tylnej części szkieletu po obu stronach"
   ],
-  "wyjasnienie": "Budowa REX Zero 1.",
+  "wyjasnienie": "JM04 – budowa REX Zero 1: odłącznik-przerywacz znajduje się wewnątrz szkieletu, na szynie spustowej – przerywa połączenie spustu z mechanizmem uderzeniowym, gdy zamek nie jest zamknięty.",
   "zrodlo": "test"
  },
  {
@@ -2986,7 +2986,7 @@
    "zakleszczenie komory, niewyciąg, niewypał, utykanie magazynka",
    "niewypał, zakleszczenie, niedowład łuski"
   ],
-  "wyjasnienie": "JM04 JS01 – zacięcia.",
+  "wyjasnienie": "JM04 JS01: typowe zacięcia broni krótkiej to niewypał (nabój nie odpalił), niedomknięcie zamka, przytrzaśnięcie łuski (łuska nie została wyrzucona) i utknięcie (przekoszenie) naboju.",
   "zrodlo": "test"
  },
  {
@@ -2999,7 +2999,7 @@
    "wadliwa sprężyna magazynka",
    "zanieczyszczony magazynek i wślizg komory"
   ],
-  "wyjasnienie": "Mechanizm spustowo-uderzeniowy odpowiada za zbicie spłonki (niewypał), nie za podawanie naboju.",
+  "wyjasnienie": "JM04 JS01: przekoszenie naboju wynika z wadliwego podawania – zgiętych szczęk lub słabej sprężyny magazynka, zabrudzenia magazynka lub wślizgu komory. Mechanizm spustowo-uderzeniowy zbija spłonkę – jego wada daje niewypał, a nie przekoszenie.",
   "zrodlo": "test"
  },
  {
@@ -3012,7 +3012,7 @@
    "uderzyć w tył zamka i przeładować",
    "wypiąć magazynek i zakończyć strzelanie"
   ],
-  "wyjasnienie": "JM04 JS01 – usuwanie zacięć.",
+  "wyjasnienie": "JM04 JS01 – usuwanie niewypału: dobić magazynek (mógł być niedopięty) i przeładować broń, wyrzucając niewypał – potem kontynuować strzelanie.",
   "zrodlo": "test"
  },
  {
@@ -3025,7 +3025,7 @@
    "uderzy w tył zamka",
    "tylko przeładuje broń"
   ],
-  "wyjasnienie": "JM04 JS01 – usuwanie zacięć.",
+  "wyjasnienie": "JM04 JS01 – usuwanie zacięć: najpierw kontrola wzrokowa broni, potem dobicie magazynka i przeładowanie. Samo przeładowanie nie usunie przyczyny, jeśli magazynek jest niedopięty.",
   "zrodlo": "test"
  },
  {
@@ -3038,7 +3038,7 @@
    "zabezpieczyć broń w tym stanie i przekazać do naprawy",
    "rozłożyć broń i wymienić część z innej broni"
   ],
-  "wyjasnienie": "Powtarzający się objaw wskazuje na niesprawność broni, nie amunicji.",
+  "wyjasnienie": "JM04 JS01: jeśli zacięcie powtarza się mimo dobicia magazynka i przeładowania, przyczyną jest niesprawność broni – strzelanie się przerywa, broń rozładowuje i sprawdza, a usterkę zgłasza przełożonemu. Nie naprawia się broni częściami z innej broni.",
   "zrodlo": "test"
  },
  {
@@ -3051,7 +3051,7 @@
    "wymianie, gdy skończy się amunicja",
    "wypięciu magazynka i przeładowaniu przy zacięciu"
   ],
-  "wyjasnienie": "Wymiana awaryjna – gdy skończy się amunicja.",
+  "wyjasnienie": "JM04 JS01: wymiana taktyczna – nabój jest jeszcze w komorze, a magazynek wymienia się na pełny w przerwie w walce. Wymiana awaryjna – gdy skończyła się amunicja i zamek zatrzymał się w tylnym położeniu.",
   "zrodlo": "test"
  },
  {
@@ -3064,7 +3064,7 @@
    "usunąć nabój z komory przez przeładowanie (z magazynkiem)",
    "usunąć nabój przeładowaniem, a potem odłączyć magazynek"
   ],
-  "wyjasnienie": "Najpierw odłącza się magazynek – inaczej przeładowanie wprowadzi kolejny nabój do komory.",
+  "wyjasnienie": "JM04 JS01 – rozładowanie: broń w bezpiecznym kierunku, najpierw odłączyć magazynek, potem przeładowaniem usunąć nabój z komory i sprawdzić komorę. Przeładowanie z dołączonym magazynkiem wprowadziłoby kolejny nabój.",
   "zrodlo": "test"
  },
  {
@@ -3077,7 +3077,7 @@
    "rywalizację sportową",
    "dobre samopoczucie fizyczne i psychiczne"
   ],
-  "wyjasnienie": "Art. 61a ust. 1 ustawy o Policji.",
+  "wyjasnienie": "Art. 61a ust. 1 ustawy o Policji: każdy policjant utrzymuje sprawność fizyczną zapewniającą wykonywanie zadań służbowych, w szczególności przez udział w doskonaleniu zawodowym. Sprawność sprawdza się corocznie testem.",
   "zrodlo": "test"
  },
  {
@@ -3090,7 +3090,7 @@
    "raz na kwartał",
    "cztery razy w roku"
   ],
-  "wyjasnienie": "§ 9–10 zarządzenia nr 1 KGP z 15 stycznia 2024 r. – corocznie, do 31 grudnia.",
+  "wyjasnienie": "§ 9–10 zarządzenia nr 1 KGP z 15 stycznia 2024 r.: policjanci przystępują do testu sprawności fizycznej raz w roku, w terminie do 31 grudnia.",
   "zrodlo": "test"
  },
  {
@@ -3103,7 +3103,7 @@
    "2 kg",
    "4 kg"
   ],
-  "wyjasnienie": "§ 2 ust. 1 pkt 1 zarządzenia nr 1 KGP z 2024 r.",
+  "wyjasnienie": "§ 2 ust. 1 pkt 1 zarządzenia nr 1 KGP z 15 stycznia 2024 r.: pierwsza próba testu – rzut piłką lekarską 3 kg w przód znad głowy; ciężar jest taki sam dla kobiet i mężczyzn (różne są normy punktowe).",
   "zrodlo": "test"
  },
  {
@@ -3116,7 +3116,7 @@
    "3",
    "4"
   ],
-  "wyjasnienie": "Załącznik nr 1 do zarządzenia nr 1 KGP – liczy się lepszy rzut.",
+  "wyjasnienie": "Załącznik nr 1 do zarządzenia nr 1 KGP z 2024 r.: policjant wykonuje 2 rzuty piłką lekarską, a do oceny liczy się lepszy (dłuższy) z nich.",
   "zrodlo": "test"
  },
  {
@@ -3129,7 +3129,7 @@
    "10 s",
    "40 s"
   ],
-  "wyjasnienie": "§ 2 ust. 1 pkt 2 zarządzenia nr 1 KGP z 2024 r.",
+  "wyjasnienie": "§ 2 ust. 1 pkt 2 zarządzenia nr 1 KGP z 2024 r.: druga próba – siady z leżenia na plecach wykonywane przez 30 sekund. Kolejne: bieg ze zmianą kierunku (koperta) i bieg na 1000 m (ten ostatni nie dotyczy policjantów zwalczania cyberprzestępczości).",
   "zrodlo": "test"
  },
  {
@@ -3142,7 +3142,7 @@
    "siadów z leżenia",
    "biegu ze zmianą kierunku"
   ],
-  "wyjasnienie": "§ 3 zarządzenia nr 1 KGP z 15 stycznia 2024 r. (dotyczy też służby wspomagającej).",
+  "wyjasnienie": "§ 3 zarządzenia nr 1 KGP z 15 stycznia 2024 r.: policjanci zajmujący się zwalczaniem cyberprzestępczości oraz policjanci służby wspomagającej nie biegną 1000 m – wykonują tylko pozostałe próby: rzut piłką 3 kg, siady przez 30 s i bieg ze zmianą kierunku.",
   "zrodlo": "wlasne"
  },
  {
@@ -3155,7 +3155,7 @@
    "obniżyć ciśnienie krwi",
    "obniżyć temperaturę ciała"
   ],
-  "wyjasnienie": "JM05 JS01.",
+  "wyjasnienie": "JM05 JS01: rozgrzewka przygotowuje organizm do wysiłku – podnosi temperaturę mięśni, tętno i ruchomość stawów, zmniejsza ryzyko kontuzji, a także przygotowuje psychicznie.",
   "zrodlo": "test"
  },
  {
@@ -3168,7 +3168,7 @@
    "migracji impulsów nerwowych",
    "wzrostu"
   ],
-  "wyjasnienie": "Masa ciała [kg] / wzrost² [m²].",
+  "wyjasnienie": "BMI = masa ciała [kg] / wzrost² [m²]; wskaźnik masy ciała: 18,5–24,9 norma, 25–29,9 nadwaga, ≥30 otyłość (JM05 JS01).",
   "zrodlo": "test"
  },
  {
@@ -3181,7 +3181,7 @@
    "czoło, mięsień najszerszy grzbietu",
    "przedramię, ramię, bark"
   ],
-  "wyjasnienie": "JM05 JS02 – miejsca wrażliwe.",
+  "wyjasnienie": "JM05 JS02: punkty wrażliwe to miejsca, gdzie nawet słabe uderzenie powoduje silny ból lub groźne obrażenia – oczy, krtań, krocze, skronie. Nie wolno w nie uderzać poza odpieraniem zamachu (art. 19 ust. 4 ustawy o ŚPB – analogicznie).",
   "zrodlo": "test"
  },
  {
@@ -3194,7 +3194,7 @@
    "kostny i nerwowy",
    "kostny"
   ],
-  "wyjasnienie": "Stąd wymóg szczególnej ostrożności przy obchwycie szyi.",
+  "wyjasnienie": "Obchwyt szyi oddziałuje jednocześnie na naczynia krwionośne (tętnice szyjne), kręgosłup szyjny, krtań i tchawicę oraz nerwy – dlatego grozi utratą przytomności, a nawet śmiercią (JM05 JS02).",
   "zrodlo": "test"
  },
  {
@@ -3207,7 +3207,7 @@
    "decyduje policjant",
    "decyduje dyżurny"
   ],
-  "wyjasnienie": "JM05 JS02.",
+  "wyjasnienie": "JM05 JS02: po utracie przytomności od obchwytu szyi mózg jest niedotleniony – przytrzymywanie przez kilkadziesiąt sekund dłużej może zatrzymać czynności życiowe. Obchwyt natychmiast się zwalnia.",
   "zrodlo": "test"
  },
  {
@@ -3220,7 +3220,7 @@
    "ułożyć w pozycji bocznej (bez puszczania wcześniej)",
    "wezwać pogotowie i uciekać"
   ],
-  "wyjasnienie": "JM05 JS02–JS03.",
+  "wyjasnienie": "JM05 JS02–JS03: po utracie przytomności przez obezwładnianego natychmiast zwalnia się obchwyt i udziela pierwszej pomocy (ocena oddechu, pozycja boczna lub RKO), zgodnie z art. 36 ustawy o ŚPB.",
   "zrodlo": "test"
  },
  {
@@ -3233,7 +3233,7 @@
    "natychmiastowe dobycie broni",
    "zakładanie kajdanek bez opanowania oporu"
   ],
-  "wyjasnienie": "JM05 JS04 – obrona przed chwytami.",
+  "wyjasnienie": "JM05 JS04: przy chwycie za ubranie i szarpaniu policjant przyjmuje gardę, uwalnia się z chwytu i sprowadza napastnika do parteru (np. podcięciem), a potem go obezwładnia. Środki silniejsze (paralizator, broń) byłyby nieadekwatne.",
   "zrodlo": "test"
  },
  {
@@ -3246,7 +3246,7 @@
    "oddalić się, nie zwracając uwagi",
    "za wszelką cenę obezwładnić osobę"
   ],
-  "wyjasnienie": "JM05 JS05 – bezpieczeństwo podczas legitymowania.",
+  "wyjasnienie": "JM05 JS05: przy agresji słownej utrzymuje się bezpieczny dystans (ok. 1,5–2 m), wzywa do zachowania zgodnego z prawem i uprzedza o możliwości użycia ŚPB (art. 34 ustawy o ŚPB). Sama agresja słowna nie uzasadnia użycia siły.",
   "zrodlo": "test"
  },
  {
@@ -3259,7 +3259,7 @@
    "tylko negocjować",
    "oddalić się i nie interweniować"
   ],
-  "wyjasnienie": "JM05 JS04, pkt 1.",
+  "wyjasnienie": "JM05 JS04: przy ataku fizycznym najpierw odpiera się atak, chroniąc miejsca wrażliwe (garda, bloki, uniki), a potem stosuje środek przymusu adekwatny do zagrożenia (art. 6 ustawy o ŚPB – zasada proporcjonalności).",
   "zrodlo": "test"
  },
  {
@@ -3272,7 +3272,7 @@
    "statyczne oczekiwanie na kontakt",
    "same komendy głosowe bez zmiany pozycji"
   ],
-  "wyjasnienie": "JM05 JS04, pkt 2.",
+  "wyjasnienie": "JM05 JS04: przy ataku nożem kluczowe jest zejście z linii ataku z blokiem i zwiększenie dystansu, by dobyć pałkę lub broń. Próba przechwycenia ręki z nożem jest bardzo ryzykowna.",
   "zrodlo": "test"
  },
  {
@@ -3285,7 +3285,7 @@
    "czas poniżej 3 sekund",
    "stopień uszkodzenia ubrania pozoranta"
   ],
-  "wyjasnienie": "JM05 JS04.",
+  "wyjasnienie": "JM05 JS04: technikę ocenia się pod kątem adekwatności do zagrożenia, poprawności struktury ruchu oraz pewności i płynności wykonania – czyli czy w realnej sytuacji byłaby skuteczna i zgodna z prawem.",
   "zrodlo": "test"
  },
  {
@@ -3298,7 +3298,7 @@
    "opuścić miejsce zatrzymania",
    "okazać dokumenty"
   ],
-  "wyjasnienie": "JM05 JS05 – taktyka zatrzymania osoby poruszającej się pojazdem.",
+  "wyjasnienie": "JM05 JS05: podejrzanemu kierowcy najpierw poleca się wyłączyć silnik, wyjąć kluczyki i trzymać ręce widoczne (na kierownicy lub w górze) – to uniemożliwia ucieczkę i sięgnięcie po broń. Dopiero potem kolejne polecenia.",
   "zrodlo": "test"
  },
  {
@@ -3311,7 +3311,7 @@
    "zablokowanie ulic i broń długą",
    "moment, gdy kierowca rozmawia przez telefon"
   ],
-  "wyjasnienie": "JM05 JS05, pkt 2d.",
+  "wyjasnienie": "JM05 JS05, pkt 2d: pojazd z podejrzanym zatrzymuje się, wykorzystując naturalne warunki ruchu (światła, korki) albo podstęp (np. rutynowa kontrola drogowa, zamaskowana blokada), żeby zaskoczyć sprawcę i ograniczyć ryzyko pościgu.",
   "zrodlo": "test"
  },
  {
@@ -3324,7 +3324,137 @@
    "odstąpienie, jeśli zna choć jednego",
    "założenie pomarańczowych kamizelek i znaku „Policja”"
   ],
-  "wyjasnienie": "JM05 JS05.",
+  "wyjasnienie": "JM05 JS05: nieumundurowani policjanci przed zatrzymaniem muszą być rozpoznawalni jako Policja – kamizelki z napisem „Policja”, znak identyfikacji indywidualnej, tablica „Policja” na pojeździe. Chroni to przed pomyłką i daje podstawę do żądań.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "76e52f114e",
+  "temat": "JM02 – Łączność, legitymowanie, kontrola, przeszukanie, zatrzymanie, asysta",
+  "pytanie": "W obrębie budynków lub pomieszczeń zajmowanych przez Policję policjant udziela egzekutorowi, podczas wykonywania przez niego czynności egzekucyjnych:",
+  "poprawna": "asysty",
+  "bledne": [
+   "pomocy",
+   "wsparcia",
+   "kontroli"
+  ],
+  "wyjasnienie": "Art. 50 § 2 ustawy o postępowaniu egzekucyjnym w administracji: w budynkach zajmowanych przez Policję czynności egzekucyjne można wykonywać tylko po zawiadomieniu komendanta i w ASYŚCIE Policji. Asysta zapewnia dostęp do miejsca, porządek i bezpieczeństwo egzekutora (§ 4 rozporządzenia MSWiA z 26 kwietnia 2019 r.). POMOCY udziela się poza takimi budynkami, gdy egzekutor napotka opór (art. 46 u.p.e.a.).",
+  "zrodlo": "test"
+ },
+ {
+  "id": "26eac82a43",
+  "temat": "JM02 – Łączność, legitymowanie, kontrola, przeszukanie, zatrzymanie, asysta",
+  "pytanie": "Przeszukania środków transportu, lokali i innych pomieszczeń zobowiązanego w egzekucji administracyjnej dokonuje:",
+  "poprawna": "komisja powołana przez organ egzekucyjny",
+  "bledne": [
+   "Policja na wniosek organu egzekucyjnego",
+   "straż miejska wezwana przez organ egzekucyjny",
+   "wójt na wniosek organu egzekucyjnego"
+  ],
+  "wyjasnienie": "Art. 47 § 2 ustawy o postępowaniu egzekucyjnym w administracji: przeszukania rzeczy, środków transportu, lokali i pomieszczeń dokonuje komisja powołana przez organ egzekucyjny; spisuje się protokół. Policja może jedynie udzielić pomocy przy oporze (art. 46). W teście pytanie było sformułowane jako „przemieszczanie”, ale przepis mówi o przeszukaniu.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "7c632157fd",
+  "temat": "JM02 – Interwencje, alkohol, przemoc domowa",
+  "pytanie": "Krew pobrana do badania na zawartość alkoholu może być transportowana nie dłużej niż:",
+  "poprawna": "72 godziny od momentu pobrania, w temperaturze od 0°C do 25°C",
+  "bledne": [
+   "72 godziny od momentu pobrania, w temperaturze od 0°C do 6°C",
+   "24 godziny od momentu pobrania, w temperaturze od 0°C do 4°C",
+   "36 godzin od momentu pobrania, w temperaturze od 4°C do 6°C"
+  ],
+  "wyjasnienie": "§ 9 ust. 6 rozporządzenia MZ i MSWiA z 28 grudnia 2018 r. w sprawie badań na zawartość alkoholu w organizmie. Nie mylić z przechowywaniem do czasu badania – wtedy temperatura od 3°C do 6°C (§ 9 ust. 5).",
+  "zrodlo": "test"
+ },
+ {
+  "id": "b085cadbde",
+  "temat": "JM02 – Interwencje, alkohol, przemoc domowa",
+  "pytanie": "Badanie analizatorem działającym na zasadzie utleniania elektrochemicznego: pierwszy pomiar 0,06 mg/dm³, drugi (po 15 minutach) 0,09 mg/dm³. Osoba nie żąda weryfikacji i nie ma podejrzenia przestępstwa. Policjant powinien:",
+  "poprawna": "zakończyć pomiary, ponieważ zostało wykonane pełne badanie",
+  "bledne": [
+   "wykonać trzeci pomiar po upływie 15 minut z uwagi na tendencję rosnącą",
+   "niezwłocznie wykonać trzeci pomiar z uwagi na tendencję rosnącą",
+   "przeprowadzić badanie urządzeniem działającym na zasadzie spektrometrii w podczerwieni"
+  ],
+  "wyjasnienie": "§ 4 ust. 3 rozporządzenia MZ i MSWiA z 28 grudnia 2018 r. w sprawie badań na zawartość alkoholu w organizmie: przy analizatorze elektrochemicznym i wyniku ponad 0,00 drugi pomiar wykonuje się po 15 minutach – to kończy badanie. Weryfikacja analizatorem spektrometrycznym jest obowiązkowa tylko na żądanie badanego albo przy podejrzeniu przestępstwa (§ 4 ust. 4); trzeci pomiar – gdy pierwszy ≥ 0,10, a drugi 0,00 (§ 4 ust. 5). Wynik poniżej 0,1 mg/dm³ to nie jest nawet stan po użyciu alkoholu.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "485ed00578",
+  "temat": "JM02 – Interwencje, alkohol, przemoc domowa",
+  "pytanie": "Badania analizatorem wydechu nie przeprowadza się przed upływem:",
+  "poprawna": "15 minut od zakończenia spożywania alkoholu lub palenia wyrobów tytoniowych",
+  "bledne": [
+   "30 minut od zakończenia spożywania alkoholu",
+   "5 minut od zakończenia palenia",
+   "60 minut od zakończenia spożywania alkoholu"
+  ],
+  "wyjasnienie": "§ 3 ust. 2 rozporządzenia MZ i MSWiA z 28 grudnia 2018 r. w sprawie badań na zawartość alkoholu w organizmie – resztki alkoholu lub dymu w jamie ustnej zawyżałyby wynik.",
+  "zrodlo": "wlasne"
+ },
+ {
+  "id": "cdbf7d7ed6",
+  "temat": "JM02 – Interwencje, alkohol, przemoc domowa",
+  "pytanie": "Badanie krwi na zawartość alkoholu przeprowadza się m.in., gdy:",
+  "poprawna": "osoba badana odmawia poddania się badaniu wydychanego powietrza albo pomimo tego badania żąda badania krwi",
+  "bledne": [
+   "zawsze po pozytywnym wyniku analizatora",
+   "wyłącznie na polecenie prokuratora",
+   "wyłącznie gdy wynik przekracza 0,25 mg/dm³"
+  ],
+  "wyjasnienie": "§ 8 ust. 1 rozporządzenia MZ i MSWiA z 28 grudnia 2018 r. w sprawie badań na zawartość alkoholu w organizmie: także gdy stan osoby uniemożliwia badanie wydychanego powietrza lub wynik przekracza zakres pomiarowy analizatora. Badanie wydechu przeprowadza się przed badaniem krwi, jeżeli stan osoby na to pozwala (§ 2 ust. 2).",
+  "zrodlo": "wlasne"
+ },
+ {
+  "id": "4da2d24b02",
+  "temat": "JM01 – Prawo (prawoznawstwo, k.k., k.w.)",
+  "pytanie": "Przestępstwo wypadku komunikacyjnego (art. 177 k.k.) można popełnić z winy:",
+  "poprawna": "tylko nieumyślnej",
+  "bledne": [
+   "tylko umyślnej",
+   "zarówno umyślnej, jak i nieumyślnej",
+   "również kombinowanej (umyślno-nieumyślnej)"
+  ],
+  "wyjasnienie": "Art. 177 k.k. to przestępstwo nieumyślne (art. 9 § 2 k.k.): skutek – obrażenia lub śmierć – sprawca powoduje nieumyślnie. Samo naruszenie zasad ruchu może być umyślne („chociażby nieumyślnie”), ale nie zmienia to nieumyślnego charakteru całego czynu. UWAGA – niepewne: w niektórych kluczach zaznacza się „umyślnej i nieumyślnej”, mając na myśli naruszenie zasad.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "cb6d358dba",
+  "temat": "JM01 – Miejsce zdarzenia, oględziny, zawiadomienie, świadek",
+  "pytanie": "W postępowaniu przygotowawczym przeciwko osobie, która w chwili czynu lub w trakcie postępowania była funkcjonariuszem publicznym, należy m.in. zebrać dane dotyczące:",
+  "poprawna": "przebiegu służby publicznej, wyróżnień oraz ukarań dyscyplinarnych",
+  "bledne": [
+   "zdrowia psychicznego",
+   "preferencji seksualnych",
+   "poglądów i przynależności do partii politycznych"
+  ],
+  "wyjasnienie": "Art. 213 § 1 k.p.k.: o każdym oskarżonym zbiera się dane o tożsamości, stosunkach rodzinnych i majątkowych, wykształceniu, zawodzie, dochodach i karalności, a o funkcjonariuszu publicznym dodatkowo – o przebiegu służby, wyróżnieniach i ukaraniach dyscyplinarnych.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "cd5a7ebf8e",
+  "temat": "JM01 – Etyka, historia, media, ceremoniał, kryzys, patologie, nieletni",
+  "pytanie": "Policjant, który przy wykonywaniu czynności uzyskał informacje świadczące o demoralizacji nieletniego, dokumentuje je w formie:",
+  "poprawna": "zapisu w notatniku służbowym i notatki służbowej",
+  "bledne": [
+   "raportu do kierownika jednostki",
+   "pisma przewodniego do sądu rodzinnego",
+   "notatki urzędowej oraz meldunku informacyjnego"
+  ],
+  "wyjasnienie": "Program SZPC (JM01 JS14): policjant dokumentuje własne spostrzeżenia i uzyskane informacje o demoralizacji, a następnie sporządza notatkę informującą komórkę do spraw nieletnich i patologii. Notatka urzędowa dotyczy czynności procesowych, meldunek informacyjny – pracy operacyjnej. UWAGA – niepewne: odpowiedź z klucza testu, szczegóły są w wytycznych KGP o czynnościach wobec nieletnich.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "48bc6fbe7c",
+  "temat": "JM01 – Prawo (prawoznawstwo, k.k., k.w.)",
+  "pytanie": "Podstawą badania stanu trzeźwości pracownika, który stawił się do pracy po spożyciu alkoholu, wskazywaną w kluczach testów jest:",
+  "poprawna": "art. 17 ust. 3 ustawy o wychowaniu w trzeźwości i przeciwdziałaniu alkoholizmowi",
+  "bledne": [
+   "art. 47 ust. 1 ustawy o wychowaniu w trzeźwości i przeciwdziałaniu alkoholizmowi",
+   "art. 129 ustawy – Prawo o ruchu drogowym",
+   "art. 129i ustawy – Prawo o ruchu drogowym"
+  ],
+  "wyjasnienie": "UWAGA – dawny stan prawny: art. 17 ust. 1–3 tej ustawy (badanie pracownika przez Policję na wezwanie pracodawcy) uchylono 21 lutego 2023 r. Dziś kontrolę trzeźwości pracowników regulują art. 221c–221g Kodeksu pracy, a obecny art. 17 dotyczy przedsiębiorców niebędących pracodawcami. Art. 47 ust. 1 dotyczy badań osób podejrzanych o przestępstwo lub wykroczenie, a art. 129 PoRD – kontroli ruchu drogowego.",
   "zrodlo": "test"
  }
 ]
