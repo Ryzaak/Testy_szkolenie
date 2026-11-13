@@ -37,6 +37,7 @@ Postęp zapisuje się w Twojej przeglądarce, więc każdy uczy się osobno. Po 
 | **JM01 JS07–JS08** | Przyjęcie informacji o przestępstwie i przesłuchanie świadka (proces karny, pokrzywdzony, zawiadomienie, art. 307–308 k.p.k., świadek, odmowa zeznań, protokół) | 126 |
 | **JM03 JS02–JS08** | Praca operacyjna i poszukiwania (wywiad operacyjny, poszukiwania osób ukrywających się i zaginionych, NN osoby, przedmioty, osoba informująca, obserwacja doraźna) | 63 |
 | **JM03 JS09** | Międzynarodowe kanały wymiany informacji (SIS/SIRENE, wpisy w SIS, ENA, Interpol, Europol, EUCARIS) | 48 |
+| **JM02 JS10** | Interwencje policyjne i osoby pod wpływem alkoholu (ŚPB i broń palna, legitymowanie, zatrzymanie, pościgi, przemoc domowa) | 76 |
 
 ## Skąd są pytania
 
