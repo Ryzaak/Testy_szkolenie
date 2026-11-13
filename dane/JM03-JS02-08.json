@@ -1,0 +1,821 @@
+[
+ {
+  "id": "de2949364a",
+  "temat": "JS02. Praca operacyjna i wywiad operacyjny",
+  "pytanie": "Celem pracy operacyjnej między innymi jest:",
+  "poprawna": "ujawnianie czynów zabronionych oraz wykrywanie i ściganie ich sprawców",
+  "bledne": [
+   "ustalanie miejsca zamieszkania osób",
+   "odnajdowanie osób na prośbę organów samorządowych",
+   "przesłuchiwanie świadków"
+  ],
+  "wyjasnienie": "Czynności operacyjno-rozpoznawcze służą rozpoznawaniu, zapobieganiu i wykrywaniu przestępstw oraz wykrywaniu ich sprawców (art. 14 ust. 1 ustawy o Policji). Przesłuchanie to czynność procesowa.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "ee82eaa616",
+  "temat": "JS02. Praca operacyjna i wywiad operacyjny",
+  "pytanie": "Formą pracy operacyjnej nie jest:",
+  "poprawna": "dochodzenie",
+  "bledne": [
+   "ochrona osób",
+   "poszukiwanie osób",
+   "operacyjne sprawdzenie"
+  ],
+  "wyjasnienie": "Dochodzenie to forma postępowania przygotowawczego (k.p.k.), a nie forma pracy operacyjnej.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "64f6811364",
+  "temat": "JS02. Praca operacyjna i wywiad operacyjny",
+  "pytanie": "Które z poniższych określeń stanowi formę pracy operacyjnej?",
+  "poprawna": "operacyjne rozpoznanie",
+  "bledne": [
+   "postępowanie przygotowawcze",
+   "dochodzenie sądowe",
+   "wywiad środowiskowy"
+  ],
+  "wyjasnienie": "Formy pracy operacyjnej to m.in. rozpoznanie, sprawdzenie, rozpracowanie (sprawa operacyjna), poszukiwanie. Wywiad środowiskowy to czynność z art. 214 k.p.k.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "2b98be236f",
+  "temat": "JS02. Praca operacyjna i wywiad operacyjny",
+  "pytanie": "Wywiad operacyjny to:",
+  "poprawna": "metoda pracy operacyjnej",
+  "bledne": [
+   "forma pracy operacyjnej",
+   "środek pracy operacyjnej",
+   "zespół czynności operacyjnych"
+  ],
+  "wyjasnienie": "Sylabus JS02: „Wywiad operacyjny jako metoda pracy policyjnej”. Metody to m.in. wywiad i obserwacja, a formy – rozpoznanie, sprawdzenie, rozpracowanie.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "c1cce49616",
+  "temat": "JS02. Praca operacyjna i wywiad operacyjny",
+  "pytanie": "Metodą pracy operacyjnej jest:",
+  "poprawna": "wywiad operacyjny",
+  "bledne": [
+   "operacyjne sprawdzenie",
+   "sprawa operacyjna",
+   "inwigilacja"
+  ],
+  "wyjasnienie": "Operacyjne sprawdzenie i sprawa operacyjna to FORMY pracy operacyjnej.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "f167a792bd",
+  "temat": "JS02. Praca operacyjna i wywiad operacyjny",
+  "pytanie": "Wywiad policyjny dzielimy na:",
+  "poprawna": "jawny i tajny",
+  "bledne": [
+   "osobowy i rzeczowy",
+   "rozpoznawczy i prewencyjny",
+   "środowiskowy i procesowy"
+  ],
+  "wyjasnienie": "Podział ze względu na sposób przeprowadzenia: wywiad jawny (rozmówca wie, że rozmawia z policjantem w sprawie) i tajny (zakryty cel lub tożsamość).",
+  "zrodlo": "test"
+ },
+ {
+  "id": "53d5b37aec",
+  "temat": "JS02. Praca operacyjna i wywiad operacyjny",
+  "pytanie": "Wyróżniamy kilka rodzajów wywiadów. Jednym z nich jest:",
+  "poprawna": "wywiad operacyjny",
+  "bledne": [
+   "wywiad prewencyjny",
+   "wywiad dochodzeniowo-śledczy",
+   "wywiad administracyjno-porządkowy"
+  ],
+  "wyjasnienie": "Poradnik JS02 omawia wywiad operacyjny jako metodę pracy operacyjnej i wywiady przeprowadzane na podstawie innych przepisów (np. środowiskowy).",
+  "zrodlo": "test"
+ },
+ {
+  "id": "7d89f47ebd",
+  "temat": "JS02. Praca operacyjna i wywiad operacyjny",
+  "pytanie": "W myśl art. 214 k.p.k. wywiad środowiskowy przeprowadza:",
+  "poprawna": "kurator sądowy",
+  "bledne": [
+   "sąd",
+   "dzielnicowy",
+   "sąd lub prokurator"
+  ],
+  "wyjasnienie": "Art. 214 § 1 k.p.k.: sąd lub prokurator ZARZĄDZA wywiad, a przeprowadza go kurator sądowy lub inny uprawniony podmiot, w szczególnie uzasadnionych wypadkach Policja.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "6829b5f8e5",
+  "temat": "JS02. Praca operacyjna i wywiad operacyjny",
+  "pytanie": "W pracy operacyjnej obowiązuje zasada:",
+  "poprawna": "maskowania",
+  "bledne": [
+   "dokumentowania",
+   "współpracy z OZI",
+   "odnajdowania osób"
+  ],
+  "wyjasnienie": "Zasady pracy operacyjnej to m.in. legalizm, tajność (konspiracja, maskowanie), ofensywność i ekonomiczność działań. UWAGA – niepewne: zarządzenie pf-1 KGP jest niejawne, odpowiedź przyjęto za materiałami szkoleniowymi.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "f9515de99e",
+  "temat": "JS02. Praca operacyjna i wywiad operacyjny",
+  "pytanie": "Zasada proporcjonalności w pracy operacyjnej oznacza, że podejmowane działania powinny być:",
+  "poprawna": "adekwatne do celu i charakteru zagrożenia",
+  "bledne": [
+   "zawsze maksymalnie intensywne",
+   "zawsze prowadzone w sposób jawny",
+   "ograniczone wyłącznie do czynności procesowych"
+  ],
+  "wyjasnienie": "Środki i ingerencja w prawa osób mają odpowiadać wadze sprawy – to wymóg ochrony praw człowieka (art. 31 ust. 3 Konstytucji).",
+  "zrodlo": "test"
+ },
+ {
+  "id": "f153000f8f",
+  "temat": "JS02. Praca operacyjna i wywiad operacyjny",
+  "pytanie": "Wywiad operacyjny dokumentuje się w formie:",
+  "poprawna": "notatki służbowej",
+  "bledne": [
+   "protokołu przesłuchania",
+   "notatki urzędowej",
+   "protokołu przyjęcia ustnego zawiadomienia"
+  ],
+  "wyjasnienie": "Sylabus JS02: cel „sporządzić notatkę służbową z przeprowadzonego wywiadu operacyjnego”. Notatka urzędowa dokumentuje czynności procesowe.",
+  "zrodlo": "wlasne"
+ },
+ {
+  "id": "614f511c7d",
+  "temat": "JS03. Poszukiwanie osób ukrywających się",
+  "pytanie": "Policja prowadzi poszukiwania procesowe:",
+  "poprawna": "na polecenie prokuratury",
+  "bledne": [
+   "na wniosek policjanta",
+   "na polecenie kierownika jednostki",
+   "na polecenie komendanta wojewódzkiego"
+  ],
+  "wyjasnienie": "Poszukiwania procesowe zarządza organ procesowy – prokurator lub sąd (np. art. 278–280 k.p.k.).",
+  "zrodlo": "test"
+ },
+ {
+  "id": "4bc4bd8da4",
+  "temat": "JS03. Poszukiwanie osób ukrywających się",
+  "pytanie": "Policja prowadzi poszukiwania procesowe w celu:",
+  "poprawna": "zatrzymania i doprowadzenia podejrzanego do sądu lub prokuratury",
+  "bledne": [
+   "zatrzymania świadka",
+   "ustalenia miejsca pobytu podejrzanego",
+   "zatrzymania i doprowadzenia podejrzanego do sądu"
+  ],
+  "wyjasnienie": "Poradnik JS03: poszukiwania w celu zatrzymania i przymusowego doprowadzenia osoby podejrzanej lub podejrzanego do wykonania czynności procesowych albo w celu ustalenia miejsca pobytu. Najpełniejsza odpowiedź obejmuje sąd i prokuraturę.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "17fd8bff60",
+  "temat": "JS03. Poszukiwanie osób ukrywających się",
+  "pytanie": "Poszukiwania procesowe prowadzi się w stosunku do osób:",
+  "poprawna": "które nie stawiają się na wezwanie do prokuratury lub sądu",
+  "bledne": [
+   "które oddaliły się z miejsca zamieszkania bez przekazania informacji osobom najbliższym",
+   "które popełniły przestępstwo lub wykroczenie",
+   "których życie, zdrowie i wolność są zagrożone"
+  ],
+  "wyjasnienie": "Osoby, których życie lub zdrowie jest zagrożone, i osoby, które oddaliły się z domu, to poszukiwania osób zaginionych, a nie procesowe.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "846d505aa1",
+  "temat": "JS03. Poszukiwanie osób ukrywających się",
+  "pytanie": "Organem poszukującym listem gończym jest:",
+  "poprawna": "sąd lub prokurator",
+  "bledne": [
+   "jednostka Policji prowadząca poszukiwania",
+   "kurator sądowy",
+   "Policja"
+  ],
+  "wyjasnienie": "Art. 279 k.p.k.: list gończy wydaje sąd lub prokurator wobec osoby, wobec której wydano postanowienie o tymczasowym aresztowaniu i która się ukrywa.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "319694e065",
+  "temat": "JS03. Poszukiwanie osób ukrywających się",
+  "pytanie": "Która czynność jest prawidłowa podczas interwencji wobec osoby poszukiwanej listem gończym?",
+  "poprawna": "zatrzymanie i doprowadzenie zgodnie z dyspozycją organu poszukującego",
+  "bledne": [
+   "pobranie oświadczenia o aktualnym adresie do odbioru korespondencji i wręczenie wezwania",
+   "sporządzenie protokołu z osoby poszukiwanej listem gończym",
+   "wyrejestrowanie osoby z KSIP"
+  ],
+  "wyjasnienie": "List gończy dotyczy osoby, wobec której zastosowano tymczasowe aresztowanie – zatrzymuje się ją i doprowadza zgodnie z dyspozycją.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "d8221944a1",
+  "temat": "JS03. Poszukiwanie osób ukrywających się",
+  "pytanie": "Z czynności zatrzymania osoby poszukiwanej listem gończym sporządza się:",
+  "poprawna": "notatkę urzędową i protokół zatrzymania osoby",
+  "bledne": [
+   "notatkę służbową i protokół zatrzymania osoby",
+   "protokół przekazania osoby do zakładu karnego i notatkę urzędową",
+   "wyłącznie protokół przekazania osoby do zakładu karnego"
+  ],
+  "wyjasnienie": "Sylabus JS03: protokół zatrzymania osoby i notatka urzędowa z podjętych czynności (czynności w sprawie procesowej dokumentuje się notatką urzędową).",
+  "zrodlo": "test"
+ },
+ {
+  "id": "e110b888be",
+  "temat": "JS03. Poszukiwanie osób ukrywających się",
+  "pytanie": "Rozwiń skrót UMP:",
+  "poprawna": "Ustalenie Miejsca Pobytu",
+  "bledne": [
+   "Urząd Ministerstwa Propagandy",
+   "Ustalenie Miejsca Przebywania",
+   "Ustalenie Miejsca Pracy"
+  ],
+  "wyjasnienie": "UMP – poszukiwanie w celu ustalenia miejsca pobytu (sylabus JS03, pkt 2).",
+  "zrodlo": "test"
+ },
+ {
+  "id": "2b2e36173f",
+  "temat": "JS03. Poszukiwanie osób ukrywających się",
+  "pytanie": "Jaki dokument sporządzamy po interwencji związanej z ujawnieniem osoby poszukiwanej do UMP?",
+  "poprawna": "notatkę urzędową",
+  "bledne": [
+   "notatkę służbową",
+   "notatkę ze skutkowego użycia ŚPB",
+   "protokół zatrzymania osoby"
+  ],
+  "wyjasnienie": "Osoby poszukiwanej tylko do ustalenia miejsca pobytu nie zatrzymuje się – ustala się adres, wręcza ewentualnie wezwanie i sporządza notatkę urzędową.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "936dfa7f24",
+  "temat": "JS03. Poszukiwanie osób ukrywających się",
+  "pytanie": "Poszukiwania administracyjno-porządkowe osoby skazanej, wobec której wydano wyrok, prowadzi się na podstawie decyzji:",
+  "poprawna": "sądu",
+  "bledne": [
+   "Policji",
+   "prokuratora",
+   "kuratora sądowego"
+  ],
+  "wyjasnienie": "Np. nakaz doprowadzenia skazanego do zakładu karnego wydaje sąd.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "1073b8b121",
+  "temat": "JS04. Poszukiwanie osób zaginionych",
+  "pytanie": "Który akt prawny reguluje zasady prowadzenia przez Policję poszukiwań osób zaginionych, w tym małoletnich?",
+  "poprawna": "Zarządzenie nr 48 Komendanta Głównego Policji z 28 czerwca 2018 r",
+  "bledne": [
+   "Zarządzenie nr 70 Komendanta Głównego Policji z 2 grudnia 2019 r",
+   "Zarządzenie nr 805 Komendanta Głównego Policji z 31 grudnia 2003 r",
+   "Zarządzenie nr 45 Komendanta Głównego Policji z 21 czerwca 2018 r"
+  ],
+  "wyjasnienie": "Zarządzenie nr 48 KGP z 28.06.2018 r. w sprawie prowadzenia przez Policję poszukiwania osoby zaginionej oraz postępowania w przypadku ujawnienia NN osoby lub NN zwłok (zmienione m.in. zarządzeniem nr 25 KGP z 29.07.2025 r.). UWAGA: w teście było „nr 47 z 21 czerwca 2018 r.” – to błąd. Nr 45 z 21.06.2018 r. dotyczy pościgów, nr 70 – KSIP, nr 805 – etyki.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "aeaf91dad1",
+  "temat": "JS04. Poszukiwanie osób zaginionych",
+  "pytanie": "Skrót CPOZ oznacza:",
+  "poprawna": "Centrum Poszukiwań Osób Zaginionych",
+  "bledne": [
+   "Centrum Pomocy Osób Zaginionych",
+   "Centrum Pomocy Osób Zatrzymanych",
+   "Centralne Poszukiwania Osób Zaginionych"
+  ],
+  "wyjasnienie": "CPOZ KGP – Centrum Poszukiwań Osób Zaginionych Komendy Głównej Policji (§ 2 pkt 26 zarządzenia nr 48 KGP).",
+  "zrodlo": "test"
+ },
+ {
+  "id": "96e3a074c7",
+  "temat": "JS04. Poszukiwanie osób zaginionych",
+  "pytanie": "Policja podejmuje poszukiwania osoby zaginionej:",
+  "poprawna": "niezwłocznie po otrzymaniu informacji o zaginięciu osoby",
+  "bledne": [
+   "na polecenie prokuratora lub sądu",
+   "po upływie 48 godzin od chwili zaginięcia",
+   "po upływie 24 godzin od chwili zaginięcia"
+  ],
+  "wyjasnienie": "§ 3 ust. 1 zarządzenia nr 48 KGP z 28 czerwca 2018 r. (w brzmieniu po zmianie zarządzeniem nr 25 KGP z 29 lipca 2025 r.). Nie ma żadnego „okresu oczekiwania”.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "237ab68f49",
+  "temat": "JS04. Poszukiwanie osób zaginionych",
+  "pytanie": "Zawiadomienie o zaginięciu osoby przyjmuje:",
+  "poprawna": "dyżurny jednostki Policji lub policjant przez niego wyznaczony",
+  "bledne": [
+   "każdy policjant",
+   "policjant pełniący dyżur zdarzeniowy",
+   "policjant wydziału kryminalnego z zespołu poszukiwań i identyfikacji osób"
+  ],
+  "wyjasnienie": "§ 3 ust. 2 zarządzenia nr 48 KGP z 28 czerwca 2018 r. (w brzmieniu po zmianie zarządzeniem nr 25 KGP z 29 lipca 2025 r.). Policjant, do którego zgłosi się osoba (np. na patrolu), przekazuje informację dyżurnemu i sporządza notatkę służbową.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "fabbcdb8ae",
+  "temat": "JS04. Poszukiwanie osób zaginionych",
+  "pytanie": "Oprócz zawiadomienia o zaginięciu osoby sporządzamy równolegle:",
+  "poprawna": "notatkę służbową",
+  "bledne": [
+   "notatkę urzędową",
+   "notatkę z poszukiwań",
+   "protokół zaginięcia osoby lub rzeczy"
+  ],
+  "wyjasnienie": "§ 7 ust. 3 zarządzenia nr 48 KGP z 28 czerwca 2018 r. (w brzmieniu po zmianie zarządzeniem nr 25 KGP z 29 lipca 2025 r.): przyjmujący zawiadomienie sporządza notatkę służbową z dodatkowymi informacjami. Poszukiwanie osoby zaginionej nie jest postępowaniem karnym, więc nie notatka urzędowa.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "533b1857a5",
+  "temat": "JS04. Poszukiwanie osób zaginionych",
+  "pytanie": "Ile jest obecnie poziomów poszukiwań osób zaginionych?",
+  "poprawna": "2",
+  "bledne": [
+   "3",
+   "4",
+   "w zależności od okoliczności 3 lub 5"
+  ],
+  "wyjasnienie": "Zarządzenie nr 25 KGP z 29 lipca 2025 r. pozostawiło dwa poziomy: I i II. Poziom III zniesiono – poszukiwania poziomu III wszczęte przed zmianą prowadzi się na starych zasadach. UWAGA – dawny stan prawny: w starszych testach poprawną odpowiedzią było „3”.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "8b9ea8f776",
+  "temat": "JS04. Poszukiwanie osób zaginionych",
+  "pytanie": "Poziom poszukiwania osoby zaginionej określa przede wszystkim:",
+  "poprawna": "stopień niezwłoczności i zakres podejmowanych czynności poszukiwawczych",
+  "bledne": [
+   "miejsce zameldowania osoby",
+   "wiek policjanta prowadzącego poszukiwania",
+   "liczbę świadków zaginięcia"
+  ],
+  "wyjasnienie": "§ 2 ust. 1 pkt 3 zarządzenia nr 48 KGP z 28 czerwca 2018 r. (w brzmieniu po zmianie zarządzeniem nr 25 KGP z 29 lipca 2025 r.): zależnie od ryzyka zagrożenia dla życia, zdrowia lub wolności.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "a9a4ed4f7e",
+  "temat": "JS04. Poszukiwanie osób zaginionych",
+  "pytanie": "Poziom I poszukiwania osoby zaginionej stosuje się, gdy zaginięcie wiąże się:",
+  "poprawna": "z realnym i bezpośrednim zagrożeniem życia, zdrowia lub wolności osoby",
+  "bledne": [
+   "wyłącznie z utratą dokumentów",
+   "z brakiem kontaktu przez okres co najmniej 48 godzin",
+   "wyłącznie z konfliktem rodzinnym"
+  ],
+  "wyjasnienie": "§ 2 ust. 1 pkt 3 lit. a zarządzenia nr 48 KGP z 28 czerwca 2018 r. (w brzmieniu po zmianie zarządzeniem nr 25 KGP z 29 lipca 2025 r.): wymagane jest bezpośrednie i natychmiastowe podjęcie czynności z użyciem adekwatnych sił i środków.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "fa426fd124",
+  "temat": "JS04. Poszukiwanie osób zaginionych",
+  "pytanie": "Która osoba spełnia kryterium poziomu I poszukiwania?",
+  "poprawna": "małoletni w wieku do 10 lat",
+  "bledne": [
+   "osoba dorosła, która planowo wyjechała na wakacje",
+   "osoba, która nie odebrała telefonu przez kilka godzin, bez innych okoliczności",
+   "osoba, której zmienił się adres zamieszkania"
+  ],
+  "wyjasnienie": "§ 2 ust. 1 pkt 3 lit. a zarządzenia nr 48 KGP z 28 czerwca 2018 r. (w brzmieniu po zmianie zarządzeniem nr 25 KGP z 29 lipca 2025 r.). Inne przykłady: osoba niezdolna do samodzielnej egzystencji, wymagająca stałego przyjmowania leków, zagrożona przestępstwem, samobójstwem lub warunkami atmosferycznymi.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "58fe4294a0",
+  "temat": "JS04. Poszukiwanie osób zaginionych",
+  "pytanie": "Do poziomu I poszukiwania zalicza się osobę, która:",
+  "poprawna": "wymaga stałego przyjmowania leków, a ich brak w odpowiednim czasie stanowi zagrożenie jej życia",
+  "bledne": [
+   "nie posiada aktualnego dowodu osobistego",
+   "nie poinformowała rodziny o planowanym wyjeździe, ale jej miejsce pobytu jest znane",
+   "odmówiła podania numeru telefonu"
+  ],
+  "wyjasnienie": "§ 2 ust. 1 pkt 3 lit. a tiret trzecie zarządzenia nr 48 KGP z 28 czerwca 2018 r. (w brzmieniu po zmianie zarządzeniem nr 25 KGP z 29 lipca 2025 r.).",
+  "zrodlo": "test"
+ },
+ {
+  "id": "ae513b6e24",
+  "temat": "JS04. Poszukiwanie osób zaginionych",
+  "pytanie": "Poziom II poszukiwania osoby zaginionej dotyczy osoby, której zaginięcie:",
+  "poprawna": "nie wiąże się z bezpośrednim zagrożeniem życia, zdrowia lub wolności i nie spełnia kryteriów poziomu I",
+  "bledne": [
+   "wiąże się z bezpośrednim zagrożeniem życia i zdrowia",
+   "zawsze dotyczy osoby małoletniej do 10. roku życia",
+   "zawsze wynika z podejrzenia popełnienia przestępstwa"
+  ],
+  "wyjasnienie": "§ 2 ust. 1 pkt 3 lit. b zarządzenia nr 48 KGP z 28 czerwca 2018 r. (w brzmieniu po zmianie zarządzeniem nr 25 KGP z 29 lipca 2025 r.).",
+  "zrodlo": "test"
+ },
+ {
+  "id": "11a9fe9606",
+  "temat": "JS04. Poszukiwanie osób zaginionych",
+  "pytanie": "Jednostką właściwą miejscowo do prowadzenia poszukiwania osoby zaginionej (poza pierwszymi 7 dniami poziomu I) jest jednostka Policji, na której obszarze osoba zaginiona:",
+  "poprawna": "posiadała miejsce zamieszkania",
+  "bledne": [
+   "zaginęła",
+   "była zameldowana na pobyt stały",
+   "złożono zawiadomienie o zaginięciu"
+  ],
+  "wyjasnienie": "§ 9 ust. 1 zarządzenia nr 48 KGP z 28 czerwca 2018 r. (w brzmieniu po zmianie zarządzeniem nr 25 KGP z 29 lipca 2025 r.). Przy poziomie I przez pierwsze 7 dni właściwa jest jednostka z miejsca zaginięcia (§ 9 ust. 2). Gdy nie da się ustalić miejsca zamieszkania – decyduje miejsce zameldowania (ust. 3). W teście pytano o „poziom II i III” – po zmianie z 2025 r. jest tylko poziom II.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "0b9f5113b3",
+  "temat": "JS04. Poszukiwanie osób zaginionych",
+  "pytanie": "Przy poszukiwaniach zakwalifikowanych do poziomu I, przez pierwsze 7 dni od zgłoszenia, czynności prowadzi jednostka Policji, na której obszarze:",
+  "poprawna": "miało miejsce zaginięcie osoby",
+  "bledne": [
+   "osoba zaginiona była zameldowana",
+   "mieszka osoba zgłaszająca",
+   "znajduje się komenda wojewódzka"
+  ],
+  "wyjasnienie": "§ 9 ust. 2 zarządzenia nr 48 KGP z 28 czerwca 2018 r. (w brzmieniu po zmianie zarządzeniem nr 25 KGP z 29 lipca 2025 r.).",
+  "zrodlo": "wlasne"
+ },
+ {
+  "id": "57ce95f80d",
+  "temat": "JS04. Poszukiwanie osób zaginionych",
+  "pytanie": "Poszukiwania opiekuńcze mogą być związane z sytuacją, gdy małoletni lub nieletni:",
+  "poprawna": "samowolnie oddalił się z placówki, w której umieszczono go na podstawie decyzji sądu rodzinnego",
+  "bledne": [
+   "został skazany prawomocnym wyrokiem sądu karnego",
+   "nie stawił się na rozprawę jako świadek",
+   "odmówił przyjęcia mandatu karnego"
+  ],
+  "wyjasnienie": "§ 2 ust. 1 pkt 4 zarządzenia nr 48 KGP z 28 czerwca 2018 r. (w brzmieniu po zmianie zarządzeniem nr 25 KGP z 29 lipca 2025 r.): postanowienie sądu rodzinnego o umieszczeniu w placówce, samowolne oddalenie się z niej lub niepowrót z przepustki, a także oddalenie się małoletniego od 14 lat z placówki pieczy zastępczej.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "238bfc026d",
+  "temat": "JS04. Poszukiwanie osób zaginionych",
+  "pytanie": "Porwanie rodzicielskie to zdarzenie, w którym:",
+  "poprawna": "jeden z rodziców posiadających władzę rodzicielską bez woli i wiedzy drugiego wywozi lub zatrzymuje dziecko na stałe, pozbawiając drugiego rodzica kontaktu",
+  "bledne": [
+   "obcy sprawca uprowadza dziecko w celu okupu",
+   "dziecko samowolnie oddala się z domu rodzinnego",
+   "sąd odbiera rodzicom władzę rodzicielską"
+  ],
+  "wyjasnienie": "§ 2 ust. 1 pkt 5 zarządzenia nr 48 KGP z 28 czerwca 2018 r. (w brzmieniu po zmianie zarządzeniem nr 25 KGP z 29 lipca 2025 r.). Pojęcie wymienia sylabus JS04.",
+  "zrodlo": "wlasne"
+ },
+ {
+  "id": "b434fc3ede",
+  "temat": "JS05. Osoba o nieustalonej tożsamości (NN)",
+  "pytanie": "Osoba o nieustalonej tożsamości („NN osoba”) to:",
+  "poprawna": "osoba, której dane są nieznane, niepełne lub niewiarygodne",
+  "bledne": [
+   "nieznany figurant",
+   "nieznany świadek",
+   "osoba, której dane są ustalone, ale nie posiada dokumentu tożsamości"
+  ],
+  "wyjasnienie": "§ 2 ust. 1 pkt 6 zarządzenia nr 48 KGP z 28 czerwca 2018 r. (w brzmieniu po zmianie zarządzeniem nr 25 KGP z 29 lipca 2025 r.) – w szczególności gdy wynika to z choroby albo osoba usiłuje ukryć tożsamość.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "59a7b66c2b",
+  "temat": "JS05. Osoba o nieustalonej tożsamości (NN)",
+  "pytanie": "Jednostką właściwą do prowadzenia czynności w związku z ujawnieniem NN osoby jest jednostka:",
+  "poprawna": "na której terenie ujawniono tę osobę",
+  "bledne": [
+   "na której terenie złożono zawiadomienie o zaginięciu osoby",
+   "na której terenie ta osoba była zameldowana",
+   "na której terenie ta osoba zamieszkiwała"
+  ],
+  "wyjasnienie": "§ 42 ust. 1 i 8 zarządzenia nr 48 KGP z 28 czerwca 2018 r. (w brzmieniu po zmianie zarządzeniem nr 25 KGP z 29 lipca 2025 r.). Wstępne czynności wykonuje dyżurny lub wyznaczony przez niego policjant.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "5a53b14bb0",
+  "temat": "JS05. Osoba o nieustalonej tożsamości (NN)",
+  "pytanie": "Policja nie podejmuje czynności identyfikacyjnych wobec NN osoby, gdy:",
+  "poprawna": "ujawniono noworodka w tzw. „oknie życia”",
+  "bledne": [
+   "dotyczy to policjanta z wydziału kryminalnego komendy wojewódzkiej",
+   "dotyczy to funkcjonariusza",
+   "policjant zna ją osobiście"
+  ],
+  "wyjasnienie": "§ 41 ust. 3 zarządzenia nr 48 KGP z 28 czerwca 2018 r. (w brzmieniu po zmianie zarządzeniem nr 25 KGP z 29 lipca 2025 r.): noworodek porzucony w bezpiecznym miejscu (szpital, „okno życia”) – nie prowadzi się czynności identyfikacyjnych, tylko czynności w niezbędnym zakresie z k.p.k.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "cdac65d687",
+  "temat": "JS05. Osoba o nieustalonej tożsamości (NN)",
+  "pytanie": "Urządzeniem do szybkiej identyfikacji daktyloskopijnej jest:",
+  "poprawna": "Morpho Touch",
+  "bledne": [
+   "AFIS",
+   "Live Scan",
+   "wywiad daktyloskopijny"
+  ],
+  "wyjasnienie": "§ 42 ust. 2 pkt 7 zarządzenia nr 48 KGP z 28 czerwca 2018 r. (w brzmieniu po zmianie zarządzeniem nr 25 KGP z 29 lipca 2025 r.): sprawdzenie urządzeniem do szybkiej identyfikacji (mobilny Morpho Touch), a potem pobranie odbitek i wywiad daktyloskopijny przez „LiveScan”. AFIS to system (baza) daktyloskopijny.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "b2178f4001",
+  "temat": "JS05. Osoba o nieustalonej tożsamości (NN)",
+  "pytanie": "Wstępne czynności identyfikacyjne wobec NN osoby obejmują m.in.:",
+  "poprawna": "rozpytanie świadków, badanie lekarskie, opis wyglądu i znaków szczególnych oraz zdjęcia sygnalityczne",
+  "bledne": [
+   "wyłącznie sprawdzenie w KSIP",
+   "przesłuchanie NN osoby w charakterze podejrzanego",
+   "natychmiastowe umieszczenie jej w areszcie śledczym"
+  ],
+  "wyjasnienie": "§ 42 ust. 2 zarządzenia nr 48 KGP z 28 czerwca 2018 r. (w brzmieniu po zmianie zarządzeniem nr 25 KGP z 29 lipca 2025 r.) (oraz sylabus JS05).",
+  "zrodlo": "wlasne"
+ },
+ {
+  "id": "30349d3128",
+  "temat": "JS05. Osoba o nieustalonej tożsamości (NN)",
+  "pytanie": "Jeżeli niemożność identyfikacji NN osoby wynika z choroby psychicznej lub innego zakłócenia czynności psychicznych, policjant:",
+  "poprawna": "umieszcza ją w najbliższym zakładzie opiekuńczym albo leczniczym i sporządza protokół przekazania osoby o nieustalonej tożsamości",
+  "bledne": [
+   "zwalnia ją i kończy czynności",
+   "zatrzymuje ją na 48 godzin w pomieszczeniu dla osób zatrzymanych",
+   "przekazuje ją prokuratorowi"
+  ],
+  "wyjasnienie": "§ 42 ust. 4–5 zarządzenia nr 48 KGP z 28 czerwca 2018 r. (w brzmieniu po zmianie zarządzeniem nr 25 KGP z 29 lipca 2025 r.). Kopię protokołu przesyła się organowi administracji samorządowej właściwemu dla siedziby zakładu.",
+  "zrodlo": "wlasne"
+ },
+ {
+  "id": "cf891a119e",
+  "temat": "JS05. Osoba o nieustalonej tożsamości (NN)",
+  "pytanie": "Informację o ujawnieniu NN osoby rejestruje się w KSIP w ciągu:",
+  "poprawna": "48 godzin od ujawnienia",
+  "bledne": [
+   "1 godziny od ujawnienia",
+   "7 dni od ujawnienia",
+   "30 dni od ujawnienia"
+  ],
+  "wyjasnienie": "§ 41 ust. 2 zarządzenia nr 48 KGP z 28 czerwca 2018 r. (w brzmieniu po zmianie zarządzeniem nr 25 KGP z 29 lipca 2025 r.).",
+  "zrodlo": "wlasne"
+ },
+ {
+  "id": "b655192de5",
+  "temat": "JS06. Poszukiwanie przedmiotów i zabezpieczenie śladów",
+  "pytanie": "W celu zabezpieczenia procesowego rzeczy zarejestrowanej w KSIP jako „UTRACONA” w wyniku rozboju sporządzamy:",
+  "poprawna": "protokół przeszukania lub zatrzymania rzeczy lub protokół oględzin",
+  "bledne": [
+   "notatkę służbową i zapis w notatniku służbowym",
+   "protokół kontroli osobistej",
+   "spis i opis rzeczy"
+  ],
+  "wyjasnienie": "Rzecz z przestępstwa zabezpiecza się procesowo – protokół zatrzymania rzeczy, przeszukania lub oględzin (art. 143 § 1 k.p.k.). Poradnik JS06 wymienia protokół zatrzymania rzeczy.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "3a1b12659d",
+  "temat": "JS06. Poszukiwanie przedmiotów i zabezpieczenie śladów",
+  "pytanie": "Przebieg i wyniki czynności policjanta prewencji na miejscu kradzieży z włamaniem dokumentuje się w:",
+  "poprawna": "notatce urzędowej i notatniku służbowym",
+  "bledne": [
+   "protokole oględzin",
+   "meldunku informacyjnym",
+   "notatce służbowej i meldunku informacyjnym"
+  ],
+  "wyjasnienie": "Kradzież z włamaniem to przestępstwo – czynności w sprawie dokumentuje się notatką urzędową. Oględziny przeprowadza grupa dochodzeniowo-śledcza.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "c79abc5f2c",
+  "temat": "JS06. Poszukiwanie przedmiotów i zabezpieczenie śladów",
+  "pytanie": "Które działanie stanowi element zabezpieczenia miejsca zdarzenia?",
+  "poprawna": "ograniczenie dostępu osób postronnych",
+  "bledne": [
+   "umożliwienie wszystkim osobom wejścia na miejsce zdarzenia",
+   "usunięcie wszystkich przedmiotów znajdujących się na miejscu",
+   "udostępnienie miejsca zdarzenia mediom"
+  ],
+  "wyjasnienie": "Zabezpieczenie miejsca zdarzenia chroni ślady do czasu oględzin.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "1565f252e1",
+  "temat": "JS06. Poszukiwanie przedmiotów i zabezpieczenie śladów",
+  "pytanie": "Głównym celem ograniczenia dostępu osób postronnych do miejsca zdarzenia jest:",
+  "poprawna": "ochrona miejsca zdarzenia przed zatarciem lub zmianą śladów",
+  "bledne": [
+   "przyspieszenie zakończenia czynności",
+   "umożliwienie swobodnego poruszania się świadków",
+   "ułatwienie pracy mediom"
+  ],
+  "wyjasnienie": "Por. art. 308 k.p.k. – zabezpieczenie śladów i dowodów przed utratą, zniekształceniem lub zniszczeniem.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "46966d2400",
+  "temat": "JS06. Poszukiwanie przedmiotów i zabezpieczenie śladów",
+  "pytanie": "Profil DNA to:",
+  "poprawna": "unikalny zestaw markerów genetycznych",
+  "bledne": [
+   "fotografia osoby wykonana przez Policję",
+   "numer identyfikacyjny osoby w KSIP",
+   "zestaw danych dotyczących miejsca zamieszkania osoby"
+  ],
+  "wyjasnienie": "Profile DNA trafiają do zbioru danych DNA (art. 21a ustawy o Policji) i służą m.in. identyfikacji NN osób i NN zwłok.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "acfd9bf76b",
+  "temat": "JS06. Poszukiwanie przedmiotów i zabezpieczenie śladów",
+  "pytanie": "Materiałem, z którego może zostać uzyskany profil DNA, jest między innymi:",
+  "poprawna": "wymaz ze śluzówki policzków",
+  "bledne": [
+   "numer PESEL",
+   "numer rejestracyjny pojazdu",
+   "adres zameldowania"
+  ],
+  "wyjasnienie": "Art. 15 ust. 1 pkt 3a ustawy o Policji – pobieranie wymazu ze śluzówki policzków.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "f9521133dc",
+  "temat": "JS06. Poszukiwanie przedmiotów i zabezpieczenie śladów",
+  "pytanie": "Celem poszukiwania przedmiotu jest m.in.:",
+  "poprawna": "wykrycie sprawcy przez ustalenie związku przedmiotu z osobą i czynem, odzyskanie mienia oraz uzyskanie dowodów",
+  "bledne": [
+   "wyłącznie odzyskanie mienia dla pokrzywdzonego",
+   "wyłącznie ustalenie wartości rzeczy",
+   "przekazanie rzeczy na rzecz Skarbu Państwa"
+  ],
+  "wyjasnienie": "Sylabus JS06, pkt 1: wykrycie sprawcy, odzyskanie mienia, uzyskanie dowodów.",
+  "zrodlo": "wlasne"
+ },
+ {
+  "id": "131a1ee2bb",
+  "temat": "JS06. Poszukiwanie przedmiotów i zabezpieczenie śladów",
+  "pytanie": "Przedmiotem przedsięwzięć poszukiwawczych i identyfikacyjnych Policji nie są rzeczy:",
+  "poprawna": "zgubione bez związku z czynem zabronionym i niestwarzające zagrożenia",
+  "bledne": [
+   "utracone w wyniku czynów zabronionych",
+   "użyte do popełnienia czynów zabronionych lub noszące ich ślady",
+   "których posiadanie lub obrót nimi są zabronione"
+  ],
+  "wyjasnienie": "Sylabus JS06, pkt 2: kategorie to rzeczy utracone w wyniku czynów zabronionych, użyte do ich popełnienia lub noszące ślady, mogące mieć związek z czynami lub sprawcami, zakazane w posiadaniu lub obrocie oraz stwarzające powszechne zagrożenie.",
+  "zrodlo": "wlasne"
+ },
+ {
+  "id": "c0c614ff68",
+  "temat": "JS07. Osoba informująca i meldunek informacyjny",
+  "pytanie": "Osobowymi źródłami informacji są:",
+  "poprawna": "osoba informująca, współpracownik, agent",
+  "bledne": [
+   "prostytutka, członek zorganizowanej grupy przestępczej, kieszonkowiec",
+   "informator, obserwator, zwiadowca",
+   "konfident, sześćdziesiątka, kapuś"
+  ],
+  "wyjasnienie": "Poradnik JS07: kategorie osobowych źródeł informacji – „osoba informująca”, „współpracownik”, „agent”.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "6db90842d1",
+  "temat": "JS07. Osoba informująca i meldunek informacyjny",
+  "pytanie": "Osobowym źródłem informacji jest:",
+  "poprawna": "osoba informująca",
+  "bledne": [
+   "figurant",
+   "konsultant",
+   "informator"
+  ],
+  "wyjasnienie": "Figurant to osoba, którą się interesuje Policja, a nie źródło. Określenie „informator” nie jest obecnie kategorią OZI.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "004f03db44",
+  "temat": "JS07. Osoba informująca i meldunek informacyjny",
+  "pytanie": "Osoba informująca przekazuje informacje:",
+  "poprawna": "okazjonalnie i z własnej inicjatywy",
+  "bledne": [
+   "bez przymusu i regularnie",
+   "po nawiązaniu współpracy",
+   "w postępowaniu karnym, składając zeznania"
+  ],
+  "wyjasnienie": "Regularne przekazywanie po nawiązaniu współpracy charakteryzuje współpracownika lub agenta.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "ac77b4e490",
+  "temat": "JS07. Osoba informująca i meldunek informacyjny",
+  "pytanie": "Osoby udzielające pomocy Policji (OUPP) to:",
+  "poprawna": "wszystkie osoby pomagające Policji",
+  "bledne": [
+   "jedna z metod pracy operacyjnej",
+   "świadkowie",
+   "biegli"
+  ],
+  "wyjasnienie": "Szerokie pojęcie obejmujące osoby wspierające Policję w realizacji zadań (art. 22 ustawy o Policji przewiduje m.in. ochronę i wynagradzanie takich osób). UWAGA – niepewne: definicja z niejawnego zarządzenia, przyjęto za materiałami szkoleniowymi.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "1c72e9df32",
+  "temat": "JS07. Osoba informująca i meldunek informacyjny",
+  "pytanie": "Informacje przekazane przez osobowe źródło informacji (OZI) dokumentuje się:",
+  "poprawna": "meldunkiem informacyjnym",
+  "bledne": [
+   "raportem informacyjnym",
+   "protokołem informacyjnym",
+   "protokołem przekazania informacji"
+  ],
+  "wyjasnienie": "Sylabus JS07: meldunek informacyjny jako podstawowy dokument w przypadku uzyskania informacji.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "5652de3a6f",
+  "temat": "JS07. Osoba informująca i meldunek informacyjny",
+  "pytanie": "W systemie oceny 4×4 kody A, B, C i X dotyczą:",
+  "poprawna": "oceny wiarygodności źródła informacji",
+  "bledne": [
+   "rodzaju czynności operacyjnej",
+   "rodzaju jednostki Policji",
+   "stopnia służbowego policjanta"
+  ],
+  "wyjasnienie": "System 4×4: źródło ocenia się literami A, B, C, X, a samą informację cyframi 1, 2, 3, 4. W teście odpowiedź brzmiała „wiarygodności informacji”.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "56fc91ba4a",
+  "temat": "JS07. Osoba informująca i meldunek informacyjny",
+  "pytanie": "Kody H1, H2, H3 dotyczą:",
+  "poprawna": "ochrony informacji (zasad jej rozpowszechniania)",
+  "bledne": [
+   "wiarygodności informacji",
+   "rodzaju źródła informacji",
+   "oceny policjanta przyjmującego informację"
+  ],
+  "wyjasnienie": "Kody H (handling codes) w systemie 4×4 określają, komu i na jakich warunkach można przekazać informację. Wiarygodność oceniają kody A–X i 1–4.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "7bc751fd27",
+  "temat": "JS07. Osoba informująca i meldunek informacyjny",
+  "pytanie": "W systemie 4×4 ocenia się:",
+  "poprawna": "wiarygodność źródła informacji (A, B, C, X) oraz wiarygodność samej informacji (1, 2, 3, 4)",
+  "bledne": [
+   "wyłącznie wiarygodność informacji w skali 1–4",
+   "wyłącznie przydatność informacji dla sprawy",
+   "cztery cechy osoby informującej w skali 1–4"
+  ],
+  "wyjasnienie": "Sylabus JS07, pkt 6: ocena wiarygodności źródła informacji i informacji (system 4×4).",
+  "zrodlo": "wlasne"
+ },
+ {
+  "id": "52a9316b8a",
+  "temat": "JS08. Obserwacja doraźna",
+  "pytanie": "Obserwację dzielimy na:",
+  "poprawna": "planową i doraźną",
+  "bledne": [
+   "planowaną i doraźną",
+   "operacyjną i prewencyjną",
+   "tajną, jawną, skrytą i otwartą"
+  ],
+  "wyjasnienie": "Sylabus JS08 dotyczy obserwacji doraźnej. Uwaga na pułapkę: poprawne słowo to „planowa”, nie „planowana”.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "eb13a51234",
+  "temat": "JS08. Obserwacja doraźna",
+  "pytanie": "Obserwację doraźną mogą prowadzić:",
+  "poprawna": "wszyscy policjanci",
+  "bledne": [
+   "tylko policjanci służby kryminalnej i śledczej",
+   "wszyscy policjanci z wyjątkiem służby prewencji",
+   "wyłącznie policjanci wyspecjalizowanych komórek organizacyjnych"
+  ],
+  "wyjasnienie": "Obserwacja doraźna podejmowana jest w toku służby przez każdego policjanta. Obserwację planową prowadzą wyspecjalizowane komórki.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "dddd1cefdf",
+  "temat": "JS08. Obserwacja doraźna",
+  "pytanie": "Obserwacja to zespół czynności:",
+  "poprawna": "celowych",
+  "bledne": [
+   "procesowych",
+   "jawnych i niejawnych",
+   "administracyjno-porządkowych"
+  ],
+  "wyjasnienie": "Obserwacja to celowe, planowe postrzeganie osób, miejsc, rzeczy lub zdarzeń. Nie jest czynnością procesową.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "ff6e5fe47d",
+  "temat": "JS08. Obserwacja doraźna",
+  "pytanie": "Obserwację doraźną dokumentuje się:",
+  "poprawna": "notatką służbową",
+  "bledne": [
+   "notatką urzędową",
+   "protokołem z obserwacji",
+   "zapisem w notatniku służbowym"
+  ],
+  "wyjasnienie": "Sylabus JS08: notatka służbowa z przeprowadzonej obserwacji (oraz meldunek informacyjny z uzyskanych informacji).",
+  "zrodlo": "test"
+ },
+ {
+  "id": "89b452f3af",
+  "temat": "JS08. Obserwacja doraźna",
+  "pytanie": "Kontrobserwacja to:",
+  "poprawna": "działania figuranta lub innych osób zmierzające do wykrycia, czy jest obserwowany",
+  "bledne": [
+   "obserwacja prowadzona przez dwóch policjantów jednocześnie",
+   "kontrola przełożonego nad obserwującym",
+   "obserwacja prowadzona z pojazdu"
+  ],
+  "wyjasnienie": "Poradnik JS08 wymienia pojęcia „obserwacja”, „kontrobserwacja”, „samokontrola”. Samokontrola to sprawdzanie przez obserwującego, czy nie został zdekonspirowany.",
+  "zrodlo": "wlasne"
+ }
+]

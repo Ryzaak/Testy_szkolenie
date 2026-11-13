@@ -35,6 +35,7 @@ Postęp zapisuje się w Twojej przeglądarce, więc każdy uczy się osobno. Po 
 | **JM02 JS06** | Zatrzymanie osoby (ujęcie i zatrzymanie, podstawy, prawa zatrzymanego, czas, badania lekarskie, nieletni, cudzoziemcy, dokumentacja) | 54 |
 | **JM01 JS09** | Historia Policji, etyka zawodowa, korupcja, prawa człowieka, dyskryminacja (pytania prawda/fałsz) | 71 |
 | **JM01 JS07–JS08** | Przyjęcie informacji o przestępstwie i przesłuchanie świadka (proces karny, pokrzywdzony, zawiadomienie, art. 307–308 k.p.k., świadek, odmowa zeznań, protokół) | 126 |
+| **JM03 JS02–JS08** | Praca operacyjna i poszukiwania (wywiad operacyjny, poszukiwania osób ukrywających się i zaginionych, NN osoby, przedmioty, osoba informująca, obserwacja doraźna) | 63 |
 
 ## Skąd są pytania
 
