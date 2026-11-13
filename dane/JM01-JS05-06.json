@@ -1,0 +1,574 @@
+[
+ {
+  "id": "e4e725dbc3",
+  "temat": "JS05. Postępowanie na miejscu zdarzenia do chwili oględzin",
+  "pytanie": "Policjant, który jako pierwszy przybył na miejsce zdarzenia, w pierwszej kolejności:",
+  "poprawna": "udziela pomocy osobom poszkodowanym i usuwa bezpośrednie zagrożenie, a następnie zabezpiecza miejsce zdarzenia",
+  "bledne": [
+   "rozpoczyna oględziny i zabezpiecza ślady",
+   "przesłuchuje świadków na protokół",
+   "sporządza szkic miejsca zdarzenia"
+  ],
+  "wyjasnienie": "Ratowanie życia i zdrowia ma pierwszeństwo przed ochroną śladów. Oględziny przeprowadza grupa operacyjno-procesowa (poradnik JS05).",
+  "zrodlo": "wlasne"
+ },
+ {
+  "id": "3fae2062f0",
+  "temat": "JS05. Postępowanie na miejscu zdarzenia do chwili oględzin",
+  "pytanie": "Zabezpieczając miejsce zdarzenia do chwili oględzin, policjant:",
+  "poprawna": "nie dopuszcza osób postronnych i niczego nie przemieszcza – a jeżeli zmiana była konieczna (np. ratowanie życia), odnotowuje ją i przekazuje tę informację grupie oględzinowej",
+  "bledne": [
+   "porządkuje miejsce, by ułatwić pracę technikowi",
+   "zbiera ślady do kieszeni, by nie zginęły",
+   "wpuszcza na miejsce media, aby udokumentowały zdarzenie"
+  ],
+  "wyjasnienie": "Celem jest ochrona śladów przed zatarciem lub zmianą. Policjant może wydawać polecenia w granicach niezbędnych do ochrony przed zatarciem śladów (art. 15 ust. 1 pkt 10 ustawy o Policji).",
+  "zrodlo": "wlasne"
+ },
+ {
+  "id": "6784d726f5",
+  "temat": "JS05. Postępowanie na miejscu zdarzenia do chwili oględzin",
+  "pytanie": "Uzyskane na miejscu zdarzenia informacje (o świadkach, uczestnikach, zmianach w miejscu) policjant zabezpieczający miejsce przekazuje:",
+  "poprawna": "kierownikowi grupy operacyjno-procesowej",
+  "bledne": [
+   "wyłącznie mediom",
+   "pokrzywdzonemu",
+   "nikomu – informacje zapisuje tylko w notatniku"
+  ],
+  "wyjasnienie": "Cel z sylabusa JS05: przekazać uzyskane informacje kierownikowi grupy operacyjno-procesowej. O zdarzeniu i jego skutkach informuje się też dyżurnego jednostki.",
+  "zrodlo": "wlasne"
+ },
+ {
+  "id": "39d900af6f",
+  "temat": "JS05. Postępowanie na miejscu zdarzenia do chwili oględzin",
+  "pytanie": "Elektroniczny nośnik danych (np. włączony telefon) zabezpieczany na miejscu zdarzenia należy:",
+  "poprawna": "chronić przed zniszczeniem, zniekształceniem i utratą danych – nie przeglądać jego zawartości i w miarę możliwości odizolować od sieci",
+  "bledne": [
+   "od razu wyłączyć i rozebrać, by wyjąć kartę pamięci",
+   "przejrzeć na miejscu, by ustalić sprawcę",
+   "przekazać właścicielowi do przechowania"
+  ],
+  "wyjasnienie": "Sylabus JS05: zabezpieczyć przedmioty, w szczególności nośniki danych teleinformatycznych, przed zniszczeniem, zniekształceniem oraz utratą.",
+  "zrodlo": "wlasne"
+ },
+ {
+  "id": "c07fde8de0",
+  "temat": "JS05. Postępowanie na miejscu zdarzenia do chwili oględzin",
+  "pytanie": "Ustalając świadków na miejscu zdarzenia, policjant zabezpieczający miejsce:",
+  "poprawna": "ustala ich tożsamość i dane kontaktowe oraz zwięźle to, co widzieli, i przekazuje to grupie operacyjno-procesowej",
+  "bledne": [
+   "przesłuchuje ich na protokół przesłuchania świadka",
+   "zwalnia ich bez ustalania danych",
+   "zabiera im dokumenty do czasu oględzin"
+  ],
+  "wyjasnienie": "Sylabus JS05, pkt 3: ustalanie świadków i uczestników zdarzenia (przesłuchanie to czynność procesowa grupy).",
+  "zrodlo": "wlasne"
+ },
+ {
+  "id": "d47c73fc1f",
+  "temat": "JS06 1–2. Badanie miejsca zdarzenia, podstawy i zasady oględzin",
+  "pytanie": "Oględziny miejsca zdarzenia są:",
+  "poprawna": "częścią składową kryminalistycznego badania miejsca zdarzenia",
+  "bledne": [
+   "samodzielną czynnością operacyjno-rozpoznawczą niezwiązaną z badaniem miejsca zdarzenia",
+   "czynnością wykonywaną wyłącznie na polecenie prokuratora",
+   "pojęciem szerszym od kryminalistycznego badania miejsca zdarzenia"
+  ],
+  "wyjasnienie": "Kryminalistyczne badanie miejsca zdarzenia obejmuje oględziny oraz inne czynności (np. procesowe, operacyjne, techniczne).",
+  "zrodlo": "test"
+ },
+ {
+  "id": "4c74271401",
+  "temat": "JS06 1–2. Badanie miejsca zdarzenia, podstawy i zasady oględzin",
+  "pytanie": "Podstawą prawną fakultatywnych oględzin miejsca, osoby lub rzeczy, dokonywanych „w razie potrzeby”, jest:",
+  "poprawna": "art. 207 k.p.k",
+  "bledne": [
+   "art. 143 k.p.k",
+   "art. 209 k.p.k",
+   "art. 147 k.p.k"
+  ],
+  "wyjasnienie": "Art. 207 § 1 k.p.k.: „W razie potrzeby dokonuje się oględzin miejsca, osoby lub rzeczy”.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "70dd9e5ccd",
+  "temat": "JS06 1–2. Badanie miejsca zdarzenia, podstawy i zasady oględzin",
+  "pytanie": "Zgodnie z art. 207 § 1 k.p.k. oględzin można dokonać:",
+  "poprawna": "miejsca, osoby lub rzeczy",
+  "bledne": [
+   "wyłącznie miejsca i rzeczy",
+   "miejsca i zwłok, ale nie osoby żyjącej",
+   "wyłącznie miejsca zdarzenia, jeżeli ujawniono na nim ślady"
+  ],
+  "wyjasnienie": "Art. 207 § 1 k.p.k. Oględziny ciała mogące wywołać wstyd przeprowadza osoba tej samej płci (art. 208).",
+  "zrodlo": "test"
+ },
+ {
+  "id": "3521c2cfeb",
+  "temat": "JS06 1–2. Badanie miejsca zdarzenia, podstawy i zasady oględzin",
+  "pytanie": "Oględziny i otwarcie zwłok w razie podejrzenia przestępnego spowodowania śmierci przeprowadza się na podstawie:",
+  "poprawna": "art. 209 k.p.k",
+  "bledne": [
+   "art. 194 k.p.k",
+   "art. 207 k.p.k",
+   "art. 308 k.p.k"
+  ],
+  "wyjasnienie": "Art. 209 § 1 k.p.k. Oględzin zwłok dokonuje prokurator z biegłym lekarzem, a w wypadkach niecierpiących zwłoki – Policja z obowiązkiem powiadomienia prokuratora (§ 2).",
+  "zrodlo": "test"
+ },
+ {
+  "id": "91e60e7c3a",
+  "temat": "JS06 1–2. Badanie miejsca zdarzenia, podstawy i zasady oględzin",
+  "pytanie": "Podstawowym celem oględzin jest przede wszystkim:",
+  "poprawna": "ujawnienie, utrwalenie i zabezpieczenie śladów oraz innych informacji pozwalających odtworzyć okoliczności zdarzenia",
+  "bledne": [
+   "ustalenie danych osobowych wszystkich osób obecnych w rejonie zdarzenia",
+   "potwierdzenie wersji przedstawionej przez pokrzywdzonego",
+   "zastąpienie późniejszych badań laboratoryjnych"
+  ],
+  "wyjasnienie": "Oględziny to bezpośrednie postrzeganie miejsca, osoby lub rzeczy przez organ procesowy w celu ujawnienia i utrwalenia śladów.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "555f3cb118",
+  "temat": "JS06 1–2. Badanie miejsca zdarzenia, podstawy i zasady oględzin",
+  "pytanie": "Oględziny mogą służyć również do:",
+  "poprawna": "weryfikacji wersji zdarzenia i ujawniania okoliczności, które potwierdzają albo podważają określony przebieg zdarzenia",
+  "bledne": [
+   "zastąpienia ekspertyzy biegłego, jeżeli ślad został prawidłowo opisany",
+   "ustalenia winy podejrzanego przed przedstawieniem zarzutów",
+   "wydania końcowej opinii co do kwalifikacji prawnej czynu"
+  ],
+  "wyjasnienie": "Oglądający nie ocenia winy ani nie zastępuje biegłego – utrwala stan faktyczny.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "a54900e176",
+  "temat": "JS06 1–2. Badanie miejsca zdarzenia, podstawy i zasady oględzin",
+  "pytanie": "Zasada szybkości oględzin oznacza, że:",
+  "poprawna": "rozpoczęcie oględzin powinno nastąpić niezwłocznie po uzyskaniu informacji o zdarzeniu",
+  "bledne": [
+   "wszystkie czynności trzeba wykonywać w maksymalnym tempie, nawet kosztem dokładności",
+   "oględziny powinny zakończyć się przed upływem 60 minut od zgłoszenia",
+   "do oględzin należy skierować możliwie największą liczbę osób"
+  ],
+  "wyjasnienie": "Szybkość dotyczy podjęcia czynności (ślady z czasem się zmieniają), a nie pośpiechu kosztem dokładności.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "c467c5482a",
+  "temat": "JS06 1–2. Badanie miejsca zdarzenia, podstawy i zasady oględzin",
+  "pytanie": "Zasada planowości oględzin oznacza przede wszystkim:",
+  "poprawna": "prowadzenie czynności według wcześniej przyjętej, logicznej i dostosowanej do miejsca kolejności działania",
+  "bledne": [
+   "sporządzenie planu sytuacyjnego przed wejściem zespołu na miejsce",
+   "wykonanie wszystkich zdjęć przed jakimikolwiek innymi czynnościami",
+   "obowiązek podzielenia każdego miejsca na cztery równe sektory"
+  ],
+  "wyjasnienie": "Plan oględzin dobiera się do rodzaju miejsca i zdarzenia.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "a4ed11628b",
+  "temat": "JS06 1–2. Badanie miejsca zdarzenia, podstawy i zasady oględzin",
+  "pytanie": "Zasada ekonomiczności oględzin zakłada:",
+  "poprawna": "oszczędne i racjonalne gospodarowanie siłami i środkami odpowiednio do rodzaju i skutków zdarzenia",
+  "bledne": [
+   "ograniczenie liczby zabezpieczanych śladów do jednego śladu każdego rodzaju",
+   "rezygnację z dokumentacji fotograficznej, jeżeli sporządzono protokół",
+   "prowadzenie oględzin wyłącznie przez osoby obecne jako pierwsze na miejscu"
+  ],
+  "wyjasnienie": "Ekonomiczność nie oznacza pomijania istotnych śladów.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "8ed3be044e",
+  "temat": "JS06 1–2. Badanie miejsca zdarzenia, podstawy i zasady oględzin",
+  "pytanie": "„Siedem złotych pytań kryminalistyki” to:",
+  "poprawna": "co? gdzie? kiedy? jak? czym? dlaczego? kto?",
+  "bledne": [
+   "co? gdzie? ile? jak długo? czym? w jakim celu? kogo?",
+   "kto? kiedy? gdzie? ile? w jaki sposób? z kim? po co?",
+   "kto? czym? gdzie? z kim? po co? skąd? dokąd?"
+  ],
+  "wyjasnienie": "Klasyczny zestaw pytań, na które odpowiada badanie miejsca zdarzenia.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "614b58462e",
+  "temat": "JS06 1–2. Badanie miejsca zdarzenia, podstawy i zasady oględzin",
+  "pytanie": "Od przeprowadzenia oględzin można odstąpić, jeżeli:",
+  "poprawna": "na miejscu nie ma możliwości ujawnienia i zabezpieczenia śladów kryminalistycznych",
+  "bledne": [
+   "technik kryminalistyki nie może przybyć natychmiast",
+   "warunki atmosferyczne są trudne",
+   "prowadzący nie dysponuje aparatem fotograficznym"
+  ],
+  "wyjasnienie": "Oględziny są fakultatywne („w razie potrzeby” – art. 207 k.p.k.). Odstąpienie dokumentuje się (np. notatką urzędową z uzasadnieniem). Trudne warunki czy brak sprzętu nie są powodem.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "67909ef0d8",
+  "temat": "JS06 1–2. Badanie miejsca zdarzenia, podstawy i zasady oględzin",
+  "pytanie": "Czy aby dany obszar traktować jako miejsce zdarzenia, muszą zostać na nim ujawnione ślady kryminalistyczne?",
+  "poprawna": "nie – brak ujawnionych śladów nie wyklucza związku miejsca ze zdarzeniem, a brak oczekiwanych śladów też może mieć znaczenie",
+  "bledne": [
+   "tak – co najmniej jeden ślad musi być ujawniony i zabezpieczony",
+   "tak, ale tylko w sprawach o przestępstwa przeciwko życiu i zdrowiu",
+   "nie, ale tylko wtedy, gdy sprawca przyznał się do czynu"
+  ],
+  "wyjasnienie": "Por. „okoliczność negatywna”.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "6f11a695f5",
+  "temat": "JS06 1–2. Badanie miejsca zdarzenia, podstawy i zasady oględzin",
+  "pytanie": "„Okoliczność negatywna” podczas oględzin to:",
+  "poprawna": "brak śladu lub elementu, który przy zakładanym przebiegu zdarzenia powinien wystąpić",
+  "bledne": [
+   "niekorzystny wpływ pogody na zabezpieczanie śladów",
+   "nieprawidłowe zachowanie osoby uczestniczącej w oględzinach",
+   "brak technika kryminalistyki na miejscu"
+  ],
+  "wyjasnienie": "Np. brak śladów włamania przy rzekomej kradzieży z włamaniem – może wskazywać na upozorowanie.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "7df656beb4",
+  "temat": "JS06 1–2. Badanie miejsca zdarzenia, podstawy i zasady oględzin",
+  "pytanie": "Skrót SPO w kontekście oględzin oznacza:",
+  "poprawna": "Stały Punkt Odniesienia",
+  "bledne": [
+   "Sposób Prowadzenia Oględzin",
+   "Stały Poziom Oględzin",
+   "System Pomiaru Obiektu"
+  ],
+  "wyjasnienie": "SPO i SLO służą do określania położenia śladów (pomiary w protokole i na szkicu).",
+  "zrodlo": "test"
+ },
+ {
+  "id": "2a62595b37",
+  "temat": "JS06 1–2. Badanie miejsca zdarzenia, podstawy i zasady oględzin",
+  "pytanie": "Skrót SLO oznacza:",
+  "poprawna": "Stałą Linię Odniesienia",
+  "bledne": [
+   "Szacunkową Linię Oględzin",
+   "Stałą Liczbę Odległości",
+   "Szczegółową Linię Obserwacji"
+  ],
+  "wyjasnienie": "Np. krawędź jezdni lub ściana budynku.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "b9e831a461",
+  "temat": "JS06 3. Dokumentowanie oględzin",
+  "pytanie": "Podstawą prawną obowiązku sporządzenia protokołu z oględzin (zasada pisemności) jest:",
+  "poprawna": "art. 143 § 1 pkt 3 k.p.k",
+  "bledne": [
+   "art. 147 § 1 k.p.k",
+   "art. 207 § 1 k.p.k",
+   "art. 209 § 1 k.p.k"
+  ],
+  "wyjasnienie": "Art. 143 § 1 k.p.k.: spisania protokołu wymaga m.in. dokonanie oględzin (pkt 3).",
+  "zrodlo": "test"
+ },
+ {
+  "id": "39c6eedc47",
+  "temat": "JS06 3. Dokumentowanie oględzin",
+  "pytanie": "Z punktu widzenia procesowego obligatoryjnym sposobem dokumentowania oględzin jest:",
+  "poprawna": "protokół oględzin",
+  "bledne": [
+   "szkic kryminalistyczny",
+   "dokumentacja fotograficzna",
+   "nagranie wideo"
+  ],
+  "wyjasnienie": "Art. 143 § 1 pkt 3 k.p.k. Fotografie, szkice i plany są dokumentacją uzupełniającą (załącznikami do protokołu).",
+  "zrodlo": "test"
+ },
+ {
+  "id": "3f450ab2be",
+  "temat": "JS06 3. Dokumentowanie oględzin",
+  "pytanie": "Do fakultatywnych sposobów dokumentowania oględzin zalicza się:",
+  "poprawna": "dokumentację fotograficzną oraz szkice i plany kryminalistyczne",
+  "bledne": [
+   "wyłącznie protokół oględzin",
+   "metryczkę śladową i protokół oględzin",
+   "wyłącznie notatkę urzędową"
+  ],
+  "wyjasnienie": "Protokół jest obowiązkowy, pozostałe formy – fakultatywne.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "97dc62c325",
+  "temat": "JS06 3. Dokumentowanie oględzin",
+  "pytanie": "W toku oględzin ich przebieg może być dodatkowo utrwalony za pomocą urządzenia rejestrującego obraz lub dźwięk na podstawie:",
+  "poprawna": "art. 147 § 1 k.p.k",
+  "bledne": [
+   "art. 143 § 1 pkt 3 k.p.k",
+   "art. 207 § 1 k.p.k",
+   "art. 148 § 1 k.p.k"
+  ],
+  "wyjasnienie": "Art. 147 § 1 k.p.k.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "1d3771fa10",
+  "temat": "JS06 3. Dokumentowanie oględzin",
+  "pytanie": "Przed uruchomieniem urządzenia rejestrującego obraz lub dźwięk podczas oględzin należy:",
+  "poprawna": "uprzedzić osoby uczestniczące w czynności o rejestracji",
+  "bledne": [
+   "uzyskać pisemną zgodę wszystkich uczestników",
+   "uzyskać zgodę prokuratora niezależnie od charakteru sprawy",
+   "sporządzić osobny protokół uruchomienia urządzenia"
+  ],
+  "wyjasnienie": "Art. 147 § 1 k.p.k. – wystarczy uprzedzenie, zgoda nie jest potrzebna.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "d7a1f4c232",
+  "temat": "JS06 3. Dokumentowanie oględzin",
+  "pytanie": "Czynności w protokole oględzin należy opisywać, stosując:",
+  "poprawna": "formę nieosobową dokonaną, np. „ujawniono”, „sfotografowano”, „zabezpieczono”",
+  "bledne": [
+   "formę osobową dokonaną, np. „zabezpieczyłem”",
+   "formę osobową niedokonaną, np. „zabezpieczałem”",
+   "formę nieosobową niedokonaną, np. „ujawniano”"
+  ],
+  "wyjasnienie": "Protokół oględzin pisze się bezosobowo (w przeciwieństwie do zeznań świadka – 1. osoba czasu przeszłego).",
+  "zrodlo": "test"
+ },
+ {
+  "id": "28ee60a083",
+  "temat": "JS06 3. Dokumentowanie oględzin",
+  "pytanie": "Który zapis najbardziej odpowiada prawidłowemu stylowi protokołu oględzin?",
+  "poprawna": "Na powierzchni blatu stołu znajduje się butelka szklana koloru zielonego, oznaczona jako ślad nr 3, sfotografowana, a następnie zabezpieczona",
+  "bledne": [
+   "Na blacie znalazłem butelkę, którą sfotografowałem i zabezpieczyłem",
+   "Ślad nr 3 prawdopodobnie pozostawił sprawca, dlatego go zabezpieczono",
+   "Butelka była zapewne używana podczas zdarzenia i dlatego uznano ją za dowód"
+  ],
+  "wyjasnienie": "Opis obiektywny, bez ocen i domysłów, w formie nieosobowej.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "d8c12fe881",
+  "temat": "JS06 3. Dokumentowanie oględzin",
+  "pytanie": "Opis śladu w protokole oględzin powinien zawierać przede wszystkim:",
+  "poprawna": "obiektywny opis jego rodzaju, cech i usytuowania na miejscu zdarzenia",
+  "bledne": [
+   "typowanie osoby, która mogła pozostawić ślad",
+   "wyniki przyszłej ekspertyzy kryminalistycznej",
+   "ocenę, czy ślad wystarczy do skazania sprawcy"
+  ],
+  "wyjasnienie": "Protokół utrwala stan faktyczny – bez ocen dowodowych.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "018a076717",
+  "temat": "JS06 4–6. Ślady kryminalistyczne i ich zabezpieczanie",
+  "pytanie": "Śladem kryminalistycznym (w ujęciu funkcjonalnym, m.in. według J. Sehna) jest:",
+  "poprawna": "każda możliwa do stwierdzenia zmiana lub pozostałość związana ze zdarzeniem, na podstawie której można odtwarzać jego przebieg, osoby lub przedmioty",
+  "bledne": [
+   "wyłącznie widoczny gołym okiem ślad pozostawiony przez sprawcę",
+   "każdy przedmiot zabezpieczony przez policjanta, niezależnie od związku ze zdarzeniem",
+   "wyłącznie ślad, który umożliwia jednoznaczną identyfikację konkretnej osoby"
+  ],
+  "wyjasnienie": "Kluczowa jest możliwość wnioskowania o przebiegu zdarzenia (funkcja rekonstrukcyjna i identyfikacyjna).",
+  "zrodlo": "test"
+ },
+ {
+  "id": "459c932f33",
+  "temat": "JS06 4–6. Ślady kryminalistyczne i ich zabezpieczanie",
+  "pytanie": "Ze względu na mechanizm powstawania ślady kryminalistyczne dzielimy na:",
+  "poprawna": "odwzorowania, plamy i inne",
+  "bledne": [
+   "biologiczne, fizykochemiczne i pamięciowe",
+   "jawne, utajone i mikroślady",
+   "osobowe, rzeczowe i mieszane"
+  ],
+  "wyjasnienie": "Podział podstawowy wg mechanizmu powstania. Podział na jawne i utajone dotyczy widoczności.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "2d3abd9ff6",
+  "temat": "JS06 4–6. Ślady kryminalistyczne i ich zabezpieczanie",
+  "pytanie": "Ślady powierzchniowe (odbitki) dzielimy na:",
+  "poprawna": "nawarstwione i odwarstwione",
+  "bledne": [
+   "wgłębione i biologiczne",
+   "nałożone i odwzorowane",
+   "ślizgowe i odciskowe"
+  ],
+  "wyjasnienie": "Nawarstwione – substancja przeniesiona na podłoże (np. błoto), odwarstwione – substancja zebrana z podłoża (np. kurz).",
+  "zrodlo": "test"
+ },
+ {
+  "id": "2e43cf3a7e",
+  "temat": "JS06 4–6. Ślady kryminalistyczne i ich zabezpieczanie",
+  "pytanie": "Formy zabezpieczenia śladów kryminalistycznych dzielimy na:",
+  "poprawna": "procesowe i techniczne",
+  "bledne": [
+   "procesowe i osobowe",
+   "techniczne i operacyjne",
+   "statyczne i dynamiczne"
+  ],
+  "wyjasnienie": "Procesowe – utrwalenie w dokumentacji (protokół, metryczka). Techniczne – fizyczne zabezpieczenie (odlew, folia, opakowanie).",
+  "zrodlo": "test"
+ },
+ {
+  "id": "8f2d46251c",
+  "temat": "JS06 4–6. Ślady kryminalistyczne i ich zabezpieczanie",
+  "pytanie": "Przykładem procesowego zabezpieczenia śladu jest:",
+  "poprawna": "dokładny opis śladu w protokole oględzin",
+  "bledne": [
+   "wykonanie odlewu gipsowego śladu obuwia",
+   "przeniesienie śladu na folię daktyloskopijną",
+   "zabezpieczenie przedmiotu wraz z podłożem"
+  ],
+  "wyjasnienie": "Odlew, folia i zabezpieczenie z podłożem to zabezpieczenia techniczne.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "9eabcd62b1",
+  "temat": "JS06 4–6. Ślady kryminalistyczne i ich zabezpieczanie",
+  "pytanie": "Zabezpieczeniem technicznym śladu NIE jest:",
+  "poprawna": "opis śladu w metryczce śladowej",
+  "bledne": [
+   "wykonanie odlewu śladu wgłębionego",
+   "przeniesienie śladu na odpowiedni nośnik",
+   "prawidłowe opakowanie zabezpieczonego materiału"
+  ],
+  "wyjasnienie": "Metryczka śladowa to dokumentacja (zabezpieczenie procesowe), która towarzyszy zabezpieczonemu technicznie śladowi.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "495a4317e7",
+  "temat": "JS06 4–6. Ślady kryminalistyczne i ich zabezpieczanie",
+  "pytanie": "Metryczka śladowa:",
+  "poprawna": "stanowi procesową formę zabezpieczenia śladu i towarzyszy jego technicznemu zabezpieczeniu",
+  "bledne": [
+   "zastępuje protokół oględzin",
+   "jest wyłącznie technicznym sposobem zabezpieczenia śladu",
+   "sporządzana jest tylko dla śladów biologicznych"
+  ],
+  "wyjasnienie": "Metryczka (pomoc dydaktyczna z sylabusa JS06) opisuje ślad i jest dołączana do opakowania.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "296839682b",
+  "temat": "JS06 4–6. Ślady kryminalistyczne i ich zabezpieczanie",
+  "pytanie": "Ślad linii papilarnych ujawniony na szybie okiennej jest przede wszystkim śladem:",
+  "poprawna": "daktyloskopijnym",
+  "bledne": [
+   "traseologicznym",
+   "osmologicznym",
+   "mechanoskopijnym"
+  ],
+  "wyjasnienie": "Daktyloskopia – linie papilarne. Traseologia – ślady stóp, obuwia, opon. Mechanoskopia – ślady narzędzi.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "a6bfbe8e55",
+  "temat": "JS06 4–6. Ślady kryminalistyczne i ich zabezpieczanie",
+  "pytanie": "Ślad linii papilarnych naniesiony krwią jest jednocześnie śladem:",
+  "poprawna": "daktyloskopijnym i biologicznym",
+  "bledne": [
+   "wyłącznie biologicznym",
+   "wyłącznie daktyloskopijnym",
+   "osmologicznym i mechanoskopijnym"
+  ],
+  "wyjasnienie": "Można go badać zarówno daktyloskopijnie, jak i genetycznie (DNA).",
+  "zrodlo": "test"
+ },
+ {
+  "id": "095ee2309e",
+  "temat": "JS06 4–6. Ślady kryminalistyczne i ich zabezpieczanie",
+  "pytanie": "Linie papilarne występują przede wszystkim:",
+  "poprawna": "na powierzchniach dłoniowych rąk i podeszwowych stóp",
+  "bledne": [
+   "wyłącznie na opuszkach palców rąk",
+   "na całej powierzchni skóry człowieka",
+   "na opuszkach palców rąk oraz na małżowinach usznych"
+  ],
+  "wyjasnienie": "Linie papilarne są na całej dłoniowej stronie rąk i podeszwowej stronie stóp. Małżowina uszna daje osobny ślad (otoskopia).",
+  "zrodlo": "test"
+ },
+ {
+  "id": "9c9ba90d9d",
+  "temat": "JS06 4–6. Ślady kryminalistyczne i ich zabezpieczanie",
+  "pytanie": "Skrót GSR oznacza:",
+  "poprawna": "pozostałości po wystrzale z broni palnej (gunshot residue)",
+  "bledne": [
+   "grupowe ślady reakcji",
+   "główny ślad rekonstrukcyjny",
+   "graficzny schemat rekonstrukcji"
+  ],
+  "wyjasnienie": "GSR – gunshot residue.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "019c1e328f",
+  "temat": "JS06 4–6. Ślady kryminalistyczne i ich zabezpieczanie",
+  "pytanie": "Pozostałości powystrzałowe GSR zabezpiecza się na:",
+  "poprawna": "specjalne stoliki (nośniki) do GSR",
+  "bledne": [
+   "folię żelatynową",
+   "pochłaniacz zapachu",
+   "masę silikonową"
+  ],
+  "wyjasnienie": "Stoliki z taśmą węglową, badane mikroskopem elektronowym.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "4d798e0e40",
+  "temat": "JS06 4–6. Ślady kryminalistyczne i ich zabezpieczanie",
+  "pytanie": "Metale, włókna, szkło i wyroby lakiernicze są typowymi przykładami śladów:",
+  "poprawna": "fizykochemicznych",
+  "bledne": [
+   "osmologicznych",
+   "daktyloskopijnych",
+   "traseologicznych"
+  ],
+  "wyjasnienie": "Bada się je metodami fizykochemicznymi (identyfikacja najczęściej grupowa).",
+  "zrodlo": "test"
+ },
+ {
+  "id": "fd86ce3623",
+  "temat": "JS06 4–6. Ślady kryminalistyczne i ich zabezpieczanie",
+  "pytanie": "Ślady osmologiczne to:",
+  "poprawna": "ślady zapachowe wykorzystywane do identyfikacji indywidualnej",
+  "bledne": [
+   "ślady osmalin powystrzałowych podlegające identyfikacji grupowej",
+   "wyłącznie ślady biologiczne w postaci wydzielin człowieka",
+   "ślady zapachowe zabezpieczane tylko wtedy, gdy są wyczuwalne przez człowieka"
+  ],
+  "wyjasnienie": "Zapach człowieka jest indywidualny. Ślady zapachowe porównuje pies specjalny metodą selekcji.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "9ba07507b6",
+  "temat": "JS06 4–6. Ślady kryminalistyczne i ich zabezpieczanie",
+  "pytanie": "Prawidłowa podstawowa kolejność technicznego zabezpieczania śladu osmologicznego to:",
+  "poprawna": "nałożenie pochłaniacza zapachu na wytypowane miejsce, przykrycie go folią aluminiową, a następnie umieszczenie pochłaniacza w szczelnym, neutralnym zapachowo pojemniku",
+  "bledne": [
+   "sfotografowanie śladu, wykonanie odlewu, umieszczenie odlewu w foliowym worku",
+   "spryskanie miejsca substancją ujawniającą, pobranie wymazu, pozostawienie do wyschnięcia",
+   "pobranie przedmiotu ręką w rękawiczce, owinięcie w papier i umieszczenie w kopercie"
+  ],
+  "wyjasnienie": "Pochłaniacz (np. gaza, wata) przejmuje zapach z podłoża; potem trafia do szczelnego słoika.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "45a797d37b",
+  "temat": "JS06 4–6. Ślady kryminalistyczne i ich zabezpieczanie",
+  "pytanie": "Przy zabezpieczaniu śladów osmologicznych szczególnie istotne jest:",
+  "poprawna": "ograniczenie do minimum zwłoki i czynności mogących wtórnie zanieczyścić ślad obcym zapachem",
+  "bledne": [
+   "uprzednie przemycie miejsca wodą destylowaną",
+   "wykonanie odlewu miejsca, z którego pobierany jest zapach",
+   "pobranie śladu dopiero po zabezpieczeniu wszystkich innych śladów"
+  ],
+  "wyjasnienie": "Zapach jest nietrwały i łatwo go zanieczyścić – ślady osmologiczne zabezpiecza się w pierwszej kolejności.",
+  "zrodlo": "test"
+ }
+]
