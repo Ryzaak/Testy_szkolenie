@@ -1,0 +1,1042 @@
+[
+ {
+  "id": "2eb54de428",
+  "temat": "JS07. Kontrola osobista, bagaż, sprawdzenie prewencyjne",
+  "pytanie": "Kontrola osobista:",
+  "poprawna": "jest czynnością administracyjno-porządkową, której dokonuje się na podstawie decyzji policjanta",
+  "bledne": [
+   "jest czynnością procesową, którą dokonuje się w ściśle określonej sytuacji",
+   "jest czynnością operacyjną dokonywaną na polecenie samorządu terytorialnego",
+   "ma na celu znalezienie i zebranie przedmiotów mogących stanowić dowód w sprawie"
+  ],
+  "wyjasnienie": "Art. 15 ust. 1 pkt 5 i art. 15d ustawy o Policji. Przeszukanie (k.p.k.) jest czynnością procesową.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "60fd6119f8",
+  "temat": "JS07. Kontrola osobista, bagaż, sprawdzenie prewencyjne",
+  "pytanie": "Policjant może przystąpić do kontroli osobistej m.in. w przypadku:",
+  "poprawna": "każdego z wymienionych",
+  "bledne": [
+   "podjęcia decyzji o zatrzymaniu osoby",
+   "własnych spostrzeżeń poczynionych w czasie patrolu",
+   "pozyskania informacji operacyjnych o niezgodnych z prawem działaniach osoby"
+  ],
+  "wyjasnienie": "Art. 15 ust. 1 pkt 5 ustawy o Policji: uzasadnione podejrzenie popełnienia czynu zabronionego lub cel znalezienia broni, niebezpiecznych lub zabronionych przedmiotów.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "1e12f9472b",
+  "temat": "JS07. Kontrola osobista, bagaż, sprawdzenie prewencyjne",
+  "pytanie": "Kontroli osobistej dokonuje co do zasady:",
+  "poprawna": "policjant tej samej płci co osoba kontrolowana, w miejscu niedostępnym dla osób postronnych",
+  "bledne": [
+   "zawsze dwóch policjantów różnej płci",
+   "policjant dowolnej płci, w obecności świadka",
+   "wyłącznie policjant w randze oficera"
+  ],
+  "wyjasnienie": "Art. 15d ust. 5 ustawy o Policji. W sytuacji niecierpiącej zwłoki (zagrożenie życia, zdrowia, mienia) może jej dokonać policjant płci odmiennej (ust. 6).",
+  "zrodlo": "wlasne"
+ },
+ {
+  "id": "18916c5472",
+  "temat": "JS07. Kontrola osobista, bagaż, sprawdzenie prewencyjne",
+  "pytanie": "Podczas kontroli osobistej:",
+  "poprawna": "może być obecna osoba przybrana przez policjanta, a także osoba wskazana przez kontrolowanego, jeżeli nie utrudni to istotnie kontroli",
+  "bledne": [
+   "zawsze musi być obecny przełożony policjanta",
+   "kontrolowany może żądać sporządzenia protokołu przeszukania osoby",
+   "kontrolowany może żądać postanowienia zatwierdzającego przeszukanie"
+  ],
+  "wyjasnienie": "Art. 15d ust. 7 ustawy o Policji. W teście odpowiedź brzmiała: „może żądać obecności osoby przybranej przez prowadzącego czynność”.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "7e44623341",
+  "temat": "JS07. Kontrola osobista, bagaż, sprawdzenie prewencyjne",
+  "pytanie": "Policjant sporządza protokół z kontroli osobistej:",
+  "poprawna": "na żądanie osoby kontrolowanej zgłoszone bezpośrednio po kontroli oraz gdy w toku kontroli znaleziono broń lub przedmioty z art. 15 ust. 1 pkt 5",
+  "bledne": [
+   "w każdym przypadku",
+   "tylko gdy ujawnił przedmioty, których posiadanie jest zabronione",
+   "wyłącznie na polecenie przełożonego"
+  ],
+  "wyjasnienie": "Art. 15d ust. 10 ustawy o Policji. Po kontroli policjant poucza o prawie żądania protokołu i zażaleniu (ust. 9).",
+  "zrodlo": "wlasne"
+ },
+ {
+  "id": "891729f907",
+  "temat": "JS07. Kontrola osobista, bagaż, sprawdzenie prewencyjne",
+  "pytanie": "Policjant dokonał kontroli osobistej kobiety w hali dworca, choć domagała się, by zrobiła to kobieta w innym miejscu. Kontrolowana może złożyć zażalenie:",
+  "poprawna": "do sądu rejonowego właściwego dla miejsca kontroli – w celu zbadania jej zasadności, legalności i prawidłowości",
+  "bledne": [
+   "do prokuratora na sposób dokonania kontroli osobistej",
+   "do prokuratora na legalność dokonanej kontroli osobistej",
+   "do sądu na sposób zatrzymania"
+  ],
+  "wyjasnienie": "Art. 15d ust. 11 ustawy o Policji: zażalenie do sądu rejonowego w terminie 7 dni. UWAGA – dawny stan prawny w teście: kiedyś na sposób kontroli osobistej skarżyło się do prokuratora (art. 15 ust. 7) – kontrolę osobistą wyjęto z tego przepisu.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "552f66a9b1",
+  "temat": "JS07. Kontrola osobista, bagaż, sprawdzenie prewencyjne",
+  "pytanie": "Gdy przedmioty ujawnione w wyniku kontroli osobistej stwarzają niebezpieczeństwo dla życia ludzkiego, policjant:",
+  "poprawna": "podejmuje działania zmierzające do usunięcia tego niebezpieczeństwa",
+  "bledne": [
+   "nie podejmuje żadnych działań",
+   "nie przyjmuje tych przedmiotów od osoby",
+   "zawsze przekazuje je osobie przybranej"
+  ],
+  "wyjasnienie": "§ 3 rozporządzenia RM z 8 listopada 2023 r.: zabezpiecza miejsce i powiadamia dyżurnego o konieczności usunięcia niebezpieczeństwa.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "0f14b60dbe",
+  "temat": "JS07. Kontrola osobista, bagaż, sprawdzenie prewencyjne",
+  "pytanie": "Protokół z przeglądania zawartości bagażu sporządza się:",
+  "poprawna": "na żądanie posiadacza bagażu (lub przedstawiciela przewoźnika) zgłoszone bezpośrednio po czynności albo gdy znaleziono broń lub przedmioty zabronione",
+  "bledne": [
+   "zawsze, niezależnie od żądania",
+   "co najmniej w 4 egzemplarzach",
+   "w książce wydarzeń dyżurnego jednostki"
+  ],
+  "wyjasnienie": "Art. 15e ust. 10 ustawy o Policji. W teście odpowiedź brzmiała krótko: „tylko na żądanie właściciela bagażu”.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "38436f5b48",
+  "temat": "JS07. Kontrola osobista, bagaż, sprawdzenie prewencyjne",
+  "pytanie": "Przeglądanie zawartości bagażu lub ładunku przyjętego do przewozu dokonuje się:",
+  "poprawna": "wyłącznie w obecności przedstawiciela przewoźnika, spedytora lub agenta morskiego",
+  "bledne": [
+   "wyłącznie w obecności komendanta Policji",
+   "zawsze w obecności osoby przybranej przez policjanta",
+   "bez obecności innych osób"
+  ],
+  "wyjasnienie": "Art. 15e ust. 3 ustawy o Policji. Bez ich obecności – tylko gdy zwłoka groziłaby zagrożeniem życia, zdrowia, mienia lub utratą dowodów (ust. 4).",
+  "zrodlo": "test"
+ },
+ {
+  "id": "70b7a2902c",
+  "temat": "JS07. Kontrola osobista, bagaż, sprawdzenie prewencyjne",
+  "pytanie": "Policjant przy kontroli osobistej podaje swój stopień, imię i nazwisko, podstawę prawną i przyczynę czynności, a policjant nieumundurowany:",
+  "poprawna": "na żądanie osoby kontrolowanej okazuje legitymację służbową tak, by można było zanotować jej dane",
+  "bledne": [
+   "nie musi się przedstawiać",
+   "okazuje legitymację tylko w porze nocnej",
+   "przedstawia się dopiero po zakończeniu kontroli"
+  ],
+  "wyjasnienie": "Art. 15d ust. 4 pkt 1–2 ustawy o Policji.",
+  "zrodlo": "wlasne"
+ },
+ {
+  "id": "9ea2a3fefc",
+  "temat": "JS08 1–7. Przeszukanie – istota, cele, podstawy, dokumenty",
+  "pytanie": "Przeszukanie jest czynnością:",
+  "poprawna": "procesową, dokonywaną w ściśle określonej sytuacji",
+  "bledne": [
+   "operacyjną",
+   "administracyjno-porządkową",
+   "przewidzianą wyłącznie przez wewnętrzne przepisy MSWiA"
+  ],
+  "wyjasnienie": "Przeszukanie reguluje k.p.k. (art. 219–236a) oraz k.p.w. (art. 44). Kontrola osobista jest czynnością administracyjno-porządkową.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "3a4de2bd17",
+  "temat": "JS08 1–7. Przeszukanie – istota, cele, podstawy, dokumenty",
+  "pytanie": "Podstawą prawną przeszukania osoby, jej odzieży i podręcznych przedmiotów jest:",
+  "poprawna": "art. 219 § 2 k.p.k",
+  "bledne": [
+   "art. 217 § 1 k.p.k",
+   "art. 217 § 2 k.p.k",
+   "art. 219 § 1 k.p.k"
+  ],
+  "wyjasnienie": "Art. 219 § 1 – pomieszczenia i inne miejsca, § 2 – osoba.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "1f2ba56c7c",
+  "temat": "JS08 1–7. Przeszukanie – istota, cele, podstawy, dokumenty",
+  "pytanie": "Podstawę prawną przeszukania osoby i rzeczy określa:",
+  "poprawna": "Kodeks postępowania karnego",
+  "bledne": [
+   "Kodeks karny",
+   "Kodeks wykroczeń",
+   "Kodeks postępowania administracyjnego"
+  ],
+  "wyjasnienie": "Art. 219–236a k.p.k. (w sprawach o wykroczenia – art. 44 k.p.w.).",
+  "zrodlo": "test"
+ },
+ {
+  "id": "873b89d855",
+  "temat": "JS08 1–7. Przeszukanie – istota, cele, podstawy, dokumenty",
+  "pytanie": "Podstawę prawną przeszukania określają:",
+  "poprawna": "wszystkie wymienione akty",
+  "bledne": [
+   "ustawa o Policji",
+   "Kodeks postępowania karnego",
+   "Kodeks postępowania w sprawach o wykroczenia"
+  ],
+  "wyjasnienie": "Art. 15 ust. 1 pkt 4 ustawy o Policji odsyła do k.p.k. i innych ustaw. Przeszukanie w sprawach o wykroczenia – art. 44 k.p.w.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "8c323248ea",
+  "temat": "JS08 1–7. Przeszukanie – istota, cele, podstawy, dokumenty",
+  "pytanie": "Celem przeszukania pomieszczeń jest:",
+  "poprawna": "każdy z wymienionych",
+  "bledne": [
+   "wykrycie i zatrzymanie osoby podejrzanej",
+   "znalezienie rzeczy mogących stanowić dowód w sprawie",
+   "odnalezienie rzeczy podlegających zajęciu w postępowaniu karnym"
+  ],
+  "wyjasnienie": "Art. 219 § 1 k.p.k. – także przymusowe doprowadzenie osoby podejrzanej.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "b3ce5dc929",
+  "temat": "JS08 1–7. Przeszukanie – istota, cele, podstawy, dokumenty",
+  "pytanie": "Celem przeszukania jest między innymi:",
+  "poprawna": "znalezienie rzeczy mogących stanowić dowód w sprawie",
+  "bledne": [
+   "ustalenie miejsca pobytu osoby podejrzanej",
+   "odnalezienie rzeczy zagubionych",
+   "znalezienie osobowych źródeł dowodowych"
+  ],
+  "wyjasnienie": "Art. 219 § 1 k.p.k.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "13f8bc3440",
+  "temat": "JS08 1–7. Przeszukanie – istota, cele, podstawy, dokumenty",
+  "pytanie": "Przeszukanie nie może mieć na celu:",
+  "poprawna": "odszukania osób poszukiwanych przez Policję z innych powodów niż postępowanie karne (np. zaginionych)",
+  "bledne": [
+   "ujawnienia dowodów działalności przestępczej",
+   "odnalezienia śladów przestępstwa",
+   "ujawnienia i odebrania broni posiadanej nielegalnie"
+  ],
+  "wyjasnienie": "Art. 219 § 1 k.p.k. obejmuje tylko osobę PODEJRZANĄ i rzeczy będące dowodami lub podlegające zajęciu. W teście: „odszukanie osób poszukiwanych przez Policję”.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "28f3d92e4f",
+  "temat": "JS08 1–7. Przeszukanie – istota, cele, podstawy, dokumenty",
+  "pytanie": "Podstawę faktyczną przeszukania osoby mogą stanowić ustalenia, których źródłem są:",
+  "poprawna": "wszystkie wymienione",
+  "bledne": [
+   "zatrzymanie osoby w pościgu lub zasadzce",
+   "ustalenia wynikające z pracy operacyjnej",
+   "prowadzone postępowania przygotowawcze lub zawiadomienia o czynie"
+  ],
+  "wyjasnienie": "Wymagane są „uzasadnione podstawy do przypuszczenia” (art. 219 k.p.k.) – mogą wynikać z różnych źródeł.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "fa7228201d",
+  "temat": "JS08 1–7. Przeszukanie – istota, cele, podstawy, dokumenty",
+  "pytanie": "Podstawę faktyczną przeszukania może stanowić zatrzymanie osoby podejrzanej o posiadanie:",
+  "poprawna": "każdego z wymienionych przedmiotów",
+  "bledne": [
+   "przedmiotów służących do popełnienia przestępstwa",
+   "przedmiotów pochodzących z przestępstwa",
+   "niebezpiecznych narzędzi"
+  ],
+  "wyjasnienie": "Art. 219 k.p.k.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "273b3a4188",
+  "temat": "JS08 1–7. Przeszukanie – istota, cele, podstawy, dokumenty",
+  "pytanie": "Organem uprawnionym do przeprowadzenia przeszukania jest:",
+  "poprawna": "prokurator lub Policja – w zależności od sytuacji",
+  "bledne": [
+   "wyłącznie prokurator i sąd",
+   "tylko funkcjonariusz Policji",
+   "kolegium do spraw wykroczeń"
+  ],
+  "wyjasnienie": "Art. 220 § 1 k.p.k.: prokurator albo – na polecenie sądu lub prokuratora – Policja (a w wypadkach niecierpiących zwłoki samodzielnie, § 3).",
+  "zrodlo": "test"
+ },
+ {
+  "id": "381e78c046",
+  "temat": "JS08 1–7. Przeszukanie – istota, cele, podstawy, dokumenty",
+  "pytanie": "Dokumentami uprawniającymi do dokonania przeszukania są:",
+  "poprawna": "postanowienie sądu lub prokuratora, a w wypadkach niecierpiących zwłoki – nakaz kierownika jednostki lub legitymacja służbowa",
+  "bledne": [
+   "wyłącznie postanowienie sądu",
+   "decyzja lub postanowienie kierownika jednostki",
+   "wyłącznie legitymacja służbowa"
+  ],
+  "wyjasnienie": "Art. 220 § 2–3 k.p.k.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "e59197c516",
+  "temat": "JS08 1–7. Przeszukanie – istota, cele, podstawy, dokumenty",
+  "pytanie": "Przeszukania osoby policjant może dokonać w wypadku niecierpiącym zwłoki m.in. na podstawie:",
+  "poprawna": "legitymacji służbowej",
+  "bledne": [
+   "nakazu karnego kierownika jednostki",
+   "identyfikatora indywidualnego policjanta",
+   "wyłącznie postanowienia sądu"
+  ],
+  "wyjasnienie": "Art. 220 § 3 k.p.k. – nakaz kierownika jednostki (nie „nakaz karny”) lub legitymacja służbowa.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "d224178a64",
+  "temat": "JS08 1–7. Przeszukanie – istota, cele, podstawy, dokumenty",
+  "pytanie": "Jeżeli przeszukanie dokonano na podstawie nakazu kierownika jednostki lub legitymacji służbowej, policjant zwraca się do sądu lub prokuratora o jego zatwierdzenie:",
+  "poprawna": "niezwłocznie, zawsze",
+  "bledne": [
+   "w terminie 7 dni",
+   "w terminie 14 dni",
+   "tylko gdy żąda tego osoba przeszukiwana"
+  ],
+  "wyjasnienie": "Art. 220 § 3 k.p.k. Zatwierdza prokurator lub sąd – nie kierownik jednostki.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "c861e8dd30",
+  "temat": "JS08 1–7. Przeszukanie – istota, cele, podstawy, dokumenty",
+  "pytanie": "Zatwierdzenia przeszukania nie wymaga przeszukanie dokonane:",
+  "poprawna": "na podstawie postanowienia prokuratora",
+  "bledne": [
+   "na podstawie nakazu kierownika jednostki",
+   "na podstawie legitymacji służbowej",
+   "gdy osoba przeszukiwana nie żąda zatwierdzenia"
+  ],
+  "wyjasnienie": "Zatwierdza się tylko przeszukanie bez uprzedniego postanowienia (art. 220 § 3 k.p.k.).",
+  "zrodlo": "test"
+ },
+ {
+  "id": "f540f2aea6",
+  "temat": "JS08 1–7. Przeszukanie – istota, cele, podstawy, dokumenty",
+  "pytanie": "Gdy osoba przeszukana zgłosiła do protokołu żądanie, postanowienie o zatwierdzeniu przeszukania doręcza się jej w terminie:",
+  "poprawna": "7 dni od daty czynności",
+  "bledne": [
+   "8 dni od daty czynności",
+   "9 dni od daty czynności",
+   "10 dni od daty czynności"
+  ],
+  "wyjasnienie": "Art. 220 § 3 k.p.k. W sprawach o wykroczenia – 14 dni (art. 44 § 4 k.p.w.).",
+  "zrodlo": "test"
+ },
+ {
+  "id": "71daec7fa3",
+  "temat": "JS08 1–7. Przeszukanie – istota, cele, podstawy, dokumenty",
+  "pytanie": "Jeżeli przeszukania w sprawie o wykroczenie dokonano bez postanowienia, postanowienie w przedmiocie zatwierdzenia doręcza się na żądanie osoby w terminie:",
+  "poprawna": "14 dni",
+  "bledne": [
+   "7 dni",
+   "3 dni",
+   "30 dni"
+  ],
+  "wyjasnienie": "Art. 44 § 4 k.p.w. (w k.p.k. – 7 dni).",
+  "zrodlo": "wlasne"
+ },
+ {
+  "id": "8bae7fd234",
+  "temat": "JS08 1–7. Przeszukanie – istota, cele, podstawy, dokumenty",
+  "pytanie": "Na postanowienie dotyczące przeszukania i zatrzymania rzeczy oraz na inne czynności osobom, których prawa naruszono, przysługuje:",
+  "poprawna": "zażalenie",
+  "bledne": [
+   "apelacja",
+   "odwołanie",
+   "rewizja"
+  ],
+  "wyjasnienie": "Art. 236 § 1 k.p.k.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "166d820293",
+  "temat": "JS08 1–7. Przeszukanie – istota, cele, podstawy, dokumenty",
+  "pytanie": "Zażalenie na postanowienie lub czynność zatrzymania rzeczy w postępowaniu przygotowawczym rozpoznaje:",
+  "poprawna": "sąd rejonowy, w okręgu którego prowadzone jest postępowanie",
+  "bledne": [
+   "Prokurator Generalny",
+   "sąd okręgowy, w rejonie którego prowadzone jest postępowanie sprawdzające",
+   "komendant jednostki Policji"
+  ],
+  "wyjasnienie": "Art. 236 § 1 k.p.k.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "5306e53c18",
+  "temat": "JS08 1–7. Przeszukanie – istota, cele, podstawy, dokumenty",
+  "pytanie": "Osoby, których prawa naruszono przy zatrzymaniu rzeczy, poucza się o prawie złożenia zażalenia w terminie:",
+  "poprawna": "7 dni",
+  "bledne": [
+   "5 dni",
+   "14 dni",
+   "30 dni"
+  ],
+  "wyjasnienie": "Art. 460 k.p.k. – zażalenie wnosi się w terminie 7 dni (za pośrednictwem organu, który dokonał czynności).",
+  "zrodlo": "test"
+ },
+ {
+  "id": "8ebf8a233d",
+  "temat": "JS08 1–7. Przeszukanie – istota, cele, podstawy, dokumenty",
+  "pytanie": "Niedopuszczalne jest przeprowadzenie przeszukania osoby w toku:",
+  "poprawna": "postępowania sprawdzającego (czynności sprawdzających)",
+  "bledne": [
+   "śledztwa",
+   "dochodzenia",
+   "czynności w niezbędnym zakresie (art. 308 k.p.k.)"
+  ],
+  "wyjasnienie": "Art. 307 § 2 k.p.k. – w postępowaniu sprawdzającym nie przeprowadza się czynności wymagających protokołu. Przeszukanie jest możliwe w trybie art. 308.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "5989d11dc7",
+  "temat": "JS08 1–7. Przeszukanie – istota, cele, podstawy, dokumenty",
+  "pytanie": "Nie odnaleziono przy przeszukaniu skradzionych ani zabronionych przedmiotów. Czynność dokumentuje się:",
+  "poprawna": "w protokole przeszukania",
+  "bledne": [
+   "w notatniku służbowym oraz notatce urzędowej",
+   "w protokole przeszukania, ale tylko na żądanie przeszukiwanego",
+   "w notatniku służbowym oraz notatce służbowej"
+  ],
+  "wyjasnienie": "Art. 143 § 1 pkt 6 k.p.k. – przeszukanie zawsze wymaga protokołu, bez względu na wynik.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "259b5bd412",
+  "temat": "JS08 1–7. Przeszukanie – istota, cele, podstawy, dokumenty",
+  "pytanie": "Z czynności przeszukania w znaczeniu procesowym sporządza się:",
+  "poprawna": "protokół przeszukania – zawsze, bez względu na to, czy coś znaleziono",
+  "bledne": [
+   "notatkę urzędową, gdy osoba była nietrzeźwa",
+   "notatkę urzędową, gdy nic nie znaleziono",
+   "protokół tylko wtedy, gdy znaleziono przedmioty"
+  ],
+  "wyjasnienie": "Art. 143 § 1 pkt 6 k.p.k.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "e4bad4b4fd",
+  "temat": "JS08 1–7. Przeszukanie – istota, cele, podstawy, dokumenty",
+  "pytanie": "Protokół przeszukania mogą uzupełnić:",
+  "poprawna": "wszystkie wymienione",
+  "bledne": [
+   "protokół oględzin miejsca przeszukania",
+   "protokół oględzin miejsca znalezienia przedmiotów",
+   "protokół oględzin znalezionych przedmiotów"
+  ],
+  "wyjasnienie": "Przedmioty znalezione ogląda się, spisuje i opisuje (art. 228 § 1 k.p.k.).",
+  "zrodlo": "test"
+ },
+ {
+  "id": "7bdbbd3a3c",
+  "temat": "JS08 1–7. Przeszukanie – istota, cele, podstawy, dokumenty",
+  "pytanie": "Dodatkową dokumentację do protokołu przeszukania mogą stanowić:",
+  "poprawna": "szkice i utrwalenia techniczne dowodów, rzeczy podlegających zajęciu i miejsc ich ukrycia",
+  "bledne": [
+   "wyłącznie zdjęcia przeszukiwanej osoby",
+   "notatki osób postronnych",
+   "oświadczenia sąsiadów"
+  ],
+  "wyjasnienie": "Dokumentacja uzupełniająca protokół.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "cc1343dc0d",
+  "temat": "JS08 1–7. Przeszukanie – istota, cele, podstawy, dokumenty",
+  "pytanie": "Protokół zatrzymania rzeczy lub przeszukania powinien zawierać m.in.:",
+  "poprawna": "oznaczenie sprawy, dokładną godzinę rozpoczęcia i zakończenia, dokładną listę zatrzymanych rzeczy i wskazanie polecenia sądu lub prokuratora",
+  "bledne": [
+   "wyłącznie listę zatrzymanych rzeczy",
+   "ocenę winy osoby przeszukiwanej",
+   "podpis prokuratora"
+  ],
+  "wyjasnienie": "Art. 229 k.p.k.",
+  "zrodlo": "wlasne"
+ },
+ {
+  "id": "0ef4bdf21f",
+  "temat": "JS08 8–13. Zasady i taktyka przeszukania",
+  "pytanie": "Przed rozpoczęciem przeszukania należy osobę:",
+  "poprawna": "zawiadomić o celu przeszukania i wezwać do wydania poszukiwanych przedmiotów",
+  "bledne": [
+   "wyłącznie zawiadomić o celu przeszukania",
+   "wyłącznie wezwać do wydania przedmiotów",
+   "zatrzymać i skuć kajdankami"
+  ],
+  "wyjasnienie": "Art. 224 § 1 k.p.k. Postanowienie okazuje się przeszukiwanemu (art. 220 § 2).",
+  "zrodlo": "test"
+ },
+ {
+  "id": "151f20f151",
+  "temat": "JS08 1–7. Przeszukanie – istota, cele, podstawy, dokumenty",
+  "pytanie": "Do obowiązków policjanta dokonującego przeszukania należy:",
+  "poprawna": "powiadomić osobę o celu przeszukania i okazać dokument, na podstawie którego ma być dokonana czynność",
+  "bledne": [
+   "zatrzymanie wszystkich znalezionych przedmiotów",
+   "sporządzenie zawsze raportu z zatrzymania rzeczy",
+   "wszystkie wymienione"
+  ],
+  "wyjasnienie": "Art. 220 § 2–3 i art. 224 § 1 k.p.k.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "c9af8ce3ce",
+  "temat": "JS08 8–13. Zasady i taktyka przeszukania",
+  "pytanie": "Osoba, u której dokonuje się przeszukania, ma prawo:",
+  "poprawna": "być obecna przy przeszukaniu",
+  "bledne": [
+   "wnieść w terminie 7 dni zażalenie do sądu na sposób przeszukania",
+   "wybrać czas przeszukania",
+   "wszystkie wymienione"
+  ],
+  "wyjasnienie": "Art. 224 § 2 k.p.k. – może być też obecna osoba przez nią wskazana, jeżeli nie utrudnia to istotnie czynności.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "81291a3942",
+  "temat": "JS08 8–13. Zasady i taktyka przeszukania",
+  "pytanie": "Osoba, u której dokonujemy przeszukania, ma prawo otrzymać:",
+  "poprawna": "pokwitowanie stwierdzające, jakie przedmioty i przez kogo zostały zatrzymane",
+  "bledne": [
+   "obecność prokuratora, gdy przeszukanie jest na legitymację służbową",
+   "odszkodowanie za czas przeszukania",
+   "kopię akt sprawy"
+  ],
+  "wyjasnienie": "Art. 228 § 3 k.p.k. – pokwitowanie wręcza się natychmiast.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "df0626269c",
+  "temat": "JS08 8–13. Zasady i taktyka przeszukania",
+  "pytanie": "Przeszukania osoby i odzieży na niej należy dokonywać:",
+  "poprawna": "w miarę możności za pośrednictwem osoby tej samej płci",
+  "bledne": [
+   "zawsze za pośrednictwem osoby tej samej płci",
+   "zawsze za pośrednictwem osoby tej samej płci, gdy przeszukiwana jest kobieta",
+   "bez żadnych ograniczeń"
+  ],
+  "wyjasnienie": "Art. 223 k.p.k.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "3d83d75dfe",
+  "temat": "JS08 8–13. Zasady i taktyka przeszukania",
+  "pytanie": "Przeszukania zamieszkałych pomieszczeń można dokonać w porze nocnej:",
+  "poprawna": "tylko w wypadkach niecierpiących zwłoki",
+  "bledne": [
+   "bez żadnych ograniczeń",
+   "tylko za zgodą właściciela pomieszczenia",
+   "tylko na polecenie przełożonego"
+  ],
+  "wyjasnienie": "Art. 221 § 1 k.p.k.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "c5ba94c2bf",
+  "temat": "JS08 8–13. Zasady i taktyka przeszukania",
+  "pytanie": "Za porę nocną przy przeszukaniu uważa się czas od godziny:",
+  "poprawna": "22.00 do 6.00",
+  "bledne": [
+   "21.00 do 6.00",
+   "21.00 do 5.00",
+   "22.00 do 5.00"
+  ],
+  "wyjasnienie": "Art. 221 § 1 k.p.k.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "e106d7ff25",
+  "temat": "JS08 8–13. Zasady i taktyka przeszukania",
+  "pytanie": "Przeszukania zamieszkałych pomieszczeń w porze nocnej można dokonać np.:",
+  "poprawna": "po uzyskaniu informacji o podłożeniu bomby",
+  "bledne": [
+   "zawsze, bez względu na okoliczności",
+   "w pokoju hotelowym klienta bez dodatkowych przesłanek",
+   "nie ma takiej możliwości"
+  ],
+  "wyjasnienie": "Art. 221 § 1 k.p.k. – wypadek niecierpiący zwłoki.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "50f294005e",
+  "temat": "JS08 8–13. Zasady i taktyka przeszukania",
+  "pytanie": "Które zdanie dotyczące przeszukania jest fałszywe?",
+  "poprawna": "przeszukania zamieszkałych pomieszczeń można dokonywać w porze nocnej zawsze w godzinach od 22.00 do 6.00",
+  "bledne": [
+   "przeszukania osoby i odzieży na niej należy dokonywać w miarę możliwości za pośrednictwem osoby tej samej płci",
+   "przeszukanie rozpoczęte za dnia można prowadzić dalej mimo nastania pory nocnej",
+   "przeszukanie pomieszczenia zajętego przez wojsko może nastąpić jedynie w obecności dowódcy lub osoby przez niego wyznaczonej"
+  ],
+  "wyjasnienie": "Art. 221 § 1–2 i art. 222 § 2 k.p.k. Nocą – tylko w wypadkach niecierpiących zwłoki.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "5e3a776a5f",
+  "temat": "JS08 8–13. Zasady i taktyka przeszukania",
+  "pytanie": "W porze nocnej można przeszukać lokale:",
+  "poprawna": "dostępne w tym czasie dla nieokreślonej liczby osób albo służące do przechowywania przedmiotów",
+  "bledne": [
+   "tylko dostępne w tym czasie dla nieokreślonej liczby osób",
+   "dostępne dla nieokreślonej liczby osób lub służące do czasowego zamieszkania",
+   "bez żadnych ograniczeń"
+  ],
+  "wyjasnienie": "Art. 221 § 3 k.p.k.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "d0c11ea344",
+  "temat": "JS08 8–13. Zasady i taktyka przeszukania",
+  "pytanie": "Pomieszczeniami zamieszkałymi są między innymi:",
+  "poprawna": "mieszkania, pokoje hotelowe, koszary",
+  "bledne": [
+   "mieszkania, garaże, internaty",
+   "mieszkania, garaże, koszary",
+   "wszystkie wymienione"
+  ],
+  "wyjasnienie": "Garaż nie jest pomieszczeniem zamieszkałym (służy do przechowywania).",
+  "zrodlo": "test"
+ },
+ {
+  "id": "6c849231d9",
+  "temat": "JS08 8–13. Zasady i taktyka przeszukania",
+  "pytanie": "Przy rozpoczęciu przeszukania pomieszczenia lub miejsca zamkniętego należącego do instytucji państwowej lub samorządowej należy:",
+  "poprawna": "zawiadomić kierownika tej instytucji lub jego zastępcę albo organ nadrzędny i dopuścić ich do udziału w czynności",
+  "bledne": [
+   "uzyskać zgodę kierownika instytucji",
+   "przeprowadzić czynność wyłącznie w obecności prokuratora",
+   "zawiadomić sędziego śledczego"
+  ],
+  "wyjasnienie": "Art. 222 § 1 k.p.k. – zawiadomienie, nie zgoda.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "a279712014",
+  "temat": "JS08 8–13. Zasady i taktyka przeszukania",
+  "pytanie": "Przeszukania pomieszczeń zajętych przez wojsko nie można dokonać bez obecności:",
+  "poprawna": "dowódcy jednostki lub osoby przez niego wyznaczonej",
+  "bledne": [
+   "prokuratora",
+   "komendanta rejonowego Policji",
+   "Żandarmerii Wojskowej"
+  ],
+  "wyjasnienie": "Art. 222 § 2 k.p.k.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "4193dbe7e2",
+  "temat": "JS08 8–13. Zasady i taktyka przeszukania",
+  "pytanie": "Jeżeli przy przeszukaniu nie ma na miejscu gospodarza lokalu, należy:",
+  "poprawna": "przywołać przynajmniej jednego dorosłego domownika lub sąsiada",
+  "bledne": [
+   "odstąpić od przeszukania",
+   "przeprowadzić je bez żadnych ograniczeń",
+   "przeprowadzić je tylko w obecności prokuratora"
+  ],
+  "wyjasnienie": "Art. 224 § 3 k.p.k.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "6672efdf7a",
+  "temat": "JS08 8–13. Zasady i taktyka przeszukania",
+  "pytanie": "Po przybyciu na miejsce przeszukania policjant stwierdza, że w lokalu są tylko nieletnie dzieci. Powinien:",
+  "poprawna": "przywołać dorosłego sąsiada i w jego obecności przystąpić do przeszukania",
+  "bledne": [
+   "przeszukać lokal w obecności samych dzieci",
+   "odstąpić od przeszukania do czasu powrotu dorosłego domownika",
+   "uzyskać najpierw zgodę prokuratora"
+  ],
+  "wyjasnienie": "Art. 224 § 3 k.p.k.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "4d141dd826",
+  "temat": "JS08 8–13. Zasady i taktyka przeszukania",
+  "pytanie": "Które zdanie jest fałszywe?",
+  "poprawna": "osoba, u której dokonujemy przeszukania, ma obowiązek w każdym przypadku przybrać sobie osobę, która będzie obecna przy przeszukaniu",
+  "bledne": [
+   "osoba, u której dokonujemy przeszukania, ma prawo otrzymać pokwitowanie, jakie przedmioty i przez kogo zostały zatrzymane",
+   "nakaz kierownika jednostki wydany w sytuacji niecierpiącej zwłoki upoważnia do przeszukania",
+   "osoba, u której dokonujemy przeszukania, ma obowiązek wydać na żądanie prokuratora przedmioty mogące stanowić dowód"
+  ],
+  "wyjasnienie": "Osobę przybiera PROWADZĄCY czynność (art. 224 § 2 k.p.k.) – to nie obowiązek przeszukiwanego.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "2dc74142b7",
+  "temat": "JS08 8–13. Zasady i taktyka przeszukania",
+  "pytanie": "W przypadku odmowy dobrowolnego otwarcia pomieszczenia, w którym ma być dokonane przeszukanie, można:",
+  "poprawna": "wejść do niego z użyciem siły fizycznej albo środków do pokonywania zamknięć budowlanych i innych przeszkód, w tym materiałów wybuchowych",
+  "bledne": [
+   "odstąpić od przeszukania takiego miejsca",
+   "wejść siłą, ale tylko po zgodzie osoby, u której dokonuje się czynności",
+   "wejść siłą, ale tylko po zgodzie właściciela"
+  ],
+  "wyjasnienie": "Środki z art. 12 ust. 1 pkt 19 i art. 32 ustawy o ŚPB.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "bf58debf86",
+  "temat": "JS08 8–13. Zasady i taktyka przeszukania",
+  "pytanie": "Przystępując do przeszukania pokoju w akademiku należącym do uczelni wyższej należy:",
+  "poprawna": "uzyskać postanowienie prokuratora lub sądu oraz zwrócić się o zgodę do rektora uczelni",
+  "bledne": [
+   "wyłącznie powiadomić dyrektora akademika",
+   "wyłącznie uzyskać postanowienie o przeszukaniu",
+   "wyłącznie zwrócić się o zgodę do rektora"
+  ],
+  "wyjasnienie": "Teren uczelni: wejście Policji co do zasady na wezwanie lub za zgodą rektora (ustawa – Prawo o szkolnictwie wyższym i nauce). UWAGA – niepewne: odpowiedź z klucza testu („B i C”).",
+  "zrodlo": "test"
+ },
+ {
+  "id": "99e32b35a1",
+  "temat": "JS08 8–13. Zasady i taktyka przeszukania",
+  "pytanie": "Czynniki, które policjant powinien uwzględnić przystępując do przeszukania, to:",
+  "poprawna": "wszystkie wymienione",
+  "bledne": [
+   "najdogodniejszy czas przeszukania",
+   "położenie lokalu, który będzie przeszukiwany",
+   "liczba policjantów uczestniczących w przeszukaniu i zabezpieczających obiekt"
+  ],
+  "wyjasnienie": "Sylabus JS08, pkt 8 – czynności przygotowawcze.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "7c7584a20f",
+  "temat": "JS08 8–13. Zasady i taktyka przeszukania",
+  "pytanie": "Plan przeszukania sporządza się, jeżeli przewiduje się konieczność wejścia do obiektu z użyciem:",
+  "poprawna": "środków chemicznych, siły fizycznej lub środków technicznych",
+  "bledne": [
+   "wyłącznie środków chemicznych",
+   "wyłącznie siły fizycznej",
+   "wyłącznie środków technicznych"
+  ],
+  "wyjasnienie": "Przeszukanie z siłowym wejściem wymaga planu (czynności przygotowawcze).",
+  "zrodlo": "test"
+ },
+ {
+  "id": "8f6606faef",
+  "temat": "JS08 8–13. Zasady i taktyka przeszukania",
+  "pytanie": "Podczas przeszukania osoby i jej bagażu policjant musi:",
+  "poprawna": "obserwować ruchy i zachowanie przeszukiwanego",
+  "bledne": [
+   "zniszczyć element ubioru w każdym przypadku",
+   "skupić całą uwagę na samych przedmiotach",
+   "zawsze dobrać sobie osobę do tej czynności"
+  ],
+  "wyjasnienie": "Wymóg bezpieczeństwa (sylabus JS08, pkt 12).",
+  "zrodlo": "test"
+ },
+ {
+  "id": "5629e865a4",
+  "temat": "JS08 8–13. Zasady i taktyka przeszukania",
+  "pytanie": "Które zdanie dotyczące przeszukania jest prawdziwe?",
+  "poprawna": "jeżeli znaleziono rzecz stanowiącą dowód w sprawie, policjant zabiera ją albo oddaje na przechowanie osobie godnej zaufania",
+  "bledne": [
+   "osoby obecne w pomieszczeniach należy wylegitymować i rozdzielić do różnych pomieszczeń",
+   "metoda segmentowa polega na przeszukaniu od ścian do środka pomieszczenia z czterech kierunków",
+   "przeszukanie pomieszczeń zajętych przez wojsko może się odbyć tylko w obecności prokuratora"
+  ],
+  "wyjasnienie": "Art. 228 § 1 k.p.k.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "c08ceb05d5",
+  "temat": "JS08 8–13. Zasady i taktyka przeszukania",
+  "pytanie": "Generalnie nie można przeszukiwać osób korzystających z immunitetu:",
+  "poprawna": "dyplomatycznego",
+  "bledne": [
+   "parlamentarnego",
+   "prokuratorskiego",
+   "każdego z wymienionych"
+  ],
+  "wyjasnienie": "Konwencja wiedeńska o stosunkach dyplomatycznych – nietykalność osoby, mieszkania i korespondencji agenta dyplomatycznego.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "542e6e7d37",
+  "temat": "JS08 14–15. Zatrzymanie rzeczy i postępowanie z przedmiotami",
+  "pytanie": "Rzeczy mogące stanowić dowód w sprawie należy wydać na żądanie:",
+  "poprawna": "sądu lub prokuratora, a w wypadkach niecierpiących zwłoki także Policji",
+  "bledne": [
+   "wyłącznie sądu",
+   "wyłącznie Policji",
+   "pokrzywdzonego"
+  ],
+  "wyjasnienie": "Art. 217 § 1 k.p.k.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "64ea6d9839",
+  "temat": "JS08 14–15. Zatrzymanie rzeczy i postępowanie z przedmiotami",
+  "pytanie": "Celem zatrzymania rzeczy nie jest:",
+  "poprawna": "wykrycie lub zatrzymanie albo przymusowe doprowadzenie osoby podejrzanej",
+  "bledne": [
+   "zatrzymanie rzeczy mogących stanowić dowód w sprawie",
+   "zatrzymanie rzeczy podlegających zajęciu w celu zabezpieczenia kar majątkowych",
+   "zatrzymanie rzeczy podlegających zajęciu w celu zabezpieczenia roszczeń o naprawienie szkody"
+  ],
+  "wyjasnienie": "Art. 217 § 1 k.p.k. Wykrycie osoby to cel PRZESZUKANIA (art. 219).",
+  "zrodlo": "test"
+ },
+ {
+  "id": "0f94c20a3d",
+  "temat": "JS08 14–15. Zatrzymanie rzeczy i postępowanie z przedmiotami",
+  "pytanie": "Rzeczy mogące stanowić dowód zatrzymuje się lub odbiera:",
+  "poprawna": "zgodnie z celem czynności, z należytą starannością, w poszanowaniu prywatności i godności osób, bez wyrządzania niepotrzebnych szkód",
+  "bledne": [
+   "za wszelką cenę",
+   "zależnie od postawy osoby",
+   "w dowolny sposób – przepisy tego nie regulują"
+  ],
+  "wyjasnienie": "Art. 227 k.p.k.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "c93732b379",
+  "temat": "JS08 14–15. Zatrzymanie rzeczy i postępowanie z przedmiotami",
+  "pytanie": "Jeżeli wydania rzeczy zażądała Policja, osoba, która rzecz wydała, może złożyć wniosek o doręczenie postanowienia o zatwierdzeniu zatrzymania. Doręczenie powinno nastąpić:",
+  "poprawna": "na jej wniosek, w terminie 14 dni od zatrzymania rzeczy",
+  "bledne": [
+   "na jej wniosek, w terminie 7 dni",
+   "obligatoryjnie, w terminie 14 dni",
+   "w terminie dogodnym dla policjanta"
+  ],
+  "wyjasnienie": "Art. 217 § 4 k.p.k. (o prawie trzeba ją pouczyć).",
+  "zrodlo": "test"
+ },
+ {
+  "id": "26b0c2c5bc",
+  "temat": "JS08 14–15. Zatrzymanie rzeczy i postępowanie z przedmiotami",
+  "pytanie": "Przedmioty wydane lub znalezione w czasie przeszukania – także mogące stanowić dowód innego przestępstwa – należy:",
+  "poprawna": "po dokonaniu oględzin, sporządzeniu spisu i opisu zabrać albo oddać na przechowanie osobie godnej zaufania",
+  "bledne": [
+   "pozostawić na miejscu po oględzinach",
+   "pozostawić u osoby po sporządzeniu spisu",
+   "zabrać bez oględzin, spisu i pokwitowania"
+  ],
+  "wyjasnienie": "Art. 228 § 1–2 k.p.k.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "18e9de8683",
+  "temat": "JS08 14–15. Zatrzymanie rzeczy i postępowanie z przedmiotami",
+  "pytanie": "Policjant zatrzymujący przedmioty powinien osobom zainteresowanym wystawić:",
+  "poprawna": "pokwitowanie",
+  "bledne": [
+   "mandat karny",
+   "nakaz karny",
+   "tytuł wykonawczy"
+  ],
+  "wyjasnienie": "Art. 228 § 3 k.p.k. – natychmiast.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "5296a10599",
+  "temat": "JS08 14–15. Zatrzymanie rzeczy i postępowanie z przedmiotami",
+  "pytanie": "W razie przekazania rzeczy znalezionej w toku przeszukania osobie godnej zaufania (art. 228 § 1 k.p.k.) policjant sporządza:",
+  "poprawna": "protokół oddania rzeczy na przechowanie i wykaz rzeczy oddanych na przechowanie",
+  "bledne": [
+   "wyłącznie pokwitowanie przekazanych rzeczy",
+   "wyłącznie protokół oddania rzeczy na przechowanie",
+   "wyłącznie wykaz rzeczy oddanych na przechowanie"
+  ],
+  "wyjasnienie": "Dokumentacja oddania na przechowanie (osoba godna zaufania ma obowiązek przedstawić rzecz na każde żądanie). UWAGA: test 55 pytał też o liczbę egzemplarzy – tego pytania nie da się zweryfikować w przepisach, więc je pominięto.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "e108484262",
+  "temat": "JS08 14–15. Zatrzymanie rzeczy i postępowanie z przedmiotami",
+  "pytanie": "W razie konieczności zabezpieczenia dużej liczby dokumentów, gdy ich szczegółowy opis nadmiernie wydłużyłby czynność, należy:",
+  "poprawna": "zapakować je w oddzielny pakiet i oznaczyć jego zawartość",
+  "bledne": [
+   "zabrać tylko najważniejsze, a resztę pozostawić",
+   "przerwać czynność i pozostawić dokumenty",
+   "odstąpić od przeszukania"
+  ],
+  "wyjasnienie": "Praktyka zabezpieczania dokumentów (zasada należytej staranności – art. 227).",
+  "zrodlo": "test"
+ },
+ {
+  "id": "40cf7d98b9",
+  "temat": "JS08 14–15. Zatrzymanie rzeczy i postępowanie z przedmiotami",
+  "pytanie": "Jeżeli osoba, u której dokonuje się przeszukania, oświadczy, że znalezione pismo zawiera informacje niejawne lub tajemnicę prawnie chronioną, organ co do zasady:",
+  "poprawna": "przekazuje je niezwłocznie, bez odczytania, prokuratorowi lub sądowi w opieczętowanym opakowaniu",
+  "bledne": [
+   "odczytuje je i przekazuje komendantowi wojewódzkiemu",
+   "pozostawia je w aktach sprawy",
+   "odczytuje je w jednostce Policji"
+  ],
+  "wyjasnienie": "Art. 225 § 1 k.p.k.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "56b0bd3c72",
+  "temat": "JS08 14–15. Zatrzymanie rzeczy i postępowanie z przedmiotami",
+  "pytanie": "Osoba podejrzana oświadcza, że znalezione przy niej pismo zawiera informacje niejawne o klauzuli „poufne”. Policjant powinien:",
+  "poprawna": "odebrać i zabezpieczyć pismo jako dowód rzeczowy",
+  "bledne": [
+   "po przeczytaniu przekazać je komendantowi wojewódzkiemu",
+   "bez odczytywania przekazać je prokuratorowi w opieczętowanym opakowaniu",
+   "pozostawić je podejrzanemu"
+  ],
+  "wyjasnienie": "Art. 225 § 2 k.p.k.: tryb opieczętowanego opakowania nie dotyczy pism „zastrzeżone” lub „poufne” ani tajemnicy zawodowej, gdy ich posiadaczem jest osoba podejrzana.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "5ee43dc2a1",
+  "temat": "JS08 14–15. Zatrzymanie rzeczy i postępowanie z przedmiotami",
+  "pytanie": "Podczas przeszukania u osoby podejrzanej znaleziono pakiet jej prywatnych listów. Czy można zapoznać się z ich treścią?",
+  "poprawna": "tak, bez pytania osoby o zgodę",
+  "bledne": [
+   "tak, ale po uzyskaniu zgody osoby",
+   "nie, bo obowiązuje tajemnica korespondencji",
+   "tak, jeżeli zgodzi się dyżurny jednostki"
+  ],
+  "wyjasnienie": "Art. 225 § 2 k.p.k. – tryb ochronny nie dotyczy dokumentów osobistych, których podejrzany jest posiadaczem, autorem lub adresatem.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "d5912cf587",
+  "temat": "JS08 14–15. Zatrzymanie rzeczy i postępowanie z przedmiotami",
+  "pytanie": "Jeżeli obrońca oświadczy, że znalezione w toku przeszukania pisma obejmują okoliczności związane z wykonywaniem funkcji obrońcy, organ:",
+  "poprawna": "pozostawia te dokumenty obrońcy, bez zapoznawania się z ich treścią lub wyglądem",
+  "bledne": [
+   "po zapoznaniu się z treścią zatrzymuje je i przekazuje prokuratorowi",
+   "zatrzymuje je w aktach postępowania",
+   "po zapoznaniu się z treścią decyduje o ich pozostawieniu lub zatrzymaniu"
+  ],
+  "wyjasnienie": "Art. 225 § 3 zdanie pierwsze k.p.k.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "4c154cad51",
+  "temat": "JS08 14–15. Zatrzymanie rzeczy i postępowanie z przedmiotami",
+  "pytanie": "Podczas przeszukania u osoby niebędącej obrońcą Policja może zabezpieczyć dokumenty związane z wykonywaniem funkcji obrończej:",
+  "poprawna": "tylko jeżeli oświadczenie tej osoby budzi wątpliwości – wtedy przekazuje je w opieczętowanym opakowaniu sądowi",
+  "bledne": [
+   "zawsze",
+   "jedynie za zgodą obrońcy – dysponenta dokumentów",
+   "nie może, bo to bezwzględny zakaz dowodowy"
+  ],
+  "wyjasnienie": "Art. 225 § 3 zdanie drugie k.p.k.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "179bafd956",
+  "temat": "JS08 14–15. Zatrzymanie rzeczy i postępowanie z przedmiotami",
+  "pytanie": "Wydaną, odebraną lub znalezioną w toku przeszukania dokumentację psychiatryczną organ:",
+  "poprawna": "przekazuje bez odczytania, niezwłocznie, w opieczętowanym opakowaniu sądowi lub prokuratorowi",
+  "bledne": [
+   "pozostawia na miejscu bez odczytania",
+   "po odczytaniu przekazuje w ciągu 7 dni prokuratorowi",
+   "przekazuje kierownikowi jednostki Policji"
+  ],
+  "wyjasnienie": "Art. 225 § 4 w zw. z § 1 k.p.k.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "8a680480c8",
+  "temat": "JS08 14–15. Zatrzymanie rzeczy i postępowanie z przedmiotami",
+  "pytanie": "Otwierać korespondencję, przesyłki i wykazy połączeń telekomunikacyjnych lub zarządzić ich otwarcie mogą:",
+  "poprawna": "wyłącznie sąd lub prokurator",
+  "bledne": [
+   "wyłącznie sąd",
+   "wyłącznie prokurator",
+   "wyłącznie prokurator lub Policja"
+  ],
+  "wyjasnienie": "Art. 218 § 1 k.p.k.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "b9d94443e2",
+  "temat": "JS08 14–15. Zatrzymanie rzeczy i postępowanie z przedmiotami",
+  "pytanie": "W przypadku zatrzymania przez Policję oryginalnego nośnika danych informatycznych:",
+  "poprawna": "na wniosek dysponenta danych można udostępnić mu kopię plików niezbędnych np. do prowadzenia działalności, jeżeli ich posiadanie nie jest zabronione",
+  "bledne": [
+   "nie wolno nikomu udostępniać kopii plików",
+   "należy pozostawić kopię plików każdej osobie, która złoży wniosek",
+   "zawsze trzeba pozostawić kopię plików osobie, od której zatrzymano nośnik"
+  ],
+  "wyjasnienie": "Art. 236a k.p.k. (dysponent i użytkownik danych). Poradnik JS08 zwraca uwagę na specyfikę zabezpieczania nośników elektronicznych.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "6d13de4517",
+  "temat": "JS08 14–15. Zatrzymanie rzeczy i postępowanie z przedmiotami",
+  "pytanie": "W przypadku stwierdzenia zbędności zatrzymanej rzeczy dla postępowania należy:",
+  "poprawna": "niezwłocznie zwrócić ją osobie uprawnionej",
+  "bledne": [
+   "komisyjnie ją zniszczyć",
+   "przekazać ją na cele charytatywne",
+   "przechowywać do czasu przedawnienia karalności"
+  ],
+  "wyjasnienie": "Art. 230 § 2 k.p.k.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "e3df055b90",
+  "temat": "JS08 14–15. Zatrzymanie rzeczy i postępowanie z przedmiotami",
+  "pytanie": "Jeżeli zatrzymanie rzeczy nastąpiło bez polecenia sądu lub prokuratora, a w ciągu 7 dni nie nastąpiło jego zatwierdzenie, należy:",
+  "poprawna": "niezwłocznie zwrócić rzecz osobie uprawnionej (chyba że wydała ją dobrowolnie i nie złożyła wniosku o postanowienie)",
+  "bledne": [
+   "przechowywać rzecz do zakończenia postępowania",
+   "przekazać rzecz prokuratorowi",
+   "zniszczyć rzecz"
+  ],
+  "wyjasnienie": "Art. 230 § 1 k.p.k.",
+  "zrodlo": "wlasne"
+ },
+ {
+  "id": "b45190926f",
+  "temat": "JS08 14–15. Zatrzymanie rzeczy i postępowanie z przedmiotami",
+  "pytanie": "Jeżeli występuje wątpliwość, komu wydać zatrzymaną rzecz, należy ją złożyć:",
+  "poprawna": "do depozytu sądowego (albo oddać osobie godnej zaufania)",
+  "bledne": [
+   "do depozytu komendy wojewódzkiej",
+   "do depozytu komendy rejonowej",
+   "do depozytu prokuratury"
+  ],
+  "wyjasnienie": "Art. 231 § 1 k.p.k.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "69e4237cc4",
+  "temat": "JS08 14–15. Zatrzymanie rzeczy i postępowanie z przedmiotami",
+  "pytanie": "Polskie i obce pieniądze nienoszące śladów przestępstwa przechowuje się:",
+  "poprawna": "na rachunku sum depozytowych prokuratury lub sądu",
+  "bledne": [
+   "w depozycie bankowym",
+   "w aktach sprawy",
+   "w depozycie jednostki Policji"
+  ],
+  "wyjasnienie": "Pieniądze bez znaczenia jako dowód (bez śladów) przekazuje się na rachunek depozytowy organu. UWAGA – niepewne: odpowiedź z klucza testu.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "e4914bc281",
+  "temat": "JS08 14–15. Zatrzymanie rzeczy i postępowanie z przedmiotami",
+  "pytanie": "Gdy dla prawidłowego toku postępowania wystarczy przechowywanie próbek substancji (np. narkotyków), zarządzenie o zniszczeniu pozostałej ilości wydaje:",
+  "poprawna": "sąd właściwy do rozpoznania sprawy (lub referendarz sądowy) na wniosek prokuratora",
+  "bledne": [
+   "prokurator nadzorujący postępowanie na wniosek policjanta",
+   "przełożony policjanta prowadzącego postępowanie",
+   "policjant prowadzący postępowanie"
+  ],
+  "wyjasnienie": "Art. 232a § 2 k.p.k.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "677179eb4c",
+  "temat": "JS08 14–15. Zatrzymanie rzeczy i postępowanie z przedmiotami",
+  "pytanie": "Zgodnie z ustawą o zwalczaniu niedozwolonego wyrobu spirytusu zabronione jest:",
+  "poprawna": "każde z wymienionych",
+  "bledne": [
+   "przechowywanie narzędzi służących do niedozwolonego wyrobu spirytusu",
+   "przechowywanie naczyń i przyrządów do niedozwolonego wyrobu spirytusu",
+   "przechowywanie zacieru służącego do wyrobu spirytusu"
+  ],
+  "wyjasnienie": "Ustawa z 1959 r. o zwalczaniu niedozwolonego wyrobu spirytusu zakazuje wyrobu oraz posiadania aparatów, zacieru i spirytusu z nielegalnego wyrobu.",
+  "zrodlo": "test"
+ }
+]
