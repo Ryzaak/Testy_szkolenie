@@ -1,0 +1,626 @@
+[
+ {
+  "id": "e59cd83c26",
+  "temat": "1. Współpraca międzynarodowa i kanały wymiany informacji",
+  "pytanie": "Podstawowe akty prawne 2018/1860, 2018/1861 i 2018/1862 dotyczące funkcjonowania i użytkowania Systemu Informacyjnego Schengen (SIS) to:",
+  "poprawna": "rozporządzenia",
+  "bledne": [
+   "dyrektywy",
+   "zarządzenia",
+   "ratyfikowane umowy międzynarodowe"
+  ],
+  "wyjasnienie": "Rozporządzenia Parlamentu Europejskiego i Rady (UE) z 28 listopada 2018 r.: 2018/1860 – powroty, 2018/1861 – odprawy graniczne, 2018/1862 – współpraca policyjna i sądowa w sprawach karnych. Rozporządzenia stosuje się bezpośrednio.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "a4315cd14e",
+  "temat": "1. Współpraca międzynarodowa i kanały wymiany informacji",
+  "pytanie": "Strefa Schengen to obszar, na którym zniesiono kontrole na granicach wewnętrznych. Aktualnie liczy:",
+  "poprawna": "29 państw",
+  "bledne": [
+   "24 państwa",
+   "25 państw",
+   "27 państw"
+  ],
+  "wyjasnienie": "25 państw UE (bez Irlandii i Cypru) oraz 4 państwa stowarzyszone. Bułgaria i Rumunia są w pełni w strefie od 1 stycznia 2025 r.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "cbb7b4bfc2",
+  "temat": "1. Współpraca międzynarodowa i kanały wymiany informacji",
+  "pytanie": "Państwa stowarzyszone w ramach strefy Schengen, niebędące członkami Unii Europejskiej, to:",
+  "poprawna": "Islandia, Liechtenstein, Norwegia i Szwajcaria",
+  "bledne": [
+   "Norwegia, Andora, San Marino i Szwajcaria",
+   "Watykan, Monako, Norwegia i Szwajcaria",
+   "Irlandia, Andora, Wyspy Owcze i Kosowo"
+  ],
+  "wyjasnienie": "Irlandia jest w UE, ale poza strefą Schengen. Andora, Monako, San Marino i Watykan nie są stowarzyszone.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "40c7c14a9c",
+  "temat": "1. Współpraca międzynarodowa i kanały wymiany informacji",
+  "pytanie": "Najważniejszym zadaniem krajowych biur SIRENE jest wymiana informacji:",
+  "poprawna": "uzupełniających",
+  "bledne": [
+   "dodatkowych",
+   "szczegółowych",
+   "szczególnych"
+  ],
+  "wyjasnienie": "SIRENE = Supplementary Information REquest at the National Entries – wymiana informacji uzupełniających do wpisów w SIS. Biuro SIRENE działa w KGP.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "b705d372c2",
+  "temat": "1. Współpraca międzynarodowa i kanały wymiany informacji",
+  "pytanie": "Elementem architektury SIS odpowiedzialnym za część krajową systemu w państwie członkowskim jest:",
+  "poprawna": "N.SIS",
+  "bledne": [
+   "Biuro SIRENE",
+   "I-24/7",
+   "EIS"
+  ],
+  "wyjasnienie": "N.SIS – krajowy system SIS (część krajowa). CS-SIS to system centralny. Biuro SIRENE wymienia informacje uzupełniające, a EIS to system informacyjny Europolu.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "65a8ebf662",
+  "temat": "1. Współpraca międzynarodowa i kanały wymiany informacji",
+  "pytanie": "Agencja UE ds. Zarządzania Operacyjnego Wielkoskalowymi Systemami Informatycznymi w Przestrzeni Wolności, Bezpieczeństwa i Sprawiedliwości to w skrócie:",
+  "poprawna": "eu-LISA",
+  "bledne": [
+   "Biuro SIRENE",
+   "N.SIS",
+   "EIS"
+  ],
+  "wyjasnienie": "eu-LISA zarządza m.in. centralnym SIS, VIS i Eurodac.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "5b3a2d82cd",
+  "temat": "1. Współpraca międzynarodowa i kanały wymiany informacji",
+  "pytanie": "Systemem (aplikacją) bezpiecznej wymiany informacji w ramach Europolu jest:",
+  "poprawna": "SIENA",
+  "bledne": [
+   "BRAVO",
+   "PUNTO",
+   "E-24/7"
+  ],
+  "wyjasnienie": "SIENA – Secure Information Exchange Network Application. W Polsce kanał wymiany z Europolem to SWIzE (sylabus JS09).",
+  "zrodlo": "test"
+ },
+ {
+  "id": "f9aa0902b4",
+  "temat": "1. Współpraca międzynarodowa i kanały wymiany informacji",
+  "pytanie": "Systemem łączności Interpolu jest:",
+  "poprawna": "I-24/7",
+  "bledne": [
+   "Interpol 24",
+   "SIENA",
+   "EIS"
+  ],
+  "wyjasnienie": "I-24/7 – całodobowa sieć łączności Interpolu z dostępem do jego baz danych. SIENA i EIS to systemy Europolu.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "46b908f733",
+  "temat": "1. Współpraca międzynarodowa i kanały wymiany informacji",
+  "pytanie": "Europejski Urząd Policji (Europol) funkcjonuje od:",
+  "poprawna": "1 lipca 1999 r",
+  "bledne": [
+   "1 stycznia 2003 r",
+   "1 listopada 2004 r",
+   "1 czerwca 1997 r"
+  ],
+  "wyjasnienie": "Europol rozpoczął pełną działalność 1 lipca 1999 r. Obecnie działa na podstawie rozporządzenia (UE) 2016/794.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "e17f607965",
+  "temat": "1. Współpraca międzynarodowa i kanały wymiany informacji",
+  "pytanie": "Co to są dane PNR?",
+  "poprawna": "dane dotyczące przelotu pasażera gromadzone przez przewoźnika lotniczego",
+  "bledne": [
+   "dane o uprawnieniach do kierowania pojazdami",
+   "dane o jachtach i silnikach zarejestrowanych w UE",
+   "dane celne dotyczące kontenerów"
+  ],
+  "wyjasnienie": "PNR – Passenger Name Record (ustawa z 9 maja 2018 r. o przetwarzaniu danych dotyczących przelotu pasażera).",
+  "zrodlo": "test"
+ },
+ {
+  "id": "ddc17b1d6a",
+  "temat": "1. Współpraca międzynarodowa i kanały wymiany informacji",
+  "pytanie": "System gromadzący dane biometryczne osób ubiegających się o ochronę międzynarodową oraz określonych kategorii obywateli państw trzecich w UE to:",
+  "poprawna": "Eurodac",
+  "bledne": [
+   "Immigrant AFIS",
+   "SIS DAKTYL",
+   "Illegal Immigrant AFIS"
+  ],
+  "wyjasnienie": "Eurodac – odciski palców (i od 2024 r. także wizerunki twarzy) osób ubiegających się o azyl i nielegalnych migrantów.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "028435f148",
+  "temat": "1. Współpraca międzynarodowa i kanały wymiany informacji",
+  "pytanie": "Dane biometryczne (zdjęcie i odciski palców) osoby ubiegającej się o wizę Schengen mogą zostać ponownie wykorzystane z VIS bez ponownego pobrania, jeżeli pobrano je w ciągu ostatnich:",
+  "poprawna": "59 miesięcy",
+  "bledne": [
+   "12 miesięcy",
+   "29 miesięcy",
+   "37 miesięcy"
+  ],
+  "wyjasnienie": "Kodeks wizowy (art. 13): odciski pobrane w ciągu poprzednich 59 miesięcy kopiuje się z VIS. Same dane w VIS przechowuje się co do zasady do 5 lat. UWAGA – w teście pytanie brzmiało „przechowywane przez okres” – odpowiedź z klucza to 59 miesięcy.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "621c27ce85",
+  "temat": "1. Współpraca międzynarodowa i kanały wymiany informacji",
+  "pytanie": "Rolą oficera łącznikowego Policji jest:",
+  "poprawna": "utrzymywanie bezpośrednich kontaktów i wymiana informacji między Policją a służbami państwa, w którym pełni funkcję",
+  "bledne": [
+   "prowadzenie postępowań przygotowawczych za granicą",
+   "dokonywanie wpisów do SIS w imieniu sądów",
+   "zatwierdzanie not Interpolu"
+  ],
+  "wyjasnienie": "Sylabus JS09: oficer łącznikowy jako jeden z kanałów wymiany informacji (obok SIS/SIRENE, Interpolu, Europolu i SWIzE).",
+  "zrodlo": "wlasne"
+ },
+ {
+  "id": "1581670bf2",
+  "temat": "2–3. Wpisy w SIS – rodzaje, organy, terminy",
+  "pytanie": "Zgodnie z rozporządzenia (UE) 2018/1862 o wpisach dotyczących osób poszukiwanych w celu aresztowania i wydania albo aresztowania i ekstradycji mówi:",
+  "poprawna": "art. 26",
+  "bledne": [
+   "art. 24",
+   "art. 32",
+   "art. 34"
+  ],
+  "wyjasnienie": "Art. 26 rozporządzenia 2018/1862 (tak samo w dawnej decyzji 2007/533/WSiSW).",
+  "zrodlo": "test"
+ },
+ {
+  "id": "5c54f08da8",
+  "temat": "2–3. Wpisy w SIS – rodzaje, organy, terminy",
+  "pytanie": "Zgodnie z rozporządzenia (UE) 2018/1862 o wpisach dotyczących osób zaginionych lub osób narażonych na niebezpieczeństwo, którym należy uniemożliwić podróżowanie, mówi:",
+  "poprawna": "art. 32",
+  "bledne": [
+   "art. 26",
+   "art. 34",
+   "art. 38"
+  ],
+  "wyjasnienie": "Art. 32 rozporządzenia 2018/1862.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "88fc80c18d",
+  "temat": "2–3. Wpisy w SIS – rodzaje, organy, terminy",
+  "pytanie": "Zgodnie z rozporządzenia (UE) 2018/1862 o wpisach dotyczących osób poszukiwanych, których obecność jest wymagana do celów postępowania prowadzonego przez organy wymiaru sprawiedliwości, mówi:",
+  "poprawna": "art. 34",
+  "bledne": [
+   "art. 3",
+   "art. 24",
+   "art. 26"
+  ],
+  "wyjasnienie": "Art. 34: świadkowie, osoby wezwane do stawiennictwa, osoby, którym trzeba doręczyć wyrok lub wezwanie do odbycia kary.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "6b2a597f13",
+  "temat": "2–3. Wpisy w SIS – rodzaje, organy, terminy",
+  "pytanie": "Zgodnie z rozporządzenia (UE) 2018/1862 o wpisach dotyczących osób i przedmiotów do celów kontroli niejawnych, rozpytań kontrolnych lub kontroli szczególnych mówi:",
+  "poprawna": "art. 36",
+  "bledne": [
+   "art. 40",
+   "art. 26",
+   "żaden z wymienionych artykułów"
+  ],
+  "wyjasnienie": "Art. 36 rozporządzenia 2018/1862.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "b2b7de29c8",
+  "temat": "2–3. Wpisy w SIS – rodzaje, organy, terminy",
+  "pytanie": "O wpisach dotyczących przedmiotów poszukiwanych w celu ich zajęcia lub wykorzystania jako dowód w postępowaniu karnym mówi:",
+  "poprawna": "art. 38 rozporządzenia (UE) 2018/1862",
+  "bledne": [
+   "art. 26 rozporządzenia (UE) 2018/1862",
+   "art. 34 rozporządzenia (UE) 2018/1862",
+   "art. 24 rozporządzenia (UE) 2018/1861"
+  ],
+  "wyjasnienie": "Art. 38 ust. 1 rozporządzenia 2018/1862.",
+  "zrodlo": "wlasne"
+ },
+ {
+  "id": "90f0f0b397",
+  "temat": "2–3. Wpisy w SIS – rodzaje, organy, terminy",
+  "pytanie": "O kategorii „wpisy dotyczące nieznanych osób poszukiwanych” mówi:",
+  "poprawna": "żaden z wymienionych artykułów",
+  "bledne": [
+   "art. 3",
+   "art. 7",
+   "art. 38"
+  ],
+  "wyjasnienie": "To art. 40 rozporządzenia 2018/1862 (wpisy dotyczące nieznanych osób poszukiwanych do celów identyfikacji), którego nie ma wśród odpowiedzi.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "92ca4f665c",
+  "temat": "2–3. Wpisy w SIS – rodzaje, organy, terminy",
+  "pytanie": "Zgodnie z rozporządzeniem (UE) 2018/1861 o kategorii „wpisy dotyczące odmowy wjazdu i pobytu” mówi:",
+  "poprawna": "art. 24",
+  "bledne": [
+   "art. 5",
+   "art. 3",
+   "art. 40"
+  ],
+  "wyjasnienie": "Art. 24 rozporządzenia 2018/1861 (odprawy graniczne).",
+  "zrodlo": "test"
+ },
+ {
+  "id": "2c723cb8b2",
+  "temat": "2–3. Wpisy w SIS – rodzaje, organy, terminy",
+  "pytanie": "Polskim organem uprawnionym do wnioskowania o wpis dotyczący odmowy wjazdu i pobytu (art. 24 rozporządzenia 2018/1861) jest:",
+  "poprawna": "Szef Urzędu do Spraw Cudzoziemców",
+  "bledne": [
+   "Policja",
+   "Prokurator",
+   "Straż Graniczna"
+  ],
+  "wyjasnienie": "Szef UdSC prowadzi wykaz cudzoziemców, których pobyt jest niepożądany, i przekazuje dane do SIS (ustawa o cudzoziemcach).",
+  "zrodlo": "test"
+ },
+ {
+  "id": "e1f2d8a2d9",
+  "temat": "2–3. Wpisy w SIS – rodzaje, organy, terminy",
+  "pytanie": "Wniosek o wpis dotyczący osoby poszukiwanej w celu aresztowania i wydania (art. 26) wnosi lub wnoszą:",
+  "poprawna": "prokurator lub sąd",
+  "bledne": [
+   "tylko prokurator",
+   "tylko sąd",
+   "Biuro SIRENE podległe KGP"
+  ],
+  "wyjasnienie": "Podstawą wpisu jest europejski nakaz aresztowania (wydaje sąd okręgowy na wniosek prokuratora – art. 607a k.p.k.) lub wniosek o ekstradycję.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "fa499b86e8",
+  "temat": "2–3. Wpisy w SIS – rodzaje, organy, terminy",
+  "pytanie": "Policja jest polskim organem uprawnionym do dokonywania wpisów w SIS dotyczących przedmiotów z:",
+  "poprawna": "art. 38",
+  "bledne": [
+   "art. 26",
+   "art. 34",
+   "art. 24 rozporządzenia 2018/1861"
+  ],
+  "wyjasnienie": "Policja wpisuje m.in. przedmioty poszukiwane (art. 38), osoby zaginione (art. 32) i kontrole niejawne (art. 36). Wpisy z art. 26 i 34 opierają się na decyzjach sądu lub prokuratora.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "d8adfdead5",
+  "temat": "2–3. Wpisy w SIS – rodzaje, organy, terminy",
+  "pytanie": "Wpisy dotyczące osób i przedmiotów w SIS utrzymywane są przez:",
+  "poprawna": "czas konieczny do osiągnięcia celów, do których zostały wprowadzone",
+  "bledne": [
+   "okres 3 lat",
+   "okres 5 lat",
+   "okres 10 lat"
+  ],
+  "wyjasnienie": "Art. 53 ust. 1 i art. 54 ust. 1 rozporządzenia 2018/1862. Konkretne liczby lat to terminy WERYFIKACJI wpisu.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "8d51333369",
+  "temat": "2–3. Wpisy w SIS – rodzaje, organy, terminy",
+  "pytanie": "Wpis dotyczący osoby poszukiwanej w celu aresztowania i wydania albo ekstradycji (art. 26) należy weryfikować nie rzadziej niż co:",
+  "poprawna": "5 lat",
+  "bledne": [
+   "1 rok",
+   "3 lata",
+   "10 lat"
+  ],
+  "wyjasnienie": "Art. 53 ust. 2 rozporządzenia 2018/1862 (tak samo art. 32 ust. 1 lit. a i b).",
+  "zrodlo": "test"
+ },
+ {
+  "id": "52aa657b76",
+  "temat": "2–3. Wpisy w SIS – rodzaje, organy, terminy",
+  "pytanie": "Wpis dotyczący osoby, której obecność jest wymagana w postępowaniu prowadzonym przez organy wymiaru sprawiedliwości (art. 34), należy weryfikować nie rzadziej niż co:",
+  "poprawna": "3 lata",
+  "bledne": [
+   "1 rok",
+   "2 lata",
+   "5 lat"
+  ],
+  "wyjasnienie": "Art. 53 ust. 3 rozporządzenia 2018/1862 (art. 34 i 40).",
+  "zrodlo": "test"
+ },
+ {
+  "id": "e9b5f5e72b",
+  "temat": "2–3. Wpisy w SIS – rodzaje, organy, terminy",
+  "pytanie": "Wpis dotyczący zaginionej osoby dorosłej lub dziecka (art. 32 ust. 1 lit. a i b) państwo dokonujące wpisu weryfikuje w terminie:",
+  "poprawna": "5 lat od jego dokonania",
+  "bledne": [
+   "1 roku od jego dokonania",
+   "3 lat od jego dokonania",
+   "10 lat od jego dokonania"
+  ],
+  "wyjasnienie": "Art. 53 ust. 2 rozporządzenia 2018/1862. Dzieci zagrożone uprowadzeniem i osoby narażone (art. 32 ust. 1 lit. c–e) oraz kontrole z art. 36 – 1 rok (ust. 4). UWAGA: w teście 44 pytanie dotyczyło uchylonej decyzji 2007/533 (wtedy 3 lata) – przeformułowano je na obecne przepisy.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "219965b2fb",
+  "temat": "2–3. Wpisy w SIS – rodzaje, organy, terminy",
+  "pytanie": "Wpisy dotyczące przedmiotów wprowadzone zgodnie z art. 38 weryfikuje się w okresie nieprzekraczającym:",
+  "poprawna": "10 lat",
+  "bledne": [
+   "1 roku",
+   "3 lat",
+   "5 lat"
+  ],
+  "wyjasnienie": "Art. 54 ust. 2 rozporządzenia 2018/1862.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "60935a905b",
+  "temat": "2–3. Wpisy w SIS – rodzaje, organy, terminy",
+  "pytanie": "Do osób rejestrowanych w SIS na podstawie art. 34 należą:",
+  "poprawna": "świadkowie",
+  "bledne": [
+   "osoby zbiegłe z zakładu karnego",
+   "osoby ukrywające się przed organami ścigania",
+   "osoby pokrzywdzone przywłaszczeniem tożsamości"
+  ],
+  "wyjasnienie": "Art. 34 ust. 1 lit. a rozporządzenia 2018/1862. Zbiegów i ukrywających się poszukuje się do aresztowania (art. 26).",
+  "zrodlo": "test"
+ },
+ {
+  "id": "08cf971f94",
+  "temat": "2–3. Wpisy w SIS – rodzaje, organy, terminy",
+  "pytanie": "Kategorią przedmiotów, której nie rejestruje się w SIS na podstawie art. 38 rozporządzenia (UE) 2018/1862, jest:",
+  "poprawna": "biżuteria",
+  "bledne": [
+   "kontenery",
+   "przyczepy turystyczne",
+   "silniki jednostek pływających"
+  ],
+  "wyjasnienie": "Art. 38 ust. 2: m.in. pojazdy, przyczepy, przyczepy turystyczne, urządzenia przemysłowe, jednostki pływające i ich silniki, kontenery, statki powietrzne, broń palna, dokumenty, tablice, banknoty, sprzęt informatyczny, części pojazdów. Biżuterii nie ma.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "2e642aef10",
+  "temat": "4–10. Tożsamość, biometria, trafienia, ENA",
+  "pytanie": "Podstawą prawną zatrzymania osoby ściganej na podstawie informacji zamieszczonych w bazie danych Interpolu lub w SIS jest:",
+  "poprawna": "art. 605a k.p.k",
+  "bledne": [
+   "art. 244 k.p.k",
+   "art. 394 ustawy o cudzoziemcach",
+   "art. 607a k.p.k"
+  ],
+  "wyjasnienie": "Art. 605a § 1 k.p.k. (stosuje się art. 244–246 i 248). Przy osobie ściganej europejskim nakazem aresztowania – art. 607k § 2a. Art. 607a dotyczy wydania ENA przez polski sąd.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "0dce1c2732",
+  "temat": "4–10. Tożsamość, biometria, trafienia, ENA",
+  "pytanie": "Europejski nakaz aresztowania (ENA) obejmuje osoby skazane prawomocnie albo ścigane za czyn zagrożony karą pozbawienia wolności, gdy:",
+  "poprawna": "orzeczona kara wynosi co najmniej 4 miesiące albo górna granica zagrożenia przekracza 1 rok",
+  "bledne": [
+   "orzeczona kara wynosi co najmniej 6 miesięcy albo górna granica zagrożenia wynosi co najmniej 1 rok",
+   "orzeczona kara wynosi co najmniej 6 miesięcy albo górna granica zagrożenia wynosi co najmniej 2 lata",
+   "orzeczona kara wynosi co najmniej 12 miesięcy albo górna granica zagrożenia wynosi co najmniej 3 lata"
+  ],
+  "wyjasnienie": "Art. 607b k.p.k.: wydanie ENA jest niedopuszczalne przy przestępstwie zagrożonym karą do roku albo do wykonania kary do 4 miesięcy (decyzja ramowa 2002/584/WSiSW: 12 miesięcy / 4 miesiące).",
+  "zrodlo": "test"
+ },
+ {
+  "id": "fb0b126b70",
+  "temat": "4–10. Tożsamość, biometria, trafienia, ENA",
+  "pytanie": "Jedną z podstawowych różnic pomiędzy europejskim nakazem aresztowania a ekstradycją jest:",
+  "poprawna": "zasada podwójnej karalności",
+  "bledne": [
+   "zasada proporcjonalności",
+   "zasada wzajemności",
+   "zasada dwuwartościowości"
+  ],
+  "wyjasnienie": "Przy ENA dla 32 kategorii przestępstw nie bada się podwójnej karalności (art. 607w k.p.k.), przy ekstradycji – tak.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "3395b1e052",
+  "temat": "4–10. Tożsamość, biometria, trafienia, ENA",
+  "pytanie": "Tożsamość przywłaszczona to:",
+  "poprawna": "posługiwanie się tożsamością innej istniejącej osoby",
+  "bledne": [
+   "tożsamość przybrana, którą posługuje się osoba znana pod innymi tożsamościami",
+   "tożsamość potwierdzona na podstawie autentycznych dokumentów tożsamości",
+   "posługiwanie się tożsamością nieistniejącej osoby"
+  ],
+  "wyjasnienie": "Art. 62 rozporządzenia 2018/1862. Osoba, której tożsamość przywłaszczono, może się zgodzić na dodanie jej danych do wpisu, by uniknąć pomyłek (formularz tożsamości przywłaszczonej).",
+  "zrodlo": "test"
+ },
+ {
+  "id": "f98679a6b2",
+  "temat": "4–10. Tożsamość, biometria, trafienia, ENA",
+  "pytanie": "System działający od marca 2018 r., pozwalający identyfikować osoby w SIS na podstawie samych odcisków palców, to:",
+  "poprawna": "SIS AFIS",
+  "bledne": [
+   "Eurodac",
+   "SIS DAKTYL",
+   "SIS MORFO-TOUCH"
+  ],
+  "wyjasnienie": "Automatyczny system identyfikacji daktyloskopijnej SIS (art. 43 rozporządzenia 2018/1862).",
+  "zrodlo": "test"
+ },
+ {
+  "id": "f09783eb1d",
+  "temat": "4–10. Tożsamość, biometria, trafienia, ENA",
+  "pytanie": "Wpis w SIS dotyczący osoby poszukiwanej w celu aresztowania (art. 26) może po trafieniu skutkować zatrzymaniem osoby w Polsce, a zatrzymanego należy:",
+  "poprawna": "poinformować o przyczynach zatrzymania i prawach oraz niezwłocznie przekazać informację do Biura SIRENE",
+  "bledne": [
+   "zwolnić po sprawdzeniu tożsamości",
+   "przesłuchać w charakterze świadka",
+   "przekazać bezpośrednio do państwa wpisującego"
+  ],
+  "wyjasnienie": "Art. 605a i 607k § 2a k.p.k. (stosuje się art. 244–246 i 248) oraz procedura trafienia – formularz odnalezienia osoby przekazywany do Biura SIRENE (sylabus JS09, pkt 7–8).",
+  "zrodlo": "wlasne"
+ },
+ {
+  "id": "c9862005c9",
+  "temat": "11–13. Interpol – noty, dyfuzje, bazy danych",
+  "pytanie": "Nota Interpolu to wniosek o współpracę międzynarodową lub ostrzeżenie międzynarodowe adresowane do:",
+  "poprawna": "wszystkich państw członkowskich Interpolu",
+  "bledne": [
+   "państwa albo państw członkowskich Interpolu wskazanych przez nadawcę",
+   "konkretnego państwa członkowskiego Interpolu",
+   "maksymalnie trzech państw członkowskich Interpolu"
+  ],
+  "wyjasnienie": "Notę publikuje Sekretariat Generalny dla wszystkich państw. Dyfuzję państwo wysyła bezpośrednio do wybranych państw.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "9c914eccc1",
+  "temat": "11–13. Interpol – noty, dyfuzje, bazy danych",
+  "pytanie": "Mniej sformalizowany wniosek o współpracę międzynarodową w ramach Interpolu to:",
+  "poprawna": "dyfuzja",
+  "bledne": [
+   "nota",
+   "prośba KBI",
+   "koordynat I-24/7"
+  ],
+  "wyjasnienie": "Dyfuzja jest wysyłana bezpośrednio przez biuro krajowe, bez weryfikacji i publikacji przez Sekretariat Generalny.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "a2b2a6bb35",
+  "temat": "11–13. Interpol – noty, dyfuzje, bazy danych",
+  "pytanie": "Czerwona dyfuzja Interpolu dotyczy:",
+  "poprawna": "osób poszukiwanych do aresztowania",
+  "bledne": [
+   "osób zaginionych",
+   "osób o niezidentyfikowanej tożsamości",
+   "ofiar uprowadzeń"
+  ],
+  "wyjasnienie": "Kolor oznacza cel: czerwona – zatrzymanie, żółta – zaginieni, czarna – niezidentyfikowane zwłoki, niebieska – ustalenie tożsamości lub miejsca pobytu.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "6dbea9df4e",
+  "temat": "11–13. Interpol – noty, dyfuzje, bazy danych",
+  "pytanie": "Żółta nota Interpolu dotyczy:",
+  "poprawna": "osób zaginionych",
+  "bledne": [
+   "osób poszukiwanych do aresztowania",
+   "niezidentyfikowanych zwłok",
+   "zagrożeń ze strony przedmiotów niebezpiecznych"
+  ],
+  "wyjasnienie": "Sylabus JS09, pkt 11: czerwona (poszukiwany do zatrzymania) i żółta (zaginiona).",
+  "zrodlo": "wlasne"
+ },
+ {
+  "id": "c5c32ef4b7",
+  "temat": "11–13. Interpol – noty, dyfuzje, bazy danych",
+  "pytanie": "Rejestracja poszukiwań w bazach Interpolu odbywa się za pomocą systemu:",
+  "poprawna": "I-Link",
+  "bledne": [
+   "ESS",
+   "I-24/7",
+   "World Police Recon Registration"
+  ],
+  "wyjasnienie": "I-Link to system Interpolu do rejestracji not i danych w bazach. I-24/7 to sieć łączności.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "735528ba95",
+  "temat": "11–13. Interpol – noty, dyfuzje, bazy danych",
+  "pytanie": "Jakie noty Interpolu są dostępne do wglądu podczas legitymowania przez funkcjonariusza Policji przy użyciu terminala mobilnego (SPP)?",
+  "poprawna": "czerwona, żółta, niebieska",
+  "bledne": [
+   "czerwona, zielona, żółta",
+   "czerwona, niebieska, pomarańczowa",
+   "wyłącznie czerwona"
+  ],
+  "wyjasnienie": "Noty dotyczące osób poszukiwanych (czerwona), zaginionych (żółta) i do ustalenia tożsamości lub miejsca pobytu (niebieska). UWAGA – niepewne: odpowiedź z materiałów szkoleniowych, nie z aktu prawnego. W teście dwie odpowiedzi różniły się tylko kolejnością kolorów (czerwona, zielona, żółta) – usunięto duplikat.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "adf7d210e4",
+  "temat": "11–13. Interpol – noty, dyfuzje, bazy danych",
+  "pytanie": "Baza Interpolu gromadząca dane o skradzionych jednostkach pływających i ich silnikach to:",
+  "poprawna": "SVD",
+  "bledne": [
+   "ICSE",
+   "wOAS",
+   "Nominal"
+  ],
+  "wyjasnienie": "SVD – Stolen Vessels Database. ICSE – wykorzystywanie seksualne dzieci, Nominal – osoby, wOAS – dzieła sztuki. Poradnik JS09 wymienia też SLTD (dokumenty), SMV (pojazdy) i SAD. UWAGA – niepewne.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "8cb87162d3",
+  "temat": "11–13. Interpol – noty, dyfuzje, bazy danych",
+  "pytanie": "Polska zawiesiła działalność w strukturach Interpolu ze względów politycznych w okresie:",
+  "poprawna": "1952–1990",
+  "bledne": [
+   "1945–1989",
+   "1947–1988",
+   "1953–1989"
+  ],
+  "wyjasnienie": "Polska wystąpiła z Interpolu w 1952 r. i wróciła w 1990 r.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "0e11fb12fc",
+  "temat": "11–13. Interpol – noty, dyfuzje, bazy danych",
+  "pytanie": "Bazy danych Interpolu wymienione w poradniku JS09 to m.in.:",
+  "poprawna": "Nominal, SLTD, SMV",
+  "bledne": [
+   "SIS, VIS, Eurodac",
+   "EIS, SIENA, SWIzE",
+   "KSIP, SESPOL, POSIGRAF"
+  ],
+  "wyjasnienie": "Nominal – osoby, SLTD – skradzione i utracone dokumenty podróży, SMV – skradzione pojazdy.",
+  "zrodlo": "wlasne"
+ },
+ {
+  "id": "db8d1ad9be",
+  "temat": "14. EUCARIS i inne systemy",
+  "pytanie": "EUCARIS pozwala na wymianę informacji o:",
+  "poprawna": "pojazdach oraz danych właścicieli lub posiadaczy pojazdów (kierowców)",
+  "bledne": [
+   "wyłącznie pojazdach",
+   "pojazdach, danych właścicieli pojazdów oraz OC i terrorystach",
+   "danych pasażerów linii lotniczych"
+  ],
+  "wyjasnienie": "EUCARIS – europejski system informacji o pojazdach i prawach jazdy (sylabus JS09, pkt 14), wykorzystywany m.in. w wymianie z decyzji z Prüm. UWAGA – niepewne: w niektórych państwach dostępne są także dane o ubezpieczeniu OC.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "fb02e6b14a",
+  "temat": "14. EUCARIS i inne systemy",
+  "pytanie": "Wymiana danych pojazdów w ramach transgranicznej wymiany informacji o wykroczeniach drogowych realizowana jest za pośrednictwem EUCARIS i modułu:",
+  "poprawna": "CBE",
+  "bledne": [
+   "CAS",
+   "VIS",
+   "Ikarus"
+  ],
+  "wyjasnienie": "CBE – Cross Border Exchange (dyrektywa 2015/413 o transgranicznej wymianie informacji o naruszeniach przepisów ruchu drogowego). UWAGA – niepewne.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "e7c76bd77c",
+  "temat": "14. EUCARIS i inne systemy",
+  "pytanie": "Zautomatyzowana wymiana danych z decyzji z Prüm obejmuje dane:",
+  "poprawna": "DNA, daktyloskopijne oraz dane rejestracyjne pojazdów (EUCARIS)",
+  "bledne": [
+   "wyłącznie dane o osobach zaginionych",
+   "dane PNR i wizowe",
+   "dane z KRK i CEIDG"
+  ],
+  "wyjasnienie": "Sylabus JS09, pkt 1e: zautomatyzowana wymiana danych w obszarze DNA, daktyloskopii i EUCARIS.",
+  "zrodlo": "wlasne"
+ }
+]

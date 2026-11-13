@@ -6,5 +6,6 @@
  {"id": "JM02-JS06", "kod": "JM02 JS06", "nazwa": "Zatrzymanie osoby", "plik": "JM02-JS06.json"},
  {"id": "JM01-JS09", "kod": "JM01 JS09", "nazwa": "Historia Policji, etyka, prawa człowieka", "plik": "JM01-JS09.json"},
  {"id": "JM01-JS07-08", "kod": "JM01 JS07–JS08", "nazwa": "Przyjęcie informacji o przestępstwie, przesłuchanie świadka", "plik": "JM01-JS07-08.json"},
- {"id": "JM03-JS02-08", "kod": "JM03 JS02–JS08", "nazwa": "Praca operacyjna i poszukiwania", "plik": "JM03-JS02-08.json"}
+ {"id": "JM03-JS02-08", "kod": "JM03 JS02–JS08", "nazwa": "Praca operacyjna i poszukiwania", "plik": "JM03-JS02-08.json"},
+ {"id": "JM03-JS09", "kod": "JM03 JS09", "nazwa": "Międzynarodowe kanały wymiany informacji (SIS, Interpol, Europol)", "plik": "JM03-JS09.json"}
 ]
