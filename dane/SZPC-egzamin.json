@@ -1,0 +1,3330 @@
+[
+ {
+  "id": "7d265b2cc4",
+  "temat": "JM01 – Prawo (prawoznawstwo, k.k., k.w.)",
+  "pytanie": "Prawo formalne:",
+  "poprawna": "reguluje tryb postępowania, procedurę",
+  "bledne": [
+   "reguluje formalne związki między ludźmi, np. małżeństwo",
+   "reguluje relacje między obywatelami a organami publicznymi",
+   "jest tożsame z prawem opublikowanym"
+  ],
+  "wyjasnienie": "Prawo materialne określa prawa i obowiązki (np. k.k.), prawo formalne (procesowe) – sposób ich dochodzenia (np. k.p.k.).",
+  "zrodlo": "test"
+ },
+ {
+  "id": "4715ddbe00",
+  "temat": "JM01 – Prawo (prawoznawstwo, k.k., k.w.)",
+  "pytanie": "Akt normatywny to tekst określający normy postępowania, obowiązujący:",
+  "poprawna": "powszechnie (generalnie i abstrakcyjnie)",
+  "bledne": [
+   "indywidualnie",
+   "konkretną kategorię osób w konkretnej sprawie",
+   "konkretnego człowieka"
+  ],
+  "wyjasnienie": "Akt normatywny jest generalny i abstrakcyjny, w przeciwieństwie do aktu indywidualnego (np. decyzji).",
+  "zrodlo": "test"
+ },
+ {
+  "id": "5dc6bb273e",
+  "temat": "JM01 – Prawo (prawoznawstwo, k.k., k.w.)",
+  "pytanie": "Podstawową jednostką redakcyjną ustawy jest:",
+  "poprawna": "artykuł",
+  "bledne": [
+   "punkt",
+   "ustęp",
+   "paragraf"
+  ],
+  "wyjasnienie": "Zasady techniki prawodawczej: ustawa dzieli się na artykuły, rozporządzenie – na paragrafy.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "ea0dd60e38",
+  "temat": "JM01 – Prawo (prawoznawstwo, k.k., k.w.)",
+  "pytanie": "W Dzienniku Ustaw RP ogłasza się m.in.:",
+  "poprawna": "teksty jednolite ustaw oraz rozporządzenia z mocą ustawy wydawane przez Prezydenta RP",
+  "bledne": [
+   "uchwały Rady Ministrów i zarządzenia Prezesa Rady Ministrów",
+   "uchwały Sejmu dotyczące regulaminu Sejmu",
+   "zarządzenia wydawane przez ministrów"
+  ],
+  "wyjasnienie": "Ustawa o ogłaszaniu aktów normatywnych (art. 9). Uchwały i zarządzenia RM oraz regulamin Sejmu – Monitor Polski, zarządzenia ministrów – dzienniki urzędowe.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "f6d9bad4ec",
+  "temat": "JM01 – Prawo (prawoznawstwo, k.k., k.w.)",
+  "pytanie": "Ratyfikowana umowa międzynarodowa jest ogłaszana w:",
+  "poprawna": "Dzienniku Ustaw",
+  "bledne": [
+   "Dzienniku Urzędowym Ministerstwa Spraw Zagranicznych",
+   "Monitorze Polskim",
+   "Dzienniku Urzędowym Unii Europejskiej"
+  ],
+  "wyjasnienie": "Art. 9 ust. 1 pkt 6 ustawy o ogłaszaniu aktów normatywnych.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "16e3e2b715",
+  "temat": "JM01 – Prawo (prawoznawstwo, k.k., k.w.)",
+  "pytanie": "Jeżeli w czasie orzekania obowiązuje ustawa inna niż w czasie popełnienia przestępstwa, stosuje się:",
+  "poprawna": "ustawę nową, jednak należy stosować ustawę obowiązującą poprzednio, jeżeli jest względniejsza dla sprawcy",
+  "bledne": [
+   "ustawę obowiązującą uprzednio",
+   "zawsze ustawę nową",
+   "ustawę wybraną przez sąd"
+  ],
+  "wyjasnienie": "Art. 4 § 1 k.k.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "51cd52dbf2",
+  "temat": "JM01 – Prawo (prawoznawstwo, k.k., k.w.)",
+  "pytanie": "Zbrodnią jest:",
+  "poprawna": "czyn zabroniony zagrożony karą pozbawienia wolności na czas nie krótszy od lat 3 albo karą surowszą",
+  "bledne": [
+   "każdy czyn zabroniony zagrożony karą pozbawienia wolności powyżej 3 lat",
+   "każdy czyn, w sprawie którego trzeba prowadzić śledztwo",
+   "przestępstwo nieumyślne zagrożone karą od 3 do 25 lat"
+  ],
+  "wyjasnienie": "Art. 7 § 2 k.k. Zbrodnię można popełnić tylko umyślnie (art. 8 k.k.).",
+  "zrodlo": "test"
+ },
+ {
+  "id": "57ae41275a",
+  "temat": "JM01 – Prawo (prawoznawstwo, k.k., k.w.)",
+  "pytanie": "Odpowiedzialności karnej za przestępstwo skutkowe popełnione przez zaniechanie podlega tylko ten:",
+  "poprawna": "na kim ciążył prawny, szczególny obowiązek zapobiegnięcia skutkowi",
+  "bledne": [
+   "kto nie powinien dopuścić do popełnienia czynu zabronionego",
+   "na kim ciążył obowiązek zapobiegnięcia przestępstwu",
+   "kto z mocy ustawy zobowiązany był do zapobiegnięcia przestępstwu"
+  ],
+  "wyjasnienie": "Art. 2 k.k.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "5f2f445c13",
+  "temat": "JM01 – Prawo (prawoznawstwo, k.k., k.w.)",
+  "pytanie": "Grzywna:",
+  "poprawna": "jest karą",
+  "bledne": [
+   "nie jest karą",
+   "jest karą tylko łącznie z ograniczeniem wolności",
+   "jest środkiem karnym"
+  ],
+  "wyjasnienie": "Art. 32 pkt 1 k.k.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "3f4ea1693e",
+  "temat": "JM01 – Prawo (prawoznawstwo, k.k., k.w.)",
+  "pytanie": "W kodeksie karnym środkiem karnym NIE jest:",
+  "poprawna": "przepadek przedmiotów",
+  "bledne": [
+   "pozbawienie praw publicznych",
+   "świadczenie pieniężne",
+   "zakaz prowadzenia pojazdów"
+  ],
+  "wyjasnienie": "Art. 39 k.k. Przepadek jest uregulowany osobno (rozdział V k.k. – przepadek i środki kompensacyjne).",
+  "zrodlo": "test"
+ },
+ {
+  "id": "32fc87e9bb",
+  "temat": "JM01 – Prawo (prawoznawstwo, k.k., k.w.)",
+  "pytanie": "Każdy ze współdziałających w popełnieniu czynu zabronionego odpowiada w granicach swojej umyślności lub nieumyślności:",
+  "poprawna": "niezależnie od odpowiedzialności pozostałych współdziałających",
+  "bledne": [
+   "w zależności od odpowiedzialności pozostałych",
+   "w zależności od odpowiedzialności większości współdziałających",
+   "tak samo jak wszyscy współdziałający"
+  ],
+  "wyjasnienie": "Art. 20 k.k. – zasada indywidualizacji odpowiedzialności.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "306fc6cd62",
+  "temat": "JM01 – Prawo (prawoznawstwo, k.k., k.w.)",
+  "pytanie": "Obrona konieczna polega na:",
+  "poprawna": "odpieraniu bezpośredniego, bezprawnego zamachu na jakiekolwiek dobro chronione prawem",
+  "bledne": [
+   "odpieraniu jakiegokolwiek zamachu na dobro policjanta",
+   "uchylaniu bezpośredniego niebezpieczeństwa grożącego dobru",
+   "odpieraniu niebezpieczeństwa tylko gdy zagrożone jest życie"
+  ],
+  "wyjasnienie": "Art. 25 § 1 k.k. Uchylanie niebezpieczeństwa to stan wyższej konieczności (art. 26).",
+  "zrodlo": "test"
+ },
+ {
+  "id": "29f0559c66",
+  "temat": "JM01 – Prawo (prawoznawstwo, k.k., k.w.)",
+  "pytanie": "Istotą stanu wyższej konieczności jest:",
+  "poprawna": "poświęcenie jednego dobra w celu ratowania innego dobra chronionego prawem",
+  "bledne": [
+   "umyślne ciężkie uszkodzenie ciała",
+   "zamach na dobra materialne",
+   "ochrona człowieka wyłącznie przed poniżaniem"
+  ],
+  "wyjasnienie": "Art. 26 k.k.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "401adef24d",
+  "temat": "JM01 – Prawo (prawoznawstwo, k.k., k.w.)",
+  "pytanie": "Przestępstwo gróźb karalnych (art. 190 § 1 k.k.) ścigane jest:",
+  "poprawna": "na wniosek pokrzywdzonego",
+  "bledne": [
+   "z urzędu",
+   "na żądanie pokrzywdzonego",
+   "z oskarżenia prywatnego"
+  ],
+  "wyjasnienie": "Art. 190 § 2 k.k.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "ee15fbf4a4",
+  "temat": "JM01 – Prawo (prawoznawstwo, k.k., k.w.)",
+  "pytanie": "Groźba karalna (art. 190 k.k.) zachodzi, gdy sprawca grozi innej osobie popełnieniem przestępstwa:",
+  "poprawna": "na jej szkodę lub szkodę osoby najbliższej, a groźba wzbudza w osobie, do której ją skierowano lub której dotyczy, uzasadnioną obawę, że będzie spełniona",
+  "bledne": [
+   "wyłącznie na jej szkodę, a groźba wzbudza uzasadnioną obawę",
+   "na jej szkodę, a groźba może wzbudzić obawę",
+   "wyłącznie na szkodę osoby najbliższej, bez wymogu obawy"
+  ],
+  "wyjasnienie": "Art. 190 § 1 k.k.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "7cf1611f62",
+  "temat": "JM01 – Prawo (prawoznawstwo, k.k., k.w.)",
+  "pytanie": "Do znamion uporczywego nękania (art. 190a k.k.) należy:",
+  "poprawna": "wzbudzanie uzasadnionego okolicznościami poczucia zagrożenia, poniżenia lub udręczenia lub istotne naruszanie prywatności",
+  "bledne": [
+   "wzbudzanie wyłącznie poczucia zagrożenia",
+   "wzbudzanie wyłącznie poczucia poniżenia lub udręczenia",
+   "wyłącznie istotne naruszanie prywatności"
+  ],
+  "wyjasnienie": "Art. 190a § 1 k.k.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "628878a7af",
+  "temat": "JM01 – Prawo (prawoznawstwo, k.k., k.w.)",
+  "pytanie": "Podmiotem indywidualnym w typie kwalifikowanym zabójstwa z art. 148 § 3 k.k. jest osoba, która zabija człowieka:",
+  "poprawna": "będąc wcześniej prawomocnie skazaną za zabójstwo",
+  "bledne": [
+   "– dziecko w okresie porodu",
+   "pod wpływem silnego wzburzenia",
+   "na jego żądanie i pod wpływem współczucia"
+  ],
+  "wyjasnienie": "Art. 148 § 3 k.k.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "2c2c5d4376",
+  "temat": "JM01 – Prawo (prawoznawstwo, k.k., k.w.)",
+  "pytanie": "Naruszenie miru domowego (art. 193 k.k.) z uwagi na zachowanie sprawcy można popełnić:",
+  "poprawna": "zarówno z działania, jak i z zaniechania",
+  "bledne": [
+   "tylko z zaniechania",
+   "tylko z działania",
+   "również nieumyślnie"
+  ],
+  "wyjasnienie": "Wdarcie się – działanie, nieopuszczenie miejsca wbrew żądaniu – zaniechanie.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "21427e86cd",
+  "temat": "JM01 – Prawo (prawoznawstwo, k.k., k.w.)",
+  "pytanie": "Sprzeniewierzenie (art. 284 § 2 k.k.) to:",
+  "poprawna": "przywłaszczenie powierzonej rzeczy ruchomej",
+  "bledne": [
+   "kradzież rzeczy znacznej wartości",
+   "przywłaszczenie rzeczy na szkodę osoby najbliższej",
+   "przywłaszczenie rzeczy znacznej wartości"
+  ],
+  "wyjasnienie": "Art. 284 § 2 k.k.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "45eb853226",
+  "temat": "JM01 – Prawo (prawoznawstwo, k.k., k.w.)",
+  "pytanie": "Czynem przepołowionym NIE jest:",
+  "poprawna": "kradzież szczególnie zuchwała oraz kradzież karty płatniczej",
+  "bledne": [
+   "kradzież drzewa z lasu, kradzież i przywłaszczenie na szkodę osoby najbliższej",
+   "kradzież, oszustwo, przywłaszczenie mienia",
+   "kradzież alkoholu, uszkodzenie mienia"
+  ],
+  "wyjasnienie": "Kradzież szczególnie zuchwała i kradzież karty płatniczej (art. 278 § 5 k.k., art. 119 § 1 k.w.) są przestępstwami niezależnie od wartości. UWAGA – niepewne: oszustwo też nie jest czynem przepołowionym, ale klucz testu wskazuje tę odpowiedź.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "a6caab336d",
+  "temat": "JM01 – Prawo (prawoznawstwo, k.k., k.w.)",
+  "pytanie": "Ktoś zgłosił zabór roweru o wartości 600 zł. Zdarzenie nosi znamiona:",
+  "poprawna": "wykroczenia kradzieży",
+  "bledne": [
+   "przestępstwa kradzieży",
+   "wykroczenia przywłaszczenia mienia",
+   "przestępstwa przywłaszczenia mienia"
+  ],
+  "wyjasnienie": "Art. 119 § 1 k.w. – kradzież mienia o wartości nieprzekraczającej 800 zł.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "03e311069d",
+  "temat": "JM01 – Prawo (prawoznawstwo, k.k., k.w.)",
+  "pytanie": "Janusz S. ukradł w drogerii perfumy za 799,99 zł, chcąc je sprzedać koleżance. Policjant przyjął zawiadomienie o przestępstwie z art. 278 § 1 k.k. Postąpił:",
+  "poprawna": "nieprawidłowo, gdyż jest to wykroczenie",
+  "bledne": [
+   "nieprawidłowo, gdyż jest to przywłaszczenie mienia",
+   "prawidłowo, gdyż sprawca zamierzał sprzedać perfumy",
+   "prawidłowo, gdyż kradzież w sklepie nie jest czynem przepołowionym"
+  ],
+  "wyjasnienie": "Art. 119 § 1 k.w. – próg 800 zł. Cel sprzedaży nie zmienia kwalifikacji.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "794e7446fd",
+  "temat": "JM01 – Prawo (prawoznawstwo, k.k., k.w.)",
+  "pytanie": "Zbigniew K. wszedł przez otwarte okno balkonowe do mieszkania i zabrał telewizor za 2000 zł. Odpowie za:",
+  "poprawna": "kradzież z art. 278 § 1 k.k",
+  "bledne": [
+   "kradzież z włamaniem z art. 279 § 1 k.k",
+   "wykroczenie z art. 119 k.w",
+   "kradzież rozbójniczą z art. 280 § 1 k.k"
+  ],
+  "wyjasnienie": "Włamanie wymaga pokonania zabezpieczenia – otwarte okno nim nie jest. Wartość powyżej 800 zł – przestępstwo.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "52dba4b1ef",
+  "temat": "JM01 – Prawo (prawoznawstwo, k.k., k.w.)",
+  "pytanie": "Kto w celu dokonania kradzieży używa przemocy wobec osoby, wyczerpuje znamiona:",
+  "poprawna": "rozboju",
+  "bledne": [
+   "kradzieży rozbójniczej",
+   "kradzieży i naruszenia nietykalności",
+   "kradzieży szczególnie zuchwałej"
+  ],
+  "wyjasnienie": "Art. 280 § 1 k.k.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "ccc4aa0b25",
+  "temat": "JM01 – Prawo (prawoznawstwo, k.k., k.w.)",
+  "pytanie": "Gdy sprawca bezpośrednio po kradzieży stosuje przemoc, by utrzymać się w posiadaniu rzeczy, ma miejsce:",
+  "poprawna": "kradzież rozbójnicza",
+  "bledne": [
+   "rozbój",
+   "kradzież zwykła",
+   "wymuszenie rozbójnicze"
+  ],
+  "wyjasnienie": "Art. 281 k.k. Przemoc PRZED lub W CELU kradzieży – rozbój (art. 280).",
+  "zrodlo": "test"
+ },
+ {
+  "id": "2281450bfc",
+  "temat": "JM01 – Prawo (prawoznawstwo, k.k., k.w.)",
+  "pytanie": "Za przestępstwo spowodowania wypadku w komunikacji (art. 177 k.k.) odpowiada ten, kto narusza:",
+  "poprawna": "chociażby nieumyślnie zasady bezpieczeństwa w ruchu lądowym, wodnym lub powietrznym",
+  "bledne": [
+   "wyłącznie nieumyślnie zasady bezpieczeństwa w ruchu",
+   "wyłącznie umyślnie zasady bezpieczeństwa",
+   "chociażby nieumyślnie zasady wyłącznie w ruchu lądowym"
+  ],
+  "wyjasnienie": "Art. 177 § 1 k.k. Skutek (obrażenia) sprawca powoduje nieumyślnie.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "2fd065a637",
+  "temat": "JM01 – Prawo (prawoznawstwo, k.k., k.w.)",
+  "pytanie": "Wypadek komunikacyjny, w którym wyłącznie osoba najbliższa dla sprawcy doznała średniego uszczerbku (art. 157 § 1 k.k.), ścigany jest:",
+  "poprawna": "na wniosek pokrzywdzonego",
+  "bledne": [
+   "z oskarżenia publicznego bez wniosku",
+   "z urzędu",
+   "na żądanie pokrzywdzonego"
+  ],
+  "wyjasnienie": "Art. 177 § 3 k.k.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "9a037c91d3",
+  "temat": "JM01 – Prawo (prawoznawstwo, k.k., k.w.)",
+  "pytanie": "Przestępstwem o charakterze terrorystycznym NIE jest czyn zmierzający do:",
+  "poprawna": "wywołania poważnych zakłóceń funkcjonowania komunikacji zbiorowej",
+  "bledne": [
+   "zmuszenia organu władzy publicznej do podjęcia lub zaniechania czynności",
+   "wywołania poważnych zakłóceń w ustroju lub gospodarce",
+   "poważnego zastraszenia wielu osób"
+  ],
+  "wyjasnienie": "Art. 115 § 20 k.k. wymienia: poważne zastraszenie wielu osób, zmuszenie organu władzy, wywołanie poważnych zakłóceń w ustroju lub gospodarce.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "3a2ef7bf5c",
+  "temat": "JM01 – Prawo (prawoznawstwo, k.k., k.w.)",
+  "pytanie": "Kto czerpie korzyści majątkowe z uprawiania prostytucji przez inną osobę, wypełnia znamiona:",
+  "poprawna": "sutenerstwa",
+  "bledne": [
+   "stręczycielstwa",
+   "kuplerstwa",
+   "proponowania czynu nierządnego"
+  ],
+  "wyjasnienie": "Art. 204 § 2 k.k. Nakłanianie – stręczycielstwo, ułatwianie – kuplerstwo (art. 204 § 1).",
+  "zrodlo": "test"
+ },
+ {
+  "id": "c2bdd14baf",
+  "temat": "JM01 – Prawo (prawoznawstwo, k.k., k.w.)",
+  "pytanie": "Zgodnie z art. 41 k.w. środkiem oddziaływania wychowawczego jest:",
+  "poprawna": "ostrzeżenie",
+  "bledne": [
+   "nawiązka",
+   "przepadek przedmiotów",
+   "nagana"
+  ],
+  "wyjasnienie": "Art. 41 k.w.: pouczenie, zwrócenie uwagi, ostrzeżenie lub inne środki oddziaływania wychowawczego.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "40b554bdb7",
+  "temat": "JM01 – Prawo (prawoznawstwo, k.k., k.w.)",
+  "pytanie": "Pouczenie zgodnie z kodeksem wykroczeń to:",
+  "poprawna": "środek oddziaływania wychowawczego",
+  "bledne": [
+   "kara",
+   "środek karny",
+   "środek oddziaływania społecznego"
+  ],
+  "wyjasnienie": "Art. 41 k.w.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "047505052b",
+  "temat": "JM01 – Prawo (prawoznawstwo, k.k., k.w.)",
+  "pytanie": "Warunkiem odpowiedzialności za złożenie fałszywych zeznań (art. 233 § 2 k.k.) jest:",
+  "poprawna": "wcześniejsze uprzedzenie zeznającego o odpowiedzialności karnej za fałszywe zeznanie",
+  "bledne": [
+   "przesłuchanie wyłącznie przez policjanta",
+   "jednoczesne rejestrowanie przesłuchania",
+   "przesłuchanie w budynku organu administracji"
+  ],
+  "wyjasnienie": "Art. 233 § 2 k.k. (lub odebranie przyrzeczenia).",
+  "zrodlo": "test"
+ },
+ {
+  "id": "6035a135de",
+  "temat": "JM01 – Miejsce zdarzenia, oględziny, zawiadomienie, świadek",
+  "pytanie": "Po przybyciu na miejsce zdarzenia policjant stwierdził ryzyko naniesienia zanieczyszczeń na miejsce zdarzenia. Powinien:",
+  "poprawna": "nie dopuścić do dalszego naniesienia zanieczyszczeń",
+  "bledne": [
+   "szczegółowo udokumentować źródło zanieczyszczeń",
+   "niezwłocznie powiadomić dyżurnego",
+   "przerwać akcję ratowniczą i zabezpieczyć ślad"
+  ],
+  "wyjasnienie": "JS05: zabezpieczenie miejsca zdarzenia przed zmianą śladów. Akcji ratowniczej się nie przerywa.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "262610851a",
+  "temat": "JM01 – Miejsce zdarzenia, oględziny, zawiadomienie, świadek",
+  "pytanie": "Najważniejszą czynnością policjanta zabezpieczającego miejsce wypadku jest:",
+  "poprawna": "udzielenie pierwszej pomocy ofiarom zdarzenia",
+  "bledne": [
+   "podjęcie pościgu i zatrzymanie sprawcy",
+   "ustalenie danych uczestników zdarzenia",
+   "ochrona widocznych śladów kryminalistycznych"
+  ],
+  "wyjasnienie": "Ratowanie życia ma pierwszeństwo przed ochroną śladów.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "a36e4acc51",
+  "temat": "JM01 – Miejsce zdarzenia, oględziny, zawiadomienie, świadek",
+  "pytanie": "Oględziny miejsca, osoby lub rzeczy są czynnością procesową:",
+  "poprawna": "którą wykonuje się w razie potrzeby",
+  "bledne": [
+   "opisaną w art. 209 k.p.k",
+   "obowiązkową w każdym przypadku",
+   "z której jedynym zapisem jest notatka urzędowa"
+  ],
+  "wyjasnienie": "Art. 207 § 1 k.p.k. Z oględzin sporządza się protokół (art. 143 § 1 pkt 3).",
+  "zrodlo": "test"
+ },
+ {
+  "id": "f7d473052e",
+  "temat": "JM01 – Miejsce zdarzenia, oględziny, zawiadomienie, świadek",
+  "pytanie": "Podstawowym celem oględzin miejsca, rzeczy lub osoby jest:",
+  "poprawna": "ujawnienie, utrwalenie i zabezpieczenie śladów, które mogą służyć jako źródła dowodowe w postępowaniu",
+  "bledne": [
+   "wyłącznie opisanie stanu zastanego miejsca",
+   "utrwalenie miejsca za pomocą urządzeń technicznych",
+   "ustalenie danych osobowych osób obecnych w rejonie"
+  ],
+  "wyjasnienie": "Cel oględzin (JM01 JS06).",
+  "zrodlo": "test"
+ },
+ {
+  "id": "499ceb2392",
+  "temat": "JM01 – Miejsce zdarzenia, oględziny, zawiadomienie, świadek",
+  "pytanie": "Sporządzenia protokołu wymaga:",
+  "poprawna": "dokonanie oględzin",
+  "bledne": [
+   "rozpytanie osoby podejrzanej",
+   "rozmowa dzielnicowego z mieszkańcami",
+   "sprawdzenie terenu przy poszukiwaniu osób"
+  ],
+  "wyjasnienie": "Art. 143 § 1 pkt 3 k.p.k.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "970d6377c4",
+  "temat": "JM01 – Miejsce zdarzenia, oględziny, zawiadomienie, świadek",
+  "pytanie": "Oględzin lub badań ciała, które mogą wywołać uczucie wstydu, powinna dokonać osoba:",
+  "poprawna": "tej samej płci, chyba że łączą się z tym szczególne trudności",
+  "bledne": [
+   "tej samej płci tylko w przypadku małoletnich",
+   "każda, bez względu na płeć",
+   "zawsze tej samej płci, bez wyjątków"
+  ],
+  "wyjasnienie": "Art. 208 k.p.k.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "04842c3f3c",
+  "temat": "JM01 – Miejsce zdarzenia, oględziny, zawiadomienie, świadek",
+  "pytanie": "Szkic kryminalistyczny przedstawiający wycinek miejsca lub fragment oględzin, często w dużym przybliżeniu (nawet 1:1), to szkic:",
+  "poprawna": "szczegółowy",
+  "bledne": [
+   "specjalny",
+   "sytuacyjny",
+   "dokładny"
+  ],
+  "wyjasnienie": "Szkic sytuacyjny pokazuje miejsce na tle otoczenia, szczegółowy – wycinek w dużym przybliżeniu.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "b0e93d43cb",
+  "temat": "JM01 – Miejsce zdarzenia, oględziny, zawiadomienie, świadek",
+  "pytanie": "Jesteś technikiem na oględzinach. Ślad osmologiczny z tapicerki fotela kierowcy należy pobierać:",
+  "poprawna": "nie krócej niż 30 minut",
+  "bledne": [
+   "nie dłużej niż 30 minut",
+   "nie dłużej niż 15 minut",
+   "nie krócej niż 15 minut"
+  ],
+  "wyjasnienie": "Pochłaniacz zapachu musi być przyłożony odpowiednio długo, by przejąć zapach. UWAGA – niepewne: odpowiedź z klucza testu, w materiałach podaje się zwykle ok. 30 minut.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "2dbf7a4398",
+  "temat": "JM01 – Miejsce zdarzenia, oględziny, zawiadomienie, świadek",
+  "pytanie": "Każdą stronę protokołu przyjęcia ustnego zawiadomienia o przestępstwie, niezwłocznie po zakończeniu czynności, podpisuje:",
+  "poprawna": "każda osoba biorąca udział w czynności",
+  "bledne": [
+   "jedynie policjant przyjmujący zawiadomienie",
+   "przewodniczący rozprawy i protokolant",
+   "wyłącznie osoba składająca zawiadomienie"
+  ],
+  "wyjasnienie": "Art. 150 § 1 k.p.k.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "464d7f5ff3",
+  "temat": "JM01 – Miejsce zdarzenia, oględziny, zawiadomienie, świadek",
+  "pytanie": "Z chwilą złożenia przez pokrzywdzonego wniosku o ściganie:",
+  "poprawna": "postępowanie karne toczy się z urzędu",
+  "bledne": [
+   "postępowanie toczy się z oskarżenia prywatnego",
+   "pokrzywdzony staje się oskarżycielem posiłkowym",
+   "pokrzywdzony musi złożyć wnioski dowodowe"
+  ],
+  "wyjasnienie": "Art. 12 § 1 k.p.k.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "9dc4796716",
+  "temat": "JM01 – Miejsce zdarzenia, oględziny, zawiadomienie, świadek",
+  "pytanie": "Zgodnie z art. 304 k.p.k. osoba, która dowiedziawszy się o przestępstwie ściganym z urzędu nie zawiadomi prokuratora lub Policji:",
+  "poprawna": "co do zasady nie popełnia przestępstwa, bo to tylko społeczny obowiązek",
+  "bledne": [
+   "zawsze popełnia przestępstwo",
+   "popełnia przestępstwo, chyba że zawiadomi przed organami",
+   "popełnia wykroczenie"
+  ],
+  "wyjasnienie": "Art. 304 § 1 k.p.k. Karalne jest tylko niezawiadomienie o przestępstwach z art. 240 § 1 k.k.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "dddeed9dd3",
+  "temat": "JM01 – Miejsce zdarzenia, oględziny, zawiadomienie, świadek",
+  "pytanie": "Nie wolno przesłuchiwać jako świadka:",
+  "poprawna": "obrońcy co do faktów, o których dowiedział się udzielając porady prawnej lub prowadząc sprawę",
+  "bledne": [
+   "pełnomocnika pokrzywdzonego co do sytuacji w otoczeniu świadka",
+   "każdego obrońcy, duchownego i radcy co do okoliczności hańbiących",
+   "dzieci, wnuków i prawnuków osoby najbliższej"
+  ],
+  "wyjasnienie": "Art. 178 pkt 1 k.p.k.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "7cde99f22e",
+  "temat": "JM01 – Miejsce zdarzenia, oględziny, zawiadomienie, świadek",
+  "pytanie": "Prawo do odmowy składania zeznań przysługuje świadkowi, który jest:",
+  "poprawna": "osobą najbliższą dla oskarżonego",
+  "bledne": [
+   "podejrzewany o przestępstwo będące przedmiotem postępowania",
+   "małoletni",
+   "osobą niewładającą językiem polskim"
+  ],
+  "wyjasnienie": "Art. 182 § 1 k.p.k.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "d3e826ef89",
+  "temat": "JM01 – Miejsce zdarzenia, oględziny, zawiadomienie, świadek",
+  "pytanie": "Przed rozpoczęciem przesłuchania należy uprzedzić świadka o odpowiedzialności karnej za:",
+  "poprawna": "zeznanie nieprawdy lub zatajenie prawdy",
+  "bledne": [
+   "zeznanie nieprawdy lub jej potwierdzanie",
+   "zatajenie prawdy",
+   "zatajenie informacji o karalności"
+  ],
+  "wyjasnienie": "Art. 190 § 1 k.p.k.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "2d8a82a1c5",
+  "temat": "JM01 – Miejsce zdarzenia, oględziny, zawiadomienie, świadek",
+  "pytanie": "W postępowaniu przygotowawczym 14-latka pokrzywdzonego kradzieżą w charakterze świadka może przesłuchać:",
+  "poprawna": "policjant, w miarę możliwości w obecności przedstawiciela ustawowego",
+  "bledne": [
+   "wyłącznie sąd z udziałem biegłego psychologa",
+   "policjant wyłącznie w obecności przedstawiciela ustawowego",
+   "wyłącznie prokurator"
+  ],
+  "wyjasnienie": "Art. 171 § 3 k.p.k. Sąd z psychologiem przesłuchuje dzieci w sprawach z art. 185a (przemoc, przestępstwa seksualne) – kradzież do nich nie należy.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "9906827fc0",
+  "temat": "JM01 – Miejsce zdarzenia, oględziny, zawiadomienie, świadek",
+  "pytanie": "Na świadka, biegłego lub tłumacza, który bez zezwolenia wydalił się z miejsca czynności:",
+  "poprawna": "można nałożyć karę pieniężną do 3000 zł",
+  "bledne": [
+   "zawsze należy nałożyć grzywnę 10 000 zł",
+   "można nałożyć karę od 100 do 1000 zł",
+   "nie można nałożyć kary pieniężnej"
+  ],
+  "wyjasnienie": "Art. 285 § 1 k.p.k.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "351ad925f0",
+  "temat": "JM01 – Miejsce zdarzenia, oględziny, zawiadomienie, świadek",
+  "pytanie": "Zatrzymanie i przymusowe doprowadzenie osoby podejrzanej, gdy uporczywie uchyla się od stawiennictwa, może zarządzić:",
+  "poprawna": "prokurator",
+  "bledne": [
+   "przełożony policjanta",
+   "sąd",
+   "adwokat"
+  ],
+  "wyjasnienie": "Art. 247 § 1 k.p.k.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "493efac30d",
+  "temat": "JM01 – Miejsce zdarzenia, oględziny, zawiadomienie, świadek",
+  "pytanie": "W postępowaniu przygotowawczym przeprowadzenie wywiadu środowiskowego co do podejrzanego zarządza:",
+  "poprawna": "prokurator",
+  "bledne": [
+   "Policja",
+   "sąd",
+   "kurator sądowy"
+  ],
+  "wyjasnienie": "Art. 214 § 1 k.p.k. Przeprowadza go kurator sądowy (wyjątkowo Policja).",
+  "zrodlo": "test"
+ },
+ {
+  "id": "bd6ce983a7",
+  "temat": "JM01 – Miejsce zdarzenia, oględziny, zawiadomienie, świadek",
+  "pytanie": "Przeprowadzenie wywiadu środowiskowego jest obowiązkowe w sprawach o:",
+  "poprawna": "zbrodnie",
+  "bledne": [
+   "wykroczenia",
+   "występki",
+   "czyny karalne"
+  ],
+  "wyjasnienie": "Art. 214 § 2 pkt 1 k.p.k.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "2a50902124",
+  "temat": "JM01 – Etyka, historia, media, ceremoniał, kryzys, patologie, nieletni",
+  "pytanie": "Etyka zawodowa to:",
+  "poprawna": "zespół zasad i norm określających, jak z moralnego punktu widzenia powinni zachowywać się przedstawiciele zawodu mającego bezpośredni kontakt z wartościami uniwersalnymi (np. życie, zdrowie)",
+  "bledne": [
+   "lekcja etyczna o moralnym aspekcie produkcji",
+   "zbiór norm powszechnie obowiązujących w społeczności",
+   "zasada metodologiczna budowania systemu etycznego"
+  ],
+  "wyjasnienie": "JM01 JS09.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "e78af17ad1",
+  "temat": "JM01 – Etyka, historia, media, ceremoniał, kryzys, patologie, nieletni",
+  "pytanie": "„Zasady etyki zawodowej policjanta” określone są w akcie prawnym rangi:",
+  "poprawna": "zarządzenia",
+  "bledne": [
+   "ustawy",
+   "uchwały",
+   "rozporządzenia"
+  ],
+  "wyjasnienie": "Zarządzenie nr 805 KGP z 31 grudnia 2003 r.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "58f94dfcdb",
+  "temat": "JM01 – Etyka, historia, media, ceremoniał, kryzys, patologie, nieletni",
+  "pytanie": "Przełożony, oceniając podległych policjantów, jest zobowiązany kierować się:",
+  "poprawna": "jasno określonymi i znanymi im kryteriami oraz sprawiedliwością i obiektywizmem",
+  "bledne": [
+   "zasadą przyznawania równych nagród wszystkim",
+   "oczekiwaniami podwładnych",
+   "własnymi sympatiami i antypatiami"
+  ],
+  "wyjasnienie": "§ 19 Zasad etyki zawodowej policjanta.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "1f99d5382d",
+  "temat": "JM01 – Etyka, historia, media, ceremoniał, kryzys, patologie, nieletni",
+  "pytanie": "Policjant jako funkcjonariusz publiczny powinien:",
+  "poprawna": "wystrzegać się korupcji w każdej postaci oraz zwalczać jej przejawy",
+  "bledne": [
+   "lekceważyć przyjmowanie korzyści przez innych policjantów",
+   "zachować dyskrecję co do korupcji innych",
+   "przyjmować jedynie drobne upominki"
+  ],
+  "wyjasnienie": "§ 11 Zasad etyki zawodowej policjanta.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "0ff6f52432",
+  "temat": "JM01 – Etyka, historia, media, ceremoniał, kryzys, patologie, nieletni",
+  "pytanie": "Powszechna Deklaracja Praw Człowieka została uchwalona:",
+  "poprawna": "w 1948 r. w Paryżu",
+  "bledne": [
+   "w 1946 r. w Londynie",
+   "w 1945 r. w San Francisco",
+   "w 1945 r. w Nowym Jorku"
+  ],
+  "wyjasnienie": "10 grudnia 1948 r., Zgromadzenie Ogólne ONZ.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "74f0ccb483",
+  "temat": "JM01 – Etyka, historia, media, ceremoniał, kryzys, patologie, nieletni",
+  "pytanie": "Prawa zaliczane do pierwszej generacji praw człowieka, najsilniej chronione w prawie międzynarodowym, to:",
+  "poprawna": "prawa osobiste i polityczne",
+  "bledne": [
+   "prawa socjalne, ekonomiczne i kulturalne",
+   "prawa solidarnościowe (kolektywne)",
+   "prawa wynikające z obywatelstwa UE"
+  ],
+  "wyjasnienie": "I generacja – osobiste i polityczne, II – ekonomiczne, socjalne, kulturalne, III – solidarnościowe.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "e2add4d854",
+  "temat": "JM01 – Etyka, historia, media, ceremoniał, kryzys, patologie, nieletni",
+  "pytanie": "Święto Policji obchodzone 24 lipca upamiętnia:",
+  "poprawna": "powołanie Policji Państwowej w 1919 r",
+  "bledne": [
+   "odzyskanie niepodległości w 1918 r",
+   "szarżę pod Husynnem w 1939 r",
+   "utworzenie Policji w 1990 r"
+  ],
+  "wyjasnienie": "Ustawa z 24 lipca 1919 r. o Policji Państwowej.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "adcee74e48",
+  "temat": "JM01 – Etyka, historia, media, ceremoniał, kryzys, patologie, nieletni",
+  "pytanie": "Prasa, zgodnie z Konstytucją RP, korzysta z:",
+  "poprawna": "wolności wypowiedzi i urzeczywistnia prawo obywateli do rzetelnego informowania, jawności życia publicznego oraz kontroli i krytyki społecznej",
+  "bledne": [
+   "ograniczonej wolności słowa",
+   "ograniczonej wolności myśli",
+   "wolności wypowiedzi nieuderzającej w rząd"
+  ],
+  "wyjasnienie": "Art. 14 Konstytucji i art. 1 Prawa prasowego.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "4f5c3144f0",
+  "temat": "JM01 – Etyka, historia, media, ceremoniał, kryzys, patologie, nieletni",
+  "pytanie": "Działalność prasowo-informacyjną w Policji prowadzą, w zakresie swojej właściwości:",
+  "poprawna": "m.in. komendanci wojewódzcy, Komendant Stołeczny i komendanci powiatowi (miejscy, rejonowi) Policji",
+  "bledne": [
+   "dzielnicowi w swoich rejonach",
+   "wyłącznie rzecznicy i oficerowie prasowi",
+   "naczelnicy wydziałów prezydialnych"
+  ],
+  "wyjasnienie": "Odpowiedzialność personalna spoczywa na kierownikach jednostek – rzecznicy działają w ich imieniu (JM01 JS10).",
+  "zrodlo": "test"
+ },
+ {
+  "id": "821bc7339a",
+  "temat": "JM01 – Etyka, historia, media, ceremoniał, kryzys, patologie, nieletni",
+  "pytanie": "Jeśli na miejscu czynności jest kilku policjantów, informacji dziennikarzom udziela:",
+  "poprawna": "kierujący działaniami lub wyznaczona przez niego osoba",
+  "bledne": [
+   "dowódca działań",
+   "najstarszy stopniem lub służbą",
+   "policjant, który przybył jako pierwszy"
+  ],
+  "wyjasnienie": "JM01 JS10 – zasady udzielania informacji na miejscu zdarzenia.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "a591d2c36e",
+  "temat": "JM01 – Etyka, historia, media, ceremoniał, kryzys, patologie, nieletni",
+  "pytanie": "W czasie działań policyjnych zgodę na dostęp dziennikarzy do miejsca czynności wyraża:",
+  "poprawna": "dowodzący działaniami, po ustaleniu z rzecznikiem lub oficerem prasowym",
+  "bledne": [
+   "każdy policjant, do którego podszedł dziennikarz",
+   "rzecznik prasowy samodzielnie",
+   "wyłącznie kierownik jednostki Policji"
+  ],
+  "wyjasnienie": "JM01 JS10.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "3acfbb7e8b",
+  "temat": "JM01 – Etyka, historia, media, ceremoniał, kryzys, patologie, nieletni",
+  "pytanie": "Policjanci nie mają obowiązku oddawania honorów w czasie:",
+  "poprawna": "przechodzenia przez jezdnię oraz mijania się w odległości większej niż ok. 15 kroków",
+  "bledne": [
+   "spotkania na naradach",
+   "spotkania z Komendantem Głównym Policji",
+   "mijania wyższych i równych stopniem"
+  ],
+  "wyjasnienie": "Zasady regulaminowego zachowania (JM01 JS11).",
+  "zrodlo": "test"
+ },
+ {
+  "id": "d19f86a304",
+  "temat": "JM01 – Etyka, historia, media, ceremoniał, kryzys, patologie, nieletni",
+  "pytanie": "W czasie oficjalnego wykonywania hymnu RP policjanci występujący indywidualnie w umundurowaniu z nakryciem głowy:",
+  "poprawna": "przyjmują postawę zasadniczą i salutują",
+  "bledne": [
+   "przyjmują postawę zasadniczą",
+   "przyjmują postawę swobodną",
+   "przyjmują postawę swobodną i salutują"
+  ],
+  "wyjasnienie": "Ceremoniał policyjny (JM01 JS11).",
+  "zrodlo": "test"
+ },
+ {
+  "id": "2a292b4087",
+  "temat": "JM01 – Etyka, historia, media, ceremoniał, kryzys, patologie, nieletni",
+  "pytanie": "W grupie policjantów w wąskim przejściu ten, który pierwszy zauważy zbliżającego się przełożonego lub starszego stopniem, wydaje komendę:",
+  "poprawna": "„PRZEJŚCIE!”",
+  "bledne": [
+   "„MIEJSCE!”",
+   "„BACZNOŚĆ!”",
+   "nie wydaje się komendy"
+  ],
+  "wyjasnienie": "Zasady regulaminowego zachowania (JM01 JS11).",
+  "zrodlo": "test"
+ },
+ {
+  "id": "76ffe14240",
+  "temat": "JM01 – Etyka, historia, media, ceremoniał, kryzys, patologie, nieletni",
+  "pytanie": "W korpusie oficerów starszych Policji NIE występuje stopień:",
+  "poprawna": "generalnego inspektora Policji",
+  "bledne": [
+   "młodszego inspektora Policji",
+   "inspektora Policji",
+   "podinspektora Policji"
+  ],
+  "wyjasnienie": "Oficerowie starsi: podinspektor, młodszy inspektor, inspektor. Generalny inspektor – korpus generałów.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "1ee67f5f18",
+  "temat": "JM01 – Etyka, historia, media, ceremoniał, kryzys, patologie, nieletni",
+  "pytanie": "W przypadku zagrożenia zdarzeniem o charakterze terrorystycznym można wprowadzić jeden z ilu stopni alarmowych?",
+  "poprawna": "czterech",
+  "bledne": [
+   "pięciu",
+   "trzech",
+   "dwóch"
+  ],
+  "wyjasnienie": "Ustawa o działaniach antyterrorystycznych: ALFA, BRAVO, CHARLIE, DELTA.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "04b7345663",
+  "temat": "JM01 – Etyka, historia, media, ceremoniał, kryzys, patologie, nieletni",
+  "pytanie": "Trzeci stopień alarmowy (CHARLIE) można wprowadzić w przypadku:",
+  "poprawna": "wystąpienia zdarzenia o charakterze terrorystycznym powodującego zagrożenie bezpieczeństwa lub porządku publicznego",
+  "bledne": [
+   "informacji o możliwości zdarzenia, którego rodzaj jest trudny do przewidzenia",
+   "zwiększonego, przewidywalnego zagrożenia bez zidentyfikowanego celu",
+   "zdarzenia o charakterze terrorystycznym na terytorium RP powodującego zagrożenie życia lub zdrowia obywateli (stan po ataku)"
+  ],
+  "wyjasnienie": "Art. 15 ustawy o działaniach antyterrorystycznych: ALFA – informacja o możliwości zdarzenia, BRAVO – zwiększone, przewidywalne zagrożenie, CHARLIE – wystąpienie zdarzenia albo wiarygodne informacje o planowanym zdarzeniu, DELTA – zdarzenie na terytorium RP lub zaawansowane przygotowania. UWAGA – niepewne: granica CHARLIE/DELTA zależy od sformułowania pytania.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "11a617cdb1",
+  "temat": "JM01 – Etyka, historia, media, ceremoniał, kryzys, patologie, nieletni",
+  "pytanie": "Pod pojęciem awarii technicznej rozumie się:",
+  "poprawna": "gwałtowne, nieprzewidziane uszkodzenie lub zniszczenie obiektu budowlanego, urządzenia lub systemu technicznego powodujące przerwę w używaniu lub utratę właściwości",
+  "bledne": [
+   "sytuację wpływającą negatywnie na bezpieczeństwo ludzi i mienia",
+   "katastrofę naturalną zagrażającą życiu wielu osób",
+   "zdarzenie związane z działaniem sił natury"
+  ],
+  "wyjasnienie": "Art. 3 ust. 1 pkt 4 ustawy o stanie klęski żywiołowej (JM01 JS12 – zarządzanie kryzysowe).",
+  "zrodlo": "test"
+ },
+ {
+  "id": "f7737be42d",
+  "temat": "JM01 – Etyka, historia, media, ceremoniał, kryzys, patologie, nieletni",
+  "pytanie": "Według ustawy o przeciwdziałaniu narkomanii amfetamina należy do substancji:",
+  "poprawna": "pobudzających ośrodkowy układ nerwowy",
+  "bledne": [
+   "działających opóźniająco na OUN",
+   "wywołujących zaburzenia w OUN",
+   "wywołujących halucynacje"
+  ],
+  "wyjasnienie": "JM01 JS13 – rozpoznawanie środków odurzających.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "6566cac95d",
+  "temat": "JM01 – Etyka, historia, media, ceremoniał, kryzys, patologie, nieletni",
+  "pytanie": "Amfetamina to:",
+  "poprawna": "substancja syntetyczna",
+  "bledne": [
+   "substancja naturalna",
+   "półprodukt",
+   "prekursor khatu"
+  ],
+  "wyjasnienie": "JM01 JS13.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "3783b54096",
+  "temat": "JM01 – Etyka, historia, media, ceremoniał, kryzys, patologie, nieletni",
+  "pytanie": "Do środków psychoaktywnych o charakterze stymulującym zaliczamy:",
+  "poprawna": "amfetaminę, crack, khat, ecstasy",
+  "bledne": [
+   "relanium, heroinę i crack",
+   "marihuanę, barbiturany i kokainę",
+   "khat, meskalinę, kokainę i metadon"
+  ],
+  "wyjasnienie": "Relanium, heroina, barbiturany, metadon działają depresyjnie.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "30ae14813a",
+  "temat": "JM01 – Etyka, historia, media, ceremoniał, kryzys, patologie, nieletni",
+  "pytanie": "Posiadanie środków odurzających lub substancji psychotropowych wbrew ustawie o przeciwdziałaniu narkomanii jest:",
+  "poprawna": "karalne",
+  "bledne": [
+   "karalne tylko przy znacznej ilości",
+   "dozwolone na własny użytek",
+   "karalne tylko przy tzw. narkotykach twardych"
+  ],
+  "wyjasnienie": "Art. 62 ustawy o przeciwdziałaniu narkomanii.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "19b7609468",
+  "temat": "JM01 – Etyka, historia, media, ceremoniał, kryzys, patologie, nieletni",
+  "pytanie": "Abolicjonizm w odniesieniu do prostytucji oznacza m.in.:",
+  "poprawna": "wszechstronną reedukację prostytutek oraz karanie czynów związanych z eksploatacją prostytucji",
+  "bledne": [
+   "zakaz uprawiania prostytucji pod groźbą kar",
+   "nadzór lekarski i domy publiczne",
+   "ewidencjonowanie prostytutek przez policję"
+  ],
+  "wyjasnienie": "Prohibicjonizm – zakaz i karanie, reglamentacjonizm – nadzór i domy publiczne, abolicjonizm – model przyjęty w Polsce.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "e0bfde2164",
+  "temat": "JM01 – Etyka, historia, media, ceremoniał, kryzys, patologie, nieletni",
+  "pytanie": "Czynem karalnym według ustawy o wspieraniu i resocjalizacji nieletnich jest m.in.:",
+  "poprawna": "każde przestępstwo lub przestępstwo skarbowe",
+  "bledne": [
+   "przestępstwo określone w art. 10 § 2 k.k",
+   "każdy przejaw demoralizacji",
+   "jedynie wykroczenie i przejaw demoralizacji"
+  ],
+  "wyjasnienie": "Art. 1 ust. 2 pkt 2 UWRN: przestępstwo lub przestępstwo skarbowe albo wykroczenie lub wykroczenie skarbowe.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "f385e09a50",
+  "temat": "JM01 – Etyka, historia, media, ceremoniał, kryzys, patologie, nieletni",
+  "pytanie": "Środkiem wychowawczym w ustawie o wspieraniu i resocjalizacji nieletnich NIE jest:",
+  "poprawna": "umieszczenie w zakładzie leczniczym",
+  "bledne": [
+   "upomnienie",
+   "umieszczenie w okręgowym ośrodku wychowawczym",
+   "umieszczenie w młodzieżowym ośrodku wychowawczym"
+  ],
+  "wyjasnienie": "Art. 7 UWRN. Umieszczenie w zakładzie leczniczym to środek LECZNICZY (art. 8).",
+  "zrodlo": "test"
+ },
+ {
+  "id": "0f15c3dfec",
+  "temat": "JM01 – Etyka, historia, media, ceremoniał, kryzys, patologie, nieletni",
+  "pytanie": "Policja może zatrzymać i umieścić w policyjnej izbie dziecka nieletniego:",
+  "poprawna": "gdy istnieje uzasadnione przypuszczenie, że dopuścił się czynu karalnego w postaci przestępstwa",
+  "bledne": [
+   "który jest sprawcą wykroczenia",
+   "podejrzanego o demoralizację",
+   "który jest sprawcą wykroczenia skarbowego"
+  ],
+  "wyjasnienie": "Art. 48 ust. 1 UWRN (oraz obawa ucieczki, ukrycia się, zatarcia śladów lub nieustalona tożsamość).",
+  "zrodlo": "test"
+ },
+ {
+  "id": "31a00dbbab",
+  "temat": "JM01 – Etyka, historia, media, ceremoniał, kryzys, patologie, nieletni",
+  "pytanie": "Z zatrzymania nieletniego sporządza się:",
+  "poprawna": "protokół",
+  "bledne": [
+   "notatkę",
+   "notatkę służbową",
+   "raport"
+  ],
+  "wyjasnienie": "Art. 48 ust. 4 UWRN.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "2d8690fe7f",
+  "temat": "JM01 – Etyka, historia, media, ceremoniał, kryzys, patologie, nieletni",
+  "pytanie": "W przypadku zatrzymania nieletniego sprawcy czynu karalnego:",
+  "poprawna": "zawsze należy powiadomić sąd rodzinny",
+  "bledne": [
+   "zawsze należy powiadomić prokuratora",
+   "zawsze należy powiadomić sąd rodzinny i prokuratora",
+   "nie ma obowiązku powiadamiania"
+  ],
+  "wyjasnienie": "Art. 48 ust. 5 UWRN – sąd rodzinny i rodzice albo opiekun.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "061830ec76",
+  "temat": "JM01 – Etyka, historia, media, ceremoniał, kryzys, patologie, nieletni",
+  "pytanie": "Zatrzymanego 16-letniego nieletniego sprawcę czynu karalnego należy natychmiast zwolnić, jeżeli:",
+  "poprawna": "polecił to sąd rodzinny",
+  "bledne": [
+   "w ciągu 48 godzin nie przekazano go sądowi z wnioskiem o areszt",
+   "ustały przesłanki trybu przyspieszonego",
+   "polecił to prokurator"
+  ],
+  "wyjasnienie": "Art. 48 ust. 9 UWRN.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "ef17a9b459",
+  "temat": "JM01 – Etyka, historia, media, ceremoniał, kryzys, patologie, nieletni",
+  "pytanie": "Zgodnie z art. 48 ust. 2 UWRN zatrzymanego nieletniego może w razie konieczności umieścić w policyjnej izbie dziecka także:",
+  "poprawna": "Straż Graniczna",
+  "bledne": [
+   "Żandarmeria Wojskowa",
+   "Służba Celno-Skarbowa",
+   "Służba Ochrony Państwa"
+  ],
+  "wyjasnienie": "Art. 48 ust. 2 UWRN.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "a3e9a745e0",
+  "temat": "JM02 – Łączność, legitymowanie, kontrola, przeszukanie, zatrzymanie, asysta",
+  "pytanie": "Co rozumiesz pod pojęciem „grupa rozmówna”?",
+  "poprawna": "wydzieloną wirtualnie grupę użytkowników urządzeń radiowych pracującą na dynamicznie lub statycznie przydzielonym kanale",
+  "bledne": [
+   "łączność w obrębie jednej stałej sieci radiowej",
+   "sposób korespondencji między dwoma użytkownikami",
+   "sieć radiową ruchomą organizowaną doraźnie"
+  ],
+  "wyjasnienie": "JM02 JS01.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "bfd420a355",
+  "temat": "JM02 – Łączność, legitymowanie, kontrola, przeszukanie, zatrzymanie, asysta",
+  "pytanie": "Kanał radiowy to tor:",
+  "poprawna": "transmisyjny wykorzystywany do bezprzewodowego przesyłania informacji za pomocą fal elektromagnetycznych",
+  "bledne": [
+   "transmisyjny między interfejsami urządzeń",
+   "do przesyłania sygnalizacji zwrotnej",
+   "retransmisyjny określany przedziałem częstotliwości"
+  ],
+  "wyjasnienie": "JM02 JS01.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "2ad408e296",
+  "temat": "JM02 – Łączność, legitymowanie, kontrola, przeszukanie, zatrzymanie, asysta",
+  "pytanie": "„Kanał roboczy” to:",
+  "poprawna": "kanał radiowy przydzielony do wykorzystania dla danej sieci radiowej",
+  "bledne": [
+   "zespół stacji pracujących według wspólnych danych radiowych",
+   "tor transmisyjny wykorzystujący fale elektromagnetyczne",
+   "łączność między stacjami na przydzielonym kanale"
+  ],
+  "wyjasnienie": "JM02 JS01.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "8e52edf51f",
+  "temat": "JM02 – Łączność, legitymowanie, kontrola, przeszukanie, zatrzymanie, asysta",
+  "pytanie": "Łączność między stacjami radiowymi realizowaną w oparciu o przydzielony kanał radiowy nazywamy łącznością:",
+  "poprawna": "radiową",
+  "bledne": [
+   "pewną",
+   "wzajemną",
+   "dobrej słyszalności"
+  ],
+  "wyjasnienie": "JM02 JS01.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "4d658bbaf1",
+  "temat": "JM02 – Łączność, legitymowanie, kontrola, przeszukanie, zatrzymanie, asysta",
+  "pytanie": "Osoba legitymowana ma obowiązek:",
+  "poprawna": "podać dane umożliwiające ustalenie tożsamości",
+  "bledne": [
+   "odmówić podania nazwiska",
+   "oddać telefon do kontroli",
+   "podpisać oświadczenie"
+  ],
+  "wyjasnienie": "Art. 65 k.w. – wprowadzenie w błąd co do tożsamości jest wykroczeniem.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "370b749b99",
+  "temat": "JM02 – Łączność, legitymowanie, kontrola, przeszukanie, zatrzymanie, asysta",
+  "pytanie": "Policjant legitymujący bezpośrednio po sobie kolejne osoby w pobliżu z tej samej przyczyny przedstawia się:",
+  "poprawna": "tylko raz, na początku",
+  "bledne": [
+   "na polecenie prokuratora",
+   "za każdym razem",
+   "na polecenie legitymowanego"
+  ],
+  "wyjasnienie": "§ 5 ust. 2 rozporządzenia RM z 8 listopada 2023 r.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "0d09374665",
+  "temat": "JM02 – Łączność, legitymowanie, kontrola, przeszukanie, zatrzymanie, asysta",
+  "pytanie": "Policjant, podejmując czynność wobec osoby znanej mu osobiście:",
+  "poprawna": "może odstąpić od legitymowania tej osoby",
+  "bledne": [
+   "może odstąpić od sprawdzenia w KSIP, ale musi ją wylegitymować",
+   "musi tylko ustnie potwierdzić tożsamość",
+   "zobowiązany jest ją wylegitymować"
+  ],
+  "wyjasnienie": "§ 6 rozporządzenia RM z 8 listopada 2023 r.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "6837588fb6",
+  "temat": "JM02 – Łączność, legitymowanie, kontrola, przeszukanie, zatrzymanie, asysta",
+  "pytanie": "Legitymując osobę w pojeździe, policjant ze względów bezpieczeństwa zażądał, by wszystkie osoby wysiadły. Postąpił:",
+  "poprawna": "prawidłowo – może tego żądać od wszystkich osób w pojeździe",
+  "bledne": [
+   "prawidłowo, ale tylko przy podejrzeniu czynu zabronionego",
+   "nieprawidłowo – może żądać tylko od legitymowanego",
+   "nieprawidłowo – nie może tego żądać od nikogo"
+  ],
+  "wyjasnienie": "§ 5 ust. 1 rozporządzenia RM z 8 listopada 2023 r.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "001ca75333",
+  "temat": "JM02 – Łączność, legitymowanie, kontrola, przeszukanie, zatrzymanie, asysta",
+  "pytanie": "O prawie złożenia zażalenia do prokuratora na sposób przeprowadzenia legitymowania policjant ustnie informuje:",
+  "poprawna": "wszystkie osoby objęte tą czynnością",
+  "bledne": [
+   "tylko sprawców",
+   "tylko świadków",
+   "tylko pokrzywdzonych"
+  ],
+  "wyjasnienie": "§ 2 ust. 4 rozporządzenia RM z 8 listopada 2023 r.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "f99c75fc2d",
+  "temat": "JM02 – Łączność, legitymowanie, kontrola, przeszukanie, zatrzymanie, asysta",
+  "pytanie": "Do patrolu podeszła osoba, którą mężczyzna uderzył pięścią w twarz bez obrażeń, i zażądała jego wylegitymowania. Policjant powinien:",
+  "poprawna": "wylegitymować tę osobę",
+  "bledne": [
+   "nie legitymować, bo nie widział zdarzenia",
+   "nie legitymować, bo w trybie prywatnoskargowym działa tylko na polecenie sądu",
+   "legitymować dopiero po zgodzie dyżurnego"
+  ],
+  "wyjasnienie": "Naruszenie nietykalności (art. 217 k.k.) jest ścigane z oskarżenia prywatnego, ale ustalenie tożsamości sprawcy umożliwia pokrzywdzonemu złożenie skargi (art. 488 k.p.k.).",
+  "zrodlo": "test"
+ },
+ {
+  "id": "8ce7902705",
+  "temat": "JM02 – Łączność, legitymowanie, kontrola, przeszukanie, zatrzymanie, asysta",
+  "pytanie": "Kontrolę osobistą policjant może przeprowadzić w celu:",
+  "poprawna": "znalezienia przedmiotów, których posiadanie jest zabronione",
+  "bledne": [
+   "sprawdzenia sytuacji rodzinnej",
+   "ustalenia miejsca pracy",
+   "kontroli stanu zdrowia"
+  ],
+  "wyjasnienie": "Art. 15 ust. 1 pkt 5 ustawy o Policji.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "b5dfd25e17",
+  "temat": "JM02 – Łączność, legitymowanie, kontrola, przeszukanie, zatrzymanie, asysta",
+  "pytanie": "Przystępując do kontroli osobistej, policjant ma obowiązek:",
+  "poprawna": "podać podstawę prawną i przyczynę dokonania czynności",
+  "bledne": [
+   "wezwać do poddania się i ostrzec przed ŚPB",
+   "ostrzec o możliwości użycia ŚPB",
+   "podać przyczynę, a podstawę prawną tylko na żądanie"
+  ],
+  "wyjasnienie": "Art. 15d ust. 4 pkt 2 ustawy o Policji.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "39ccbdcbfe",
+  "temat": "JM02 – Łączność, legitymowanie, kontrola, przeszukanie, zatrzymanie, asysta",
+  "pytanie": "Nieumundurowany policjant dokonujący kontroli osobistej:",
+  "poprawna": "może żądać przyjęcia przez osobę kontrolowaną pozycji ciała umożliwiającej sprawdzenie miejsc intymnych",
+  "bledne": [
+   "nie może żądać opróżnienia kieszeni",
+   "może nie okazać legitymacji na żądanie",
+   "nie może sprawdzać osoby płci odmiennej"
+  ],
+  "wyjasnienie": "Art. 15d ust. 4 pkt 4 ustawy o Policji (także opróżnienia kieszeni). Na żądanie okazuje legitymację (pkt 1). W niecierpiących zwłoki sytuacjach może kontrolować osobę płci odmiennej (ust. 6).",
+  "zrodlo": "test"
+ },
+ {
+  "id": "81dc5be96d",
+  "temat": "JM02 – Łączność, legitymowanie, kontrola, przeszukanie, zatrzymanie, asysta",
+  "pytanie": "Przy negatywnym wyniku kontroli osobistej, gdy osoba nie żąda protokołu, kontrolę dokumentuje się w:",
+  "poprawna": "notatniku służbowym lub notatce służbowej",
+  "bledne": [
+   "protokole kontroli osobistej",
+   "raporcie służbowym",
+   "książce kontroli lub notatce urzędowej"
+  ],
+  "wyjasnienie": "Art. 15d ust. 10 ustawy o Policji – protokół tylko na żądanie lub przy znalezieniu przedmiotów.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "8555049ad3",
+  "temat": "JM02 – Łączność, legitymowanie, kontrola, przeszukanie, zatrzymanie, asysta",
+  "pytanie": "W celu zbadania prawidłowości kontroli osobistej osobie kontrolowanej przysługuje zażalenie do właściwego miejscowo:",
+  "poprawna": "sądu rejonowego",
+  "bledne": [
+   "prokuratora",
+   "komendanta Policji",
+   "wojewódzkiego sądu administracyjnego"
+  ],
+  "wyjasnienie": "Art. 15d ust. 11 ustawy o Policji – w terminie 7 dni.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "3f4cae4eb1",
+  "temat": "JM02 – Łączność, legitymowanie, kontrola, przeszukanie, zatrzymanie, asysta",
+  "pytanie": "Celem przeszukania określonym w k.p.k. NIE jest:",
+  "poprawna": "przymusowe doprowadzenie świadka",
+  "bledne": [
+   "zatrzymanie osoby podejrzanej",
+   "wykrycie osoby podejrzanej",
+   "przymusowe doprowadzenie osoby podejrzanej"
+  ],
+  "wyjasnienie": "Art. 219 § 1 k.p.k.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "85f8045402",
+  "temat": "JM02 – Łączność, legitymowanie, kontrola, przeszukanie, zatrzymanie, asysta",
+  "pytanie": "Zgodnie z k.p.k. każde przeszukanie powinno być dokonane:",
+  "poprawna": "zgodnie z celem tej czynności",
+  "bledne": [
+   "wyłącznie po dobrowolnym wydaniu przedmiotów",
+   "zawsze po podaniu podstawy w identycznej formie",
+   "wyłącznie na podstawie postanowienia sądu"
+  ],
+  "wyjasnienie": "Art. 227 k.p.k.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "b567197c03",
+  "temat": "JM02 – Łączność, legitymowanie, kontrola, przeszukanie, zatrzymanie, asysta",
+  "pytanie": "Dokumentem uprawniającym do przeszukania osoby lub pomieszczeń w wypadkach niecierpiących zwłoki jest:",
+  "poprawna": "legitymacja służbowa policjanta",
+  "bledne": [
+   "zarządzenie kierownika jednostki",
+   "zarządzenie dyżurnego",
+   "postanowienie kierownika jednostki"
+  ],
+  "wyjasnienie": "Art. 220 § 3 k.p.k. (albo NAKAZ kierownika jednostki).",
+  "zrodlo": "test"
+ },
+ {
+  "id": "54ba331f7c",
+  "temat": "JM02 – Łączność, legitymowanie, kontrola, przeszukanie, zatrzymanie, asysta",
+  "pytanie": "Postanowienie w przedmiocie zatwierdzenia przeszukania doręcza się przeszukanemu na jego żądanie w terminie:",
+  "poprawna": "7 dni od daty czynności",
+  "bledne": [
+   "14 dni od daty czynności",
+   "5 dni od daty czynności",
+   "3 dni od daty czynności"
+  ],
+  "wyjasnienie": "Art. 220 § 3 k.p.k.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "8a732baa37",
+  "temat": "JM02 – Łączność, legitymowanie, kontrola, przeszukanie, zatrzymanie, asysta",
+  "pytanie": "Polskie i zagraniczne pieniądze ujawnione podczas przeszukania, które nie muszą być zachowane w konkretnych egzemplarzach, należy:",
+  "poprawna": "wpłacić na odpowiedni rachunek bankowy (wyjątkowo na konto depozytowe prokuratury)",
+  "bledne": [
+   "przekazać prokuratorowi po sporządzeniu deklaracji depozytowej",
+   "przekazać w kopercie przełożonemu",
+   "przekazać w miejsce wyznaczone przez kierownika jednostki"
+  ],
+  "wyjasnienie": "Przepisy o dowodach rzeczowych. UWAGA – niepewne: odpowiedź z klucza testu SZPC.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "a91abd77c5",
+  "temat": "JM02 – Łączność, legitymowanie, kontrola, przeszukanie, zatrzymanie, asysta",
+  "pytanie": "Przy zwrocie osobie uprawnionej dowodu rzeczowego ujawnionego podczas przeszukania policjant:",
+  "poprawna": "odnotowuje to w wykazie dowodów rzeczowych, a do akt dołącza pokwitowanie od osoby uprawnionej",
+  "bledne": [
+   "dołącza do akt wniosek o wydanie",
+   "przekazuje dowód z kopią deklaracji depozytowej",
+   "dołącza do akt protokół oględzin"
+  ],
+  "wyjasnienie": "Przepisy o dowodach rzeczowych. UWAGA – niepewne: odpowiedź z klucza testu SZPC.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "2ecb92e992",
+  "temat": "JM02 – Łączność, legitymowanie, kontrola, przeszukanie, zatrzymanie, asysta",
+  "pytanie": "Ze względu na podstawę faktyczną zatrzymania wyróżnia się m.in. zatrzymania:",
+  "poprawna": "procesowe, prewencyjne, porządkowe, administracyjne i penitencjarne",
+  "bledne": [
+   "ustawowe i nakazowe",
+   "zwyczajne, nadzwyczajne i zastrzeżone",
+   "wyłącznie prewencyjne i procesowe"
+  ],
+  "wyjasnienie": "JM02 JS06.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "dcbbe2057e",
+  "temat": "JM02 – Łączność, legitymowanie, kontrola, przeszukanie, zatrzymanie, asysta",
+  "pytanie": "Policjanci zatrzymali agresywnego mężczyznę stwarzającego bezpośrednie zagrożenie dla życia i zdrowia innych. Sporządzą protokół zatrzymania:",
+  "poprawna": "prewencyjnego",
+  "bledne": [
+   "procesowego",
+   "penitencjarnego",
+   "do wytrzeźwienia"
+  ],
+  "wyjasnienie": "Art. 15 ust. 1 pkt 3 ustawy o Policji.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "dc38886750",
+  "temat": "JM02 – Łączność, legitymowanie, kontrola, przeszukanie, zatrzymanie, asysta",
+  "pytanie": "Osobę zatrzymaną w związku z uzasadnionym przypuszczeniem popełnienia przestępstwa należy poinformować o przyczynie zatrzymania i prawach:",
+  "poprawna": "natychmiast",
+  "bledne": [
+   "w ciągu 48 godzin",
+   "w ciągu 24 godzin",
+   "po doprowadzeniu do jednostki"
+  ],
+  "wyjasnienie": "Art. 244 § 2 k.p.k.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "caeac06bc0",
+  "temat": "JM02 – Łączność, legitymowanie, kontrola, przeszukanie, zatrzymanie, asysta",
+  "pytanie": "Zatrzymanemu przysługuje zażalenie na prawidłowość zatrzymania do właściwego ze względu na miejsce zatrzymania:",
+  "poprawna": "sądu rejonowego",
+  "bledne": [
+   "prokuratora",
+   "przełożonego policjanta",
+   "organu przełożonego nad organem zatrzymującym"
+  ],
+  "wyjasnienie": "Art. 246 k.p.k.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "57f6cbcd04",
+  "temat": "JM02 – Łączność, legitymowanie, kontrola, przeszukanie, zatrzymanie, asysta",
+  "pytanie": "Zgodnie z k.p.k. osobę zatrzymaną należy zwolnić, gdy:",
+  "poprawna": "ustanie przyczyna zatrzymania",
+  "bledne": [
+   "poleci tak przełożony",
+   "jest kobietą w ciąży",
+   "jest osobą duchowną"
+  ],
+  "wyjasnienie": "Art. 248 § 1 k.p.k.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "b9f2804c16",
+  "temat": "JM02 – Łączność, legitymowanie, kontrola, przeszukanie, zatrzymanie, asysta",
+  "pytanie": "Policja ma prawo zatrzymać osobę ujętą na gorącym uczynku wykroczenia lub bezpośrednio potem, jeżeli:",
+  "poprawna": "zachodzą podstawy do zastosowania wobec niej postępowania przyspieszonego",
+  "bledne": [
+   "nie można ustalić jej danych kontaktowych",
+   "nie przyznaje się do wykroczenia",
+   "mieszka daleko od miejsca czynu"
+  ],
+  "wyjasnienie": "Art. 45 § 1 k.p.w. (lub nie można ustalić tożsamości).",
+  "zrodlo": "test"
+ },
+ {
+  "id": "6b43c94242",
+  "temat": "JM02 – Łączność, legitymowanie, kontrola, przeszukanie, zatrzymanie, asysta",
+  "pytanie": "Czas zatrzymania osoby w związku z postępowaniem przyspieszonym liczy się od chwili ujęcia i nie może przekroczyć:",
+  "poprawna": "48 godzin",
+  "bledne": [
+   "12 godzin",
+   "24 godzin",
+   "72 godzin"
+  ],
+  "wyjasnienie": "Art. 46 § 6 k.p.w.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "a6e00e3882",
+  "temat": "JM02 – Łączność, legitymowanie, kontrola, przeszukanie, zatrzymanie, asysta",
+  "pytanie": "Policjant udzielający pomocy organowi egzekucyjnemu i egzekutorowi ma obowiązek:",
+  "poprawna": "zapewnić bezpieczeństwo osobiste egzekutora",
+  "bledne": [
+   "przeszukiwać pomieszczenia i rzeczy",
+   "wynosić lub przenosić przedmioty",
+   "sprawdzić, czy egzekucja jest zasadna"
+  ],
+  "wyjasnienie": "JM02 JS09 – pomoc i asysta. Policjant nie wykonuje czynności egzekucyjnych.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "55c08a6907",
+  "temat": "JM02 – Środki przymusu bezpośredniego i broń palna",
+  "pytanie": "Siła fizyczna jako środek przymusu bezpośredniego jest określona w akcie prawnym rangi:",
+  "poprawna": "ustawy",
+  "bledne": [
+   "rozporządzenia",
+   "zarządzenia",
+   "decyzji"
+  ],
+  "wyjasnienie": "Art. 12 ust. 1 pkt 1 ustawy o środkach przymusu bezpośredniego i broni palnej.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "9edb0f7d70",
+  "temat": "JM02 – Środki przymusu bezpośredniego i broń palna",
+  "pytanie": "Do siły fizycznej jako środka przymusu bezpośredniego zaliczamy techniki:",
+  "poprawna": "transportowe, obrony, ataku i obezwładnienia",
+  "bledne": [
+   "obrony, ataku, obezwładnienia",
+   "transportowe, obrony, obezwładnienia",
+   "ataku, obrony, zatrzymania"
+  ],
+  "wyjasnienie": "Art. 12 ust. 1 pkt 1 ustawy o środkach przymusu bezpośredniego i broni palnej.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "8c6a970220",
+  "temat": "JM02 – Środki przymusu bezpośredniego i broń palna",
+  "pytanie": "Kiedy policjant może zadawać uderzenia, używając siły fizycznej?",
+  "poprawna": "w celu odparcia zamachu na życie lub zdrowie własne lub innych osób albo na mienie lub przeciwdziałania ucieczce",
+  "bledne": [
+   "zawsze, gdy tak zdecyduje",
+   "nigdy – uderzenia są zakazane",
+   "tylko w obronie przed niebezpiecznym narzędziem"
+  ],
+  "wyjasnienie": "Art. 14 ust. 2 ustawy o środkach przymusu bezpośredniego i broni palnej.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "9edfdb1e1f",
+  "temat": "JM02 – Środki przymusu bezpośredniego i broń palna",
+  "pytanie": "Policjant dokonujący zatrzymania kopnął osobę stosującą się do jego poleceń. Czy postąpił zgodnie z przepisami?",
+  "poprawna": "nie, jest to niedopuszczalne",
+  "bledne": [
+   "tak, gdy kopnięcie jest lekkie",
+   "tak, w celu tzw. „zmiękczenia”",
+   "tak, gdy osoba jest silna"
+  ],
+  "wyjasnienie": "Art. 6 i art. 14 ust. 2 ustawy o środkach przymusu bezpośredniego i broni palnej – brak przesłanek do użycia siły.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "f7f2faab20",
+  "temat": "JM02 – Środki przymusu bezpośredniego i broń palna",
+  "pytanie": "Przed użyciem środka przymusu bezpośredniego policjant powinien:",
+  "poprawna": "odstąpić od wezwania do zachowania zgodnego z prawem, gdy zwłoka groziłaby utratą życia",
+  "bledne": [
+   "zawsze wezwać do zachowania zgodnego z prawem, nawet przy zagrożeniu życia",
+   "odnotować zamiar w notatniku",
+   "powiadomić dyżurnego"
+  ],
+  "wyjasnienie": "Art. 34 ust. 2 ustawy o środkach przymusu bezpośredniego i broni palnej – co do zasady najpierw wezwanie i uprzedzenie, chyba że zachodzi bezpośrednie zagrożenie.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "9d0633a72a",
+  "temat": "JM02 – Środki przymusu bezpośredniego i broń palna",
+  "pytanie": "Decyzję o użyciu pałki służbowej podejmuje:",
+  "poprawna": "samodzielnie policjant",
+  "bledne": [
+   "dowódca patrolu",
+   "dowódca konwoju",
+   "dyżurny jednostki"
+  ],
+  "wyjasnienie": "Art. 35 ust. 1 ustawy o środkach przymusu bezpośredniego i broni palnej.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "a0ddb44d6c",
+  "temat": "JM02 – Środki przymusu bezpośredniego i broń palna",
+  "pytanie": "Zakaz podmiotowy użycia środków przymusu bezpośredniego obejmuje osoby:",
+  "poprawna": "których wygląd wskazuje na wiek do 13 lat",
+  "bledne": [
+   "pod wpływem alkoholu",
+   "z zaburzeniami psychicznymi",
+   "pod wpływem środków psychoaktywnych"
+  ],
+  "wyjasnienie": "Art. 9 ust. 1 ustawy o środkach przymusu bezpośredniego i broni palnej – także kobiety w widocznej ciąży i osoby o widocznej niepełnosprawności: tylko siła fizyczna w postaci technik obezwładnienia.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "9abf88b4c7",
+  "temat": "JM02 – Środki przymusu bezpośredniego i broń palna",
+  "pytanie": "Wobec kobiety w widocznej ciąży policjant co do zasady może użyć:",
+  "poprawna": "wyłącznie siły fizycznej w postaci technik obezwładnienia",
+  "bledne": [
+   "pałki typu „Tonfa”",
+   "chemicznych środków obezwładniających",
+   "przedmiotów do obezwładniania energią elektryczną"
+  ],
+  "wyjasnienie": "Art. 9 ust. 1 ustawy o środkach przymusu bezpośredniego i broni palnej.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "c08b97bc6c",
+  "temat": "JM02 – Środki przymusu bezpośredniego i broń palna",
+  "pytanie": "Policjant został zaatakowany niebezpiecznym narzędziem przez kobietę w widocznej ciąży; atak bezpośrednio zagrażał życiu. Policjant może użyć:",
+  "poprawna": "środków przymusu bezpośredniego lub broni palnej",
+  "bledne": [
+   "tylko jednego środka",
+   "jedynie siły fizycznej",
+   "jedynie pałki służbowej"
+  ],
+  "wyjasnienie": "Art. 9 ust. 2 ustawy o środkach przymusu bezpośredniego i broni palnej.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "b69e709f94",
+  "temat": "JM02 – Środki przymusu bezpośredniego i broń palna",
+  "pytanie": "Przed wejściem do MOPS siedzi mężczyzna o widocznej niepełnosprawności, blokuje ruch i odpycha policjantów. Policjanci:",
+  "poprawna": "mogą użyć wyłącznie siły fizycznej w postaci technik obezwładnienia",
+  "bledne": [
+   "mogą użyć technik transportowych",
+   "nie mogą użyć żadnych środków",
+   "mogą użyć siły w każdej postaci, kajdanek i pasa"
+  ],
+  "wyjasnienie": "Art. 9 ust. 1 ustawy o środkach przymusu bezpośredniego i broni palnej.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "47aab264e4",
+  "temat": "JM02 – Środki przymusu bezpośredniego i broń palna",
+  "pytanie": "Kajdanek NIE można użyć w przypadku:",
+  "poprawna": "pokonania biernego oporu",
+  "bledne": [
+   "pokonania czynnego oporu",
+   "przeciwdziałania autoagresji",
+   "ujęcia osoby lub pościgu"
+  ],
+  "wyjasnienie": "Art. 15 ust. 1 ustawy o środkach przymusu bezpośredniego i broni palnej – art. 11 pkt 1–11, 13 i 14 (bez pkt 12).",
+  "zrodlo": "test"
+ },
+ {
+  "id": "284090e90c",
+  "temat": "JM02 – Środki przymusu bezpośredniego i broń palna",
+  "pytanie": "Kajdanek można użyć także na polecenie:",
+  "poprawna": "sądu lub prokuratora",
+  "bledne": [
+   "dyżurnego jednostki",
+   "kierownika jednostki",
+   "komornika"
+  ],
+  "wyjasnienie": "Art. 15 ust. 2 ustawy o środkach przymusu bezpośredniego i broni palnej.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "a6a405f7b9",
+  "temat": "JM02 – Środki przymusu bezpośredniego i broń palna",
+  "pytanie": "Jakie rodzaje kajdanek wymienia ustawa o środkach przymusu bezpośredniego?",
+  "poprawna": "zakładane na ręce, zakładane na nogi oraz zespolone",
+  "bledne": [
+   "metalowe i plastikowe",
+   "jednorazowe i wielorazowe",
+   "policyjne i wojskowe"
+  ],
+  "wyjasnienie": "Art. 12 ust. 1 pkt 2 ustawy o środkach przymusu bezpośredniego i broni palnej.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "65dabd6e69",
+  "temat": "JM02 – Środki przymusu bezpośredniego i broń palna",
+  "pytanie": "Użycie kaftana bezpieczeństwa lub pasa obezwładniającego NIE może:",
+  "poprawna": "utrudniać oddychania lub tamować obiegu krwi",
+  "bledne": [
+   "ograniczać ruchów",
+   "utrudniać obiegu krwi (tylko)",
+   "tamować obiegu krwi (tylko)"
+  ],
+  "wyjasnienie": "Art. 16 ust. 4 ustawy o środkach przymusu bezpośredniego i broni palnej.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "d4473730f6",
+  "temat": "JM02 – Środki przymusu bezpośredniego i broń palna",
+  "pytanie": "Kasku zabezpieczającego można użyć w przypadku:",
+  "poprawna": "przeciwdziałania czynnościom zmierzającym do autoagresji",
+  "bledne": [
+   "pokonania czynnego oporu",
+   "przeciwdziałania niszczeniu mienia",
+   "pokonania biernego oporu"
+  ],
+  "wyjasnienie": "Art. 17 ustawy o środkach przymusu bezpośredniego i broni palnej.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "7ab8f34a1c",
+  "temat": "JM02 – Środki przymusu bezpośredniego i broń palna",
+  "pytanie": "Siatkę obezwładniającą:",
+  "poprawna": "miota się z broni palnej lub innego urządzenia albo zarzuca ręcznie",
+  "bledne": [
+   "wyłącznie zarzuca się ręcznie",
+   "miota się wyłącznie z innego urządzenia",
+   "miota się wyłącznie z broni palnej"
+  ],
+  "wyjasnienie": "Art. 18 ust. 3 ustawy o środkach przymusu bezpośredniego i broni palnej.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "1dfa271d5e",
+  "temat": "JM02 – Środki przymusu bezpośredniego i broń palna",
+  "pytanie": "Pałki służbowej NIE używa się w przypadku:",
+  "poprawna": "pokonania biernego oporu",
+  "bledne": [
+   "przeciwdziałania niszczeniu mienia",
+   "pokonania czynnego oporu",
+   "zatrzymania osoby lub pościgu"
+  ],
+  "wyjasnienie": "Art. 19 ust. 1 ustawy o środkach przymusu bezpośredniego i broni palnej – art. 11 pkt 1–11 i 13.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "187f96bb18",
+  "temat": "JM02 – Środki przymusu bezpośredniego i broń palna",
+  "pytanie": "Pałki służbowej NIE stosuje się wobec osób, wobec których użyto:",
+  "poprawna": "kajdanek",
+  "bledne": [
+   "wodnych środków obezwładniających",
+   "siły fizycznej",
+   "konia służbowego"
+  ],
+  "wyjasnienie": "Art. 19 ust. 2 ustawy o środkach przymusu bezpośredniego i broni palnej (z wyjątkiem dźwigni transportowych).",
+  "zrodlo": "test"
+ },
+ {
+  "id": "dada6e4127",
+  "temat": "JM02 – Środki przymusu bezpośredniego i broń palna",
+  "pytanie": "Poza odpieraniem zamachu na życie lub zdrowie pałką służbową NIE zadaje się uderzeń w:",
+  "poprawna": "głowę i szyję",
+  "bledne": [
+   "uda i łydki",
+   "ramiona",
+   "pośladki"
+  ],
+  "wyjasnienie": "Art. 19 ust. 4 ustawy o środkach przymusu bezpośredniego i broni palnej – także brzuch i nieumięśnione, szczególnie wrażliwe części ciała.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "4e9e6576b0",
+  "temat": "JM02 – Środki przymusu bezpośredniego i broń palna",
+  "pytanie": "Policjant podczas legitymowania został zaatakowany nożem, trzymając pałkę. Może zadać uderzenie:",
+  "poprawna": "w każdą część ciała napastnika",
+  "bledne": [
+   "w każde miejsce z wyjątkiem głowy",
+   "tylko w ramię z nożem",
+   "tylko w dłoń z nożem"
+  ],
+  "wyjasnienie": "Art. 19 ust. 4 ustawy o środkach przymusu bezpośredniego i broni palnej – wyjątek przy zamachu bezpośrednio zagrażającym życiu lub zdrowiu.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "d8da37859e",
+  "temat": "JM02 – Środki przymusu bezpośredniego i broń palna",
+  "pytanie": "Używając przedmiotów do obezwładniania osób energią elektryczną, NIE celuje się w:",
+  "poprawna": "głowę",
+  "bledne": [
+   "ręce",
+   "tułów",
+   "nogi"
+  ],
+  "wyjasnienie": "Art. 25 ust. 4 ustawy o środkach przymusu bezpośredniego i broni palnej.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "e638623f09",
+  "temat": "JM02 – Środki przymusu bezpośredniego i broń palna",
+  "pytanie": "Przedmiotów do obezwładniania energią elektryczną nie używa się wobec osób, wobec których już użyto:",
+  "poprawna": "kajdanek zespolonych",
+  "bledne": [
+   "psa służbowego",
+   "siły fizycznej w postaci technik obrony",
+   "siły fizycznej w postaci technik transportowych"
+  ],
+  "wyjasnienie": "Art. 25 ust. 3 ustawy o środkach przymusu bezpośredniego i broni palnej (środki z art. 12 ust. 1 pkt 2–5).",
+  "zrodlo": "test"
+ },
+ {
+  "id": "dc027a8508",
+  "temat": "JM02 – Środki przymusu bezpośredniego i broń palna",
+  "pytanie": "Kolczatkę drogową można wykorzystać po uprzednim wstrzymaniu ruchu:",
+  "poprawna": "w obu kierunkach w odległości nie mniejszej niż 100 m",
+  "bledne": [
+   "w jednym kierunku, co najmniej 100 m",
+   "w jednym kierunku, co najmniej 500 m",
+   "w obu kierunkach, co najmniej 50 m"
+  ],
+  "wyjasnienie": "Art. 30 ust. 4 pkt 2 ustawy o środkach przymusu bezpośredniego i broni palnej.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "513fcaaaf2",
+  "temat": "JM02 – Środki przymusu bezpośredniego i broń palna",
+  "pytanie": "W przypadku blokowania drogi oznakowanym pojazdem służbowym:",
+  "poprawna": "można odstąpić od wstrzymania ruchu drogowego",
+  "bledne": [
+   "wstrzymuje się ruch w obu kierunkach co najmniej 100 m",
+   "wstrzymuje się ruch w obu kierunkach co najmniej 50 m",
+   "zawsze odstępuje się od wstrzymania ruchu"
+  ],
+  "wyjasnienie": "Art. 30 ust. 5 ustawy o środkach przymusu bezpośredniego i broni palnej.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "7610fef4fe",
+  "temat": "JM02 – Środki przymusu bezpośredniego i broń palna",
+  "pytanie": "Pojazd służbowy jako środek przymusu bezpośredniego może zostać:",
+  "poprawna": "wykorzystany w przypadku ujęcia osoby, udaremnienia jej ucieczki lub pościgu za nią",
+  "bledne": [
+   "użyty dla zapewnienia bezpieczeństwa konwoju",
+   "wykorzystany przeciw autoagresji",
+   "użyty do ochrony obiektów chronionych"
+  ],
+  "wyjasnienie": "Art. 31 ustawy o środkach przymusu bezpośredniego i broni palnej – zatrzymanie lub zablokowanie innego pojazdu.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "926340076a",
+  "temat": "JM02 – Środki przymusu bezpośredniego i broń palna",
+  "pytanie": "W przypadku zranienia osoby w wyniku użycia środków przymusu bezpośredniego policjant niezwłocznie:",
+  "poprawna": "udziela pierwszej pomocy",
+  "bledne": [
+   "sprawdza, czy nie doszło do uszkodzenia mienia",
+   "ustala tożsamość uczestników",
+   "sprawdza osobę pod kątem niebezpiecznych przedmiotów"
+  ],
+  "wyjasnienie": "Art. 36 ust. 1 ustawy o środkach przymusu bezpośredniego i broni palnej.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "5ff5002a00",
+  "temat": "JM02 – Środki przymusu bezpośredniego i broń palna",
+  "pytanie": "Przez wykorzystanie broni palnej należy rozumieć m.in. oddanie strzału:",
+  "poprawna": "ostrzegawczego",
+  "bledne": [
+   "w kierunku osoby, niestwarzającego zagrożenia dla jej życia",
+   "w kierunku osoby, stwarzającego zagrożenie",
+   "kontrolnego"
+  ],
+  "wyjasnienie": "Art. 4 pkt 10 ustawy o środkach przymusu bezpośredniego i broni palnej: strzał w kierunku zwierzęcia, przedmiotu lub w innym kierunku niestwarzającym zagrożenia dla osoby (np. ostrzegawczy – art. 47 pkt 6).",
+  "zrodlo": "test"
+ },
+ {
+  "id": "d493f8246b",
+  "temat": "JM02 – Środki przymusu bezpośredniego i broń palna",
+  "pytanie": "Policjant używa i wykorzystuje broń palną w sposób:",
+  "poprawna": "wyrządzający możliwie najmniejszą szkodę",
+  "bledne": [
+   "bezpieczny",
+   "wystarczający",
+   "zdecydowany i bezpieczny"
+  ],
+  "wyjasnienie": "Art. 7 ust. 1 ustawy o środkach przymusu bezpośredniego i broni palnej.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "cc5d5647f9",
+  "temat": "JM02 – Środki przymusu bezpośredniego i broń palna",
+  "pytanie": "Broni palnej można użyć m.in. w razie konieczności odparcia bezpośredniego, bezprawnego zamachu na:",
+  "poprawna": "życie, zdrowie lub wolność uprawnionego lub innej osoby",
+  "bledne": [
+   "dowolne mienie bez dodatkowych przesłanek",
+   "wyłącznie bezpieczeństwo powszechne",
+   "wyłącznie mienie Skarbu Państwa"
+  ],
+  "wyjasnienie": "Art. 45 pkt 1 lit. a ustawy o środkach przymusu bezpośredniego i broni palnej.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "1b0ea89485",
+  "temat": "JM02 – Środki przymusu bezpośredniego i broń palna",
+  "pytanie": "Mężczyzna z nożem rusza z odległości ok. 2 m na policjanta, ignorując polecenia. Policjant może użyć broni palnej:",
+  "poprawna": "w przypadku bezpośredniego, bezprawnego zamachu na życie lub zdrowie swoje lub innej osoby",
+  "bledne": [
+   "wyłącznie po strzale ostrzegawczym",
+   "w celu obezwładnienia, nawet bez zagrożenia życia",
+   "dopiero po użyciu wszystkich ŚPB"
+  ],
+  "wyjasnienie": "Art. 45 pkt 1 lit. a i art. 48 ust. 3 ustawy o środkach przymusu bezpośredniego i broni palnej – przy bezpośrednim zagrożeniu można odstąpić od procedury.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "0a4eb2b9b3",
+  "temat": "JM02 – Środki przymusu bezpośredniego i broń palna",
+  "pytanie": "Zgodnie z przypadkiem 4b (art. 45 pkt 4 lit. b ustawy o ŚPB) policjant może użyć broni w celu:",
+  "poprawna": "ujęcia lub udaremnienia ucieczki osoby zatrzymanej, aresztowanej lub odbywającej karę w związku z podejrzeniem lub stwierdzeniem przestępstwa o charakterze terrorystycznym",
+  "bledne": [
+   "ujęcia zatrzymanego podejrzanego o zanieczyszczenie środowiska",
+   "odparcia zamachu na bezpieczeństwo konwoju",
+   "przeciwstawienia się osobie usiłującej odebrać broń"
+  ],
+  "wyjasnienie": "Art. 45 pkt 4 lit. b ustawy o środkach przymusu bezpośredniego i broni palnej (także 148, 156 § 1, 163–165, 197, 252, 280–282 k.k.).",
+  "zrodlo": "test"
+ },
+ {
+  "id": "3f8142acfb",
+  "temat": "JM02 – Środki przymusu bezpośredniego i broń palna",
+  "pytanie": "Policjant uprzedza o użyciu broni palnej okrzykiem:",
+  "poprawna": "„Stój, bo strzelam!”",
+  "bledne": [
+   "„Ostrzegam, że użyję ŚPB!”",
+   "„Stój, Policja!”",
+   "„Ostrzegam o użyciu broni!”"
+  ],
+  "wyjasnienie": "Art. 48 ust. 2 ustawy o środkach przymusu bezpośredniego i broni palnej.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "6635545bae",
+  "temat": "JM02 – Środki przymusu bezpośredniego i broń palna",
+  "pytanie": "Do procedury przed użyciem broni palnej NIE zalicza się:",
+  "poprawna": "zaalarmowania lub wezwania pomocy",
+  "bledne": [
+   "wezwania do zaniechania ucieczki",
+   "oddania strzału ostrzegawczego",
+   "wezwania do porzucenia broni"
+  ],
+  "wyjasnienie": "Art. 48 ustawy o środkach przymusu bezpośredniego i broni palnej. Zaalarmowanie to przypadek WYKORZYSTANIA broni (art. 47 pkt 3).",
+  "zrodlo": "test"
+ },
+ {
+  "id": "bb224a279a",
+  "temat": "JM02 – Środki przymusu bezpośredniego i broń palna",
+  "pytanie": "Przed konwojem policjant uprzedza osobę pozbawioną wolności o możliwości użycia broni przy próbie ucieczki, jeżeli pozbawienie wolności nastąpiło w związku z podejrzeniem przestępstwa:",
+  "poprawna": "kradzieży rozbójniczej",
+  "bledne": [
+   "kradzieży z włamaniem",
+   "znęcania się psychicznego",
+   "nieumyślnego spowodowania śmierci"
+  ],
+  "wyjasnienie": "Art. 48 ust. 4 w zw. z art. 45 pkt 4 lit. b ustawy o środkach przymusu bezpośredniego i broni palnej (art. 280–282 k.k.).",
+  "zrodlo": "test"
+ },
+ {
+  "id": "acd2df6b25",
+  "temat": "JM02 – Środki przymusu bezpośredniego i broń palna",
+  "pytanie": "Gdy użycie lub wykorzystanie broni palnej nie spowodowało zranienia ani zniszczenia mienia, policjant dokumentuje to:",
+  "poprawna": "zapisem w notatniku służbowym i notatką",
+  "bledne": [
+   "jedynie zapisem w notatniku",
+   "jedynie notatką służbową",
+   "zapisem w notatniku i notatką służbową"
+  ],
+  "wyjasnienie": "Art. 51 ust. 1–2 ustawy o środkach przymusu bezpośredniego i broni palnej: użycie broni dokumentuje się w NOTATCE, przekazywanej przełożonemu niezależnie od skutku.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "cb8f61238b",
+  "temat": "JM02 – Środki przymusu bezpośredniego i broń palna",
+  "pytanie": "O utracie broni palnej lub amunicji policjant niezwłocznie informuje dyżurnego:",
+  "poprawna": "najbliższej jednostki Policji, w rejonie której nastąpiła utrata",
+  "bledne": [
+   "Komendy Wojewódzkiej Policji",
+   "jednostki, w której pełni służbę",
+   "Komendy Głównej Policji"
+  ],
+  "wyjasnienie": "JM02 JS04 – czynności po utracie broni. UWAGA – niepewne: odpowiedź z klucza testu.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "0fb7202013",
+  "temat": "JM02 – Środki przymusu bezpośredniego i broń palna",
+  "pytanie": "Policjanci pełniący służbę w ubiorze cywilnym noszą broń palną krótką w miejscu niewidocznym:",
+  "poprawna": "w sposób zapewniający sprawne i szybkie jej dobycie oraz bezpieczne przenoszenie",
+  "bledne": [
+   "zgodnie z własnymi preferencjami",
+   "według własnego uznania",
+   "w miejscu trudno dostępnym"
+  ],
+  "wyjasnienie": "Zasady postępowania z przydzieloną bronią (JM02 JS04).",
+  "zrodlo": "test"
+ },
+ {
+  "id": "cca4c9fb2e",
+  "temat": "JM02 – Środki przymusu bezpośredniego i broń palna",
+  "pytanie": "Do emocjonalnych reakcji na zdarzenie traumatyczne zaliczamy:",
+  "poprawna": "smutek, apatię, lęk, wstyd, bezradność",
+  "bledne": [
+   "zaburzenia pamięci",
+   "palpitacje serca, trudności z oddychaniem, mdłości",
+   "euforię, pomysłowość, kreatywność"
+  ],
+  "wyjasnienie": "Użycie broni jako sytuacja traumatyczna (JM02 JS04). Palpitacje to reakcje fizjologiczne, zaburzenia pamięci – poznawcze.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "6b3e3f4b30",
+  "temat": "JM02 – Środki przymusu bezpośredniego i broń palna",
+  "pytanie": "Uraz po strzelaninie może wystąpić:",
+  "poprawna": "podczas interwencji, w której uczestniczymy, gdy zostaje postrzelony sprawca",
+  "bledne": [
+   "gdy postrzelony został policjant w innej jednostce",
+   "po obejrzeniu transmisji ataku terrorystycznego",
+   "podczas czyszczenia broni"
+  ],
+  "wyjasnienie": "JM02 JS04, pkt 19.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "999830e729",
+  "temat": "JM02 – Pierwsza pomoc",
+  "pytanie": "Wsparcie psychiczne poszkodowanych powinno:",
+  "poprawna": "rozpocząć się jak najszybciej i trwać, w miarę możliwości, do osiągnięcia przez poszkodowanego równowagi psychicznej",
+  "bledne": [
+   "odbywać się tylko w obecności rodziny",
+   "rozpocząć się po ustaleniu diagnozy",
+   "trwać do przyjazdu służb"
+  ],
+  "wyjasnienie": "JM02 JS05.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "0bd12e7c71",
+  "temat": "JM02 – Pierwsza pomoc",
+  "pytanie": "Najdogodniejszą pozycją dla poszkodowanego z urazem brzucha jest pozycja:",
+  "poprawna": "leżąca z nogami zgiętymi w stawach biodrowych i kolanowych",
+  "bledne": [
+   "boczna bezpieczna",
+   "leżąca na brzuchu",
+   "półsiedząca"
+  ],
+  "wyjasnienie": "Zmniejsza napięcie mięśni brzucha.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "d4cd9d8df2",
+  "temat": "JM02 – Pierwsza pomoc",
+  "pytanie": "Będąc świadkiem napadu drgawek u chorego na ulicy, należy:",
+  "poprawna": "chronić głowę przed obrażeniami, a następnie utrzymać drożność dróg oddechowych",
+  "bledne": [
+   "przytrzymywać ciało, by wyhamować drgawki",
+   "wezwać natychmiast ZRM (bez innych działań)",
+   "rozchylić usta długopisem"
+  ],
+  "wyjasnienie": "Nie krępuje się ruchów i nie wkłada niczego do ust.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "e3e2a5132a",
+  "temat": "JM02 – Pierwsza pomoc",
+  "pytanie": "Mężczyzna po upadku z roweru ma uraz uda z dużym krwawieniem. Prawidłowe postępowanie to:",
+  "poprawna": "ucisk bezpośredni, opatrunek uciskowy i wezwanie pogotowia",
+  "bledne": [
+   "wezwanie karetki bez tamowania krwawienia",
+   "opatrunek osłonowy i pozycja bezpieczna",
+   "opatrunek uciskowy i zawsze pozycja przeciwwstrząsowa"
+  ],
+  "wyjasnienie": "JM02 JS05 – krwotoki.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "a931211e8c",
+  "temat": "JM02 – Pierwsza pomoc",
+  "pytanie": "Ocenę wstępną poszkodowanego można przerwać, gdy:",
+  "poprawna": "wystąpi niedrożność dróg oddechowych",
+  "bledne": [
+   "trzeba zebrać wywiad SAMPLE",
+   "poszkodowany odzyska przytomność",
+   "poszkodowany wskaże miejsce urazu"
+  ],
+  "wyjasnienie": "Stan zagrażający życiu (A – drogi oddechowe) wymaga natychmiastowej interwencji.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "ffcc35cc6a",
+  "temat": "JM02 – Pierwsza pomoc",
+  "pytanie": "Jedną z przyczyn wstrząsu hipowolemicznego jest:",
+  "poprawna": "spadek objętości krwi krążącej",
+  "bledne": [
+   "nagły wzrost poziomu glukozy",
+   "reakcja alergiczna",
+   "nagły spadek poziomu glukozy"
+  ],
+  "wyjasnienie": "Hipowolemia – np. krwotok. Reakcja alergiczna to wstrząs anafilaktyczny.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "488f6e205a",
+  "temat": "JM02 – Pierwsza pomoc",
+  "pytanie": "U nieprzytomnej dorosłej osoby bez oddechu resuscytację prowadzi się w schemacie:",
+  "poprawna": "30 uciśnięć klatki piersiowej, 2 wdechy",
+  "bledne": [
+   "5 wdechów, 30 uciśnięć",
+   "15 uciśnięć, 2 wdechy",
+   "2 wdechy, 15 uciśnięć"
+  ],
+  "wyjasnienie": "Wytyczne ERC – dorośli 30:2.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "8081d29101",
+  "temat": "JM02 – Pierwsza pomoc",
+  "pytanie": "RKO należy rozpocząć u osoby, która:",
+  "poprawna": "nie reaguje i nie oddycha lub oddycha nieprawidłowo",
+  "bledne": [
+   "ma niedrożność dróg oddechowych",
+   "utraciła przytomność",
+   "zgłasza ból w klatce piersiowej"
+  ],
+  "wyjasnienie": "Wytyczne ERC.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "13fed8b9cf",
+  "temat": "JM02 – Pierwsza pomoc",
+  "pytanie": "Uciskanie klatki piersiowej u niemowląt prowadzi się:",
+  "poprawna": "za pomocą dwóch kciuków lub dwóch palców",
+  "bledne": [
+   "jednym kciukiem",
+   "jedną ręką",
+   "splecionymi dwoma rękami"
+  ],
+  "wyjasnienie": "Wytyczne ERC.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "2c134f84ca",
+  "temat": "JM02 – Pierwsza pomoc",
+  "pytanie": "Podczas defibrylacji:",
+  "poprawna": "nikt nie może dotykać poszkodowanego",
+  "bledne": [
+   "sprawdza się, czy nie powstała rozedma",
+   "wszyscy mogą dotykać poszkodowanego",
+   "tylko ratownik może dotykać poszkodowanego"
+  ],
+  "wyjasnienie": "Bezpieczeństwo przy użyciu AED.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "8f8aa341a4",
+  "temat": "JM02 – Pierwsza pomoc",
+  "pytanie": "Osoby z obniżonym poziomem świadomości, oddychające prawidłowo, układa się w pozycji:",
+  "poprawna": "leżącej na boku (bezpiecznej)",
+  "bledne": [
+   "siedzącej z podparciem",
+   "czterokończynowej",
+   "powypadkowej zastanej"
+  ],
+  "wyjasnienie": "Chroni drożność dróg oddechowych.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "a6a6df2373",
+  "temat": "JM02 – Pierwsza pomoc",
+  "pytanie": "Powierzchnia dłoni u dorosłego to:",
+  "poprawna": "1% powierzchni całkowitej ciała",
+  "bledne": [
+   "5%",
+   "1,5%",
+   "2%"
+  ],
+  "wyjasnienie": "Reguła dłoni przy ocenie oparzeń.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "0ac94483bd",
+  "temat": "JM02 – Pierwsza pomoc",
+  "pytanie": "Zdarzenie masowe to incydent o znacznej dysproporcji między zapotrzebowaniem na natychmiastowe działania ratownicze a możliwościami sił i środków:",
+  "poprawna": "podmiotów ratowniczych obecnych na miejscu zdarzenia",
+  "bledne": [
+   "ratowniczych powiatu",
+   "ratowniczych kraju",
+   "ujętych w planie ratowniczym"
+  ],
+  "wyjasnienie": "Definicja zdarzenia masowego (JM02 JS05).",
+  "zrodlo": "test"
+ },
+ {
+  "id": "ccc26b7350",
+  "temat": "JM02 – Pierwsza pomoc",
+  "pytanie": "Osobie zatrzymanej przez Policję należy zapewnić badanie lekarskie, gdy:",
+  "poprawna": "jest to nieletni po spożyciu alkoholu lub podobnie działającego środka",
+  "bledne": [
+   "jest to osoba w podeszłym wieku",
+   "w ostatnim miesiącu leczyła się w szpitalu",
+   "wygląda na mniej niż 15 lat"
+  ],
+  "wyjasnienie": "§ 1 ust. 3 pkt 2 lit. e rozporządzenia o badaniach lekarskich osób zatrzymanych.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "1473434fc7",
+  "temat": "JM02 – Interwencje, alkohol, przemoc domowa",
+  "pytanie": "Jednym z najważniejszych zadań podejmujących czynności policjantów jest ocena:",
+  "poprawna": "poziomu ryzyka każdej interwencji",
+  "bledne": [
+   "aktywności policjanta",
+   "indywidualności działania",
+   "bezpośredniości działań"
+  ],
+  "wyjasnienie": "JM02 JS10, pkt 9b.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "46f305c5f7",
+  "temat": "JM02 – Interwencje, alkohol, przemoc domowa",
+  "pytanie": "Policjanci podejmujący pościg powinni:",
+  "poprawna": "poinformować dyżurnego o podjęciu pościgu, jego przyczynie, kierunku ucieczki i rysopisie sprawcy",
+  "bledne": [
+   "informować dyżurnego tylko o zatrzymaniu lub utracie kontaktu",
+   "nawiązać kontakt z bezpośrednim przełożonym",
+   "uzyskać zgodę dyżurnego na pościg"
+  ],
+  "wyjasnienie": "§ 6 zarządzenia nr 45 KGP.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "14dbc3623b",
+  "temat": "JM02 – Interwencje, alkohol, przemoc domowa",
+  "pytanie": "O odstąpieniu od pościgu lub jego przerwaniu policjant powiadamia:",
+  "poprawna": "dyżurnego jednostki Policji właściwej dla miejsca odstąpienia lub przerwania pościgu",
+  "bledne": [
+   "bezpośredniego przełożonego",
+   "dyżurnego jednostki, na której terenie pełni służbę",
+   "komendanta swojej jednostki"
+  ],
+  "wyjasnienie": "§ 7 ust. 2 zarządzenia nr 45 KGP.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "19ade6d168",
+  "temat": "JM02 – Interwencje, alkohol, przemoc domowa",
+  "pytanie": "Podczas interwencji związanej z przemocą domową policjanci mogą zatrzymać sprawcę, gdy:",
+  "poprawna": "stwarza zagrożenie dla życia i zdrowia domowników",
+  "bledne": [
+   "prosi o to rodzina",
+   "jest pod wpływem alkoholu",
+   "to kolejna interwencja w tej rodzinie"
+  ],
+  "wyjasnienie": "Art. 15a ustawy o Policji.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "910b3d0063",
+  "temat": "JM02 – Interwencje, alkohol, przemoc domowa",
+  "pytanie": "Po potwierdzeniu, że sprawca stosuje przemoc domową, policjant w pierwszej kolejności:",
+  "poprawna": "udziela osobie doznającej przemocy pierwszej pomocy lub zapewnia pomoc medyczną",
+  "bledne": [
+   "instruuje ją, jak złożyć zawiadomienie",
+   "przekazuje broszury o instytucjach pomocowych",
+   "informuje o powiadomieniu dzielnicowego"
+  ],
+  "wyjasnienie": "Ratowanie zdrowia ma pierwszeństwo.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "d4bf8b543f",
+  "temat": "JM02 – Interwencje, alkohol, przemoc domowa",
+  "pytanie": "Napojem alkoholowym jest produkt przeznaczony do spożycia zawierający alkohol etylowy pochodzenia rolniczego w stężeniu przekraczającym:",
+  "poprawna": "0,5%",
+  "bledne": [
+   "3,5%",
+   "4,5%",
+   "1,5%"
+  ],
+  "wyjasnienie": "Art. 46 ust. 1 ustawy o wychowaniu w trzeźwości.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "1453668290",
+  "temat": "JM02 – Interwencje, alkohol, przemoc domowa",
+  "pytanie": "Stan po użyciu alkoholu zachodzi m.in., gdy zawartość alkoholu w wydychanym powietrzu wynosi:",
+  "poprawna": "0,25 mg w 1 dm³",
+  "bledne": [
+   "0,26 mg w 1 dm³",
+   "0,09 mg w 1 dm³",
+   "powyżej 0,5 mg w 1 dm³"
+  ],
+  "wyjasnienie": "Art. 46 ust. 2 ustawy o wychowaniu w trzeźwości: od 0,1 do 0,25 mg/dm³ (powyżej 0,25 – stan nietrzeźwości).",
+  "zrodlo": "test"
+ },
+ {
+  "id": "94c50a583f",
+  "temat": "JM02 – Interwencje, alkohol, przemoc domowa",
+  "pytanie": "Sporządzając protokół z badania analizatorem wydechu, policjant informuje osobę o możliwości odmowy oświadczenia dotyczącego m.in.:",
+  "poprawna": "ilości, rodzaju i godziny spożycia napojów alkoholowych",
+  "bledne": [
+   "czasu palenia wyrobów tytoniowych",
+   "wzrostu i masy ciała",
+   "wieku i płci"
+  ],
+  "wyjasnienie": "JM02 JS10 – badanie trzeźwości.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "370f614e6e",
+  "temat": "JM02 – Interwencje, alkohol, przemoc domowa",
+  "pytanie": "Z badania analizatorem wydechu sporządza się protokół, jeżeli:",
+  "poprawna": "wynik wskazuje obecność alkoholu w organizmie osoby badanej",
+  "bledne": [
+   "występuje znaczna rozbieżność pomiarów",
+   "wynik wskazuje tylko stan nietrzeźwości",
+   "wynik wskazuje tylko stan po użyciu alkoholu"
+  ],
+  "wyjasnienie": "UWAGA – niepewne: odpowiedź z klucza testu (rozporządzenie o badaniach na zawartość alkoholu).",
+  "zrodlo": "test"
+ },
+ {
+  "id": "adb3b9bfb3",
+  "temat": "JM02 – Interwencje, alkohol, przemoc domowa",
+  "pytanie": "Policjant doprowadzający osobę nietrzeźwą do miejsca zamieszkania lub pobytu sporządza:",
+  "poprawna": "protokół doprowadzenia w celu wytrzeźwienia",
+  "bledne": [
+   "zapis w notatniku",
+   "poświadczenie",
+   "protokół zatrzymania osoby"
+  ],
+  "wyjasnienie": "Art. 40 ust. 3 ustawy o wychowaniu w trzeźwości.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "6bdd298d40",
+  "temat": "JM02 – Interwencje, alkohol, przemoc domowa",
+  "pytanie": "Policjant podejmujący interwencję wobec osoby z zaburzeniami psychicznymi zastosuje w pierwszej kolejności:",
+  "poprawna": "przytrzymywanie lub doraźne, krótkotrwałe unieruchomienie",
+  "bledne": [
+   "kajdanki",
+   "pałkę służbową",
+   "techniki obrony lub ataku"
+  ],
+  "wyjasnienie": "Ustawa o ochronie zdrowia psychicznego – przymus bezpośredni wobec osób z zaburzeniami (JM02 JS10, pkt 22f).",
+  "zrodlo": "test"
+ },
+ {
+  "id": "b84600e909",
+  "temat": "JM02 – Interwencje, alkohol, przemoc domowa",
+  "pytanie": "Policjanci patrolujący miejsca o ograniczonej widoczności i wchodzący do pomieszczeń obowiązani są:",
+  "poprawna": "zachować szczególne środki ostrożności i być przygotowani na odparcie zamachu",
+  "bledne": [
+   "mieć dodatkowe uzbrojenie, by być widocznymi",
+   "szybko wchodzić do środka",
+   "pewnie wkroczyć do wnętrza, nie zważając na niebezpieczeństwo"
+  ],
+  "wyjasnienie": "Bezpieczeństwo interwencji (JM02 JS10, JM05 JS05).",
+  "zrodlo": "test"
+ },
+ {
+  "id": "a3572c4edc",
+  "temat": "JM02 – Interwencje, alkohol, przemoc domowa",
+  "pytanie": "Osobę nietrzeźwą znajdującą się w okolicznościach zagrażających jej życiu lub zdrowiu można:",
+  "poprawna": "doprowadzić do izby wytrzeźwień, placówki, podmiotu leczniczego, miejsca zamieszkania albo jednostki Policji",
+  "bledne": [
+   "wyłącznie przekazać osobie najbliższej",
+   "doprowadzić wyłącznie do noclegowni",
+   "jedynie ostrzec i pozostawić"
+  ],
+  "wyjasnienie": "Art. 40 ust. 1–2 ustawy o wychowaniu w trzeźwości.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "5fa8bdfc9f",
+  "temat": "JM03 – Systemy, praca operacyjna, poszukiwania, kanały międzynarodowe",
+  "pytanie": "Skrót SPP oznacza:",
+  "poprawna": "System Poszukiwawczy Policji",
+  "bledne": [
+   "System Poszukiwań Policji",
+   "System Przeszukań Policji",
+   "System Polskiej Policji"
+  ],
+  "wyjasnienie": "JM03 JS10.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "3b5a0dac46",
+  "temat": "JM03 – Systemy, praca operacyjna, poszukiwania, kanały międzynarodowe",
+  "pytanie": "Do sprawdzenia w Systemie Poszukiwawczym Policji (SPP) wymagane jest wskazanie:",
+  "poprawna": "celu sprawdzenia, znaku lub numeru sprawy oraz kryteriów sprawdzenia",
+  "bledne": [
+   "podstawy interwencji i kryteriów",
+   "znaku sprawy i celu",
+   "miejsca interwencji i danych osoby"
+  ],
+  "wyjasnienie": "UWAGA – niepewne: odpowiedź z klucza testu (JM03 JS10).",
+  "zrodlo": "test"
+ },
+ {
+  "id": "f8d17a683c",
+  "temat": "JM03 – Systemy, praca operacyjna, poszukiwania, kanały międzynarodowe",
+  "pytanie": "KSIP składa się m.in. ze zbiorów danych:",
+  "poprawna": "Osoba, Fakt, Rzecz, Podmiot, Pokrzywdzeni, rejestr wykroczeń",
+  "bledne": [
+   "Pojazdy, dokumenty, broń, banknoty, konta",
+   "Fakt, broń, podejrzany, oskarżony, pokrzywdzony",
+   "Osoba, Fakt, Rzecz, Pojazd, rejestr wykroczeń"
+  ],
+  "wyjasnienie": "Zarządzenie nr 70 KGP o KSIP. UWAGA – niepewne: odpowiedź z klucza testu SZPC.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "d0d25cf4a5",
+  "temat": "JM03 – Systemy, praca operacyjna, poszukiwania, kanały międzynarodowe",
+  "pytanie": "W KSIP rejestruje się przedmioty pozostające w zainteresowaniu Policji z powodów:",
+  "poprawna": "utracone, pozostające w zainteresowaniu Policji, zabezpieczone",
+  "bledne": [
+   "zagubione, w zainteresowaniu, odnalezione",
+   "zagubione, utracone, odnalezione",
+   "stwarzające zagrożenie, utracone, zabezpieczone"
+  ],
+  "wyjasnienie": "Zarządzenie o KSIP. UWAGA – niepewne: odpowiedź z klucza testu.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "d31d7f7856",
+  "temat": "JM03 – Systemy, praca operacyjna, poszukiwania, kanały międzynarodowe",
+  "pytanie": "Rzecz będącą przedmiotem czynności operacyjno-rozpoznawczych, dochodzeniowo-śledczych lub administracyjno-porządkowych rejestruje się w KSIP z powodem:",
+  "poprawna": "„w zainteresowaniu”",
+  "bledne": [
+   "„utracono”",
+   "„zabezpieczono”",
+   "„ujawniono”"
+  ],
+  "wyjasnienie": "Zarządzenie o KSIP.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "d3efe07b7f",
+  "temat": "JM03 – Systemy, praca operacyjna, poszukiwania, kanały międzynarodowe",
+  "pytanie": "Baza danych DNA to:",
+  "poprawna": "zbiór danych zawierający informacje o wynikach analizy DNA, o którym mowa w art. 21a ustawy o Policji",
+  "bledne": [
+   "wykaz informacji o wydarzeniach w KSIP Fakt",
+   "identyfikator KSIP osoby",
+   "identyfikator KSIP podmiotu lub rzeczy"
+  ],
+  "wyjasnienie": "Art. 21a ustawy o Policji.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "2fac8248e7",
+  "temat": "JM03 – Systemy, praca operacyjna, poszukiwania, kanały międzynarodowe",
+  "pytanie": "„NOE.NET” jest zbiorem danych:",
+  "poprawna": "Centralnej Bazy Danych Osób Pozbawionych Wolności (Służba Więzienna)",
+  "bledne": [
+   "rejestru REGON",
+   "ewidencji paszportów",
+   "rejestrów w sprawach cudzoziemców"
+  ],
+  "wyjasnienie": "JM03 JS01 – pozapolicyjne systemy.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "ada5d35146",
+  "temat": "JM03 – Systemy, praca operacyjna, poszukiwania, kanały międzynarodowe",
+  "pytanie": "Obowiązek przekazywania informacji przydatnych do realizacji zadań Policji mają:",
+  "poprawna": "wszyscy policjanci",
+  "bledne": [
+   "tylko policjanci w służbie stałej",
+   "tylko policjanci prowadzący pracę operacyjną",
+   "tylko policjanci po szkoleniu specjalistycznym"
+  ],
+  "wyjasnienie": "JM03 JS07.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "6ca8d14715",
+  "temat": "JM03 – Systemy, praca operacyjna, poszukiwania, kanały międzynarodowe",
+  "pytanie": "Informacje uzyskane od osoby informującej dokumentuje się w postaci:",
+  "poprawna": "meldunku informacyjnego",
+  "bledne": [
+   "notatki urzędowej",
+   "stenogramu",
+   "raportu"
+  ],
+  "wyjasnienie": "JM03 JS07.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "1be5a6a15a",
+  "temat": "JM03 – Systemy, praca operacyjna, poszukiwania, kanały międzynarodowe",
+  "pytanie": "System 4×4 w meldunku informacyjnym ocenia:",
+  "poprawna": "wiarygodność źródła i prawdziwość (wiarygodność) informacji",
+  "bledne": [
+   "wartość informacji i motywację źródła",
+   "autentyczność informacji i bezstronność źródła",
+   "motywację źródła i rzetelność informacji"
+  ],
+  "wyjasnienie": "Źródło: A, B, C, X; informacja: 1, 2, 3, 4.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "8fd21c2022",
+  "temat": "JM03 – Systemy, praca operacyjna, poszukiwania, kanały międzynarodowe",
+  "pytanie": "Sporządzając meldunek informacyjny, ograniczenie sposobu wykorzystania informacji określa się kodami ochrony:",
+  "poprawna": "H",
+  "bledne": [
+   "X",
+   "A",
+   "B"
+  ],
+  "wyjasnienie": "Kody H1–H3.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "420edf54f8",
+  "temat": "JM03 – Systemy, praca operacyjna, poszukiwania, kanały międzynarodowe",
+  "pytanie": "Sprawę operacyjną należy zakończyć:",
+  "poprawna": "na polecenie przełożonego",
+  "bledne": [
+   "w trakcie urlopu prowadzącego",
+   "w każdej chwili",
+   "na polecenie naczelnika prewencji"
+  ],
+  "wyjasnienie": "UWAGA – niepewne: odpowiedź z klucza testu SZPC (przepisy o pracy operacyjnej są niejawne).",
+  "zrodlo": "test"
+ },
+ {
+  "id": "fc74072615",
+  "temat": "JM03 – Systemy, praca operacyjna, poszukiwania, kanały międzynarodowe",
+  "pytanie": "Obserwacja niewymagająca szczególnych kwalifikacji ani specjalistycznego sprzętu, którą mogą prowadzić wszyscy policjanci, to obserwacja:",
+  "poprawna": "doraźna",
+  "bledne": [
+   "planowa",
+   "prewencyjna",
+   "przypadkowa"
+  ],
+  "wyjasnienie": "JM03 JS08.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "4f83bf8911",
+  "temat": "JM03 – Systemy, praca operacyjna, poszukiwania, kanały międzynarodowe",
+  "pytanie": "Obserwacja może być prowadzona w sposób:",
+  "poprawna": "doraźny lub planowy",
+  "bledne": [
+   "zaplanowany lub przypadkowy",
+   "zwykły lub niecierpiący zwłoki",
+   "planowy lub nieplanowy"
+  ],
+  "wyjasnienie": "JM03 JS08.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "34000078e7",
+  "temat": "JM03 – Systemy, praca operacyjna, poszukiwania, kanały międzynarodowe",
+  "pytanie": "Czy przedsiębiorcy prowadzący działalność w zakresie użyteczności publicznej są obowiązani pomagać Policji, w zakresie swojego działania i obowiązujących przepisów?",
+  "poprawna": "tak, mają taki obowiązek",
+  "bledne": [
+   "nie mają takiego obowiązku",
+   "tylko za zgodą ministra",
+   "tylko za zgodą Komendanta Głównego Policji"
+  ],
+  "wyjasnienie": "Art. 15 ust. 1 pkt 6 ustawy o Policji.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "0dac35454f",
+  "temat": "JM03 – Systemy, praca operacyjna, poszukiwania, kanały międzynarodowe",
+  "pytanie": "Policjant jest uprawniony do obserwowania i rejestrowania obrazu i dźwięku (np. kamerami nasobnymi) na podstawie:",
+  "poprawna": "art. 15 ust. 1 pkt 5a ustawy o Policji",
+  "bledne": [
+   "art. 14 ust. 3b ustawy o Policji",
+   "art. 15 ust. 1 pkt 1 ustawy o Policji",
+   "art. 14 ust. 1 pkt 2 ustawy o Policji"
+  ],
+  "wyjasnienie": "Art. 15 ust. 1 pkt 5a–5b ustawy o Policji (pkt 5b – interwencje poza miejscami publicznymi).",
+  "zrodlo": "test"
+ },
+ {
+  "id": "904ab4636d",
+  "temat": "JM03 – Systemy, praca operacyjna, poszukiwania, kanały międzynarodowe",
+  "pytanie": "W granicach zadań Policja wykonuje czynności w celu poszukiwania osób ukrywających się przed organami:",
+  "poprawna": "ścigania lub wymiaru sprawiedliwości",
+  "bledne": [
+   "kontroli i nadzoru",
+   "samorządu terytorialnego",
+   "administracji rządowej"
+  ],
+  "wyjasnienie": "Art. 14 ust. 1 pkt 2 ustawy o Policji.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "c3edda7b11",
+  "temat": "JM03 – Systemy, praca operacyjna, poszukiwania, kanały międzynarodowe",
+  "pytanie": "Formą zarządzenia poszukiwań osoby ukrywającej się przed organami ścigania może być:",
+  "poprawna": "list gończy",
+  "bledne": [
+   "wyłącznie ogłoszenie w mediach",
+   "ustne polecenie prokuratora",
+   "notatka służbowa policjanta"
+  ],
+  "wyjasnienie": "Art. 279 k.p.k.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "c78cf1e200",
+  "temat": "JM03 – Systemy, praca operacyjna, poszukiwania, kanały międzynarodowe",
+  "pytanie": "Gdy oskarżony, wobec którego wydano postanowienie o tymczasowym aresztowaniu, ukrywa się, sąd lub prokurator może wydać:",
+  "poprawna": "postanowienie o poszukiwaniu go listem gończym",
+  "bledne": [
+   "wezwanie do stawiennictwa w jednostce",
+   "nakaz ujęcia celem ustalenia miejsca pobytu",
+   "postanowienie o zmianie środka zapobiegawczego"
+  ],
+  "wyjasnienie": "Art. 279 § 1 k.p.k.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "2609777f4d",
+  "temat": "JM03 – Systemy, praca operacyjna, poszukiwania, kanały międzynarodowe",
+  "pytanie": "Dokumentem stanowiącym podstawę wszczęcia poszukiwania procesowego i rejestracji w KSIP jest:",
+  "poprawna": "list gończy",
+  "bledne": [
+   "wniosek prokuratora",
+   "list organu przekazany przez KBI",
+   "zarządzenie komendanta"
+  ],
+  "wyjasnienie": "Art. 279 k.p.k.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "fb4ad8306f",
+  "temat": "JM03 – Systemy, praca operacyjna, poszukiwania, kanały międzynarodowe",
+  "pytanie": "Przesłanką zatrzymania osoby poszukiwanej listem gończym dla interweniującego policjanta jest:",
+  "poprawna": "informacja o fakcie wydania listu gończego",
+  "bledne": [
+   "obawa ucieczki",
+   "obawa ukrycia się",
+   "obawa zatarcia śladów"
+  ],
+  "wyjasnienie": "Zatrzymanie realizuje dyspozycję organu – przesłanki areszt już ocenił sąd.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "b76d39832e",
+  "temat": "JM03 – Systemy, praca operacyjna, poszukiwania, kanały międzynarodowe",
+  "pytanie": "Kto jest zobowiązany do przyjęcia zawiadomienia o zaginięciu osoby?",
+  "poprawna": "każdy policjant (przekazując je dyżurnemu, który przyjmuje je formalnie)",
+  "bledne": [
+   "wyłącznie pomocnik dyżurnego",
+   "wyłącznie dzielnicowy",
+   "wyłącznie policjant zajmujący się zaginięciami"
+  ],
+  "wyjasnienie": "§ 3 zarządzenia nr 48 KGP w sprawie poszukiwania osoby zaginionej: zawiadomienie przyjmuje dyżurny lub wyznaczony policjant, a każdy policjant, do którego zgłosi się osoba, przekazuje informację dyżurnemu i sporządza notatkę.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "8f975bf1b5",
+  "temat": "JM03 – Systemy, praca operacyjna, poszukiwania, kanały międzynarodowe",
+  "pytanie": "Stopień poziomu poszukiwań osoby zaginionej określa:",
+  "poprawna": "policjant sporządzający zawiadomienie o zaginięciu",
+  "bledne": [
+   "kierownik policjanta przyjmującego zawiadomienie",
+   "naczelnik policjanta przyjmującego zawiadomienie",
+   "dyżurny, któremu podlega policjant"
+  ],
+  "wyjasnienie": "§ 8 zarządzenia nr 48 KGP w sprawie poszukiwania osoby zaginionej – zatwierdza go kierownik jednostki (pod jego nieobecność – dyżurny).",
+  "zrodlo": "test"
+ },
+ {
+  "id": "a1ccb21218",
+  "temat": "JM03 – Systemy, praca operacyjna, poszukiwania, kanały międzynarodowe",
+  "pytanie": "Odnaleziona pełnoletnia osoba nie zgodziła się na ujawnienie miejsca pobytu i odmówiła pisemnego oświadczenia. Odmowę dokumentuje się w:",
+  "poprawna": "notatce służbowej",
+  "bledne": [
+   "protokole rejestracyjnym",
+   "notatce urzędowej",
+   "protokole zatrzymania"
+  ],
+  "wyjasnienie": "zarządzenia nr 48 KGP w sprawie poszukiwania osoby zaginionej – odmowę dokumentuje się notatką służbową.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "4bc80b2d44",
+  "temat": "JM03 – Systemy, praca operacyjna, poszukiwania, kanały międzynarodowe",
+  "pytanie": "Zakończenie poszukiwania osoby zaginionej następuje m.in., gdy od zakończenia ostatnich czynności poszukiwawczych upłynęło co najmniej:",
+  "poprawna": "25 lat",
+  "bledne": [
+   "15 lat",
+   "20 lat",
+   "30 lat"
+  ],
+  "wyjasnienie": "§ 29 ust. 1 pkt 10 zarządzenia nr 48 KGP w sprawie poszukiwania osoby zaginionej.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "0eba7087ae",
+  "temat": "JM03 – Systemy, praca operacyjna, poszukiwania, kanały międzynarodowe",
+  "pytanie": "Portret pamięciowy można wykonywać:",
+  "poprawna": "zawsze tylko z jednym świadkiem",
+  "bledne": [
+   "z kilkoma świadkami jednocześnie",
+   "z dwoma świadkami naraz",
+   "z dwoma, ale opis po zeznaniach obu"
+  ],
+  "wyjasnienie": "Świadkowie mogliby wpływać na siebie nawzajem (JM03 JS04).",
+  "zrodlo": "test"
+ },
+ {
+  "id": "d1fe10cbe4",
+  "temat": "JM03 – Systemy, praca operacyjna, poszukiwania, kanały międzynarodowe",
+  "pytanie": "Jeżeli przy czynnościach występują trudności z ustaleniem danych osoby albo zataja ona tożsamość, należy podjąć czynności:",
+  "poprawna": "identyfikacyjne",
+  "bledne": [
+   "sprawdzające",
+   "ustalające",
+   "porównawcze"
+  ],
+  "wyjasnienie": "§ 41 ust. 1 zarządzenia nr 48 KGP w sprawie poszukiwania osoby zaginionej.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "fbdd37f3cf",
+  "temat": "JM03 – Systemy, praca operacyjna, poszukiwania, kanały międzynarodowe",
+  "pytanie": "Policjant prowadzący czynności identyfikacyjne zleca oznaczenie profilu DNA NN osoby w terminie:",
+  "poprawna": "60 dni od dnia ujawnienia NN osoby",
+  "bledne": [
+   "90 dni od rejestracji w KSIP",
+   "60 dni od rejestracji w KSIP",
+   "90 dni od ujawnienia"
+  ],
+  "wyjasnienie": "§ 43 zarządzenia nr 48 KGP w sprawie poszukiwania osoby zaginionej.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "996bdfd43b",
+  "temat": "JM03 – Systemy, praca operacyjna, poszukiwania, kanały międzynarodowe",
+  "pytanie": "W przypadku noworodka porzuconego w „oknie życia” Policja prowadzi:",
+  "poprawna": "czynności w niezbędnym zakresie",
+  "bledne": [
+   "czynności identyfikacyjne",
+   "śledztwo lub dochodzenie",
+   "czynności wyjaśniające"
+  ],
+  "wyjasnienie": "§ 41 ust. 3 zarządzenia nr 48 KGP w sprawie poszukiwania osoby zaginionej.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "9d51a9cc86",
+  "temat": "JM03 – Systemy, praca operacyjna, poszukiwania, kanały międzynarodowe",
+  "pytanie": "Po ujawnieniu NN zwłok umundurowani policjanci skierowani na miejsce w pierwszej kolejności:",
+  "poprawna": "zabezpieczają miejsce znalezienia zwłok",
+  "bledne": [
+   "ustalają, na czyim terenie je znaleziono",
+   "ustalają przyczynę zgonu",
+   "ustalają czas i okoliczności zgonu"
+  ],
+  "wyjasnienie": "Przyczynę i czas zgonu ustala biegły podczas oględzin.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "8c1a331c7f",
+  "temat": "JM03 – Systemy, praca operacyjna, poszukiwania, kanały międzynarodowe",
+  "pytanie": "W zbiorze KSIP Rzecz NIE rejestruje się:",
+  "poprawna": "mikroczipów",
+  "bledne": [
+   "dzieł sztuki",
+   "broni",
+   "zabytków"
+  ],
+  "wyjasnienie": "Zarządzenie o KSIP – nie rejestruje się kolczyków, mikroczipów, paszportów i tatuaży zwierząt. UWAGA – niepewne: odpowiedź z klucza testu.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "ebd40ca42b",
+  "temat": "JM03 – Systemy, praca operacyjna, poszukiwania, kanały międzynarodowe",
+  "pytanie": "Interpol to:",
+  "poprawna": "Międzynarodowa Organizacja Policji Kryminalnej",
+  "bledne": [
+   "Międzynarodowe Zrzeszenie Policji Kryminalnej",
+   "Międzynarodowe Zrzeszenie Policjantów Kryminalnych",
+   "Międzynarodowa Organizacja Policjantów Kryminalnych"
+  ],
+  "wyjasnienie": "ICPO-INTERPOL.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "fbc0f77caa",
+  "temat": "JM03 – Systemy, praca operacyjna, poszukiwania, kanały międzynarodowe",
+  "pytanie": "Wniosek o współpracę lub ostrzeżenie międzynarodowe adresowany do wszystkich państw członkowskich Interpolu to:",
+  "poprawna": "nota",
+  "bledne": [
+   "decyzja",
+   "raport",
+   "dyfuzja"
+  ],
+  "wyjasnienie": "Dyfuzja – do wybranych państw lub stref.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "f0c23b77c1",
+  "temat": "JM03 – Systemy, praca operacyjna, poszukiwania, kanały międzynarodowe",
+  "pytanie": "Dyfuzja Interpolu to wniosek o współpracę lub ostrzeżenie międzynarodowe wysłane przez Krajowe Biuro Interpolu:",
+  "poprawna": "do wybranych stref Interpolu lub wybranych państw członkowskich",
+  "bledne": [
+   "do państw o wspólnych granicach",
+   "do państw strefy Schengen",
+   "do wszystkich państw członkowskich"
+  ],
+  "wyjasnienie": "JM03 JS09.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "8ca5b56bbd",
+  "temat": "JM03 – Systemy, praca operacyjna, poszukiwania, kanały międzynarodowe",
+  "pytanie": "Nota i dyfuzja oznaczona kolorem czerwonym publikowana jest w celu:",
+  "poprawna": "zatrzymania, tymczasowego aresztowania lub ekstradycji osoby poszukiwanej",
+  "bledne": [
+   "ustalenia miejsca pobytu osoby zaginionej",
+   "ostrzeżenia przed modus operandi",
+   "ostrzeżenia o osobach zagrażających porządkowi"
+  ],
+  "wyjasnienie": "Żółta – zaginieni, niebieska – miejsce pobytu, zielona – ostrzeżenia, fioletowa – modus operandi.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "42823bb9ff",
+  "temat": "JM03 – Systemy, praca operacyjna, poszukiwania, kanały międzynarodowe",
+  "pytanie": "Nota Interpolu o nieprzypisanym kolorze dotyczy:",
+  "poprawna": "dzieł sztuki",
+  "bledne": [
+   "osób zaginionych",
+   "przedmiotów utraconych w wyniku przestępstwa",
+   "przedmiotów zagubionych"
+  ],
+  "wyjasnienie": "Nota o skradzionych dziełach sztuki nie ma koloru.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "06ff1e39a0",
+  "temat": "JM04 – Wyszkolenie strzeleckie",
+  "pytanie": "Na ilu poziomach zaawansowania prowadzone jest szkolenie strzeleckie z broni palnej krótkiej?",
+  "poprawna": "5",
+  "bledne": [
+   "4",
+   "6",
+   "3"
+  ],
+  "wyjasnienie": "Załącznik nr 4 do zarządzenia nr 2 KGP z 15 stycznia 2024 r. w sprawie wyszkolenia strzeleckiego.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "0e93117ff2",
+  "temat": "JM04 – Wyszkolenie strzeleckie",
+  "pytanie": "Strzelania z broni palnej krótkiej obejmują strzelania:",
+  "poprawna": "przygotowawcze, statyczne, szybkie, dynamiczne, sytuacyjne (oraz interwencyjne)",
+  "bledne": [
+   "przygotowawcze, szybkie, dynamiczne, sytuacyjne",
+   "przygotowawcze, statyczne, szybkie",
+   "statyczne, szybkie, sytuacyjne"
+  ],
+  "wyjasnienie": "Załącznik nr 4 do zarządzenia nr 2 KGP z 15 stycznia 2024 r. w sprawie wyszkolenia strzeleckiego.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "c6be583f18",
+  "temat": "JM04 – Wyszkolenie strzeleckie",
+  "pytanie": "Strzelania przygotowawcze i statyczne odbywają się w postawie:",
+  "poprawna": "stojącej",
+  "bledne": [
+   "klęczącej",
+   "siedzącej",
+   "leżącej"
+  ],
+  "wyjasnienie": "Tabela nr 1 załącznika nr 4 do zarządzenia nr 2 KGP z 15 stycznia 2024 r. w sprawie wyszkolenia strzeleckiego.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "b15cc552f2",
+  "temat": "JM04 – Wyszkolenie strzeleckie",
+  "pytanie": "Strzelania statyczne odbywają się po zrealizowaniu strzelań:",
+  "poprawna": "przygotowawczych",
+  "bledne": [
+   "szybkich",
+   "sytuacyjnych",
+   "dynamicznych"
+  ],
+  "wyjasnienie": "Tabela nr 1 – kolejność strzelań zarządzenia nr 2 KGP z 15 stycznia 2024 r. w sprawie wyszkolenia strzeleckiego.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "7df42bd51c",
+  "temat": "JM04 – Wyszkolenie strzeleckie",
+  "pytanie": "Strzelania szybkie mogą być realizowane w postawach:",
+  "poprawna": "stojącej, leżącej, klęczącej i siedzącej",
+  "bledne": [
+   "stojącej, leżącej, klęczącej",
+   "stojącej, klęczącej, siedzącej",
+   "leżącej, klęczącej, siedzącej"
+  ],
+  "wyjasnienie": "Tabela nr 2 załącznika nr 4 do zarządzenia nr 2 KGP z 15 stycznia 2024 r. w sprawie wyszkolenia strzeleckiego.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "7004472dbf",
+  "temat": "JM04 – Wyszkolenie strzeleckie",
+  "pytanie": "Strzelania szybkie oceniane są w skali:",
+  "poprawna": "zaliczone, niezaliczone",
+  "bledne": [
+   "ocen 1–6",
+   "zal./nzal. lub 1–6",
+   "zal./nzal. i 1–6"
+  ],
+  "wyjasnienie": "Tabela nr 2 – kryteria oceny zal./nzal. (zarządzenia nr 2 KGP z 15 stycznia 2024 r. w sprawie wyszkolenia strzeleckiego).",
+  "zrodlo": "test"
+ },
+ {
+  "id": "8bca9a5ab9",
+  "temat": "JM04 – Wyszkolenie strzeleckie",
+  "pytanie": "Strzelania charakteryzujące się koniecznością rozpoznania celu (cele neutralne) to strzelania:",
+  "poprawna": "sytuacyjne",
+  "bledne": [
+   "dynamiczne",
+   "szybkie",
+   "statyczne"
+  ],
+  "wyjasnienie": "Tabela nr 4 zarządzenia nr 2 KGP z 15 stycznia 2024 r. w sprawie wyszkolenia strzeleckiego.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "b851b7a588",
+  "temat": "JM04 – Wyszkolenie strzeleckie",
+  "pytanie": "Strzelania, w których policjant wykorzystuje osłony, to strzelania:",
+  "poprawna": "dynamiczne i sytuacyjne",
+  "bledne": [
+   "sytuacyjne i szybkie",
+   "dynamiczne i szybkie",
+   "statyczne i sytuacyjne"
+  ],
+  "wyjasnienie": "Tabele nr 3 i 4 zarządzenia nr 2 KGP z 15 stycznia 2024 r. w sprawie wyszkolenia strzeleckiego.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "bb44fa5af9",
+  "temat": "JM04 – Wyszkolenie strzeleckie",
+  "pytanie": "Jaka tarcza NIE jest celem w strzelaniach sytuacyjnych z broni krótkiej?",
+  "poprawna": "TS 2",
+  "bledne": [
+   "TS 9",
+   "TS 20",
+   "TS 25"
+  ],
+  "wyjasnienie": "TS 2 używa się w strzelaniach statycznych (tabela nr 1 zarządzenia nr 2 KGP z 15 stycznia 2024 r. w sprawie wyszkolenia strzeleckiego).",
+  "zrodlo": "test"
+ },
+ {
+  "id": "0ce7fbf28c",
+  "temat": "JM04 – Wyszkolenie strzeleckie",
+  "pytanie": "Minimalna odległość do tarczy podczas strzelań sytuacyjnych z broni krótkiej wynosi:",
+  "poprawna": "2 m",
+  "bledne": [
+   "0 m",
+   "5 m",
+   "7 m"
+  ],
+  "wyjasnienie": "Tabela nr 4 zarządzenia nr 2 KGP z 15 stycznia 2024 r. w sprawie wyszkolenia strzeleckiego (np. strzelanie nr 54 – cele na 2 i 6 m).",
+  "zrodlo": "test"
+ },
+ {
+  "id": "5449bdb6db",
+  "temat": "JM04 – Wyszkolenie strzeleckie",
+  "pytanie": "W strzelaniach do tarcz sylwetkowych za trafienie uznaje się przestrzelinę:",
+  "poprawna": "której pełny obrys znajduje się w polu wyznaczającym sylwetkę",
+  "bledne": [
+   "dotykającą zewnętrznego obrysu celu",
+   "której większa część jest w obrysie celu",
+   "której połowa obrysu jest w obrysie celu"
+  ],
+  "wyjasnienie": "Część III ust. 5 załącznika nr 4 do zarządzenia nr 2 KGP z 15 stycznia 2024 r. w sprawie wyszkolenia strzeleckiego.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "326ed22ddb",
+  "temat": "JM04 – Wyszkolenie strzeleckie",
+  "pytanie": "Podczas strzelania dynamicznego strzelający zakłada ochronniki wzroku i słuchu oraz dołącza magazynek na komendę:",
+  "poprawna": "„przygotować się do strzelania”",
+  "bledne": [
+   "„ognia”",
+   "„na linię startu”",
+   "„ładuj broń”"
+  ],
+  "wyjasnienie": "Część II ust. 1 pkt 4 załącznika nr 4 do zarządzenia nr 2 KGP z 15 stycznia 2024 r. w sprawie wyszkolenia strzeleckiego.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "106a71138e",
+  "temat": "JM04 – Wyszkolenie strzeleckie",
+  "pytanie": "Osoba przebywająca na strzelnicy w trakcie wyszkolenia strzeleckiego jest obowiązana bezwzględnie przestrzegać:",
+  "poprawna": "warunków i zasad bezpieczeństwa",
+  "bledne": [
+   "warunków bezpieczeństwa",
+   "zasad bezpieczeństwa",
+   "warunków i zasad wynikających z rodzaju strzelania"
+  ],
+  "wyjasnienie": "zarządzenia nr 2 KGP z 15 stycznia 2024 r. w sprawie wyszkolenia strzeleckiego.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "3aa428fc46",
+  "temat": "JM04 – Wyszkolenie strzeleckie",
+  "pytanie": "Uczestnik strzelania może położyć palec na języku spustowym wyłącznie, gdy:",
+  "poprawna": "oddaje w sposób świadomy strzał do rozpoznanego i określonego warunkami strzelania celu",
+  "bledne": [
+   "oddaje strzał do pojawiającej się tarczy",
+   "uczestniczy w strzelaniu sytuacyjnym",
+   "zamierza oddać strzał w kierunku celu"
+  ],
+  "wyjasnienie": "Załącznik nr 1 do zarządzenia nr 2 KGP z 15 stycznia 2024 r. w sprawie wyszkolenia strzeleckiego.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "144de652c9",
+  "temat": "JM04 – Wyszkolenie strzeleckie",
+  "pytanie": "Ręka wiodąca to ręka:",
+  "poprawna": "trzymająca broń",
+  "bledne": [
+   "ładująca magazynek",
+   "wykonująca obsługę bieżącą",
+   "odbezpieczająca broń"
+  ],
+  "wyjasnienie": "Podstawy celnego strzelania (JM04 JS01).",
+  "zrodlo": "test"
+ },
+ {
+  "id": "9932519fe3",
+  "temat": "JM04 – Wyszkolenie strzeleckie",
+  "pytanie": "Strzał to:",
+  "poprawna": "wyrzucenie pocisku z przewodu lufy spowodowane ciśnieniem gazów prochowych",
+  "bledne": [
+   "wyrzucenie naboju z lufy",
+   "wyrzucenie łuski z lufy",
+   "wyrzucenie zamka"
+  ],
+  "wyjasnienie": "Teoria strzału (JM04 JS01).",
+  "zrodlo": "test"
+ },
+ {
+  "id": "d3d4803355",
+  "temat": "JM04 – Wyszkolenie strzeleckie",
+  "pytanie": "Odłącznik-przerywacz w broni REX Zero 1 zamontowany jest:",
+  "poprawna": "wewnątrz szkieletu broni, na szynie spustowej",
+  "bledne": [
+   "po lewej stronie na zamku",
+   "po lewej stronie szkieletu na zewnątrz",
+   "w tylnej części szkieletu po obu stronach"
+  ],
+  "wyjasnienie": "Budowa REX Zero 1.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "6aca8785af",
+  "temat": "JM04 – Wyszkolenie strzeleckie",
+  "pytanie": "Podstawowymi zacięciami w broni palnej krótkiej są:",
+  "poprawna": "niewypał, niedomknięcie komory nabojowej, przytrzaśnięcie łuski, utknięcie naboju",
+  "bledne": [
+   "niedobój, niewyciąg, przytrzask, zakleszczenie kurka",
+   "zakleszczenie komory, niewyciąg, niewypał, utykanie magazynka",
+   "niewypał, zakleszczenie, niedowład łuski"
+  ],
+  "wyjasnienie": "JM04 JS01 – zacięcia.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "6d0f44bfe8",
+  "temat": "JM04 – Wyszkolenie strzeleckie",
+  "pytanie": "Jedną z przyczyn utknięcia (przekoszenia) naboju NIE jest:",
+  "poprawna": "wadliwie działający mechanizm spustowo-uderzeniowy",
+  "bledne": [
+   "zgięcie szczęk magazynka",
+   "wadliwa sprężyna magazynka",
+   "zanieczyszczony magazynek i wślizg komory"
+  ],
+  "wyjasnienie": "Mechanizm spustowo-uderzeniowy odpowiada za zbicie spłonki (niewypał), nie za podawanie naboju.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "c527c04e29",
+  "temat": "JM04 – Wyszkolenie strzeleckie",
+  "pytanie": "Uczestnik strzelania statycznego nacisnął spust po przeładowaniu i nie nastąpił strzał. Aby kontynuować, powinien:",
+  "poprawna": "dobić magazynek i ponownie przeładować broń, usuwając niewypał",
+  "bledne": [
+   "dwukrotnie przeładować broń",
+   "uderzyć w tył zamka i przeładować",
+   "wypiąć magazynek i zakończyć strzelanie"
+  ],
+  "wyjasnienie": "JM04 JS01 – usuwanie zacięć.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "38079efd58",
+  "temat": "JM04 – Wyszkolenie strzeleckie",
+  "pytanie": "Jeśli podczas strzelania sytuacyjnego po naciśnięciu spustu nie padnie strzał, policjant:",
+  "poprawna": "dokona kontroli broni, dobije magazynek i przeładuje broń",
+  "bledne": [
+   "skontroluje broń i dobije magazynek",
+   "uderzy w tył zamka",
+   "tylko przeładuje broń"
+  ],
+  "wyjasnienie": "JM04 JS01 – usuwanie zacięć.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "0f58d964d7",
+  "temat": "JM04 – Wyszkolenie strzeleckie",
+  "pytanie": "Po strzale policjant ponownie nacisnął spust – iglica zwolniona, zamek w przednim położeniu. Po dobiciu magazynka i przeładowaniu sytuacja się powtórzyła. Powinien:",
+  "poprawna": "przerwać strzelanie, rozładować broń, sprawdzić sprawność części, a przy uszkodzeniu zawiadomić przełożonego w celu naprawy lub wymiany",
+  "bledne": [
+   "wymienić amunicję i strzelać dalej",
+   "zabezpieczyć broń w tym stanie i przekazać do naprawy",
+   "rozłożyć broń i wymienić część z innej broni"
+  ],
+  "wyjasnienie": "Powtarzający się objaw wskazuje na niesprawność broni, nie amunicji.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "6b2a3313e4",
+  "temat": "JM04 – Wyszkolenie strzeleckie",
+  "pytanie": "Wymiana taktyczna magazynka polega na:",
+  "poprawna": "wymianie magazynka, gdy nabój znajduje się w komorze nabojowej",
+  "bledne": [
+   "usunięciu niesprawności broni",
+   "wymianie, gdy skończy się amunicja",
+   "wypięciu magazynka i przeładowaniu przy zacięciu"
+  ],
+  "wyjasnienie": "Wymiana awaryjna – gdy skończy się amunicja.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "8476b3417e",
+  "temat": "JM04 – Wyszkolenie strzeleckie",
+  "pytanie": "Policjant przeładował broń, ale drugi policjant obezwładnił napastnika. Prawidłowe rozładowanie broni to:",
+  "poprawna": "skierować broń w bezpiecznym kierunku, odłączyć magazynek, a następnie usunąć nabój z komory",
+  "bledne": [
+   "odłączyć magazynek i oddać strzał kontrolny",
+   "usunąć nabój z komory przez przeładowanie (z magazynkiem)",
+   "usunąć nabój przeładowaniem, a potem odłączyć magazynek"
+  ],
+  "wyjasnienie": "Najpierw odłącza się magazynek – inaczej przeładowanie wprowadzi kolejny nabój do komory.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "08ee3fc87c",
+  "temat": "JM05 – Sprawność fizyczna i taktyka interwencji",
+  "pytanie": "Zgodnie z art. 61a ustawy o Policji każdy policjant jest obowiązany utrzymywać sprawność fizyczną zapewniającą:",
+  "poprawna": "wykonywanie przez niego zadań służbowych",
+  "bledne": [
+   "dobre samopoczucie fizyczne",
+   "rywalizację sportową",
+   "dobre samopoczucie fizyczne i psychiczne"
+  ],
+  "wyjasnienie": "Art. 61a ust. 1 ustawy o Policji.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "882ad3ba80",
+  "temat": "JM05 – Sprawność fizyczna i taktyka interwencji",
+  "pytanie": "Ile razy w roku policjanci przystępują do testu sprawności fizycznej?",
+  "poprawna": "raz w roku",
+  "bledne": [
+   "dwa razy w roku",
+   "raz na kwartał",
+   "cztery razy w roku"
+  ],
+  "wyjasnienie": "§ 9–10 zarządzenia nr 1 KGP z 15 stycznia 2024 r. – corocznie, do 31 grudnia.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "a58a3f5d34",
+  "temat": "JM05 – Sprawność fizyczna i taktyka interwencji",
+  "pytanie": "Ciężar piłki lekarskiej w teście sprawności fizycznej policjantów (także dla kobiet) wynosi:",
+  "poprawna": "3 kg",
+  "bledne": [
+   "5 kg",
+   "2 kg",
+   "4 kg"
+  ],
+  "wyjasnienie": "§ 2 ust. 1 pkt 1 zarządzenia nr 1 KGP z 2024 r.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "5d5ad15882",
+  "temat": "JM05 – Sprawność fizyczna i taktyka interwencji",
+  "pytanie": "Ile rzutów piłką lekarską może wykonać policjant w teście sprawności?",
+  "poprawna": "2",
+  "bledne": [
+   "1",
+   "3",
+   "4"
+  ],
+  "wyjasnienie": "Załącznik nr 1 do zarządzenia nr 1 KGP – liczy się lepszy rzut.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "5b330c27a9",
+  "temat": "JM05 – Sprawność fizyczna i taktyka interwencji",
+  "pytanie": "Siady z leżenia na plecach w teście sprawności fizycznej wykonuje się w czasie:",
+  "poprawna": "30 s",
+  "bledne": [
+   "60 s",
+   "10 s",
+   "40 s"
+  ],
+  "wyjasnienie": "§ 2 ust. 1 pkt 2 zarządzenia nr 1 KGP z 2024 r.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "3f4dbc69dd",
+  "temat": "JM05 – Sprawność fizyczna i taktyka interwencji",
+  "pytanie": "Do której próby testu sprawności fizycznej nie przystępują policjanci zwalczania cyberprzestępczości?",
+  "poprawna": "biegu na dystansie 1000 m",
+  "bledne": [
+   "rzutu piłką lekarską",
+   "siadów z leżenia",
+   "biegu ze zmianą kierunku"
+  ],
+  "wyjasnienie": "§ 3 zarządzenia nr 1 KGP z 15 stycznia 2024 r. (dotyczy też służby wspomagającej).",
+  "zrodlo": "wlasne"
+ },
+ {
+  "id": "fd2178762a",
+  "temat": "JM05 – Sprawność fizyczna i taktyka interwencji",
+  "pytanie": "Rozgrzewka przed aktywnością fizyczną ma za zadanie:",
+  "poprawna": "przygotować organizm do wysiłku fizycznie i psychicznie",
+  "bledne": [
+   "nie ma żadnego zadania",
+   "obniżyć ciśnienie krwi",
+   "obniżyć temperaturę ciała"
+  ],
+  "wyjasnienie": "JM05 JS01.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "8a1f57d7ca",
+  "temat": "JM05 – Sprawność fizyczna i taktyka interwencji",
+  "pytanie": "BMI (Body Mass Index) jest wskaźnikiem:",
+  "poprawna": "masy ciała",
+  "bledne": [
+   "rozwoju organizmu",
+   "migracji impulsów nerwowych",
+   "wzrostu"
+  ],
+  "wyjasnienie": "Masa ciała [kg] / wzrost² [m²].",
+  "zrodlo": "test"
+ },
+ {
+  "id": "3547113a2e",
+  "temat": "JM05 – Sprawność fizyczna i taktyka interwencji",
+  "pytanie": "Do punktów wrażliwych na ciele człowieka zaliczamy:",
+  "poprawna": "krocze, krtań, oczy",
+  "bledne": [
+   "mięsień czworogłowy uda",
+   "czoło, mięsień najszerszy grzbietu",
+   "przedramię, ramię, bark"
+  ],
+  "wyjasnienie": "JM05 JS02 – miejsca wrażliwe.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "f2c887dbc6",
+  "temat": "JM05 – Sprawność fizyczna i taktyka interwencji",
+  "pytanie": "Poprzez kontrolę odcinka szyjnego działamy na układ:",
+  "poprawna": "krwionośny, kostny, oddechowy oraz nerwowy",
+  "bledne": [
+   "krwionośny",
+   "kostny i nerwowy",
+   "kostny"
+  ],
+  "wyjasnienie": "Stąd wymóg szczególnej ostrożności przy obchwycie szyi.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "5801eb0106",
+  "temat": "JM05 – Sprawność fizyczna i taktyka interwencji",
+  "pytanie": "Czy w przypadku omdlenia spowodowanego obchwytem szyi dopuszczalne jest dalsze przetrzymanie?",
+  "poprawna": "nie, bo kilkudziesięciosekundowy niedobór tlenu w mózgu może spowodować ustanie czynności życiowych",
+  "bledne": [
+   "tak, bo krótki niedobór tlenu nie zagraża życiu",
+   "decyduje policjant",
+   "decyduje dyżurny"
+  ],
+  "wyjasnienie": "JM05 JS02.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "0dd8756444",
+  "temat": "JM05 – Sprawność fizyczna i taktyka interwencji",
+  "pytanie": "Jeśli po obchwycie szyi z uciskiem osoba straciła przytomność, należy:",
+  "poprawna": "puścić obchwyt i udzielić pierwszej pomocy",
+  "bledne": [
+   "rozluźnić obchwyt, ale go nie puszczać",
+   "ułożyć w pozycji bocznej (bez puszczania wcześniej)",
+   "wezwać pogotowie i uciekać"
+  ],
+  "wyjasnienie": "JM05 JS02–JS03.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "d13af3be2a",
+  "temat": "JM05 – Sprawność fizyczna i taktyka interwencji",
+  "pytanie": "Policjanci interweniują wobec mężczyzny podobnego do poszukiwanego. Mężczyzna chwyta policjanta za mundur i szarpie. Właściwe zachowanie to:",
+  "poprawna": "przyjęcie gardy, podcięcie zewnętrzne i sprowadzenie napastnika do ziemi",
+  "bledne": [
+   "użycie paralizatora",
+   "natychmiastowe dobycie broni",
+   "zakładanie kajdanek bez opanowania oporu"
+  ],
+  "wyjasnienie": "JM05 JS04 – obrona przed chwytami.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "beee0d0bca",
+  "temat": "JM05 – Sprawność fizyczna i taktyka interwencji",
+  "pytanie": "Policjant spotkał się z agresją słowną podczas legitymowania. Aby uniknąć ataku, powinien:",
+  "poprawna": "utrzymać bezpieczny dystans, wezwać do zachowania zgodnego z prawem i ostrzec o możliwości użycia ŚPB",
+  "bledne": [
+   "uderzyć pałką w miejsce umięśnione",
+   "oddalić się, nie zwracając uwagi",
+   "za wszelką cenę obezwładnić osobę"
+  ],
+  "wyjasnienie": "JM05 JS05 – bezpieczeństwo podczas legitymowania.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "c332c4675c",
+  "temat": "JM05 – Sprawność fizyczna i taktyka interwencji",
+  "pytanie": "Policjant jest popychany, szarpany, a następnie atakowany uderzeniem pięścią, głową lub kopnięciem. Powinien:",
+  "poprawna": "odeprzeć atak, chroniąc miejsca wrażliwe, a następnie zastosować środek przymusu adekwatny do sytuacji",
+  "bledne": [
+   "bezwarunkowo użyć broni palnej",
+   "tylko negocjować",
+   "oddalić się i nie interweniować"
+  ],
+  "wyjasnienie": "JM05 JS04, pkt 1.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "a48f2f6902",
+  "temat": "JM05 – Sprawność fizyczna i taktyka interwencji",
+  "pytanie": "Podczas obrony przed atakiem nożem kluczowym elementem jest:",
+  "poprawna": "blok z zejściem z linii ataku i uzyskanie bezpiecznej odległości w celu dobycia pałki lub broni",
+  "bledne": [
+   "przechwycenie dłoni z nożem",
+   "statyczne oczekiwanie na kontakt",
+   "same komendy głosowe bez zmiany pozycji"
+  ],
+  "wyjasnienie": "JM05 JS04, pkt 2.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "62716f01bd",
+  "temat": "JM05 – Sprawność fizyczna i taktyka interwencji",
+  "pytanie": "O pozytywnej ocenie technik odpierania ataków decyduje:",
+  "poprawna": "zastosowanie techniki adekwatnej do zagrożenia, poprawność struktury ruchu, pewność i płynność wykonania",
+  "bledne": [
+   "umiejętność głośnego krzyczenia",
+   "czas poniżej 3 sekund",
+   "stopień uszkodzenia ubrania pozoranta"
+  ],
+  "wyjasnienie": "JM05 JS04.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "451bd1d2c5",
+  "temat": "JM05 – Sprawność fizyczna i taktyka interwencji",
+  "pytanie": "Co jako pierwsze policjant poleca kierowcy zatrzymanego pojazdu podejrzanemu o przestępstwo?",
+  "poprawna": "wyłączyć silnik, wyjąć kluczyki i trzymać ręce na kierownicy lub w górze",
+  "bledne": [
+   "otworzyć bagażnik",
+   "opuścić miejsce zatrzymania",
+   "okazać dokumenty"
+  ],
+  "wyjasnienie": "JM05 JS05 – taktyka zatrzymania osoby poruszającej się pojazdem.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "10f28acefc",
+  "temat": "JM05 – Sprawność fizyczna i taktyka interwencji",
+  "pytanie": "Zatrzymując pojazd z podejrzanym, policjanci powinni wykorzystać:",
+  "poprawna": "naturalne warunki ruchu drogowego (sygnalizacja, korki) albo podstęp (np. kontrola drogowa, blokada kamuflowana)",
+  "bledne": [
+   "przewagę liczebną i pojazd o większej mocy",
+   "zablokowanie ulic i broń długą",
+   "moment, gdy kierowca rozmawia przez telefon"
+  ],
+  "wyjasnienie": "JM05 JS05, pkt 2d.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "5764292d8d",
+  "temat": "JM05 – Sprawność fizyczna i taktyka interwencji",
+  "pytanie": "Przed własną identyfikacją policjantów nieumundurowanych zatrzymujących podejrzanego w pojeździe niezbędne jest:",
+  "poprawna": "założenie kamizelek z elementami odblaskowymi i napisem „Policja”, umieszczenie na ubiorze znaku identyfikacji indywidualnej i tablicy „Policja” na pojeździe",
+  "bledne": [
+   "odstąpienie od czynności, jeśli zatrzymywany zna policjantów",
+   "odstąpienie, jeśli zna choć jednego",
+   "założenie pomarańczowych kamizelek i znaku „Policja”"
+  ],
+  "wyjasnienie": "JM05 JS05.",
+  "zrodlo": "test"
+ }
+]

@@ -40,6 +40,7 @@ Postęp zapisuje się w Twojej przeglądarce, więc każdy uczy się osobno. Po 
 | **JM02 JS10** | Interwencje policyjne i osoby pod wpływem alkoholu (ŚPB i broń palna, legitymowanie, zatrzymanie, pościgi, przemoc domowa) | 76 |
 | **JM01 JS05–JS06** | Postępowanie na miejscu zdarzenia i oględziny (zasady i dokumentowanie oględzin, ślady kryminalistyczne) | 44 |
 | **JM02 JS07–JS08** | Kontrola osobista, przeglądanie bagażu i przeszukanie (podstawy, dokumenty, zasady, zatrzymanie rzeczy) | 80 |
+| **Egzamin końcowy** | Cały program SZPC (decyzja nr 162): JM01–JM05, bez treści spoza programu (ruch drogowy, konwoje, strzelby, PM, pododdziały zwarte, k.p.w.) | 256 |
 
 ## Skąd są pytania
 
