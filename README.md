@@ -34,6 +34,7 @@ Postęp zapisuje się w Twojej przeglądarce, więc każdy uczy się osobno. Po 
 | **JM01 JS04** | Ustawy szczególne (Prawo telekomunikacyjne, broń, tytoń, narkomania, dowody osobiste, prawo autorskie, dostęp warunkowy, art. 263 k.k.) | 83 |
 | **JM02 JS06** | Zatrzymanie osoby (ujęcie i zatrzymanie, podstawy, prawa zatrzymanego, czas, badania lekarskie, nieletni, cudzoziemcy, dokumentacja) | 54 |
 | **JM01 JS09** | Historia Policji, etyka zawodowa, korupcja, prawa człowieka, dyskryminacja (pytania prawda/fałsz) | 71 |
+| **JM01 JS07–JS08** | Przyjęcie informacji o przestępstwie i przesłuchanie świadka (proces karny, pokrzywdzony, zawiadomienie, art. 307–308 k.p.k., świadek, odmowa zeznań, protokół) | 126 |
 
 ## Skąd są pytania
 
@@ -79,7 +80,7 @@ app.py, uruchom.bat   podgląd lokalny → http://localhost:8770
 }
 ```
 
-`bledne` ma 3 elementy, a w pytaniach prawda/fałsz – 1 (`"poprawna": "Prawda"`, `"bledne": ["Fałsz"]` lub odwrotnie). `zrodlo` to `"test"`, `"prezentacje"` albo `"wlasne"`.
+`bledne` ma 1–3 elementy. Pary „Prawda/Fałsz” i „Tak/Nie” wyświetlają się w stałej kolejności, pozostałe odpowiedzi są tasowane. `zrodlo` to `"test"`, `"prezentacje"` albo `"wlasne"`.
 
 ### Nowa zakładka
 

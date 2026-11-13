@@ -1,5 +1,6 @@
 const POWTORKI = 2;          // ile razy pytanie wraca po błędnej odpowiedzi
 const LITERY = ["A", "B", "C", "D"];
+const PARY = [["Prawda", "Fałsz"], ["Tak", "Nie"]];
 
 let zakladki = [];
 let zakladka = null;         // { id, nazwa, plik }
@@ -128,9 +129,10 @@ function nastepne() {
   const s = stan.p[p.id] || (stan.p[p.id] = { s: "new", left: 0, zle: 0, ile: 0 });
   s.ile = (s.ile || 0) + 1;
   zapisz();
-  // pytania prawda/fałsz mają stałą kolejność odpowiedzi
-  const opcje = p.bledne.length === 1
-    ? ["Prawda", "Fałsz"].map(t => ({ t, ok: t === p.poprawna }))
+  // pytania prawda/fałsz i tak/nie mają stałą kolejność odpowiedzi, pozostałe są tasowane
+  const para = p.bledne.length === 1 && PARY.find(x => x.includes(p.poprawna) && x.includes(p.bledne[0]));
+  const opcje = para
+    ? para.map(t => ({ t, ok: t === p.poprawna }))
     : tasuj([{ t: p.poprawna, ok: true }, ...p.bledne.map(t => ({ t, ok: false }))]);
   biezace = { p, opcje, odpowiedziano: false };
   wznowCzas();

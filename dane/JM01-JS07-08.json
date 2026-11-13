@@ -1,0 +1,1625 @@
+[
+ {
+  "id": "4261bc0285",
+  "temat": "JS07 1–2. Proces karny i informacje o przestępstwie",
+  "pytanie": "Do stadiów procesu karnego zaliczamy:",
+  "poprawna": "postępowanie przygotowawcze, postępowanie sądowe, postępowanie wykonawcze",
+  "bledne": [
+   "postępowanie przygotowawcze, postępowanie sprawdzające, postępowanie wykonawcze",
+   "postępowanie przygotowawcze, postępowanie sądowe, postępowanie egzekucyjne",
+   "postępowanie przygotowawcze, postępowanie w niezbędnym zakresie, czynności wyjaśniające"
+  ],
+  "wyjasnienie": "Trzy stadia procesu karnego: przygotowawcze, sądowe (jurysdykcyjne) i wykonawcze. Postępowanie sprawdzające i czynności w niezbędnym zakresie to etapy przed wszczęciem postępowania przygotowawczego.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "83de67658c",
+  "temat": "JS07 1–2. Proces karny i informacje o przestępstwie",
+  "pytanie": "Formami postępowania przygotowawczego są:",
+  "poprawna": "dochodzenie i śledztwo",
+  "bledne": [
+   "śledztwo i postępowanie sprawdzające",
+   "dochodzenie i postępowanie sprawdzające",
+   "dochodzenie, śledztwo i czynności w niezbędnym zakresie"
+  ],
+  "wyjasnienie": "Dochodzenie prowadzi co do zasady Policja (art. 325a k.p.k.) w sprawach mniejszej wagi (art. 325b), a śledztwo – prokurator lub Policja.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "c64798f6a7",
+  "temat": "JS07 1–2. Proces karny i informacje o przestępstwie",
+  "pytanie": "Stronami w postępowaniu przygotowawczym są:",
+  "poprawna": "pokrzywdzony i podejrzany",
+  "bledne": [
+   "oskarżyciel i oskarżony",
+   "świadek i pokrzywdzony",
+   "prokurator i skazany"
+  ],
+  "wyjasnienie": "Art. 299 § 1 k.p.k. Oskarżony i oskarżyciel to strony postępowania sądowego.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "504bc770d1",
+  "temat": "JS07 1–2. Proces karny i informacje o przestępstwie",
+  "pytanie": "Zgodnie z treścią art. 71 § 1 k.p.k. podejrzanym jest:",
+  "poprawna": "osoba, co do której wydano postanowienie o przedstawieniu zarzutów albo której bez wydania takiego postanowienia postawiono zarzut w związku z przystąpieniem do przesłuchania w charakterze podejrzanego",
+  "bledne": [
+   "każda osoba, która popełniła czyn zabroniony",
+   "osoba, przeciwko której wniesiono oskarżenie do sądu",
+   "osoba, przeciwko której wniesiono wniosek o ukaranie do sądu"
+  ],
+  "wyjasnienie": "Art. 71 § 1 k.p.k. Osoba, przeciwko której wniesiono oskarżenie, to oskarżony (art. 71 § 2), a wniosek o ukaranie dotyczy obwinionego w sprawach o wykroczenia.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "6a940af0a3",
+  "temat": "JS07 1–2. Proces karny i informacje o przestępstwie",
+  "pytanie": "W postępowaniu karnym oskarżony może mieć jednocześnie nie więcej niż:",
+  "poprawna": "trzech obrońców",
+  "bledne": [
+   "jednego obrońcę",
+   "dwóch obrońców",
+   "czterech obrońców"
+  ],
+  "wyjasnienie": "Art. 77 k.p.k.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "e816cf2847",
+  "temat": "JS07 1–2. Proces karny i informacje o przestępstwie",
+  "pytanie": "Społeczny obowiązek zawiadomienia o przestępstwie dotyczy:",
+  "poprawna": "każdego, kto dowiedział się o popełnieniu przestępstwa ściganego z urzędu",
+  "bledne": [
+   "obywatela polskiego, który dowiedział się o popełnieniu przestępstwa",
+   "obywatela polskiego, który dowiedział się o popełnieniu przestępstwa lub wykroczenia",
+   "przedstawiciela organizacji społecznej, której statutowym celem działania jest zwalczanie przestępczości"
+  ],
+  "wyjasnienie": "Art. 304 § 1 k.p.k. Za niewypełnienie obowiązku społecznego nie grozi kara.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "2b618c1abf",
+  "temat": "JS07 1–2. Proces karny i informacje o przestępstwie",
+  "pytanie": "Zgodnie z treścią art. 304 § 2 k.p.k. prawny obowiązek zawiadomienia o przestępstwie Policji lub prokuratora mają:",
+  "poprawna": "instytucje państwowe i samorządowe, które w związku ze swą działalnością dowiedziały się o popełnieniu przestępstwa ściganego z urzędu",
+  "bledne": [
+   "wszyscy obywatele",
+   "instytucje państwowe i samorządowe",
+   "wyłącznie instytucje państwowe, które w związku ze swą działalnością dowiedziały się o popełnieniu przestępstwa ściganego z urzędu"
+  ],
+  "wyjasnienie": "Art. 304 § 2 k.p.k. Instytucje muszą też zabezpieczyć ślady i dowody do czasu przybycia organu ścigania.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "3b1625df4e",
+  "temat": "JS07 1–2. Proces karny i informacje o przestępstwie",
+  "pytanie": "Prawny obowiązek powiadomienia organów ścigania o przestępstwie, którego niedopełnienie jest przestępstwem, dotyczy:",
+  "poprawna": "każdej osoby, która dowiedziała się o przestępstwie wymienionym w art. 240 § 1 k.k",
+  "bledne": [
+   "tylko funkcjonariusza, który dowiedział się o przestępstwie ściganym z urzędu",
+   "tylko instytucji państwowej i samorządowej, które dowiedziały się o przestępstwie ściganym z urzędu",
+   "każdej osoby, która dowiedziała się o jakimkolwiek przestępstwie"
+  ],
+  "wyjasnienie": "Art. 240 § 1 k.k.: wiarygodna wiadomość m.in. o zabójstwie, ciężkim uszczerbku, zgwałceniu zbiorowym, wzięciu zakładnika, przestępstwie terrorystycznym – kara do 3 lat. Instytucje mają obowiązek z art. 304 § 2 k.p.k.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "8ab0d31c76",
+  "temat": "JS07 1–2. Proces karny i informacje o przestępstwie",
+  "pytanie": "Do pozaprocesowych źródeł informacji o przestępstwie nie należą:",
+  "poprawna": "informacje pochodzące z czynności dochodzeniowo-śledczych",
+  "bledne": [
+   "anonimy",
+   "źródła operacyjne",
+   "własne spostrzeżenia i obserwacje"
+  ],
+  "wyjasnienie": "Czynności dochodzeniowo-śledcze to źródło PROCESOWE. Anonimy, źródła operacyjne i własne obserwacje policjanta są pozaprocesowe.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "e1680e0d68",
+  "temat": "JS07 1–2. Proces karny i informacje o przestępstwie",
+  "pytanie": "Sposoby dokumentowania informacji o przestępstwie to:",
+  "poprawna": "protokół przyjęcia ustnego zawiadomienia o przestępstwie, protokół ustnej skargi o przestępstwie ściganym z oskarżenia prywatnego, notatka urzędowa",
+  "bledne": [
+   "protokół przyjęcia ustnego zawiadomienia o przestępstwie, notatka wyjaśniająca",
+   "notatka urzędowa, protokół ustnej skargi o przestępstwie ściganym z oskarżenia prywatnego",
+   "tylko protokół przyjęcia ustnego zawiadomienia o przestępstwie"
+  ],
+  "wyjasnienie": "Zgodnie z sylabusem JS07: protokół przyjęcia ustnego zawiadomienia (art. 304a k.p.k.), protokół przyjęcia ustnej skargi (art. 488 § 1) oraz notatka urzędowa.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "3b1e698795",
+  "temat": "JS07 3–4. Pokrzywdzony",
+  "pytanie": "Zgodnie z treścią art. 49 § 1 k.p.k. pokrzywdzonym jest:",
+  "poprawna": "osoba fizyczna lub prawna, której dobro prawne zostało bezpośrednio naruszone lub zagrożone przez przestępstwo",
+  "bledne": [
+   "każda osoba fizyczna lub prawna, która zgłosiła zawiadomienie o przestępstwie",
+   "osoba fizyczna, której dobro prawne zostało bezpośrednio naruszone lub zagrożone przez przestępstwo",
+   "osoba fizyczna lub prawna, której dobro prawne zostało bezpośrednio naruszone lub zagrożone przez przestępstwo lub wykroczenie"
+  ],
+  "wyjasnienie": "Art. 49 § 1 k.p.k. Pokrzywdzonym może być też instytucja państwowa lub samorządowa (§ 2) i zakład ubezpieczeń (§ 3).",
+  "zrodlo": "test"
+ },
+ {
+  "id": "40c6b5f389",
+  "temat": "JS07 3–4. Pokrzywdzony",
+  "pytanie": "Pokrzywdzony ma obowiązek:",
+  "poprawna": "poddać się oględzinom i badaniom niepołączonym z zabiegiem chirurgicznym lub obserwacją w zakładzie leczniczym, jeżeli od stanu jego zdrowia zależy karalność czynu",
+  "bledne": [
+   "odpowiadać na wszystkie zadawane pytania",
+   "uchylić się od odpowiedzi na niektóre pytania",
+   "złożyć zażalenie na bezczynność organu, jeśli w ciągu 6 tygodni nie został poinformowany o wszczęciu albo odmowie wszczęcia postępowania"
+  ],
+  "wyjasnienie": "Art. 192 § 1 k.p.k. Zabiegowi chirurgicznemu i obserwacji w zakładzie leczniczym może się sprzeciwić. Zażalenie z art. 306 § 3 to uprawnienie, nie obowiązek.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "077d5b73f4",
+  "temat": "JS07 3–4. Pokrzywdzony",
+  "pytanie": "Jeżeli pokrzywdzonym jest małoletni albo ubezwłasnowolniony, prawa jego wykonuje:",
+  "poprawna": "przedstawiciel ustawowy albo osoba, pod której stałą pieczą pokrzywdzony pozostaje",
+  "bledne": [
+   "tylko wskazana przez niego osoba w przypadku niecierpiącym zwłoki",
+   "osoba wskazana w art. 568 Kodeksu cywilnego",
+   "każda osoba, która zauważyła popełnienie przestępstwa na szkodę pokrzywdzonego"
+  ],
+  "wyjasnienie": "Art. 51 § 2 k.p.k.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "cdd9aeae57",
+  "temat": "JS07 3–4. Pokrzywdzony",
+  "pytanie": "Jeżeli pokrzywdzony nie poda nowego adresu, zmienia miejsce zamieszkania lub nie przebywa pod wskazanym przez siebie adresem (art. 139 k.p.k.):",
+  "poprawna": "pismo wysłane pod tym adresem uważa się za doręczone",
+  "bledne": [
+   "stosuje się doręczenie zastępcze zgodnie z k.p.a",
+   "nakłada się na niego karę grzywny do 5000 zł",
+   "może być doprowadzony na przesłuchanie przez Policję"
+  ],
+  "wyjasnienie": "Art. 139 § 1 i 1a k.p.k. O tym skutku poucza się pokrzywdzonego przed pierwszym przesłuchaniem (art. 300 § 2).",
+  "zrodlo": "test"
+ },
+ {
+  "id": "61dbbb4a92",
+  "temat": "JS07 3–4. Pokrzywdzony",
+  "pytanie": "Jeżeli osoba przesłuchiwana (np. pokrzywdzony) nie ukończyła 18 lat, czynności z jej udziałem powinny być:",
+  "poprawna": "w miarę możliwości przeprowadzone w obecności przedstawiciela ustawowego, faktycznego opiekuna lub wskazanej osoby pełnoletniej, chyba że dobro postępowania stoi temu na przeszkodzie",
+  "bledne": [
+   "zawsze przeprowadzone w obecności przedstawiciela ustawowego",
+   "prowadzone tylko w obecności psychologa lub pedagoga szkolnego",
+   "wykonywane zawsze z udziałem osoby starszej i rejestrowane przy pomocy urządzenia rejestrującego obraz lub dźwięk"
+  ],
+  "wyjasnienie": "Art. 171 § 3 k.p.k. UWAGA – dawny stan prawny w teście: przepis mówił wcześniej o osobie, która nie ukończyła 15 lat. Obecnie granicą jest 18 lat.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "d89a7f6fa9",
+  "temat": "JS07 3–4. Pokrzywdzony",
+  "pytanie": "Pokrzywdzonego przestępstwem przeciwko wolności seksualnej, który nie ukończył 15 lat, przesłuchuje:",
+  "poprawna": "tylko sąd na posiedzeniu, przy udziale biegłego psychologa",
+  "bledne": [
+   "policjant, ale zaleca się, aby przesłuchiwał sąd",
+   "każdy prowadzący przesłuchanie",
+   "tylko psycholog"
+  ],
+  "wyjasnienie": "Art. 185a § 1–2 k.p.k. – przesłuchanie tylko raz, co do zasady, z nagraniem obrazu i dźwięku (art. 147 § 2a).",
+  "zrodlo": "test"
+ },
+ {
+  "id": "cb5c302da1",
+  "temat": "JS07 3–4. Pokrzywdzony",
+  "pytanie": "Pokrzywdzony składając zawiadomienie o przestępstwie zażądał, aby była przy nim obecna osoba dla niego najbliższa. Policjant poinformował go, że taka osoba:",
+  "poprawna": "może być obecna, o ile nie będzie utrudniała wykonywania czynności",
+  "bledne": [
+   "może być obecna, o ile zezwoli na to przełożony",
+   "nie może być obecna, gdyż nie pozwalają na to przepisy",
+   "nie może być obecna, gdyż tę czynność wykonuje się tylko z osobą pokrzywdzoną"
+  ],
+  "wyjasnienie": "Art. 51 § 4 k.p.k.: pokrzywdzonemu (i świadkowi) może towarzyszyć osoba przez niego wskazana, jeżeli nie uniemożliwia to wykonania czynności.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "2aabe8f340",
+  "temat": "JS07 5. Zawiadomienie, wniosek o ściganie, skarga prywatna",
+  "pytanie": "Złożyć zawiadomienie o przestępstwie może:",
+  "poprawna": "każda osoba, która dowiedziała się o popełnieniu przestępstwa",
+  "bledne": [
+   "każdy pokrzywdzony",
+   "każda osoba, która dowiedziała się o popełnieniu przestępstwa na szkodę osoby najbliższej",
+   "tylko osoba pełnoletnia, nieubezwłasnowolniona"
+  ],
+  "wyjasnienie": "Art. 304 § 1 k.p.k. – zawiadomić może każdy, nie tylko pokrzywdzony.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "0451d1863c",
+  "temat": "JS07 5. Zawiadomienie, wniosek o ściganie, skarga prywatna",
+  "pytanie": "W przypadku otrzymania telefonicznej informacji o przestępstwie policjant:",
+  "poprawna": "sporządza z takiej rozmowy notatkę urzędową, wzywa zawiadamiającego do niezwłocznego stawienia się do jednostki Policji i przyjmuje zawiadomienie o przestępstwie na protokół",
+  "bledne": [
+   "zleca osobie stawiennictwo w najbliższej jednostce Policji",
+   "informację odnotowuje w notatce urzędowej i zapisie w notatniku służbowym, ewentualnie zaleca osobie stawiennictwo w jednostce Policji",
+   "sporządza z takiej rozmowy notatkę urzędową, wzywa zawiadamiającego do niezwłocznego stawienia się do jednostki Policji i przyjmuje zawiadomienie o przestępstwie na notatkę urzędową"
+  ],
+  "wyjasnienie": "Ustne zawiadomienie przyjmuje się na protokół (art. 304a k.p.k.). Telefoniczną informację dokumentuje się notatką urzędową.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "9c6a6d7386",
+  "temat": "JS07 5. Zawiadomienie, wniosek o ściganie, skarga prywatna",
+  "pytanie": "W przypadku zgłoszenia przestępstwa przez osobę nietrzeźwą należy:",
+  "poprawna": "informację udokumentować w notatce urzędowej, wystawić osobie wezwanie do stawiennictwa w innym terminie, a gdy informacje na to pozwalają – potwierdzić je i przeprowadzić czynności w trybie art. 308 k.p.k",
+  "bledne": [
+   "przyjąć od osoby zawiadomienie o przestępstwie",
+   "wyłącznie wystawić wezwanie osobie do stawiennictwa w innym terminie",
+   "informację udokumentować w notatce urzędowej, która pozostaje bez biegu"
+  ],
+  "wyjasnienie": "Od osoby nietrzeźwej nie przyjmuje się zawiadomienia na protokół. Informację dokumentuje się notatką urzędową, a pilne czynności (np. zabezpieczenie śladów) wykonuje w trybie art. 308 k.p.k.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "4537c0bbfb",
+  "temat": "JS07 5. Zawiadomienie, wniosek o ściganie, skarga prywatna",
+  "pytanie": "Do jednostki Policji zgłosiła się osoba niewładająca językiem polskim, chcąca złożyć zawiadomienie o kradzieży. Czynność przeprowadza się:",
+  "poprawna": "zawsze z udziałem tłumacza",
+  "bledne": [
+   "bez udziału tłumacza",
+   "bez udziału tłumacza, ale z nauczycielem tego języka",
+   "tylko gdy zgodzi się na to prokurator"
+  ],
+  "wyjasnienie": "Art. 204 § 1 pkt 2 k.p.k. – należy wezwać tłumacza do przesłuchania osoby niewładającej językiem polskim (przyjęcie zawiadomienia łączy się z przesłuchaniem zawiadamiającego – art. 304a).",
+  "zrodlo": "test"
+ },
+ {
+  "id": "c826f4ae9b",
+  "temat": "JS07 5. Zawiadomienie, wniosek o ściganie, skarga prywatna",
+  "pytanie": "Protokół, który sporządza się z przyjęcia ustnego zawiadomienia o przestępstwie:",
+  "poprawna": "jest wspólny z przesłuchaniem zawiadamiającego w charakterze świadka i może zawierać wniosek o ściganie",
+  "bledne": [
+   "zawsze sporządza się osobno od protokołu przesłuchania świadka",
+   "nie może zawierać wniosku o ściganie",
+   "zastępuje się notatką urzędową, jeśli zawiadamiający jest pokrzywdzonym"
+  ],
+  "wyjasnienie": "Art. 304a k.p.k.",
+  "zrodlo": "wlasne"
+ },
+ {
+  "id": "e443a3e450",
+  "temat": "JS07 5. Zawiadomienie, wniosek o ściganie, skarga prywatna",
+  "pytanie": "W przypadku przyjmowania zawiadomienia o przestępstwie od osoby, która ukończyła 17 lat, policjant poucza ją o odpowiedzialności karnej za:",
+  "poprawna": "zawiadomienie organu powołanego do ścigania o niepopełnionym przestępstwie",
+  "bledne": [
+   "mówienie nieprawdy",
+   "brak złożenia wniosku o ściganie karne",
+   "zawiadomienie organu powołanego do ścigania o niepopełnionym wykroczeniu"
+  ],
+  "wyjasnienie": "Art. 238 k.k. (dotyczy przestępstwa i przestępstwa skarbowego, nie wykroczenia). Jednocześnie zawiadamiającego jako świadka uprzedza się z art. 233 k.k.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "79b9aaaaf0",
+  "temat": "JS07 5. Zawiadomienie, wniosek o ściganie, skarga prywatna",
+  "pytanie": "Policjant przyjmując zawiadomienie o przestępstwie od osoby, która nie ukończyła 17 lat, powinien:",
+  "poprawna": "zapoznać ją z konsekwencjami zawiadomienia organu powołanego do ścigania o niepopełnionym przestępstwie",
+  "bledne": [
+   "pouczyć o obowiązku złożenia wyjaśnień",
+   "pouczyć o odpowiedzialności karnej za zawiadomienie o niepopełnionym przestępstwie",
+   "zapoznać z sankcjami poniesienia kosztów czynności w przypadku zawiadomienia o niepopełnionym przestępstwie"
+  ],
+  "wyjasnienie": "Osoba poniżej 17 lat co do zasady nie odpowiada karnie (art. 10 k.k.), więc nie uprzedza się jej o odpowiedzialności karnej, a jedynie zapoznaje z konsekwencjami (np. postępowanie w sprawie nieletniego).",
+  "zrodlo": "test"
+ },
+ {
+  "id": "b7bda730b2",
+  "temat": "JS07 5. Zawiadomienie, wniosek o ściganie, skarga prywatna",
+  "pytanie": "W przypadku zawiadomienia o przestępstwie przez pokrzywdzonego przysługuje mu prawo do otrzymania potwierdzenia złożenia zawiadomienia:",
+  "poprawna": "nieodpłatnie, na jego wniosek",
+  "bledne": [
+   "odpłatnie, na jego żądanie",
+   "odpłatnie, za zgodą policjanta wykonującego czynność",
+   "nieodpłatnie, za zgodą policjanta wykonującego czynność"
+  ],
+  "wyjasnienie": "Art. 304b k.p.k. – potwierdzenie wydaje się na wniosek pokrzywdzonego. Należy go o tym prawie pouczyć.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "a501098b28",
+  "temat": "JS07 5. Zawiadomienie, wniosek o ściganie, skarga prywatna",
+  "pytanie": "Osobę, która złożyła zawiadomienie o przestępstwie, a nie została powiadomiona o wszczęciu lub odmowie wszczęcia postępowania, uprawnia do wniesienia zażalenia upływ:",
+  "poprawna": "6 tygodni od złożenia zawiadomienia",
+  "bledne": [
+   "miesiąca od złożenia zawiadomienia",
+   "14 dni od złożenia zawiadomienia",
+   "30 dni od złożenia zawiadomienia"
+  ],
+  "wyjasnienie": "Art. 306 § 3 k.p.k.: zażalenie do prokuratora nadrzędnego (na bezczynność).",
+  "zrodlo": "test"
+ },
+ {
+  "id": "cf09ef76de",
+  "temat": "JS07 5. Zawiadomienie, wniosek o ściganie, skarga prywatna",
+  "pytanie": "W sprawach o przestępstwa ścigane na wniosek pokrzywdzonego:",
+  "poprawna": "wniosek może być cofnięty w postępowaniu przygotowawczym za zgodą prokuratora, a w postępowaniu sądowym za zgodą sądu – aż do zamknięcia przewodu sądowego na pierwszej rozprawie głównej; ponowne złożenie wniosku jest niedopuszczalne",
+  "bledne": [
+   "wniosek nie może być cofnięty w żadnym przypadku",
+   "ponowne złożenie wniosku w tej samej sprawie jest dopuszczalne",
+   "ponowne złożenie wniosku w tej samej sprawie jest dopuszczalne za zgodą prokuratora"
+  ],
+  "wyjasnienie": "Art. 12 § 3 k.p.k. Z chwilą złożenia wniosku postępowanie toczy się z urzędu (§ 1).",
+  "zrodlo": "test"
+ },
+ {
+  "id": "5f29165cbf",
+  "temat": "JS07 5. Zawiadomienie, wniosek o ściganie, skarga prywatna",
+  "pytanie": "Policjant przyjął zawiadomienie o porysowaniu lakieru samochodu i wniosek o ściganie sprawcy. Okazało się, że sprawcą jest brat zgłaszającego. Prowadzący postępowanie:",
+  "poprawna": "powinien przyjąć odrębny wniosek o ściganie osoby najbliższej (brata)",
+  "bledne": [
+   "nie musi przyjmować już żadnego wniosku o ściganie brata",
+   "powinien przyjąć żądanie ścigania brata od prokuratora",
+   "nie musi przyjmować wniosku, bo pierwszy wniosek obejmuje wszystkich sprawców"
+  ],
+  "wyjasnienie": "Art. 12 § 2 k.p.k.: wniosek co do niektórych sprawców obejmuje inne osoby powiązane z czynem, ALE nie dotyczy to osób najbliższych składającego wniosek – wobec nich potrzebny jest odrębny wniosek.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "ef6ffac2b4",
+  "temat": "JS07 5. Zawiadomienie, wniosek o ściganie, skarga prywatna",
+  "pytanie": "W sprawach o przestępstwa ścigane z oskarżenia prywatnego pokrzywdzony może wnieść skargę do sądu:",
+  "poprawna": "za pośrednictwem Policji",
+  "bledne": [
+   "za pośrednictwem Rzecznika Praw Dziecka",
+   "za pośrednictwem Rzecznika Praw Obywatelskich",
+   "za pośrednictwem Ministra Spraw Wewnętrznych i Administracji"
+  ],
+  "wyjasnienie": "Art. 488 § 1 k.p.k.: Policja na żądanie pokrzywdzonego przyjmuje ustną lub pisemną skargę, w razie potrzeby zabezpiecza dowody i przesyła skargę do sądu.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "480443d851",
+  "temat": "JS07 5. Zawiadomienie, wniosek o ściganie, skarga prywatna",
+  "pytanie": "Policjant przyjmując zawiadomienie o przestępstwie ściganym z oskarżenia prywatnego sporządza:",
+  "poprawna": "protokół przyjęcia ustnej skargi o przestępstwie ściganym z oskarżenia prywatnego",
+  "bledne": [
+   "protokół przyjęcia zawiadomienia o przestępstwie ściganym z oskarżenia prywatnego",
+   "protokół przyjęcia ustnego zawiadomienia o przestępstwie",
+   "tylko notatkę urzędową"
+  ],
+  "wyjasnienie": "Art. 488 § 1 k.p.k. Wzór protokołu wymienia sylabus JS07.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "fafd7acdbc",
+  "temat": "JS07 5. Zawiadomienie, wniosek o ściganie, skarga prywatna",
+  "pytanie": "Naruszenie nietykalności cielesnej (art. 217 k.k.) ścigane jest:",
+  "poprawna": "z oskarżenia prywatnego",
+  "bledne": [
+   "z urzędu",
+   "na wniosek",
+   "tylko na drodze cywilnoprawnej"
+  ],
+  "wyjasnienie": "Art. 217 § 3 k.k. Nietykalność funkcjonariusza publicznego (art. 222 k.k.) ściga się z urzędu.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "6c26c38f09",
+  "temat": "JS07 6. Postępowanie sprawdzające i czynności w niezbędnym zakresie",
+  "pytanie": "Postępowanie sprawdzające (art. 307 k.p.k.) prowadzi się w terminie do:",
+  "poprawna": "30 dni od otrzymania zawiadomienia",
+  "bledne": [
+   "7 dni od otrzymania zawiadomienia",
+   "7 dni od chwili wykonania pierwszej czynności",
+   "30 dni od chwili wykonania pierwszej czynności"
+  ],
+  "wyjasnienie": "Art. 307 § 1 k.p.k.: postanowienie o wszczęciu albo odmowie wszczęcia wydaje się najpóźniej w terminie 30 dni od otrzymania zawiadomienia.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "1d16049827",
+  "temat": "JS07 6. Postępowanie sprawdzające i czynności w niezbędnym zakresie",
+  "pytanie": "W postępowaniu sprawdzającym (art. 307 k.p.k.) można przeprowadzić czynność:",
+  "poprawna": "przyjęcia ustnego zawiadomienia o przestępstwie",
+  "bledne": [
+   "przeszukania pomieszczeń",
+   "przesłuchania w charakterze świadka innej osoby niż zawiadamiająca",
+   "przeprowadzenia dowodu z opinii biegłego"
+  ],
+  "wyjasnienie": "Art. 307 § 2–3 k.p.k.: nie przeprowadza się opinii biegłego ani czynności wymagających protokołu, z wyjątkiem przyjęcia ustnego zawiadomienia, wniosku o ściganie i przesłuchania zawiadamiającego jako świadka.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "2e6bf4b1de",
+  "temat": "JS07 6. Postępowanie sprawdzające i czynności w niezbędnym zakresie",
+  "pytanie": "Wykonywanie czynności procesowych w postępowaniu sprawdzającym dopuszczalne jest:",
+  "poprawna": "tylko w formie protokołu przyjęcia zawiadomienia o przestępstwie, przyjęcia wniosku o ściganie oraz przesłuchania w charakterze świadka osoby zawiadamiającej",
+  "bledne": [
+   "bez ograniczeń",
+   "bez ograniczeń, lecz pod nadzorem prokuratora",
+   "tylko w formie protokołu przyjęcia zawiadomienia o przestępstwie"
+  ],
+  "wyjasnienie": "Art. 307 § 2 i 3 k.p.k.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "9d50c29206",
+  "temat": "JS07 6. Postępowanie sprawdzające i czynności w niezbędnym zakresie",
+  "pytanie": "W ramach postępowania sprawdzającego nie można przeprowadzić czynności wymagającej sporządzenia protokołu:",
+  "poprawna": "konfrontacji",
+  "bledne": [
+   "przyjęcia wniosku o ściganie",
+   "przyjęcia ustnego zawiadomienia o przestępstwie",
+   "przesłuchania świadka, którym jest osoba zawiadamiająca"
+  ],
+  "wyjasnienie": "Art. 307 § 2 k.p.k. – wyjątki to tylko trzy pozostałe czynności.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "8493f4027b",
+  "temat": "JS07 6. Postępowanie sprawdzające i czynności w niezbędnym zakresie",
+  "pytanie": "Czynności w niezbędnym zakresie (art. 308 k.p.k.) przeprowadza się:",
+  "poprawna": "w granicach koniecznych dla zabezpieczenia śladów i dowodów przestępstwa przed ich utratą, zniekształceniem lub zniszczeniem",
+  "bledne": [
+   "w granicach koniecznych dla zabezpieczenia śladów i dowodów przestępstwa przed ich utratą, zatarciem",
+   "w granicach koniecznych dla zabezpieczenia śladów i dowodów przestępstwa oraz wykroczenia przed ich utratą, zatarciem, przemieszczeniem",
+   "zawsze na polecenie prokuratora"
+  ],
+  "wyjasnienie": "Art. 308 § 1 k.p.k. – w wypadkach niecierpiących zwłoki, jeszcze przed wszczęciem śledztwa lub dochodzenia.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "b916555e45",
+  "temat": "JS07 6. Postępowanie sprawdzające i czynności w niezbędnym zakresie",
+  "pytanie": "Czynności w niezbędnym zakresie (art. 308 k.p.k.) mogą być dokonywane tylko w ciągu:",
+  "poprawna": "5 dni od dnia pierwszej czynności",
+  "bledne": [
+   "30 dni od dnia pierwszej czynności",
+   "5 dni od chwili powzięcia informacji o przestępstwie",
+   "7 dni od dnia pierwszej czynności"
+  ],
+  "wyjasnienie": "Art. 308 § 5 k.p.k. Czas trwania śledztwa lub dochodzenia liczy się wtedy od dnia pierwszej czynności (§ 6).",
+  "zrodlo": "test"
+ },
+ {
+  "id": "e1f6845dcc",
+  "temat": "JS07 6. Postępowanie sprawdzające i czynności w niezbędnym zakresie",
+  "pytanie": "W ramach czynności w niezbędnym zakresie (art. 308 k.p.k.) nie można:",
+  "poprawna": "wykonywać badań psychologicznych i psychiatrycznych",
+  "bledne": [
+   "pobrać prób pisma",
+   "przeprowadzać oględzin",
+   "przyjąć zawiadomienia o przestępstwie"
+  ],
+  "wyjasnienie": "Art. 308 § 1 k.p.k. wymienia m.in. oględziny, przeszukanie, czynności z art. 74 § 2 pkt 1 (np. odciski, próby pisma) i pobranie krwi. Badań psychiatrycznych nie przewiduje.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "c7bad1af31",
+  "temat": "JS08 1. Świadek – pojęcie, prawa i obowiązki",
+  "pytanie": "Świadkiem w sensie procesowym (formalnym) jest osoba fizyczna:",
+  "poprawna": "która została prawidłowo wezwana przez organ procesowy do złożenia zeznań",
+  "bledne": [
+   "która zna jakieś okoliczności mające znaczenie dla prowadzonej sprawy",
+   "której dobro prawne zostało bezpośrednio naruszone",
+   "każda z wymienionych"
+  ],
+  "wyjasnienie": "Świadek w sensie procesowym = wezwany do złożenia zeznań. Osoba, która zna okoliczności, to świadek w sensie faktycznym.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "03222f4388",
+  "temat": "JS08 1. Świadek – pojęcie, prawa i obowiązki",
+  "pytanie": "Świadek w sensie faktycznym to osoba fizyczna:",
+  "poprawna": "posiadająca wiadomości dotyczące czynu przestępnego lub innych okoliczności mających znaczenie w sprawie karnej",
+  "bledne": [
+   "wezwana przez uprawniony organ do złożenia zeznania w konkretnej sprawie",
+   "która posiada wiadomości na interesujący organ temat, jak i osoba, która nie ma właściwości świadka faktycznego",
+   "żadna z wymienionych"
+  ],
+  "wyjasnienie": "Świadka faktycznego trzeba najpierw ujawnić, a potem wezwać – staje się wtedy świadkiem procesowym.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "9684a11a39",
+  "temat": "JS08 1. Świadek – pojęcie, prawa i obowiązki",
+  "pytanie": "Czy w procesie karnym najpierw trzeba ujawnić świadka w sensie faktycznym, a potem procesowym?",
+  "poprawna": "Tak",
+  "bledne": [
+   "Nie"
+  ],
+  "wyjasnienie": "Najpierw ustala się (typuje) osobę, która coś wie, a dopiero potem wzywa ją do złożenia zeznań.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "b203a6d581",
+  "temat": "JS08 1. Świadek – pojęcie, prawa i obowiązki",
+  "pytanie": "Formalne wezwanie każdej osoby w charakterze świadka:",
+  "poprawna": "daje jej określone prawa w każdym przypadku",
+  "bledne": [
+   "nie daje jej określonych praw",
+   "daje jej określone prawa tylko wtedy, gdy posiada istotne dla sprawy wiadomości"
+  ],
+  "wyjasnienie": "Z chwilą wezwania osoba staje się świadkiem procesowym, z prawami i obowiązkami świadka (np. art. 182–185, należności z art. 618a).",
+  "zrodlo": "test"
+ },
+ {
+  "id": "53824b59ad",
+  "temat": "JS08 1. Świadek – pojęcie, prawa i obowiązki",
+  "pytanie": "Świadkiem może być tylko osoba, która:",
+  "poprawna": "żadna z wymienionych odpowiedzi nie jest prawidłowa",
+  "bledne": [
+   "ukończyła 17 lat",
+   "jest poczytalna",
+   "jest pełnoletnia"
+  ],
+  "wyjasnienie": "Świadkiem może być każda osoba fizyczna, która ma wiadomości o sprawie – także dziecko lub osoba z zaburzeniami (wtedy np. art. 192 § 2).",
+  "zrodlo": "test"
+ },
+ {
+  "id": "0450d8dcb5",
+  "temat": "JS08 1. Świadek – pojęcie, prawa i obowiązki",
+  "pytanie": "Czy pokrzywdzony może wystąpić w charakterze świadka?",
+  "poprawna": "Tak",
+  "bledne": [
+   "Nie"
+  ],
+  "wyjasnienie": "Pokrzywdzony jest stroną, ale jego zeznania są dowodem – przesłuchuje się go jako świadka.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "b27163b361",
+  "temat": "JS08 1. Świadek – pojęcie, prawa i obowiązki",
+  "pytanie": "Świadków możemy typować stosując kryteria:",
+  "poprawna": "wszystkie wymienione",
+  "bledne": [
+   "pobytu na miejscu przestępstwa",
+   "zamieszkania w pobliżu miejsca przestępstwa",
+   "więzi towarzyskiej"
+  ],
+  "wyjasnienie": "Typowanie świadków: miejsce (byli na miejscu, mieszkają w pobliżu), czas, więzi z pokrzywdzonym lub sprawcą.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "9887eb8e1e",
+  "temat": "JS08 1. Świadek – pojęcie, prawa i obowiązki",
+  "pytanie": "Prawa i obowiązki świadka reguluje:",
+  "poprawna": "Kodeks postępowania karnego",
+  "bledne": [
+   "Kodeks karny",
+   "Kodeks wykroczeń",
+   "Kodeks karny wykonawczy"
+  ],
+  "wyjasnienie": "Rozdział 21 k.p.k. (art. 177–192a). Kodeks karny określa odpowiedzialność za fałszywe zeznania (art. 233).",
+  "zrodlo": "test"
+ },
+ {
+  "id": "b0ff7a4f32",
+  "temat": "JS08 1. Świadek – pojęcie, prawa i obowiązki",
+  "pytanie": "Na świadka nałożono obowiązek:",
+  "poprawna": "zeznawania prawdy",
+  "bledne": [
+   "swobodnego składania zeznań",
+   "przesłuchania go z wyłączeniem jawności",
+   "odmowy składania zeznań"
+  ],
+  "wyjasnienie": "Obowiązki świadka: stawić się, złożyć zeznania (art. 177 § 1) i mówić prawdę (art. 233 k.k.).",
+  "zrodlo": "test"
+ },
+ {
+  "id": "cfc87fcff1",
+  "temat": "JS08 1. Świadek – pojęcie, prawa i obowiązki",
+  "pytanie": "Świadek posiada między innymi prawo do:",
+  "poprawna": "wzmożonej ochrony prawnej",
+  "bledne": [
+   "mówienia prawdy",
+   "stawienia się na wezwanie organu procesowego",
+   "wszystkie wymienione"
+  ],
+  "wyjasnienie": "Mówienie prawdy i stawiennictwo to obowiązki. Prawem jest np. ochrona (świadek anonimowy – art. 184, zastrzeżenie adresu, ochrona osobista).",
+  "zrodlo": "test"
+ },
+ {
+  "id": "a6e64ab583",
+  "temat": "JS08 1. Świadek – pojęcie, prawa i obowiązki",
+  "pytanie": "Osoba została prawidłowo wezwana do złożenia zeznań. Oznacza to:",
+  "poprawna": "że w każdym przypadku ma obowiązek zgłoszenia się celem złożenia zeznań",
+  "bledne": [
+   "że otrzymała wezwanie nie później niż 7 dni przed datą stawiennictwa",
+   "że w każdym przypadku zostanie przesłuchana w tymże charakterze",
+   "że gdy się nie zgłosi, policjant ma obowiązek udać się do jej miejsca zamieszkania i tam ją przesłuchać"
+  ],
+  "wyjasnienie": "Art. 177 § 1 k.p.k.: każda osoba wezwana w charakterze świadka ma obowiązek stawić się i złożyć zeznania.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "753841963c",
+  "temat": "JS08 1. Świadek – pojęcie, prawa i obowiązki",
+  "pytanie": "Art. 129 k.p.k. określa wymogi wezwania. W wezwaniu należy:",
+  "poprawna": "uprzedzić o skutkach niestawiennictwa",
+  "bledne": [
+   "uprzedzić o skutkach złożenia nieprawdy",
+   "podać przybliżony czas trwania czynności",
+   "podać minimalną kwotę zwrotu kosztów dojazdu"
+  ],
+  "wyjasnienie": "Art. 129 § 1 k.p.k.: organ, sprawa, charakter, miejsce i czas, czy stawiennictwo jest obowiązkowe i skutki niestawiennictwa.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "562c91bd13",
+  "temat": "JS08 1. Świadek – pojęcie, prawa i obowiązki",
+  "pytanie": "Telefoniczne wezwanie świadka w wypadku niecierpiącym zwłoki dokumentuje się w formie:",
+  "poprawna": "notatki urzędowej",
+  "bledne": [
+   "raportu",
+   "notatki służbowej",
+   "potwierdzenia transmisji danych"
+  ],
+  "wyjasnienie": "Art. 137 k.p.k. – w aktach pozostawia się odpis komunikatu z podpisem nadającego, w praktyce w formie notatki urzędowej.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "8be99527c6",
+  "temat": "JS08 1. Świadek – pojęcie, prawa i obowiązki",
+  "pytanie": "Świadkiem koronnym jest:",
+  "poprawna": "podejrzany, który został dopuszczony do składania zeznań w charakterze świadka",
+  "bledne": [
+   "każda osoba, która chce inną osobę obciążyć faktem popełnienia przestępstwa",
+   "oskarżony, który sam zdecydował się na składanie wyjaśnień w charakterze świadka",
+   "podejrzewany, który został dopuszczony do składania zeznań w charakterze świadka"
+  ],
+  "wyjasnienie": "Ustawa o świadku koronnym: o dopuszczeniu decyduje sąd na wniosek prokuratora. Podejrzany (z zarzutami), a nie „podejrzewany”.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "c03f33bc8e",
+  "temat": "JS08 1. Świadek – pojęcie, prawa i obowiązki",
+  "pytanie": "Świadkiem anonimowym (art. 184 k.p.k.) jest osoba:",
+  "poprawna": "wobec której zachodzi uzasadniona obawa niebezpieczeństwa dla życia, zdrowia, wolności albo mienia w znacznych rozmiarach jej lub osoby dla niej najbliższej",
+  "bledne": [
+   "chcąca być świadkiem koronnym",
+   "chcąca utajnić swoje dane w protokole, gdyż ma takie życzenie",
+   "wobec której istnieje możliwość popełnienia przestępstwa ściganego z oskarżenia prywatnego"
+  ],
+  "wyjasnienie": "Art. 184 § 1 k.p.k. Postanowienie wydaje sąd, a w postępowaniu przygotowawczym prokurator.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "f99b1f764d",
+  "temat": "JS08 1. Świadek – pojęcie, prawa i obowiązki",
+  "pytanie": "Świadkowi, który stawił się na wezwanie, przysługuje prawo do:",
+  "poprawna": "wszystkie wymienione",
+  "bledne": [
+   "zwrotu kosztów podróży",
+   "zwrotu kosztów noclegu",
+   "zwrotu utraconego zarobku"
+  ],
+  "wyjasnienie": "Art. 618a k.p.k. – należności świadka.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "19daaa7da3",
+  "temat": "JS08 1. Świadek – pojęcie, prawa i obowiązki",
+  "pytanie": "Świadka i osobę mu towarzyszącą poucza się o prawie zgłoszenia wniosku o zwrot należności z tytułu stawiennictwa:",
+  "poprawna": "w terminie 3 dni od dnia zakończenia czynności",
+  "bledne": [
+   "w terminie 5 dni od dnia zakończenia czynności",
+   "w terminie 7 dni od dnia zakończenia czynności",
+   "w terminie 14 dni od dnia zakończenia czynności"
+  ],
+  "wyjasnienie": "Art. 618k § 2 k.p.k. – termin zawity 3 dni, ustnie do protokołu lub na piśmie.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "d788f3cfe8",
+  "temat": "JS08 1. Świadek – pojęcie, prawa i obowiązki",
+  "pytanie": "Zeznanie świadka jest:",
+  "poprawna": "środkiem dowodowym",
+  "bledne": [
+   "źródłem dowodowym",
+   "dowodem z dokumentu",
+   "żadną z wymienionych"
+  ],
+  "wyjasnienie": "Świadek to osobowe źródło dowodowe, a jego zeznanie to środek dowodowy.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "2e7d693777",
+  "temat": "JS08 1. Świadek – pojęcie, prawa i obowiązki",
+  "pytanie": "Świadek w postępowaniu przygotowawczym składa:",
+  "poprawna": "zeznanie na temat swoich spostrzeżeń",
+  "bledne": [
+   "zawiadomienie na temat swoich spostrzeżeń",
+   "zeznanie na temat swoich przypuszczeń i domysłów",
+   "wyjaśnienie na temat swoich spostrzeżeń"
+  ],
+  "wyjasnienie": "Świadek ZEZNAJE, podejrzany WYJAŚNIA. Zeznanie dotyczy spostrzeżeń, nie domysłów.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "cbe0cd2802",
+  "temat": "JS08 1. Odmowa zeznań, zakazy dowodowe, tajemnica",
+  "pytanie": "Na temat osoby najbliższej jest mowa w kodeksie karnym w art.:",
+  "poprawna": "115 § 11",
+  "bledne": [
+   "115 § 5",
+   "115 § 13",
+   "żadna odpowiedź nie jest prawidłowa"
+  ],
+  "wyjasnienie": "Art. 115 § 11 k.k.: małżonek, wstępny, zstępny, rodzeństwo, powinowaty w tej samej linii lub stopniu, osoba w stosunku przysposobienia oraz jej małżonek, a także osoba pozostająca we wspólnym pożyciu.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "9634d1cbc1",
+  "temat": "JS08 1. Odmowa zeznań, zakazy dowodowe, tajemnica",
+  "pytanie": "Osobą najbliższą dla podejrzanego jest:",
+  "poprawna": "konkubina",
+  "bledne": [
+   "narzeczona",
+   "wujek",
+   "kuzyn"
+  ],
+  "wyjasnienie": "Konkubina to osoba pozostająca we wspólnym pożyciu (art. 115 § 11 k.k.).",
+  "zrodlo": "test"
+ },
+ {
+  "id": "f3672bce3c",
+  "temat": "JS08 1. Odmowa zeznań, zakazy dowodowe, tajemnica",
+  "pytanie": "Czy siostra podejrzanego ma prawo odmówić zeznań?",
+  "poprawna": "tak",
+  "bledne": [
+   "nie",
+   "tak, ale tylko jeżeli przesłuchujący policjant na to zezwoli",
+   "tak, ale tylko jeżeli prokurator wyda zgodę"
+  ],
+  "wyjasnienie": "Rodzeństwo to osoby najbliższe (art. 115 § 11 k.k.) – art. 182 § 1 k.p.k., bez niczyjej zgody.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "2e8ee382fd",
+  "temat": "JS08 1. Odmowa zeznań, zakazy dowodowe, tajemnica",
+  "pytanie": "Która z niżej wymienionych osób nie ma prawa odmowy składania zeznań jako osoba najbliższa?",
+  "poprawna": "była konkubina podejrzanego",
+  "bledne": [
+   "siostra podejrzanego",
+   "pasierb podejrzanego",
+   "ojczym podejrzanego"
+  ],
+  "wyjasnienie": "Pasierb i ojczym to powinowaci w linii prostej. Prawo odmowy trwa po ustaniu małżeństwa lub przysposobienia (art. 182 § 2), ale nie po ustaniu wspólnego pożycia.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "194aaf5db0",
+  "temat": "JS08 1. Odmowa zeznań, zakazy dowodowe, tajemnica",
+  "pytanie": "Prawo odmowy składania zeznań przysługuje:",
+  "poprawna": "szwagrowi podejrzanego",
+  "bledne": [
+   "matce biegłego",
+   "konkubinie świadka",
+   "bratankowi podejrzanego"
+  ],
+  "wyjasnienie": "Szwagier (brat małżonka lub mąż siostry) to powinowaty w tym samym stopniu co rodzeństwo – osoba najbliższa. Bratanek nie jest osobą najbliższą.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "495b878184",
+  "temat": "JS08 1. Odmowa zeznań, zakazy dowodowe, tajemnica",
+  "pytanie": "Prawo do odmowy składania zeznań przysługuje:",
+  "poprawna": "osobie najbliższej dla podejrzanego",
+  "bledne": [
+   "pokrzywdzonemu",
+   "osobie zawiadamiającej",
+   "wszystkim świadkom"
+  ],
+  "wyjasnienie": "Art. 182 § 1 k.p.k. (oraz świadkowi oskarżonemu o współudział w innej sprawie – § 3).",
+  "zrodlo": "test"
+ },
+ {
+  "id": "ab87311ffc",
+  "temat": "JS08 1. Odmowa zeznań, zakazy dowodowe, tajemnica",
+  "pytanie": "Osoba najbliższa dla podejrzanego:",
+  "poprawna": "ma prawo do odmowy składania zeznań",
+  "bledne": [
+   "nie może złożyć przeciwko niemu zeznań",
+   "musi złożyć przeciwko niemu zeznania, jeżeli popełnił on przestępstwo",
+   "musi złożyć przeciwko niemu zeznania, jeżeli sąd wyda taką decyzję"
+  ],
+  "wyjasnienie": "Art. 182 § 1 k.p.k. – może, ale nie musi, odmówić. Jeżeli zeznaje, mówi prawdę.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "3e812f6cce",
+  "temat": "JS08 1. Odmowa zeznań, zakazy dowodowe, tajemnica",
+  "pytanie": "O prawie odmowy składania zeznań należy pouczyć:",
+  "poprawna": "osoby najbliższe dla podejrzanego",
+  "bledne": [
+   "każdego świadka",
+   "osoby najbliższe dla świadka",
+   "tylko świadka naocznego"
+  ],
+  "wyjasnienie": "Prawo odmowy mają osoby najbliższe dla podejrzanego (art. 182). W praktyce druk protokołu zawiera pouczenie o art. 182 dla każdego świadka (art. 191 § 2).",
+  "zrodlo": "test"
+ },
+ {
+  "id": "f48ff7f920",
+  "temat": "JS08 1. Odmowa zeznań, zakazy dowodowe, tajemnica",
+  "pytanie": "Przed przesłuchaniem świadka, który jest osobą najbliższą dla podejrzanego, należy go:",
+  "poprawna": "pouczyć o prawie do odmowy składania zeznań",
+  "bledne": [
+   "uprzedzić o prawie do odmowy składania wyjaśnień",
+   "uprzedzić o prawie do odmowy składania zeznań",
+   "pouczyć o prawie do odmowy składania wyjaśnień"
+  ],
+  "wyjasnienie": "O PRAWACH się poucza, o ODPOWIEDZIALNOŚCI uprzedza. Świadek składa ZEZNANIA, podejrzany WYJAŚNIENIA.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "1fc98bd5dd",
+  "temat": "JS08 1. Odmowa zeznań, zakazy dowodowe, tajemnica",
+  "pytanie": "Prawo do odmowy składania zeznań (art. 182 k.p.k.) nie przysługuje:",
+  "poprawna": "duchownemu na okoliczność spowiedzi",
+  "bledne": [
+   "małżonkowi podejrzanego",
+   "konkubinie podejrzanego",
+   "byłemu małżonkowi podejrzanego"
+  ],
+  "wyjasnienie": "Duchownego co do spowiedzi w ogóle nie wolno przesłuchać (zakaz bezwzględny – art. 178 pkt 2), to nie jest prawo odmowy. W teście było „wyjaśnień” i „k.k.” – poprawiono.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "6d82784106",
+  "temat": "JS08 1. Odmowa zeznań, zakazy dowodowe, tajemnica",
+  "pytanie": "Posterunkowy przesłuchał w charakterze świadka byłą żonę podejrzanego, nie pouczając jej o prawie odmowy składania zeznań. Czy postąpił zgodnie z prawem?",
+  "poprawna": "nie, bo prawo do odmowy zeznań trwa mimo ustania małżeństwa",
+  "bledne": [
+   "tak, bo w chwili składania zeznań nie była już żoną podejrzanego",
+   "tak, bo żona dla podejrzanego nie jest osobą najbliższą, tylko powinowatą",
+   "nie, bo jest bezwzględny zakaz przesłuchiwania takiej osoby"
+  ],
+  "wyjasnienie": "Art. 182 § 2 k.p.k.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "167308f8c5",
+  "temat": "JS08 1. Odmowa zeznań, zakazy dowodowe, tajemnica",
+  "pytanie": "Do jednostki zgłosił się świadek w sprawie o zakłócenie spoczynku nocnego. Od dwóch lat mieszka z osobą podejrzaną, wspólnie wychowują dziecko i utrzymują się z jej pensji. Policjant powinien pouczyć świadka o prawie:",
+  "poprawna": "odmowy składania zeznań",
+  "bledne": [
+   "przesłuchania z wyłączeniem jawności",
+   "uchylenia się od odpowiedzi na niektóre pytania",
+   "złożenia wniosku o zwolnienie ze składania zeznań"
+  ],
+  "wyjasnienie": "Wspólne pożycie = osoba najbliższa (art. 115 § 11 k.k.). W sprawach o wykroczenia stosuje się odpowiednio art. 182 k.p.k. (art. 41 k.p.w.).",
+  "zrodlo": "test"
+ },
+ {
+  "id": "d07bb4e9ea",
+  "temat": "JS08 1. Odmowa zeznań, zakazy dowodowe, tajemnica",
+  "pytanie": "Policjant ustalił, że świadek pozostaje w szczególnie bliskim stosunku osobistym z podejrzanym. Powinien poinformować świadka:",
+  "poprawna": "o prawie do zwolnienia od złożenia zeznania lub odpowiedzi na pytania",
+  "bledne": [
+   "że może ubiegać się o status świadka koronnego",
+   "że może ubiegać się o status świadka anonimowego",
+   "o prawie do składania wyjaśnień w obecności adwokata"
+  ],
+  "wyjasnienie": "Art. 185 k.p.k.: osobę taką MOŻNA zwolnić, jeżeli wnosi o zwolnienie (decyduje organ, a nie sam świadek).",
+  "zrodlo": "test"
+ },
+ {
+  "id": "26f1cae154",
+  "temat": "JS08 1. Odmowa zeznań, zakazy dowodowe, tajemnica",
+  "pytanie": "Prawo do odmowy zeznań na podstawie art. 182 § 3 k.p.k. przysługuje także świadkowi, który:",
+  "poprawna": "w innej toczącej się sprawie jest oskarżony o współudział w przestępstwie objętym postępowaniem",
+  "bledne": [
+   "z oskarżonym pozostawał w szczególnie bliskim stosunku osobistym",
+   "jest obowiązany do zachowania informacji niejawnych o klauzuli „ściśle tajne”",
+   "jest pokrzywdzonym"
+  ],
+  "wyjasnienie": "Art. 182 § 3 k.p.k. Szczególnie bliski stosunek to podstawa do ZWOLNIENIA (art. 185), a nie odmowy.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "6c1b907396",
+  "temat": "JS08 1. Odmowa zeznań, zakazy dowodowe, tajemnica",
+  "pytanie": "Świadek nie skorzystał z prawa odmowy zeznań w postępowaniu przygotowawczym, ale skorzystał z niego na rozprawie przed sądem I instancji. Wówczas:",
+  "poprawna": "przestaje w sprawie istnieć jako osobowe źródło dowodowe w tym zakresie i nie ma obowiązku składania zeznań",
+  "bledne": [
+   "nie przestaje istnieć jako osobowe źródło dowodowe i ma obowiązek składać zeznania"
+  ],
+  "wyjasnienie": "Art. 186 § 1 k.p.k.: oświadczenie najpóźniej przed rozpoczęciem pierwszego zeznania w postępowaniu sądowym – poprzednie zeznanie nie może służyć za dowód.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "b0b8ac0289",
+  "temat": "JS08 1. Odmowa zeznań, zakazy dowodowe, tajemnica",
+  "pytanie": "Świadek może uchylić się od odpowiedzi na pytanie, jeżeli udzielenie odpowiedzi mogłoby narazić na odpowiedzialność:",
+  "poprawna": "karną samego świadka lub osobę dla niego najbliższą",
+  "bledne": [
+   "karną tylko samego świadka",
+   "dyscyplinarną samego świadka",
+   "karną samego świadka lub osobę pozostającą z nim w szczególnie bliskim stosunku osobistym"
+  ],
+  "wyjasnienie": "Art. 183 § 1 k.p.k.: za przestępstwo lub przestępstwo skarbowe.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "1499468a5e",
+  "temat": "JS08 1. Odmowa zeznań, zakazy dowodowe, tajemnica",
+  "pytanie": "Świadek może odmówić odpowiedzi na pytania, które:",
+  "poprawna": "mogą narazić jego brata na odpowiedzialność za przestępstwo skarbowe",
+  "bledne": [
+   "dotyczą sfery jego życia intymnego",
+   "mogą narazić na hańbę osobę dla niego najbliższą",
+   "mogą go narazić na odpowiedzialność za wykroczenie"
+  ],
+  "wyjasnienie": "Art. 183 § 1 k.p.k. – brat jest osobą najbliższą. Narażenie na hańbę uprawnia tylko do żądania przesłuchania na rozprawie z wyłączeniem jawności (§ 2). Wykroczenia przepis nie obejmuje.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "f026704052",
+  "temat": "JS08 1. Odmowa zeznań, zakazy dowodowe, tajemnica",
+  "pytanie": "Świadka należy uprzedzić o treści art. 183 k.p.k. (prawo do uchylenia się od odpowiedzi na pytanie):",
+  "poprawna": "gdy ujawnią się okoliczności objęte tym przepisem",
+  "bledne": [
+   "zawsze przed pierwszym przesłuchaniem",
+   "gdy uzna to za stosowne prowadzący przesłuchanie",
+   "gdy świadek bezpodstawnie odmawia zeznań"
+  ],
+  "wyjasnienie": "Art. 191 § 2 k.p.k.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "ba8d9af2ed",
+  "temat": "JS08 1. Odmowa zeznań, zakazy dowodowe, tajemnica",
+  "pytanie": "Zakazem bezwzględnym przesłuchania w charakterze świadka objęte jest przesłuchanie:",
+  "poprawna": "mediatora co do faktów, o których dowiedział się prowadząc postępowanie mediacyjne",
+  "bledne": [
+   "obrońcy lub adwokata w każdej sprawie",
+   "podejrzanego w jego własnej sprawie",
+   "duchownego, który był świadkiem przestępstwa"
+  ],
+  "wyjasnienie": "Art. 178a k.p.k. (z wyjątkiem informacji o przestępstwach z art. 240 § 1 k.k.). Obrońcy nie wolno przesłuchać tylko co do faktów z udzielania porady lub prowadzenia sprawy (art. 178 pkt 1).",
+  "zrodlo": "test"
+ },
+ {
+  "id": "8d731f5b55",
+  "temat": "JS08 1. Odmowa zeznań, zakazy dowodowe, tajemnica",
+  "pytanie": "Bezwzględny zakaz przesłuchania w charakterze świadka dotyczy między innymi:",
+  "poprawna": "duchownego na okoliczność faktów, o których dowiedział się podczas spowiedzi",
+  "bledne": [
+   "funkcjonariusza Policji na okoliczność współpracy z informatorami",
+   "żołnierza na okoliczność tajemnicy o klauzuli „ściśle tajne”",
+   "sędziego na okoliczność przebiegu rozprawy sądowej"
+  ],
+  "wyjasnienie": "Art. 178 pkt 2 k.p.k. Tajemnica „ściśle tajne” to zakaz względny – po zwolnieniu można przesłuchać (art. 179).",
+  "zrodlo": "test"
+ },
+ {
+  "id": "070440af40",
+  "temat": "JS08 1. Odmowa zeznań, zakazy dowodowe, tajemnica",
+  "pytanie": "Nie wolno przesłuchiwać jako świadka (art. 178 k.p.k.):",
+  "poprawna": "obrońcy co do faktów, o których dowiedział się prowadząc sprawę",
+  "bledne": [
+   "duchownego, który był świadkiem kolizji drogowej",
+   "osoby posiadającej immunitet dyplomatyczny",
+   "sędziego, który był świadkiem kradzieży"
+  ],
+  "wyjasnienie": "Art. 178 pkt 1 k.p.k. Duchowny i sędzia mogą być świadkami zdarzeń, które widzieli.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "ddba8eed1d",
+  "temat": "JS08 1. Odmowa zeznań, zakazy dowodowe, tajemnica",
+  "pytanie": "W przypadku zakazu bezwzględnego przesłuchania świadka:",
+  "poprawna": "nie można go przesłuchać w żadnym przypadku",
+  "bledne": [
+   "nie można go przesłuchać, chyba że sam będzie chciał zeznawać",
+   "można go przesłuchać po zwolnieniu go z tajemnicy",
+   "żadna odpowiedź nie jest prawidłowa"
+  ],
+  "wyjasnienie": "Zakazu z art. 178 nie uchyla ani zgoda świadka, ani zwolnienie z tajemnicy. Zwolnienie dotyczy zakazów względnych (art. 179–180).",
+  "zrodlo": "test"
+ },
+ {
+  "id": "deb7ba8527",
+  "temat": "JS08 1. Odmowa zeznań, zakazy dowodowe, tajemnica",
+  "pytanie": "Które zdanie dotyczące zakazów przesłuchania jest fałszywe?",
+  "poprawna": "zakaz przesłuchania w charakterze świadka dotyczy osoby niepoczytalnej",
+  "bledne": [
+   "zakaz przesłuchania w charakterze świadka dotyczy duchownego co do faktów, o których dowiedział się ze spowiedzi",
+   "nie przesłuchuje się osoby najbliższej, która skorzystała z prawa do odmowy zeznań",
+   "zakaz przesłuchania w charakterze świadka dotyczy obrońcy co do faktów, o których dowiedział się prowadząc sprawę"
+  ],
+  "wyjasnienie": "Osobę z zaburzeniami psychicznymi można przesłuchać, w razie wątpliwości z udziałem biegłego (art. 192 § 2).",
+  "zrodlo": "test"
+ },
+ {
+  "id": "4a676cb9e2",
+  "temat": "JS08 1. Odmowa zeznań, zakazy dowodowe, tajemnica",
+  "pytanie": "Które zdanie dotyczące duchownego i osób najbliższych jest fałszywe?",
+  "poprawna": "można przesłuchać duchownego, ale tylko co do faktów, o których dowiedział się przy spowiedzi",
+  "bledne": [
+   "ojczym podejrzanego jest dla niego osobą najbliższą",
+   "osoba najbliższa dla podejrzanego może odmówić zeznań",
+   "gdy świadek nie włada językiem polskim, do przesłuchania należy wezwać tłumacza"
+  ],
+  "wyjasnienie": "Jest odwrotnie – co do spowiedzi duchownego przesłuchać NIE wolno (art. 178 pkt 2 k.p.k.).",
+  "zrodlo": "test"
+ },
+ {
+  "id": "5a87ad1d9e",
+  "temat": "JS08 1. Odmowa zeznań, zakazy dowodowe, tajemnica",
+  "pytanie": "Osoby zobowiązane do zachowania tajemnicy służbowej (klauzula „zastrzeżone” lub „poufne”) lub tajemnicy zawodowej:",
+  "poprawna": "mogą zeznawać, jeżeli prokurator lub sąd zwolni je od obowiązku zachowania tajemnicy",
+  "bledne": [
+   "nie mogą odmówić złożenia zeznań",
+   "mogą odmówić złożenia zeznań w każdym przypadku, jeżeli naraziłoby to na szkodę osobę trzecią",
+   "żadna odpowiedź nie jest poprawna"
+  ],
+  "wyjasnienie": "Art. 180 § 1 k.p.k.: mogą odmówić zeznań, chyba że sąd lub prokurator dla dobra wymiaru sprawiedliwości zwolni je od tajemnicy.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "594b40b2da",
+  "temat": "JS08 1. Odmowa zeznań, zakazy dowodowe, tajemnica",
+  "pytanie": "Z tajemnicy o klauzuli „poufne” i „zastrzeżone” zwalnia żołnierza:",
+  "poprawna": "sąd lub prokurator",
+  "bledne": [
+   "Minister Obrony Narodowej",
+   "bezpośredni przełożony",
+   "dowódca jednostki"
+  ],
+  "wyjasnienie": "Art. 180 § 1 k.p.k. Przy „tajne” i „ściśle tajne” zwalnia uprawniony organ przełożony (art. 179 § 1).",
+  "zrodlo": "test"
+ },
+ {
+  "id": "d69372ba84",
+  "temat": "JS08 1. Kary porządkowe i należności świadka",
+  "pytanie": "Na świadka, który bez należytego usprawiedliwienia nie stawił się na wezwanie organu prowadzącego postępowanie, można nałożyć:",
+  "poprawna": "karę pieniężną w wysokości do 3000 zł",
+  "bledne": [
+   "karę grzywny w wysokości do 5000 zł",
+   "mandat karny gotówkowy w wysokości do 500 zł",
+   "mandat karny kredytowany w wysokości do 3000 zł"
+  ],
+  "wyjasnienie": "Art. 285 § 1 k.p.k. – to samo przy wydaleniu się z miejsca czynności bez zezwolenia. Grzywna to kara za przestępstwo, nie kara porządkowa.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "e3089f319c",
+  "temat": "JS08 1. Kary porządkowe i należności świadka",
+  "pytanie": "Na świadka można nałożyć karę pieniężną, gdy:",
+  "poprawna": "wszystkie wymienione",
+  "bledne": [
+   "bez usprawiedliwienia nie stawił się na wezwanie",
+   "bez zezwolenia oddalił się z miejsca stawiennictwa przed przesłuchaniem",
+   "bezpodstawnie uchyla się od złożenia zeznań"
+  ],
+  "wyjasnienie": "Art. 285 § 1 i art. 287 § 1 k.p.k.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "0226989fa7",
+  "temat": "JS08 1. Kary porządkowe i należności świadka",
+  "pytanie": "Karą porządkową stosowaną wobec świadka nie jest:",
+  "poprawna": "ograniczenie wolności",
+  "bledne": [
+   "areszt",
+   "kara pieniężna",
+   "zatrzymanie i przymusowe doprowadzenie"
+  ],
+  "wyjasnienie": "Kary porządkowe: kara pieniężna (art. 285), aresztowanie do 30 dni (art. 287 § 2), zatrzymanie i przymusowe doprowadzenie (art. 285 § 2). Ograniczenie wolności to kara za przestępstwo.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "3ed9abfad1",
+  "temat": "JS08 1. Kary porządkowe i należności świadka",
+  "pytanie": "W razie uporczywego uchylania się świadka od złożenia zeznania można zastosować, niezależnie od kary pieniężnej, aresztowanie na czas nieprzekraczający:",
+  "poprawna": "30 dni",
+  "bledne": [
+   "7 dni",
+   "14 dni",
+   "21 dni"
+  ],
+  "wyjasnienie": "Art. 287 § 2 k.p.k. W postępowaniu przygotowawczym stosuje je sąd rejonowy na wniosek prokuratora (art. 290 § 1).",
+  "zrodlo": "test"
+ },
+ {
+  "id": "35157b6830",
+  "temat": "JS08 1. Kary porządkowe i należności świadka",
+  "pytanie": "Przymusowe doprowadzenie świadka, który bez usprawiedliwienia nie stawił się na wezwanie w postępowaniu przygotowawczym, następuje w drodze:",
+  "poprawna": "zarządzenia prokuratora",
+  "bledne": [
+   "postanowienia sądu",
+   "nakazu doprowadzenia wystawionego przez Policję",
+   "nakazu karnego kierownika jednostki"
+  ],
+  "wyjasnienie": "Art. 285 § 2 i art. 290 § 2 k.p.k. Na zarządzenie prokuratora przysługuje zażalenie do sądu rejonowego.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "ed20bc98b3",
+  "temat": "JS08 1. Kary porządkowe i należności świadka",
+  "pytanie": "Zgodnie z art. 289 § 1 k.p.k. dodatkowymi kosztami postępowania spowodowanymi niewykonaniem obowiązków:",
+  "poprawna": "nie obciąża się żołnierza odbywającego zasadniczą służbę wojskową",
+  "bledne": [
+   "nie obciąża się obrońcy",
+   "nie obciąża się pełnomocnika",
+   "nie obciąża się oskarżyciela publicznego"
+  ],
+  "wyjasnienie": "Art. 289 § 1 k.p.k. wprost wymienia obrońcę, pełnomocnika i oskarżyciela publicznego jako osoby, które MOŻNA obciążyć.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "3357a93219",
+  "temat": "JS08 2. Przesłuchanie świadka – przebieg i protokół",
+  "pytanie": "Przed przesłuchaniem każdy świadek powinien być uprzedzony o:",
+  "poprawna": "odpowiedzialności karnej za złożenie fałszywych zeznań (art. 233 § 1 i 1a k.k.)",
+  "bledne": [
+   "odpowiedzialności karnej za zatajenie dowodów niewinności podejrzanego (art. 236 § 1 k.k.)",
+   "prawie do odmowy udzielenia odpowiedzi na pytanie (art. 183 k.p.k.)",
+   "odpowiedzialności karnej za udzielenie korzyści majątkowej osobie pełniącej funkcję publiczną"
+  ],
+  "wyjasnienie": "Art. 190 § 1 k.p.k. O art. 183 uprzedza się dopiero, gdy ujawnią się okoliczności nim objęte (art. 191 § 2).",
+  "zrodlo": "test"
+ },
+ {
+  "id": "23246e2385",
+  "temat": "JS08 2. Przesłuchanie świadka – przebieg i protokół",
+  "pytanie": "Świadek jest uprzedzany o odpowiedzialności karnej za fałszywe zeznania:",
+  "poprawna": "przed rozpoczęciem przesłuchania",
+  "bledne": [
+   "po zakończeniu składania zeznań",
+   "według decyzji sądu w zależności od „wagi” zeznań",
+   "gdy świadek zaczyna kłamać"
+  ],
+  "wyjasnienie": "Art. 190 § 1 k.p.k. W postępowaniu przygotowawczym świadek podpisuje oświadczenie, że został uprzedzony (§ 2).",
+  "zrodlo": "test"
+ },
+ {
+  "id": "cbacc2005e",
+  "temat": "JS08 2. Przesłuchanie świadka – przebieg i protokół",
+  "pytanie": "Czy w każdym przypadku przed rozpoczęciem przesłuchania należy uprzedzić świadka o odpowiedzialności karnej z art. 233 k.k.?",
+  "poprawna": "Nie",
+  "bledne": [
+   "Tak"
+  ],
+  "wyjasnienie": "Świadka, który nie ukończył 17 lat, nie uprzedza się o odpowiedzialności karnej (nie odpowiada za art. 233 k.k.) – poucza się go o obowiązku mówienia prawdy.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "05d216dc09",
+  "temat": "JS08 2. Przesłuchanie świadka – przebieg i protokół",
+  "pytanie": "Osobę przesłuchiwaną w charakterze świadka, która nie ukończyła 17 lat:",
+  "poprawna": "poucza się o konieczności mówienia prawdy",
+  "bledne": [
+   "uprzedza się o karalności za składanie fałszywych zeznań",
+   "o niczym się nie poucza",
+   "nie można przesłuchać"
+  ],
+  "wyjasnienie": "Nieletni poniżej 17 lat nie odpowiada za fałszywe zeznania, ale ma obowiązek mówić prawdę. Dotyczy to także dzieci poniżej 13 lat.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "4bc9066182",
+  "temat": "JS08 2. Przesłuchanie świadka – przebieg i protokół",
+  "pytanie": "Policjant przesłuchując świadka – osobę nieletnią – napisał na początku zeznań „pouczony o obowiązku mówienia prawdy zeznaję:”. Czy zapis jest prawidłowy?",
+  "poprawna": "Tak",
+  "bledne": [
+   "Nie"
+  ],
+  "wyjasnienie": "Nieletniego się poucza (o obowiązku mówienia prawdy), a nie uprzedza o odpowiedzialności karnej.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "20ce5e6905",
+  "temat": "JS08 2. Przesłuchanie świadka – przebieg i protokół",
+  "pytanie": "Sporządzając protokół przesłuchania świadka pełnoletniego policjant powinien zawsze uprzedzić go o odpowiedzialności karnej:",
+  "poprawna": "za złożenie fałszywych zeznań",
+  "bledne": [
+   "za fałszywe oskarżenie",
+   "za mówienie zgodnie z prawdą",
+   "za wszystkie wymienione czyny"
+  ],
+  "wyjasnienie": "Art. 190 § 1 k.p.k. i art. 233 k.k.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "6b2c1596fb",
+  "temat": "JS08 2. Przesłuchanie świadka – przebieg i protokół",
+  "pytanie": "Świadek niebędący pokrzywdzonym, który nie skorzystał z prawa odmowy składania zeznań, powinien być:",
+  "poprawna": "uprzedzony z art. 233 k.k",
+  "bledne": [
+   "uprzedzony z art. 234 k.k",
+   "uprzedzony z art. 238 k.k",
+   "uprzedzony z art. 177 k.p.k"
+  ],
+  "wyjasnienie": "Art. 233 k.k. – fałszywe zeznania. Art. 234 (fałszywe oskarżenie) i 238 (zawiadomienie o niepopełnionym przestępstwie) dotyczą zawiadamiającego.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "bead3f5a04",
+  "temat": "JS08 2. Przesłuchanie świadka – przebieg i protokół",
+  "pytanie": "Przed przesłuchaniem pełnoletniego świadka zawsze należy go pouczyć o:",
+  "poprawna": "prawie do odmowy składania zeznań, jeżeli jest dla podejrzanego osobą najbliższą",
+  "bledne": [
+   "odpowiedzialności karnej za zawiadomienie Policji o niepopełnionym przestępstwie",
+   "odpowiedzialności karnej za fałszywe oskarżenie",
+   "konieczności złożenia przyrzeczenia mówienia prawdy i niezatajania niczego"
+  ],
+  "wyjasnienie": "Art. 182 i 191 § 2 k.p.k. Przyrzeczenie odbiera tylko sąd (art. 187 § 1).",
+  "zrodlo": "test"
+ },
+ {
+  "id": "af83b4a7f7",
+  "temat": "JS08 2. Przesłuchanie świadka – przebieg i protokół",
+  "pytanie": "Jeżeli policjant przed przesłuchaniem nie uprzedził świadka o odpowiedzialności karnej za fałszywe zeznania, a świadek świadomie zeznał nieprawdę, to:",
+  "poprawna": "nie można go pociągnąć do odpowiedzialności karnej",
+  "bledne": [
+   "można go później pociągnąć do odpowiedzialności karnej przed sądem"
+  ],
+  "wyjasnienie": "Art. 233 § 2 k.k.: warunkiem odpowiedzialności jest uprzedzenie o odpowiedzialności lub odebranie przyrzeczenia.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "646386ea0f",
+  "temat": "JS08 2. Przesłuchanie świadka – przebieg i protokół",
+  "pytanie": "Policjant w trakcie spisywania zeznań zorientował się, że świadek kłamie, a także że nie uprzedził go z art. 233 § 1 k.k. Przerwał czynność i dopiero wtedy go uprzedził. Zachowanie policjanta było:",
+  "poprawna": "nieprawidłowe, gdyż warunkiem odpowiedzialności jest uprzedzenie zeznającego o odpowiedzialności karnej przed przesłuchaniem",
+  "bledne": [
+   "prawidłowe, gdyż w danej chwili zorientował się, że świadek kłamie",
+   "prawidłowe, gdyż dopuszczalne jest uprzedzenie świadka w każdym momencie",
+   "nieprawidłowe, gdyż uprzedzenie nie ma znaczenia dla prawidłowego przeprowadzenia przesłuchania"
+  ],
+  "wyjasnienie": "Art. 190 § 1 k.p.k. i art. 233 § 2 k.k.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "3fb3debf5d",
+  "temat": "JS08 2. Przesłuchanie świadka – przebieg i protokół",
+  "pytanie": "Czy obowiązek mówienia prawdy dotyczy zarówno informacji o faktach, jak i zeznania w zakresie personaliów?",
+  "poprawna": "Tak",
+  "bledne": [
+   "Nie"
+  ],
+  "wyjasnienie": "Przesłuchanie zaczyna się od pytań o imię, nazwisko, wiek, zajęcie, karalność za fałszywe zeznanie i stosunek do stron (art. 191 § 1 k.p.k.) – to część zeznania.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "fd2b0b5e50",
+  "temat": "JS08 2. Przesłuchanie świadka – przebieg i protokół",
+  "pytanie": "Etapem przesłuchania świadka NIE jest:",
+  "poprawna": "etap czynności wyjaśniających",
+  "bledne": [
+   "etap czynności uzupełniających i końcowych",
+   "etap spontanicznych zeznań",
+   "etap czynności wstępnych"
+  ],
+  "wyjasnienie": "Etapy: czynności wstępne → spontaniczne zeznania (swobodna wypowiedź) → pytania i odpowiedzi → czynności końcowe.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "84295b7556",
+  "temat": "JS08 2. Przesłuchanie świadka – przebieg i protokół",
+  "pytanie": "W fazie wstępnej przesłuchania świadka policjant:",
+  "poprawna": "sprawdza tożsamość świadka",
+  "bledne": [
+   "wysłuchuje swobodnej wypowiedzi świadka",
+   "zadaje pytania zmierzające do uzupełnienia zeznań",
+   "wykonuje wszystkie wymienione czynności"
+  ],
+  "wyjasnienie": "Faza wstępna: tożsamość, dane, pouczenia i uprzedzenia, nawiązanie kontaktu.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "e727914c79",
+  "temat": "JS08 2. Przesłuchanie świadka – przebieg i protokół",
+  "pytanie": "W fazie zeznań spontanicznych policjant:",
+  "poprawna": "wysłuchuje swobodnej wypowiedzi świadka",
+  "bledne": [
+   "podaje cel wezwania i przeprowadza luźną rozmowę",
+   "uprzedza świadka o odpowiedzialności karnej za fałszywe zeznania",
+   "żadna odpowiedź nie jest prawidłowa"
+  ],
+  "wyjasnienie": "Art. 171 § 1 k.p.k.: najpierw swobodna wypowiedź, a dopiero potem pytania uzupełniające, wyjaśniające i kontrolne.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "cfdc844d14",
+  "temat": "JS08 2. Przesłuchanie świadka – przebieg i protokół",
+  "pytanie": "W ramach przygotowania się do przesłuchania świadka należy między innymi:",
+  "poprawna": "wszystkie wymienione",
+  "bledne": [
+   "dokonać analizy posiadanych materiałów",
+   "wybrać odpowiednią metodę przesłuchania",
+   "zebrać dane o świadku"
+  ],
+  "wyjasnienie": "Poradnik JS08: przygotowanie obejmuje wiedzę o świadku, jego związku ze zdarzeniem i uczestnikach.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "6acce72720",
+  "temat": "JS08 2. Przesłuchanie świadka – przebieg i protokół",
+  "pytanie": "Które zdanie dotyczące przygotowania i taktyki przesłuchania jest fałszywe?",
+  "poprawna": "przy przesłuchaniu dwóch osób jednocześnie policjant usadawia je naprzeciw siebie, aby w razie zbieżności zeznań mógł je skonfrontować",
+  "bledne": [
+   "policjant przygotowując się do przesłuchania powinien zapoznać się z posiadanym materiałem procesowym i operacyjnym",
+   "przy wyborze metody przesłuchania policjant powinien kierować się cechami świadka, np. wiekiem, wykształceniem, zainteresowaniami",
+   "jeżeli policjant ma do przesłuchania kilku świadków, powinien zacząć od świadków najważniejszych i godnych zaufania"
+  ],
+  "wyjasnienie": "Świadków przesłuchuje się pojedynczo, pod nieobecność innych. Konfrontacja to osobna czynność, przeprowadzana gdy zeznania są SPRZECZNE.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "57f2c2785d",
+  "temat": "JS08 2. Przesłuchanie świadka – przebieg i protokół",
+  "pytanie": "Błędem w przesłuchaniu świadka jest:",
+  "poprawna": "każde z wymienionych",
+  "bledne": [
+   "sugerowanie odpowiedzi świadkowi",
+   "brak pouczenia świadka o jego prawach",
+   "pouczenie świadka o odpowiedzialności za zawiadomienie o niepopełnionym przestępstwie zamiast o fałszywych zeznaniach"
+  ],
+  "wyjasnienie": "Pytania sugerujące są zakazane (art. 171 § 4 k.p.k.). Świadka uprzedza się z art. 233 k.k., a z art. 238 – zawiadamiającego.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "b5eb0b2a51",
+  "temat": "JS08 2. Przesłuchanie świadka – przebieg i protokół",
+  "pytanie": "Pytania zadawane świadkowi powinny być jasne i zrozumiałe. Policjant powinien unikać pytań:",
+  "poprawna": "nieostrych",
+  "bledne": [
+   "uzupełniających",
+   "kontrolnych",
+   "wszystkich wymienionych"
+  ],
+  "wyjasnienie": "Pytania uzupełniające i kontrolne są dopuszczalne (art. 171 § 1). Unika się pytań nieostrych, sugerujących i podchwytliwych.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "6ac1dd96f0",
+  "temat": "JS08 2. Przesłuchanie świadka – przebieg i protokół",
+  "pytanie": "Pytania stawiane świadkowi, w zależności od roli w korygowaniu jego zeznań, mogą być:",
+  "poprawna": "wszystkie wymienione",
+  "bledne": [
+   "uściślające",
+   "przypominające",
+   "kontrolne"
+  ],
+  "wyjasnienie": "Rodzaje pytań z taktyki przesłuchania.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "fad86dc923",
+  "temat": "JS08 2. Przesłuchanie świadka – przebieg i protokół",
+  "pytanie": "Które zdanie dotyczące przesłuchania nieletniego świadka jest fałszywe?",
+  "poprawna": "nieletnich do 13 lat nie przesłuchuje się w charakterze świadka na protokół, tylko sporządza się notatkę służbową z rozpytania",
+  "bledne": [
+   "istotną sprawą przy przesłuchaniu świadka nieletniego jest wybór miejsca przeprowadzenia czynności",
+   "w fazie spontanicznych zeznań należy nieletniemu zapewnić pełną swobodę wypowiedzi",
+   "dodatkową dokumentacją przesłuchania nieletniego może być notatka urzędowa ze spostrzeżeniami policjanta o zachowaniu przesłuchiwanego"
+  ],
+  "wyjasnienie": "Dzieci przesłuchuje się jako świadków na protokół – nie ma dolnej granicy wieku. W sprawach z art. 185a–185b przesłuchuje sąd z biegłym psychologiem.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "459e79ba29",
+  "temat": "JS08 2. Przesłuchanie świadka – przebieg i protokół",
+  "pytanie": "Jeżeli w postępowaniu przygotowawczym trzeba przesłuchać świadka, który jest głuchy, należy:",
+  "poprawna": "wezwać tłumacza, jeżeli porozumienie się z nim za pomocą pisma nie wystarcza",
+  "bledne": [
+   "zawsze wezwać tłumacza",
+   "przybrać osobę postronną",
+   "przesłuchać go w obecności prokuratora"
+  ],
+  "wyjasnienie": "Art. 204 § 1 pkt 1 k.p.k.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "aef3810a48",
+  "temat": "JS08 2. Przesłuchanie świadka – przebieg i protokół",
+  "pytanie": "Jeżeli istnieje wątpliwość co do stanu psychicznego świadka, jego zdolności postrzegania lub odtwarzania spostrzeżeń, przesłuchanie z udziałem biegłego lekarza lub psychologa może zarządzić:",
+  "poprawna": "sąd lub prokurator",
+  "bledne": [
+   "funkcjonariusz prowadzący postępowanie przygotowawcze",
+   "kierownik jednostki Policji prowadzącej postępowanie",
+   "Krajowy Koordynator Psychologiczny na wniosek kierownika jednostki"
+  ],
+  "wyjasnienie": "Art. 192 § 2 k.p.k. Świadek nie może się temu sprzeciwić.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "af8641778d",
+  "temat": "JS08 2. Przesłuchanie świadka – przebieg i protokół",
+  "pytanie": "Jeżeli podczas przesłuchania świadka policjant poweźmie wątpliwości, o których mowa w art. 192 § 2 k.p.k.:",
+  "poprawna": "przerywa przesłuchanie, czyni o tym wzmiankę w protokole i zwraca się do prokuratora z wnioskiem o zarządzenie przesłuchania z udziałem biegłego lekarza lub psychologa",
+  "bledne": [
+   "kontynuuje przesłuchanie, powiadamiając jedynie prokuratora",
+   "kontynuuje przesłuchanie, informując świadka, że dalsza część odbędzie się z biegłym",
+   "przerywa przesłuchanie i sam powołuje biegłego psychologa"
+  ],
+  "wyjasnienie": "Policjant nie może sam zarządzić takiego przesłuchania – decyduje prokurator (art. 192 § 2).",
+  "zrodlo": "test"
+ },
+ {
+  "id": "2fcb3dcfc7",
+  "temat": "JS08 2. Przesłuchanie świadka – przebieg i protokół",
+  "pytanie": "Czas rozpoczęcia przesłuchania podaje się w:",
+  "poprawna": "godzinach i minutach",
+  "bledne": [
+   "tylko godzinach",
+   "tylko minutach",
+   "godzinach i kwadransach"
+  ],
+  "wyjasnienie": "Art. 148 § 1 pkt 1 k.p.k. – oznaczenie czasu czynności. W protokole wpisuje się godzinę i minutę rozpoczęcia i zakończenia.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "60752499a4",
+  "temat": "JS08 2. Przesłuchanie świadka – przebieg i protokół",
+  "pytanie": "Policjant sporządzając protokół przesłuchania świadka przyjmuje dla wypowiedzi przesłuchiwanego formę gramatyczną:",
+  "poprawna": "pierwszej osoby czasu przeszłego",
+  "bledne": [
+   "trzeciej osoby czasu przeszłego",
+   "trzeciej osoby czasu przyszłego",
+   "pierwszej osoby czasu przyszłego"
+  ],
+  "wyjasnienie": "Np. „Widziałem, jak mężczyzna wybiegł ze sklepu…” – zapis możliwie dokładny (art. 148 § 2 k.p.k.).",
+  "zrodlo": "test"
+ },
+ {
+  "id": "6e09a483fe",
+  "temat": "JS08 2. Przesłuchanie świadka – przebieg i protokół",
+  "pytanie": "Który sposób protokołowania przesłuchania świadka jest właściwy?",
+  "poprawna": "protokołowanie po każdym fragmencie zeznań, stanowiącym całość pewnej kwestii",
+  "bledne": [
+   "spisanie wypowiedzi świadka po każdym pytaniu",
+   "spisanie protokołu po zakończeniu przesłuchania",
+   "każdy z wymienionych sposobów jest właściwy"
+  ],
+  "wyjasnienie": "Protokołowanie fragmentami, po każdej zamkniętej kwestii, nie przerywa toku wypowiedzi i daje wierny zapis.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "5ec86286ae",
+  "temat": "JS08 2. Przesłuchanie świadka – przebieg i protokół",
+  "pytanie": "W części formalnej protokołu przesłuchania świadka policjant między innymi:",
+  "poprawna": "wypełnia rubryki na stronie tytułowej i zamieszcza wzmianki o uprzedzeniu świadka o odpowiedzialności karnej za fałszywe zeznania",
+  "bledne": [
+   "zapisuje treść zeznań świadka",
+   "odnotowuje ewentualne poprawki i uzupełnienia",
+   "odnotowuje fakt zaznajomienia świadka z treścią zeznań"
+  ],
+  "wyjasnienie": "Protokół: część formalna (dane, pouczenia), merytoryczna (treść zeznań) i końcowa (zapoznanie, omówienie poprawek, podpisy).",
+  "zrodlo": "test"
+ },
+ {
+  "id": "a4069d816e",
+  "temat": "JS08 2. Przesłuchanie świadka – przebieg i protokół",
+  "pytanie": "Które zdanie dotyczące protokołu przesłuchania świadka jest fałszywe?",
+  "poprawna": "część formalna protokołu zawiera treść zeznań świadka spisanych w pierwszej osobie czasu przeszłego",
+  "bledne": [
+   "protokół przesłuchania świadka składa się z części formalnej, merytorycznej oraz końcowej",
+   "protokół przesłuchania świadka podpisują wszystkie osoby biorące udział w czynności",
+   "część końcowa protokołu zawiera między innymi omówienie skreśleń, poprawek i uzupełnień"
+  ],
+  "wyjasnienie": "Treść zeznań jest w części MERYTORYCZNEJ. Omówienie poprawek – art. 151 § 1 k.p.k.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "fa6e821d59",
+  "temat": "JS08 2. Przesłuchanie świadka – przebieg i protokół",
+  "pytanie": "Które zdanie dotyczące zapisu zeznań jest fałszywe?",
+  "poprawna": "dopuszczalne jest przesłuchanie na protokół świadków będących w stanie nietrzeźwości, jeżeli są to świadkowie pośredni",
+  "bledne": [
+   "zapisu treści zeznań w protokole nie wolno zastępować treścią pism i innych zapisków",
+   "gdyby świadek odmówił podpisania protokołu, nie spowoduje to bezskuteczności zeznań",
+   "przebieg przesłuchania może być dodatkowo utrwalony za pomocą środków audiowizualnych"
+  ],
+  "wyjasnienie": "Osoby nietrzeźwej nie przesłuchuje się. Pozostałe zdania są prawdziwe (art. 148 § 3, art. 147 § 1 k.p.k.).",
+  "zrodlo": "test"
+ },
+ {
+  "id": "9c804081ea",
+  "temat": "JS08 2. Przesłuchanie świadka – przebieg i protokół",
+  "pytanie": "Gdy świadek odmawia złożenia podpisu w protokole przesłuchania, policjant:",
+  "poprawna": "czyni w protokole wzmiankę o odmowie, wpisując również jej przyczynę, jeżeli świadek ją podaje",
+  "bledne": [
+   "używa środków przymusu bezpośredniego, by zmusić go do podpisu",
+   "straszy go karą za odmowę podpisu",
+   "żadna odpowiedź nie jest prawidłowa"
+  ],
+  "wyjasnienie": "Protokół podpisują osoby biorące udział w czynności (art. 150 § 1 k.p.k.). Odmowa podpisu nie unieważnia zeznań – zamieszcza się o niej wzmiankę z podaniem przyczyny.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "736712793a",
+  "temat": "JS08 2. Przesłuchanie świadka – przebieg i protokół",
+  "pytanie": "W trakcie sporządzania protokołu przesłuchania świadka policjant popełnił błąd. Powinien:",
+  "poprawna": "błędny tekst skreślić",
+  "bledne": [
+   "pominąć popełniony błąd",
+   "wymazać błędny wpis",
+   "spowodować, aby błąd był nieczytelny"
+  ],
+  "wyjasnienie": "Skreślenie tak, by tekst pozostał czytelny. Skreślenia i poprawki omawia się na końcu protokołu i podpisuje (art. 151 § 1 k.p.k.).",
+  "zrodlo": "test"
+ },
+ {
+  "id": "7a6000a460",
+  "temat": "JS08 2. Przesłuchanie świadka – przebieg i protokół",
+  "pytanie": "Z przesłuchania świadka należy sporządzić:",
+  "poprawna": "protokół przesłuchania świadka",
+  "bledne": [
+   "notatkę urzędową",
+   "notatkę służbową",
+   "protokół z rozpytania świadka"
+  ],
+  "wyjasnienie": "Art. 143 § 1 pkt 2 k.p.k. – przesłuchanie wymaga spisania protokołu.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "8270df2902",
+  "temat": "JS08 2. Przesłuchanie świadka – przebieg i protokół",
+  "pytanie": "Wolno odczytywać na rozprawie w odpowiednim zakresie protokoły zeznań złożonych poprzednio przez świadka w postępowaniu przygotowawczym, jeżeli:",
+  "poprawna": "zachodzi każda z wymienionych sytuacji",
+  "bledne": [
+   "świadek bezpodstawnie odmawia składania zeznań",
+   "świadek zeznaje wyraźnie odmiennie niż poprzednio",
+   "świadek zmarł"
+  ],
+  "wyjasnienie": "Art. 391 § 1 k.p.k.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "1a70d08242",
+  "temat": "JS08 2. Przesłuchanie świadka – przebieg i protokół",
+  "pytanie": "Ocenę dowodu z zeznań świadka przeprowadza się w celu:",
+  "poprawna": "każdego z wymienionych",
+  "bledne": [
+   "stwierdzenia, czy dany dowód jest wiarygodny i w jakim stopniu",
+   "osiągnięcia prawdy w badanym zdarzeniu",
+   "wyciągnięcia z zeznań wniosków co do ustaleń faktycznych"
+  ],
+  "wyjasnienie": "Ocena zeznań jest elementem przesłuchania (sylabus JS08, pkt 2e).",
+  "zrodlo": "test"
+ },
+ {
+  "id": "cd9ac100f9",
+  "temat": "JS08 2. Przesłuchanie świadka – przebieg i protokół",
+  "pytanie": "Nie odbiera się przyrzeczenia od świadka na rozprawie, który nie ukończył:",
+  "poprawna": "17 lat",
+  "bledne": [
+   "18 lat",
+   "21 lat",
+   "23 lat"
+  ],
+  "wyjasnienie": "Art. 189 pkt 1 k.p.k.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "0afc6ac757",
+  "temat": "JS08 2. Przesłuchanie świadka – przebieg i protokół",
+  "pytanie": "Które zdanie dotyczące przyrzeczenia i świadka na rozprawie jest prawdziwe?",
+  "poprawna": "policjant występujący jako świadek przed sądem ma obowiązek zachować tajemnicę, jeżeli informacje stanowiłyby tajemnicę służbową lub państwową, dopóki nie zostanie z niej zwolniony",
+  "bledne": [
+   "w czasie składania przyrzeczenia przez świadka obowiązek powstania spoczywa tylko na oskarżonym",
+   "osoby nieme i głuche są zwolnione od składania przyrzeczenia",
+   "świadek składa przyrzeczenie po zakończeniu zeznań"
+  ],
+  "wyjasnienie": "Art. 179–180 k.p.k. Przy przyrzeczeniu stoją wszyscy, łącznie z sędziami (art. 188 § 2). Nieme i głuche osoby podpisują tekst przyrzeczenia (§ 3). Przyrzeczenie składa się PRZED zeznaniami (art. 187 § 2).",
+  "zrodlo": "test"
+ },
+ {
+  "id": "48ac41e447",
+  "temat": "JS08 2. Przesłuchanie świadka – przebieg i protokół",
+  "pytanie": "Świadkowie obecni na sali rozpraw są zobowiązani do powstania:",
+  "poprawna": "w każdej z wymienionych sytuacji",
+  "bledne": [
+   "gdy na salę wchodzi skład sędziowski",
+   "gdy skład sędziowski opuszcza salę rozpraw",
+   "w czasie ogłaszania wyroku"
+  ],
+  "wyjasnienie": "Zasady powagi sądu (Regulamin urzędowania sądów powszechnych): wszyscy obecni wstają przy wejściu i wyjściu składu oraz przy ogłaszaniu wyroku.",
+  "zrodlo": "test"
+ }
+]
