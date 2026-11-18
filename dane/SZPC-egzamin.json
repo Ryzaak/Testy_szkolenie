@@ -516,7 +516,7 @@
    "nie dłużej niż 15 minut",
    "nie krócej niż 15 minut"
   ],
-  "wyjasnienie": "Pochłaniacz zapachu musi być przyłożony odpowiednio długo, by przejąć zapach. UWAGA – niepewne: odpowiedź z klucza testu, w materiałach podaje się zwykle ok. 30 minut.",
+  "wyjasnienie": "Ślad zapachowy pobiera się, przykładając pochłaniacz (np. tkaninę) do powierzchni, z którą sprawca miał kontakt, na nie krócej niż 30 minut – krótszy czas nie pozwoli przejąć wystarczającej ilości zapachu do badania z udziałem psa. Potwierdza to klucz egzaminu SZP-6/26.",
   "zrodlo": "test"
  },
  {
@@ -874,13 +874,13 @@
   "id": "04b7345663",
   "temat": "JM01 – Etyka, historia, media, ceremoniał, kryzys, patologie, nieletni",
   "pytanie": "Trzeci stopień alarmowy (CHARLIE) można wprowadzić w przypadku:",
-  "poprawna": "wystąpienia zdarzenia o charakterze terrorystycznym powodującego zagrożenie bezpieczeństwa lub porządku publicznego",
+  "poprawna": "uzyskania wiarygodnych i potwierdzonych informacji o planowanym zdarzeniu o charakterze terrorystycznym na terytorium RP",
   "bledne": [
-   "informacji o możliwości zdarzenia, którego rodzaj jest trudny do przewidzenia",
-   "zwiększonego, przewidywalnego zagrożenia bez zidentyfikowanego celu",
-   "zdarzenia o charakterze terrorystycznym na terytorium RP powodującego zagrożenie życia lub zdrowia obywateli (stan po ataku)"
+   "uzyskania informacji o możliwości wystąpienia zdarzenia o charakterze terrorystycznym, którego rodzaj i zakres jest trudny do przewidzenia",
+   "zaistnienia zwiększonego i przewidywalnego zagrożenia wystąpieniem zdarzenia o charakterze terrorystycznym, jednak konkretny cel ataku nie został zidentyfikowany",
+   "wystąpienia zdarzenia o charakterze terrorystycznym powodującego zagrożenie bezpieczeństwa lub porządku publicznego"
   ],
-  "wyjasnienie": "Art. 15 ustawy o działaniach antyterrorystycznych: ALFA – informacja o możliwości zdarzenia, BRAVO – zwiększone, przewidywalne zagrożenie, CHARLIE – wystąpienie zdarzenia albo wiarygodne informacje o planowanym zdarzeniu, DELTA – zdarzenie na terytorium RP lub zaawansowane przygotowania. UWAGA – niepewne: granica CHARLIE/DELTA zależy od sformułowania pytania.",
+  "wyjasnienie": "Art. 15 ust. 3–6 ustawy o działaniach antyterrorystycznych: ALFA – informacja o możliwości zdarzenia trudnego do przewidzenia; BRAVO – zwiększone, przewidywalne zagrożenie bez zidentyfikowanego celu; CHARLIE – zdarzenie potwierdzające prawdopodobny cel ataku albo wiarygodne i potwierdzone informacje o planowanym zdarzeniu na terytorium RP; DELTA – WYSTĄPIENIE zdarzenia powodującego zagrożenie bezpieczeństwa lub porządku publicznego albo zaawansowana faza przygotowań. Potwierdza to klucz egzaminu SZP-6/26.",
   "zrodlo": "test"
  },
  {
@@ -3455,6 +3455,45 @@
    "art. 129i ustawy – Prawo o ruchu drogowym"
   ],
   "wyjasnienie": "UWAGA – dawny stan prawny: art. 17 ust. 1–3 tej ustawy (badanie pracownika przez Policję na wezwanie pracodawcy) uchylono 21 lutego 2023 r. Dziś kontrolę trzeźwości pracowników regulują art. 221c–221g Kodeksu pracy, a obecny art. 17 dotyczy przedsiębiorców niebędących pracodawcami. Art. 47 ust. 1 dotyczy badań osób podejrzanych o przestępstwo lub wykroczenie, a art. 129 PoRD – kontroli ruchu drogowego.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "2bbc1faa4c",
+  "temat": "JM02 – Łączność, legitymowanie, kontrola, przeszukanie, zatrzymanie, asysta",
+  "pytanie": "Sprawdzanie tożsamości użytkownika sieci radiowej Policji odbywa się po podaniu:",
+  "poprawna": "klucza do sprawdzania tożsamości użytkownika",
+  "bledne": [
+   "oznaczenia regionu (województwa), rodzaju służby, numerów sieci i korespondenta",
+   "oznaczenia rodzaju służby, numeru sieci i korespondenta",
+   "oznaczenia tajności, numeru sieci i korespondenta"
+  ],
+  "wyjasnienie": "JM02 JS01 – łączność radiowa: gdy trzeba upewnić się, że po drugiej stronie jest uprawniony użytkownik (a nie ktoś podszywający się pod patrol), korespondent podaje odpowiedź z klucza do sprawdzania tożsamości. Oznaczenia sieci i korespondenta to tylko wywołanie, a nie potwierdzenie tożsamości. UWAGA – niepewne: odpowiedź z karty odpowiedzi egzaminu SZP-6/26 (przepisy o łączności Policji nie są publiczne).",
+  "zrodlo": "test"
+ },
+ {
+  "id": "d650fc4960",
+  "temat": "JM04 – Wyszkolenie strzeleckie",
+  "pytanie": "Używając broni palnej wobec uzbrojonego przestępcy, policjant opróżnił magazynek swojego pistoletu. W tej sytuacji powinien:",
+  "poprawna": "skontrolować broń i wymienić magazynek",
+  "bledne": [
+   "skontrolować broń, krzyknąć „awaria” i wymienić magazynek",
+   "skontrolować broń, krzyknąć „koniec amunicji” i wymienić magazynek",
+   "skontrolować broń, krzyknąć „magazynek” i dokonać wymiany magazynka"
+  ],
+  "wyjasnienie": "JM04 – wymiana awaryjna magazynka: gdy skończy się amunicja (zamek zatrzymuje się w tylnym położeniu), policjant kontroluje broń i od razu wymienia magazynek. W realnej sytuacji nie krzyczy się o braku amunicji – uzbrojony przeciwnik dowiedziałby się, że policjant chwilowo nie może strzelać. Odpowiedź według karty odpowiedzi egzaminu SZP-6/26.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "0d7f784a7c",
+  "temat": "JM04 – Wyszkolenie strzeleckie",
+  "pytanie": "Prowadząc ogień z broni krótkiej zza rogu budynku, policjant schował się, wymienił magazynek, zwolnił zamek i zszedł do postawy klęczącej. Jego zachowanie było:",
+  "poprawna": "właściwe, ponieważ wykonał wszystkie czynności zgodnie z zasadami taktyki",
+  "bledne": [
+   "właściwe, ponieważ podczas prowadzenia ognia mógł odczuwać zmęczenie",
+   "niewłaściwe, ponieważ szybka zmiana postawy z wysokiej na niską ma wpływ na bezpieczeństwo osobiste policjanta",
+   "niewłaściwe, ponieważ najpierw powinien zmienić postawę na niską, a później dokonać awaryjnej wymiany magazynka"
+  ],
+  "wyjasnienie": "JM04 – strzelania z wykorzystaniem osłon: magazynek wymienia się za osłoną, a przed ponownym wychyleniem zmienia się postawę (np. na klęczącą), żeby pojawić się zza rogu na innej wysokości niż wcześniej – przeciwnik celuje tam, gdzie widział policjanta. UWAGA – niepewne: odpowiedź według karty odpowiedzi egzaminu SZP-6/26, przepisy nie opisują tej sytuacji wprost.",
   "zrodlo": "test"
  }
 ]
