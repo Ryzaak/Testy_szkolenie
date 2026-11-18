@@ -3495,5 +3495,83 @@
   ],
   "wyjasnienie": "JM04 – strzelania z wykorzystaniem osłon: magazynek wymienia się za osłoną, a przed ponownym wychyleniem zmienia się postawę (np. na klęczącą), żeby pojawić się zza rogu na innej wysokości niż wcześniej – przeciwnik celuje tam, gdzie widział policjanta. UWAGA – niepewne: odpowiedź według karty odpowiedzi egzaminu SZP-6/26, przepisy nie opisują tej sytuacji wprost.",
   "zrodlo": "test"
+ },
+ {
+  "id": "9e74ce31bb",
+  "temat": "JM01 – Prawo (prawoznawstwo, k.k., k.w.)",
+  "pytanie": "Posiadanie ręcznych miotaczy gazu obezwładniającego:",
+  "poprawna": "nie wymaga pozwolenia na broń",
+  "bledne": [
+   "wymaga posiadania pozwolenia na broń",
+   "wymaga posiadania karty rejestracyjnej",
+   "wymaga dopuszczenia do posiadania broni"
+  ],
+  "wyjasnienie": "Art. 11 pkt 8 ustawy z 21 maja 1999 r. o broni i amunicji: pozwolenia na broń nie wymaga posiadanie ręcznych miotaczy gazu obezwładniającego (także m.in. broni pneumatycznej – ale ta podlega rejestracji – i paralizatorów do 10 mA). Karalne jest natomiast zbycie miotacza osobie nieuprawnionej (art. 51 ust. 1 – wykroczenie). Potwierdza to klucz egzaminu SZP-6/26.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "fc4d36adef",
+  "temat": "JM01 – Prawo (prawoznawstwo, k.k., k.w.)",
+  "pytanie": "Kto porzuca broń palną lub amunicję, która pozostaje w jego dyspozycji, popełnia:",
+  "poprawna": "przestępstwo z art. 50 ustawy o broni i amunicji (grzywna, ograniczenie wolności albo pozbawienie wolności do 2 lat)",
+  "bledne": [
+   "wykroczenie z art. 51 ustawy o broni i amunicji",
+   "przestępstwo z art. 263 § 2 k.k. (od 6 miesięcy do 8 lat)",
+   "czyn niekaralny, jeśli broń ma pozwolenie"
+  ],
+  "wyjasnienie": "Art. 50 ustawy z 21 maja 1999 r. o broni i amunicji: porzucenie broni palnej lub amunicji pozostającej w dyspozycji sprawcy – grzywna, ograniczenie wolności albo pozbawienie wolności do 2 lat. Art. 51 przewiduje areszt lub grzywnę, czyli wykroczenia, a art. 263 § 2 k.k. dotyczy posiadania broni bez zezwolenia.",
+  "zrodlo": "wlasne"
+ },
+ {
+  "id": "a4cfe36c44",
+  "temat": "JM01 – Prawo (prawoznawstwo, k.k., k.w.)",
+  "pytanie": "Osoba posiadająca pozwolenie nosi broń, będąc w stanie po użyciu alkoholu. Odpowiada za:",
+  "poprawna": "wykroczenie z art. 51 ust. 2 ustawy o broni i amunicji (areszt albo grzywna)",
+  "bledne": [
+   "przestępstwo z art. 263 § 2 k.k",
+   "przestępstwo z art. 50 ustawy o broni i amunicji",
+   "nic – posiada pozwolenie na broń"
+  ],
+  "wyjasnienie": "Art. 51 ust. 2 pkt 4 ustawy z 21 maja 1999 r. o broni i amunicji: kto nosi broń w stanie po użyciu alkoholu, środka odurzającego, substancji psychotropowej albo środka zastępczego, podlega karze aresztu albo grzywny. Tej samej karze podlega m.in. niezawiadomienie Policji o utracie broni (pkt 2) i niezarejestrowanie broni (pkt 1).",
+  "zrodlo": "wlasne"
+ },
+ {
+  "id": "2b8198593f",
+  "temat": "JM01 – Prawo (prawoznawstwo, k.k., k.w.)",
+  "pytanie": "Kto bez wymaganego zezwolenia posiada broń palną lub amunicję, popełnia:",
+  "poprawna": "przestępstwo z art. 263 § 2 k.k. (pozbawienie wolności od 6 miesięcy do 8 lat)",
+  "bledne": [
+   "wykroczenie z art. 51 ust. 1 ustawy o broni i amunicji",
+   "przestępstwo z art. 50 ustawy o broni i amunicji",
+   "wykroczenie z kodeksu wykroczeń"
+  ],
+  "wyjasnienie": "Art. 263 § 2 k.k. – decyzja nr 162 każe omawiać art. 50 i 51 ustawy o broni i amunicji razem z tym przepisem. Bez zezwolenia wyrabianie broni lub handel nią to art. 263 § 1 (od roku do 10 lat), a nieumyślna utrata broni pozostającej w dyspozycji – art. 263 § 4.",
+  "zrodlo": "wlasne"
+ },
+ {
+  "id": "b978077168",
+  "temat": "JM02 – Łączność, legitymowanie, kontrola, przeszukanie, zatrzymanie, asysta",
+  "pytanie": "W przypadku zaistnienia wydarzenia nadzwyczajnego dowódca konwoju lub policjant odpowiedzialny za wykonanie doprowadzenia, niezwłocznie po zakończeniu czynności na miejscu wydarzenia, sporządza:",
+  "poprawna": "szczegółową notatkę służbową",
+  "bledne": [
+   "raport",
+   "meldunek",
+   "notatkę urzędową"
+  ],
+  "wyjasnienie": "§ 43 ust. 1 pkt 4 zarządzenia nr 360 KGP w sprawie metod i form wykonywania przez policjantów konwojów i doprowadzeń: sporządza się szczegółową notatkę służbową z przebiegu wydarzenia i podjętych działań – dla dyżurnego jednostki właściwej dla miejsca zdarzenia, a kopię dla bezpośredniego przełożonego. MELDUNEK (w ciągu 7 dni) piszą później policjanci wyznaczeni do wyjaśnienia przyczyn (§ 44).",
+  "zrodlo": "test"
+ },
+ {
+  "id": "e5cc04edd2",
+  "temat": "JM02 – Łączność, legitymowanie, kontrola, przeszukanie, zatrzymanie, asysta",
+  "pytanie": "Konwoje o zwiększonym zagrożeniu bezpieczeństwa wykonuje się w oparciu o plan:",
+  "poprawna": "konwoju",
+  "bledne": [
+   "ochrony",
+   "zabezpieczenia",
+   "nadzoru"
+  ],
+  "wyjasnienie": "Zarządzenie nr 360 KGP w sprawie konwojów i doprowadzeń: konwój o zwiększonym zagrożeniu (np. groźni przestępcy, ryzyko odbicia) wykonuje się według sporządzanego wcześniej planu konwoju (trasa, siły, łączność, postępowanie w razie zdarzenia). Odpowiedź według karty odpowiedzi egzaminu SZP-6/26.",
+  "zrodlo": "test"
  }
 ]
