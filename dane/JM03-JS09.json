@@ -156,19 +156,6 @@
   "zrodlo": "test"
  },
  {
-  "id": "621c27ce85",
-  "temat": "1. Współpraca międzynarodowa i kanały wymiany informacji",
-  "pytanie": "Rolą oficera łącznikowego Policji jest:",
-  "poprawna": "utrzymywanie bezpośrednich kontaktów i wymiana informacji między Policją a służbami państwa, w którym pełni funkcję",
-  "bledne": [
-   "prowadzenie postępowań przygotowawczych za granicą",
-   "dokonywanie wpisów do SIS w imieniu sądów",
-   "zatwierdzanie not Interpolu"
-  ],
-  "wyjasnienie": "Sylabus JS09: oficer łącznikowy jako jeden z kanałów wymiany informacji (obok SIS/SIRENE, Interpolu, Europolu i SWIzE).",
-  "zrodlo": "wlasne"
- },
- {
   "id": "1581670bf2",
   "temat": "2–3. Wpisy w SIS – rodzaje, organy, terminy",
   "pytanie": "Zgodnie z rozporządzenia (UE) 2018/1862 o wpisach dotyczących osób poszukiwanych w celu aresztowania i wydania albo aresztowania i ekstradycji mówi:",
@@ -219,19 +206,6 @@
   ],
   "wyjasnienie": "Art. 36 rozporządzenia 2018/1862.",
   "zrodlo": "test"
- },
- {
-  "id": "b2b7de29c8",
-  "temat": "2–3. Wpisy w SIS – rodzaje, organy, terminy",
-  "pytanie": "O wpisach dotyczących przedmiotów poszukiwanych w celu ich zajęcia lub wykorzystania jako dowód w postępowaniu karnym mówi:",
-  "poprawna": "art. 38 rozporządzenia (UE) 2018/1862",
-  "bledne": [
-   "art. 26 rozporządzenia (UE) 2018/1862",
-   "art. 34 rozporządzenia (UE) 2018/1862",
-   "art. 24 rozporządzenia (UE) 2018/1861"
-  ],
-  "wyjasnienie": "Art. 38 ust. 1 rozporządzenia 2018/1862.",
-  "zrodlo": "wlasne"
  },
  {
   "id": "90f0f0b397",
@@ -455,19 +429,6 @@
   "zrodlo": "test"
  },
  {
-  "id": "f09783eb1d",
-  "temat": "4–10. Tożsamość, biometria, trafienia, ENA",
-  "pytanie": "Wpis w SIS dotyczący osoby poszukiwanej w celu aresztowania (art. 26) może po trafieniu skutkować zatrzymaniem osoby w Polsce, a zatrzymanego należy:",
-  "poprawna": "poinformować o przyczynach zatrzymania i prawach oraz niezwłocznie przekazać informację do Biura SIRENE",
-  "bledne": [
-   "zwolnić po sprawdzeniu tożsamości",
-   "przesłuchać w charakterze świadka",
-   "przekazać bezpośrednio do państwa wpisującego"
-  ],
-  "wyjasnienie": "Art. 605a i 607k § 2a k.p.k. (stosuje się art. 244–246 i 248) oraz procedura trafienia – formularz odnalezienia osoby przekazywany do Biura SIRENE (sylabus JS09, pkt 7–8).",
-  "zrodlo": "wlasne"
- },
- {
   "id": "c9862005c9",
   "temat": "11–13. Interpol – noty, dyfuzje, bazy danych",
   "pytanie": "Nota Interpolu to wniosek o współpracę międzynarodową lub ostrzeżenie międzynarodowe adresowane do:",
@@ -505,19 +466,6 @@
   ],
   "wyjasnienie": "Kolor oznacza cel: czerwona – zatrzymanie, żółta – zaginieni, czarna – niezidentyfikowane zwłoki, niebieska – ustalenie tożsamości lub miejsca pobytu.",
   "zrodlo": "test"
- },
- {
-  "id": "6dbea9df4e",
-  "temat": "11–13. Interpol – noty, dyfuzje, bazy danych",
-  "pytanie": "Żółta nota Interpolu dotyczy:",
-  "poprawna": "osób zaginionych",
-  "bledne": [
-   "osób poszukiwanych do aresztowania",
-   "niezidentyfikowanych zwłok",
-   "zagrożeń ze strony przedmiotów niebezpiecznych"
-  ],
-  "wyjasnienie": "Sylabus JS09, pkt 11: czerwona (poszukiwany do zatrzymania) i żółta (zaginiona).",
-  "zrodlo": "wlasne"
  },
  {
   "id": "c5c32ef4b7",
@@ -572,19 +520,6 @@
   "zrodlo": "test"
  },
  {
-  "id": "0e11fb12fc",
-  "temat": "11–13. Interpol – noty, dyfuzje, bazy danych",
-  "pytanie": "Bazy danych Interpolu wymienione w poradniku JS09 to m.in.:",
-  "poprawna": "Nominal, SLTD, SMV",
-  "bledne": [
-   "SIS, VIS, Eurodac",
-   "EIS, SIENA, SWIzE",
-   "KSIP, SESPOL, POSIGRAF"
-  ],
-  "wyjasnienie": "Nominal – osoby, SLTD – skradzione i utracone dokumenty podróży, SMV – skradzione pojazdy.",
-  "zrodlo": "wlasne"
- },
- {
   "id": "db8d1ad9be",
   "temat": "14. EUCARIS i inne systemy",
   "pytanie": "EUCARIS pozwala na wymianę informacji o:",
@@ -609,18 +544,5 @@
   ],
   "wyjasnienie": "CBE – Cross Border Exchange (dyrektywa 2015/413 o transgranicznej wymianie informacji o naruszeniach przepisów ruchu drogowego). UWAGA – niepewne.",
   "zrodlo": "test"
- },
- {
-  "id": "e7c76bd77c",
-  "temat": "14. EUCARIS i inne systemy",
-  "pytanie": "Zautomatyzowana wymiana danych z decyzji z Prüm obejmuje dane:",
-  "poprawna": "DNA, daktyloskopijne oraz dane rejestracyjne pojazdów (EUCARIS)",
-  "bledne": [
-   "wyłącznie dane o osobach zaginionych",
-   "dane PNR i wizowe",
-   "dane z KRK i CEIDG"
-  ],
-  "wyjasnienie": "Sylabus JS09, pkt 1e: zautomatyzowana wymiana danych w obszarze DNA, daktyloskopii i EUCARIS.",
-  "zrodlo": "wlasne"
  }
 ]

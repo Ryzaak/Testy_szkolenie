@@ -234,19 +234,6 @@
   "zrodlo": "test"
  },
  {
-  "id": "4da2c9a9e5",
-  "temat": "10–11. Pościgi",
-  "pytanie": "Pościg to:",
-  "poprawna": "działania prowadzone na ustalonym lub prawdopodobnym kierunku ucieczki osoby ściganej, zmierzające do jej zatrzymania",
-  "bledne": [
-   "każde przemieszczanie się radiowozu z włączonymi sygnałami",
-   "wyłącznie działania pododdziału zwartego",
-   "działania operacyjne prowadzone po zakończeniu interwencji"
-  ],
-  "wyjasnienie": "§ 2 pkt 2 zarządzenia nr 45 KGP z 21 czerwca 2018 r. w sprawie działań pościgowych.",
-  "zrodlo": "wlasne"
- },
- {
   "id": "c8ecbe24d0",
   "temat": "10–11. Pościgi",
   "pytanie": "O podjęciu pościgu i jego przyczynie policjant powinien powiadomić:",
@@ -388,19 +375,6 @@
   ],
   "wyjasnienie": "Art. 19 ust. 2 ustawy o środkach przymusu bezpośredniego i broni palnej.",
   "zrodlo": "test"
- },
- {
-  "id": "93bc7c29cf",
-  "temat": "Środki przymusu bezpośredniego i broń palna",
-  "pytanie": "Pałką służbową nie zadaje się uderzeń w:",
-  "poprawna": "głowę, szyję, brzuch oraz nieumięśnione i szczególnie wrażliwe części ciała (poza odpieraniem zamachu na życie lub zdrowie)",
-  "bledne": [
-   "uda i ramiona",
-   "plecy poniżej łopatek",
-   "kończyny dolne"
-  ],
-  "wyjasnienie": "Art. 19 ust. 4 ustawy o środkach przymusu bezpośredniego i broni palnej.",
-  "zrodlo": "wlasne"
  },
  {
   "id": "071765aed4",
@@ -793,19 +767,6 @@
   "zrodlo": "test"
  },
  {
-  "id": "ac19662eb0",
-  "temat": "15–21. Alkohol i interwencje w miejscach publicznych",
-  "pytanie": "Stan nietrzeźwości w rozumieniu ustawy o wychowaniu w trzeźwości zachodzi, gdy zawartość alkoholu:",
-  "poprawna": "we krwi przekracza 0,5‰ albo w wydychanym powietrzu przekracza 0,25 mg/dm³ (lub prowadzi do stężenia przekraczającego te wartości)",
-  "bledne": [
-   "we krwi wynosi od 0,2‰ do 0,5‰",
-   "we krwi przekracza 0,2‰",
-   "w wydychanym powietrzu przekracza 0,1 mg/dm³"
-  ],
-  "wyjasnienie": "Art. 46 ust. 3 ustawy o wychowaniu w trzeźwości i art. 115 § 16 k.k. Stan po użyciu alkoholu: 0,2–0,5‰ lub 0,1–0,25 mg/dm³.",
-  "zrodlo": "wlasne"
- },
- {
   "id": "ea2a997bff",
   "temat": "22. Interwencje wobec różnych kategorii osób",
   "pytanie": "Osoba posiadająca immunitet dyplomatyczny:",
@@ -936,19 +897,6 @@
   "zrodlo": "test"
  },
  {
-  "id": "a5ab0492b5",
-  "temat": "22. Interwencje wobec różnych kategorii osób",
-  "pytanie": "Policjant ma prawo wydać wobec osoby stosującej przemoc domową, stwarzającej zagrożenie dla życia lub zdrowia osoby doznającej przemocy:",
-  "poprawna": "nakaz natychmiastowego opuszczenia wspólnie zajmowanego mieszkania i zakaz zbliżania się do niego",
-  "bledne": [
-   "zakaz opuszczania kraju",
-   "nakaz poddania się terapii",
-   "zakaz wykonywania zawodu"
-  ],
-  "wyjasnienie": "Art. 15aa ust. 1 ustawy o Policji.",
-  "zrodlo": "wlasne"
- },
- {
   "id": "19b00b6144",
   "temat": "22. Interwencje wobec różnych kategorii osób",
   "pytanie": "Jeżeli po wydaniu nakazu i zakazu wystąpiły okoliczności uzasadniające kolejne zakazy, dzień zakończenia ich obowiązywania powinien odpowiadać:",
@@ -958,7 +906,7 @@
    "30 dniom od ich wydania",
    "1 miesiącowi od ich wydania"
   ],
-  "wyjasnienie": "Kolejne zakazy obowiązują do końca terminu pierwszego nakazu i zakazu.",
+  "wyjasnienie": "Art. 15aab ust. 3 ustawy o Policji: jeżeli po wydaniu nakazu i zakazu wystąpią okoliczności uzasadniające zakaz zbliżania, kontaktowania lub wstępu, dzień zakończenia ich obowiązywania musi odpowiadać dniowi, w którym upływa termin stosowania nakazu i zakazu.",
   "zrodlo": "test"
  },
  {

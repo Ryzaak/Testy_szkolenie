@@ -273,19 +273,6 @@
   "zrodlo": "test"
  },
  {
-  "id": "c826f4ae9b",
-  "temat": "JS07 5. Zawiadomienie, wniosek o ściganie, skarga prywatna",
-  "pytanie": "Protokół, który sporządza się z przyjęcia ustnego zawiadomienia o przestępstwie:",
-  "poprawna": "jest wspólny z przesłuchaniem zawiadamiającego w charakterze świadka i może zawierać wniosek o ściganie",
-  "bledne": [
-   "zawsze sporządza się osobno od protokołu przesłuchania świadka",
-   "nie może zawierać wniosku o ściganie",
-   "zastępuje się notatką urzędową, jeśli zawiadamiający jest pokrzywdzonym"
-  ],
-  "wyjasnienie": "Art. 304a k.p.k.",
-  "zrodlo": "wlasne"
- },
- {
   "id": "e443a3e450",
   "temat": "JS07 5. Zawiadomienie, wniosek o ściganie, skarga prywatna",
   "pytanie": "W przypadku przyjmowania zawiadomienia o przestępstwie od osoby, która ukończyła 17 lat, policjant poucza ją o odpowiedzialności karnej za:",

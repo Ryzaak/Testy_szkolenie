@@ -26,19 +26,6 @@
   "zrodlo": "test"
  },
  {
-  "id": "1e12f9472b",
-  "temat": "JS07. Kontrola osobista, bagaż, sprawdzenie prewencyjne",
-  "pytanie": "Kontroli osobistej dokonuje co do zasady:",
-  "poprawna": "policjant tej samej płci co osoba kontrolowana, w miejscu niedostępnym dla osób postronnych",
-  "bledne": [
-   "zawsze dwóch policjantów różnej płci",
-   "policjant dowolnej płci, w obecności świadka",
-   "wyłącznie policjant w randze oficera"
-  ],
-  "wyjasnienie": "Art. 15d ust. 5 ustawy o Policji. W sytuacji niecierpiącej zwłoki (zagrożenie życia, zdrowia, mienia) może jej dokonać policjant płci odmiennej (ust. 6).",
-  "zrodlo": "wlasne"
- },
- {
   "id": "18916c5472",
   "temat": "JS07. Kontrola osobista, bagaż, sprawdzenie prewencyjne",
   "pytanie": "Podczas kontroli osobistej:",
@@ -50,19 +37,6 @@
   ],
   "wyjasnienie": "Art. 15d ust. 7 ustawy o Policji. W teście odpowiedź brzmiała: „może żądać obecności osoby przybranej przez prowadzącego czynność”.",
   "zrodlo": "test"
- },
- {
-  "id": "7e44623341",
-  "temat": "JS07. Kontrola osobista, bagaż, sprawdzenie prewencyjne",
-  "pytanie": "Policjant sporządza protokół z kontroli osobistej:",
-  "poprawna": "na żądanie osoby kontrolowanej zgłoszone bezpośrednio po kontroli oraz gdy w toku kontroli znaleziono broń lub przedmioty z art. 15 ust. 1 pkt 5",
-  "bledne": [
-   "w każdym przypadku",
-   "tylko gdy ujawnił przedmioty, których posiadanie jest zabronione",
-   "wyłącznie na polecenie przełożonego"
-  ],
-  "wyjasnienie": "Art. 15d ust. 10 ustawy o Policji. Po kontroli policjant poucza o prawie żądania protokołu i zażaleniu (ust. 9).",
-  "zrodlo": "wlasne"
  },
  {
   "id": "891729f907",
@@ -115,19 +89,6 @@
   ],
   "wyjasnienie": "Art. 15e ust. 3 ustawy o Policji. Bez ich obecności – tylko gdy zwłoka groziłaby zagrożeniem życia, zdrowia, mienia lub utratą dowodów (ust. 4).",
   "zrodlo": "test"
- },
- {
-  "id": "70b7a2902c",
-  "temat": "JS07. Kontrola osobista, bagaż, sprawdzenie prewencyjne",
-  "pytanie": "Policjant przy kontroli osobistej podaje swój stopień, imię i nazwisko, podstawę prawną i przyczynę czynności, a policjant nieumundurowany:",
-  "poprawna": "na żądanie osoby kontrolowanej okazuje legitymację służbową tak, by można było zanotować jej dane",
-  "bledne": [
-   "nie musi się przedstawiać",
-   "okazuje legitymację tylko w porze nocnej",
-   "przedstawia się dopiero po zakończeniu kontroli"
-  ],
-  "wyjasnienie": "Art. 15d ust. 4 pkt 1–2 ustawy o Policji.",
-  "zrodlo": "wlasne"
  },
  {
   "id": "9ea2a3fefc",
@@ -325,19 +286,6 @@
   "zrodlo": "test"
  },
  {
-  "id": "71daec7fa3",
-  "temat": "JS08 1–7. Przeszukanie – istota, cele, podstawy, dokumenty",
-  "pytanie": "Jeżeli przeszukania w sprawie o wykroczenie dokonano bez postanowienia, postanowienie w przedmiocie zatwierdzenia doręcza się na żądanie osoby w terminie:",
-  "poprawna": "14 dni",
-  "bledne": [
-   "7 dni",
-   "3 dni",
-   "30 dni"
-  ],
-  "wyjasnienie": "Art. 44 § 4 k.p.w. (w k.p.k. – 7 dni).",
-  "zrodlo": "wlasne"
- },
- {
   "id": "8bae7fd234",
   "temat": "JS08 1–7. Przeszukanie – istota, cele, podstawy, dokumenty",
   "pytanie": "Na postanowienie dotyczące przeszukania i zatrzymania rzeczy oraz na inne czynności osobom, których prawa naruszono, przysługuje:",
@@ -440,19 +388,6 @@
   ],
   "wyjasnienie": "Dokumentacja uzupełniająca protokół.",
   "zrodlo": "test"
- },
- {
-  "id": "cc1343dc0d",
-  "temat": "JS08 1–7. Przeszukanie – istota, cele, podstawy, dokumenty",
-  "pytanie": "Protokół zatrzymania rzeczy lub przeszukania powinien zawierać m.in.:",
-  "poprawna": "oznaczenie sprawy, dokładną godzinę rozpoczęcia i zakończenia, dokładną listę zatrzymanych rzeczy i wskazanie polecenia sądu lub prokuratora",
-  "bledne": [
-   "wyłącznie listę zatrzymanych rzeczy",
-   "ocenę winy osoby przeszukiwanej",
-   "podpis prokuratora"
-  ],
-  "wyjasnienie": "Art. 229 k.p.k.",
-  "zrodlo": "wlasne"
  },
  {
   "id": "0ef4bdf21f",
@@ -685,7 +620,7 @@
    "wyłącznie uzyskać postanowienie o przeszukaniu",
    "wyłącznie zwrócić się o zgodę do rektora"
   ],
-  "wyjasnienie": "Teren uczelni: wejście Policji co do zasady na wezwanie lub za zgodą rektora (ustawa – Prawo o szkolnictwie wyższym i nauce). UWAGA – niepewne: odpowiedź z klucza testu („B i C”).",
+  "wyjasnienie": "Art. 50 ust. 3–4 ustawy – Prawo o szkolnictwie wyższym i nauce: służby porządkowe wkraczają na teren uczelni na wezwanie rektora, a bez wezwania tylko przy bezpośrednim zagrożeniu życia lub zdrowia albo klęsce żywiołowej (wtedy niezwłocznie zawiadamiają rektora). Samo przeszukanie wymaga postanowienia prokuratora lub sądu (art. 220 k.p.k.). UWAGA – niepewne: ustawa mówi o wezwaniu rektora, a klucz testu o jego zgodzie.",
   "zrodlo": "test"
  },
  {
@@ -841,7 +776,7 @@
    "wyłącznie protokół oddania rzeczy na przechowanie",
    "wyłącznie wykaz rzeczy oddanych na przechowanie"
   ],
-  "wyjasnienie": "Dokumentacja oddania na przechowanie (osoba godna zaufania ma obowiązek przedstawić rzecz na każde żądanie). UWAGA: test 55 pytał też o liczbę egzemplarzy – tego pytania nie da się zweryfikować w przepisach, więc je pominięto.",
+  "wyjasnienie": "Wytyczne nr 3 KGP z 30 sierpnia 2017 r. w sprawie wykonywania niektórych czynności dochodzeniowo-śledczych: przy oddaniu rzeczy na przechowanie osobie godnej zaufania policjant sporządza protokół oddania rzeczy na przechowanie (w jednym egzemplarzu) oraz wykaz rzeczy oddanych na przechowanie (w dwóch egzemplarzach – jeden zostaje u przechowującego jako pokwitowanie). Osoba ta ma obowiązek przedstawić rzecz na każde żądanie (art. 228 § 1 k.p.k.).",
   "zrodlo": "test"
  },
  {
@@ -975,19 +910,6 @@
   "zrodlo": "test"
  },
  {
-  "id": "e3df055b90",
-  "temat": "JS08 14–15. Zatrzymanie rzeczy i postępowanie z przedmiotami",
-  "pytanie": "Jeżeli zatrzymanie rzeczy nastąpiło bez polecenia sądu lub prokuratora, a w ciągu 7 dni nie nastąpiło jego zatwierdzenie, należy:",
-  "poprawna": "niezwłocznie zwrócić rzecz osobie uprawnionej (chyba że wydała ją dobrowolnie i nie złożyła wniosku o postanowienie)",
-  "bledne": [
-   "przechowywać rzecz do zakończenia postępowania",
-   "przekazać rzecz prokuratorowi",
-   "zniszczyć rzecz"
-  ],
-  "wyjasnienie": "Art. 230 § 1 k.p.k.",
-  "zrodlo": "wlasne"
- },
- {
   "id": "b45190926f",
   "temat": "JS08 14–15. Zatrzymanie rzeczy i postępowanie z przedmiotami",
   "pytanie": "Jeżeli występuje wątpliwość, komu wydać zatrzymaną rzecz, należy ją złożyć:",
@@ -1010,7 +932,7 @@
    "w aktach sprawy",
    "w depozycie jednostki Policji"
   ],
-  "wyjasnienie": "Pieniądze bez znaczenia jako dowód (bez śladów) przekazuje się na rachunek depozytowy organu. UWAGA – niepewne: odpowiedź z klucza testu.",
+  "wyjasnienie": "§ 31 zarządzenia nr 4 KGP z 9 lutego 2017 r. w sprawie niektórych form organizacji i ewidencji czynności dochodzeniowo-śledczych Policji oraz przechowywania przez Policję dowodów rzeczowych: pieniądze obiegowe, które nie muszą być zachowane w konkretnych egzemplarzach, wpłaca się na rachunek prowadzony na podstawie ustawy o finansach publicznych, a wyjątkowo na konto sum depozytowych prokuratury. Do banku jako depozyt wartościowy trafiają tylko pieniądze, które trzeba zachować w konkretnych egzemplarzach (§ 32). Spośród odpowiedzi testu najbliższa przepisowi jest rachunek depozytowy.",
   "zrodlo": "test"
  },
  {
@@ -1024,19 +946,6 @@
    "policjant prowadzący postępowanie"
   ],
   "wyjasnienie": "Art. 232a § 2 k.p.k.",
-  "zrodlo": "test"
- },
- {
-  "id": "677179eb4c",
-  "temat": "JS08 14–15. Zatrzymanie rzeczy i postępowanie z przedmiotami",
-  "pytanie": "Zgodnie z ustawą o zwalczaniu niedozwolonego wyrobu spirytusu zabronione jest:",
-  "poprawna": "każde z wymienionych",
-  "bledne": [
-   "przechowywanie narzędzi służących do niedozwolonego wyrobu spirytusu",
-   "przechowywanie naczyń i przyrządów do niedozwolonego wyrobu spirytusu",
-   "przechowywanie zacieru służącego do wyrobu spirytusu"
-  ],
-  "wyjasnienie": "Ustawa z 1959 r. o zwalczaniu niedozwolonego wyrobu spirytusu zakazuje wyrobu oraz posiadania aparatów, zacieru i spirytusu z nielegalnego wyrobu.",
   "zrodlo": "test"
  }
 ]

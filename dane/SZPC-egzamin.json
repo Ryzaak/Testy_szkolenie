@@ -1309,7 +1309,7 @@
    "przekazać w kopercie przełożonemu",
    "przekazać w miejsce wyznaczone przez kierownika jednostki"
   ],
-  "wyjasnienie": "Przepisy o dowodach rzeczowych. UWAGA – niepewne: odpowiedź z klucza testu SZPC.",
+  "wyjasnienie": "§ 31 zarządzenia nr 4 KGP z 9 lutego 2017 r. w sprawie niektórych form organizacji i ewidencji czynności dochodzeniowo-śledczych Policji oraz przechowywania przez Policję dowodów rzeczowych: pieniądze obiegowe polskie i zagraniczne, które nie muszą być zachowane w konkretnych egzemplarzach, wpłaca się na rachunek prowadzony na podstawie ustawy o finansach publicznych, a wyjątkowo na konto sum depozytowych prokuratury. Pieniądze, które trzeba zachować w konkretnych egzemplarzach (np. ze śladami), trafiają do banku jako depozyt wartościowy (§ 32).",
   "zrodlo": "test"
  },
  {
@@ -1322,7 +1322,7 @@
    "przekazuje dowód z kopią deklaracji depozytowej",
    "dołącza do akt protokół oględzin"
   ],
-  "wyjasnienie": "Przepisy o dowodach rzeczowych. UWAGA – niepewne: odpowiedź z klucza testu SZPC.",
+  "wyjasnienie": "§ 40 ust. 3 zarządzenia nr 4 KGP z 9 lutego 2017 r. w sprawie niektórych form organizacji i ewidencji czynności dochodzeniowo-śledczych Policji oraz przechowywania przez Policję dowodów rzeczowych: w przypadku zwrotu dowodu rzeczowego osobie uprawnionej policjant odnotowuje ten fakt w wykazie dowodów rzeczowych, a do akt dołącza pokwitowanie uzyskane od tej osoby.",
   "zrodlo": "test"
  },
  {
@@ -2310,7 +2310,7 @@
    "znaku sprawy i celu",
    "miejsca interwencji i danych osoby"
   ],
-  "wyjasnienie": "JM03 JS10 – każde sprawdzenie w systemach policyjnych musi być uzasadnione i rozliczalne, dlatego podaje się jego cel, znak/numer sprawy i kryteria sprawdzenia. UWAGA – niepewne: odpowiedź z klucza testu.",
+  "wyjasnienie": "Zarządzenia nr 70 KGP z 2 grudnia 2019 r. w sprawie KSIP: „Dla sprawdzenia przez SPP wymagane jest wskazanie celu sprawdzenia, znaku lub numeru sprawy oraz określenie kryteriów sprawdzenia” – każde sprawdzenie musi być uzasadnione i rozliczalne.",
   "zrodlo": "test"
  },
  {
@@ -2323,7 +2323,7 @@
    "Fakt, broń, podejrzany, oskarżony, pokrzywdzony",
    "Osoba, Fakt, Rzecz, Pojazd, rejestr wykroczeń"
   ],
-  "wyjasnienie": "Zarządzenie nr 70 KGP o KSIP. UWAGA – niepewne: odpowiedź z klucza testu SZPC.",
+  "wyjasnienie": "§ 3 ust. 1 zarządzenia nr 70 KGP z 2 grudnia 2019 r. w sprawie KSIP: KSIP tworzą zbiory Osoba, Fakt (z Biuletynem KSIP), Rzecz, Podmiot, Pokrzywdzeni oraz rejestr wykroczeń. Pojazdy, dokumenty i broń rejestruje się w ramach tych zbiorów, a nie jako osobne zbiory.",
   "zrodlo": "test"
  },
  {
@@ -2336,7 +2336,7 @@
    "zagubione, utracone, odnalezione",
    "stwarzające zagrożenie, utracone, zabezpieczone"
   ],
-  "wyjasnienie": "Zarządzenie KGP o KSIP: przedmioty rejestruje się z powodami „utracony” (np. skradziony), „w zainteresowaniu” (objęty czynnościami Policji) albo „zabezpieczony” (np. dowód rzeczowy). UWAGA – niepewne: zarządzenie nie jest publiczne, odpowiedź z klucza testu.",
+  "wyjasnienie": "§ 35 ust. 5 zarządzenia nr 70 KGP z 2 grudnia 2019 r. w sprawie KSIP: rzeczy rejestruje się z powodem „UTRACONO” (utracone w wyniku przestępstwa lub wykroczenia, także broń i legitymacja policjanta), „W ZAINTERESOWANIU” (przedmiot czynności Policji, mogący być dowodem) albo „ZABEZPIECZONO” (zabezpieczone przez Policję).",
   "zrodlo": "test"
  },
  {
@@ -2687,7 +2687,7 @@
    "broni",
    "zabytków"
   ],
-  "wyjasnienie": "Zarządzenie o KSIP – nie rejestruje się kolczyków, mikroczipów, paszportów i tatuaży zwierząt. UWAGA – niepewne: odpowiedź z klucza testu.",
+  "wyjasnienie": "§ 35 ust. 8 zarządzenia nr 70 KGP z 2 grudnia 2019 r. w sprawie KSIP: w zbiorze KSIP Rzecz nie rejestruje się kolczyków, mikroczipów, paszportów zwierząt ani innych nośników i tatuaży z numerem identyfikacyjnym zwierzęcia. Dzieła sztuki, zabytki i broń się rejestruje (dzieła sztuki i zabytki w osobnym trybie).",
   "zrodlo": "test"
  },
  {
@@ -3133,19 +3133,6 @@
   "zrodlo": "test"
  },
  {
-  "id": "3f4dbc69dd",
-  "temat": "JM05 – Sprawność fizyczna i taktyka interwencji",
-  "pytanie": "Do której próby testu sprawności fizycznej nie przystępują policjanci zwalczania cyberprzestępczości?",
-  "poprawna": "biegu na dystansie 1000 m",
-  "bledne": [
-   "rzutu piłką lekarską",
-   "siadów z leżenia",
-   "biegu ze zmianą kierunku"
-  ],
-  "wyjasnienie": "§ 3 zarządzenia nr 1 KGP z 15 stycznia 2024 r.: policjanci zajmujący się zwalczaniem cyberprzestępczości oraz policjanci służby wspomagającej nie biegną 1000 m – wykonują tylko pozostałe próby: rzut piłką 3 kg, siady przez 30 s i bieg ze zmianą kierunku.",
-  "zrodlo": "wlasne"
- },
- {
   "id": "fd2178762a",
   "temat": "JM05 – Sprawność fizyczna i taktyka interwencji",
   "pytanie": "Rozgrzewka przed aktywnością fizyczną ma za zadanie:",
@@ -3380,32 +3367,6 @@
   "zrodlo": "test"
  },
  {
-  "id": "485ed00578",
-  "temat": "JM02 – Interwencje, alkohol, przemoc domowa",
-  "pytanie": "Badania analizatorem wydechu nie przeprowadza się przed upływem:",
-  "poprawna": "15 minut od zakończenia spożywania alkoholu lub palenia wyrobów tytoniowych",
-  "bledne": [
-   "30 minut od zakończenia spożywania alkoholu",
-   "5 minut od zakończenia palenia",
-   "60 minut od zakończenia spożywania alkoholu"
-  ],
-  "wyjasnienie": "§ 3 ust. 2 rozporządzenia MZ i MSWiA z 28 grudnia 2018 r. w sprawie badań na zawartość alkoholu w organizmie – resztki alkoholu lub dymu w jamie ustnej zawyżałyby wynik.",
-  "zrodlo": "wlasne"
- },
- {
-  "id": "cdbf7d7ed6",
-  "temat": "JM02 – Interwencje, alkohol, przemoc domowa",
-  "pytanie": "Badanie krwi na zawartość alkoholu przeprowadza się m.in., gdy:",
-  "poprawna": "osoba badana odmawia poddania się badaniu wydychanego powietrza albo pomimo tego badania żąda badania krwi",
-  "bledne": [
-   "zawsze po pozytywnym wyniku analizatora",
-   "wyłącznie na polecenie prokuratora",
-   "wyłącznie gdy wynik przekracza 0,25 mg/dm³"
-  ],
-  "wyjasnienie": "§ 8 ust. 1 rozporządzenia MZ i MSWiA z 28 grudnia 2018 r. w sprawie badań na zawartość alkoholu w organizmie: także gdy stan osoby uniemożliwia badanie wydychanego powietrza lub wynik przekracza zakres pomiarowy analizatora. Badanie wydechu przeprowadza się przed badaniem krwi, jeżeli stan osoby na to pozwala (§ 2 ust. 2).",
-  "zrodlo": "wlasne"
- },
- {
   "id": "4da2d24b02",
   "temat": "JM01 – Prawo (prawoznawstwo, k.k., k.w.)",
   "pytanie": "Przestępstwo wypadku komunikacyjnego (art. 177 k.k.) można popełnić z winy:",
@@ -3435,13 +3396,13 @@
   "id": "cd5a7ebf8e",
   "temat": "JM01 – Etyka, historia, media, ceremoniał, kryzys, patologie, nieletni",
   "pytanie": "Policjant, który przy wykonywaniu czynności uzyskał informacje świadczące o demoralizacji nieletniego, dokumentuje je w formie:",
-  "poprawna": "zapisu w notatniku służbowym i notatki służbowej",
+  "poprawna": "notatki urzędowej oraz meldunku informacyjnego",
   "bledne": [
    "raportu do kierownika jednostki",
    "pisma przewodniego do sądu rodzinnego",
-   "notatki urzędowej oraz meldunku informacyjnego"
+   "zapisu w notatniku służbowym i notatki służbowej"
   ],
-  "wyjasnienie": "Program SZPC (JM01 JS14): policjant dokumentuje własne spostrzeżenia i uzyskane informacje o demoralizacji, a następnie sporządza notatkę informującą komórkę do spraw nieletnich i patologii. Notatka urzędowa dotyczy czynności procesowych, meldunek informacyjny – pracy operacyjnej. UWAGA – niepewne: odpowiedź z klucza testu, szczegóły są w wytycznych KGP o czynnościach wobec nieletnich.",
+  "wyjasnienie": "§ 5 ust. 1 zarządzenia nr 48 KGP z 15 września 2023 r. w sprawie przeciwdziałania demoralizacji i przestępczości nieletnich: policjant, który uzyskał informację o demoralizacji nieletniego lub popełnieniu przez niego czynu karalnego, dokumentuje ją w formie notatki urzędowej lub meldunku informacyjnego. Notatkę urzędową przekazuje się niezwłocznie komórce do spraw nieletnich i patologii, a meldunek – komórce właściwej do realizacji informacji. Odpowiedź poprawiona według podręcznika dla słuchacza.",
   "zrodlo": "test"
  },
  {
@@ -3467,7 +3428,7 @@
    "oznaczenia rodzaju służby, numeru sieci i korespondenta",
    "oznaczenia tajności, numeru sieci i korespondenta"
   ],
-  "wyjasnienie": "JM02 JS01 – łączność radiowa: gdy trzeba upewnić się, że po drugiej stronie jest uprawniony użytkownik (a nie ktoś podszywający się pod patrol), korespondent podaje odpowiedź z klucza do sprawdzania tożsamości. Oznaczenia sieci i korespondenta to tylko wywołanie, a nie potwierdzenie tożsamości. UWAGA – niepewne: odpowiedź z karty odpowiedzi egzaminu SZP-6/26 (przepisy o łączności Policji nie są publiczne).",
+  "wyjasnienie": "Załącznik nr 6 do zarządzenia nr 22 KGP z 14 lipca 2020 r. w sprawie metod i form wykonywania zadań Policji z użyciem środków łączności radiowej: przy wątpliwości co do tożsamości użytkownika stacja sprawdzająca żąda „podaj hasło twojej stacji” i podaje cyfry z tabeli „Klucze do sprawdzania tożsamości użytkownika”, a stacja sprawdzana odpowiada cyframi z dolnego wiersza tej tabeli. Oznaczenia sieci i korespondenta to tylko wywołanie.",
   "zrodlo": "test"
  },
  {
@@ -3510,45 +3471,6 @@
   "zrodlo": "test"
  },
  {
-  "id": "fc4d36adef",
-  "temat": "JM01 – Prawo (prawoznawstwo, k.k., k.w.)",
-  "pytanie": "Kto porzuca broń palną lub amunicję, która pozostaje w jego dyspozycji, popełnia:",
-  "poprawna": "przestępstwo z art. 50 ustawy o broni i amunicji (grzywna, ograniczenie wolności albo pozbawienie wolności do 2 lat)",
-  "bledne": [
-   "wykroczenie z art. 51 ustawy o broni i amunicji",
-   "przestępstwo z art. 263 § 2 k.k. (od 6 miesięcy do 8 lat)",
-   "czyn niekaralny, jeśli broń ma pozwolenie"
-  ],
-  "wyjasnienie": "Art. 50 ustawy z 21 maja 1999 r. o broni i amunicji: porzucenie broni palnej lub amunicji pozostającej w dyspozycji sprawcy – grzywna, ograniczenie wolności albo pozbawienie wolności do 2 lat. Art. 51 przewiduje areszt lub grzywnę, czyli wykroczenia, a art. 263 § 2 k.k. dotyczy posiadania broni bez zezwolenia.",
-  "zrodlo": "wlasne"
- },
- {
-  "id": "a4cfe36c44",
-  "temat": "JM01 – Prawo (prawoznawstwo, k.k., k.w.)",
-  "pytanie": "Osoba posiadająca pozwolenie nosi broń, będąc w stanie po użyciu alkoholu. Odpowiada za:",
-  "poprawna": "wykroczenie z art. 51 ust. 2 ustawy o broni i amunicji (areszt albo grzywna)",
-  "bledne": [
-   "przestępstwo z art. 263 § 2 k.k",
-   "przestępstwo z art. 50 ustawy o broni i amunicji",
-   "nic – posiada pozwolenie na broń"
-  ],
-  "wyjasnienie": "Art. 51 ust. 2 pkt 4 ustawy z 21 maja 1999 r. o broni i amunicji: kto nosi broń w stanie po użyciu alkoholu, środka odurzającego, substancji psychotropowej albo środka zastępczego, podlega karze aresztu albo grzywny. Tej samej karze podlega m.in. niezawiadomienie Policji o utracie broni (pkt 2) i niezarejestrowanie broni (pkt 1).",
-  "zrodlo": "wlasne"
- },
- {
-  "id": "2b8198593f",
-  "temat": "JM01 – Prawo (prawoznawstwo, k.k., k.w.)",
-  "pytanie": "Kto bez wymaganego zezwolenia posiada broń palną lub amunicję, popełnia:",
-  "poprawna": "przestępstwo z art. 263 § 2 k.k. (pozbawienie wolności od 6 miesięcy do 8 lat)",
-  "bledne": [
-   "wykroczenie z art. 51 ust. 1 ustawy o broni i amunicji",
-   "przestępstwo z art. 50 ustawy o broni i amunicji",
-   "wykroczenie z kodeksu wykroczeń"
-  ],
-  "wyjasnienie": "Art. 263 § 2 k.k. – decyzja nr 162 każe omawiać art. 50 i 51 ustawy o broni i amunicji razem z tym przepisem. Bez zezwolenia wyrabianie broni lub handel nią to art. 263 § 1 (od roku do 10 lat), a nieumyślna utrata broni pozostającej w dyspozycji – art. 263 § 4.",
-  "zrodlo": "wlasne"
- },
- {
   "id": "b978077168",
   "temat": "JM02 – Łączność, legitymowanie, kontrola, przeszukanie, zatrzymanie, asysta",
   "pytanie": "W przypadku zaistnienia wydarzenia nadzwyczajnego dowódca konwoju lub policjant odpowiedzialny za wykonanie doprowadzenia, niezwłocznie po zakończeniu czynności na miejscu wydarzenia, sporządza:",
@@ -3572,6 +3494,84 @@
    "nadzoru"
   ],
   "wyjasnienie": "Zarządzenie nr 360 KGP w sprawie konwojów i doprowadzeń: konwój o zwiększonym zagrożeniu (np. groźni przestępcy, ryzyko odbicia) wykonuje się według sporządzanego wcześniej planu konwoju (trasa, siły, łączność, postępowanie w razie zdarzenia). Odpowiedź według karty odpowiedzi egzaminu SZP-6/26.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "a7d970e977",
+  "temat": "JM02 – Pierwsza pomoc",
+  "pytanie": "Akronim DOS oznacza:",
+  "poprawna": "Deformacje, Oparzenia, Stłuczenia",
+  "bledne": [
+   "Deformacje, Otarcia, Skaleczenia",
+   "Deformacje, Obrzęki, Skaleczenia",
+   "Deformacje, Oparzenia, Skaleczenia"
+  ],
+  "wyjasnienie": "Podręcznik dla słuchacza (pierwsza pomoc – badanie urazowe): przy oględzinach i badaniu palpacyjnym ratownik zwraca uwagę na STOP (skaleczenia, tkliwość, otarcia, penetrowanie), DOS (deformacje, oparzenia, stłuczenia) i TON (trzeszczenia, obrzęk, niestabilność).",
+  "zrodlo": "test"
+ },
+ {
+  "id": "b9300608a9",
+  "temat": "JM03 – Systemy, praca operacyjna, poszukiwania, kanały międzynarodowe",
+  "pytanie": "Aplikacja funkcjonująca na terminalach mobilnych, zapewniająca dostęp do systemów teleinformatycznych KSIP, to aplikacja:",
+  "poprawna": "Klient Mobilny SWD Policji",
+  "bledne": [
+   "SPP",
+   "MSG",
+   "System Poszukiwawczy Policji"
+  ],
+  "wyjasnienie": "§ 2 zarządzenia nr 70 KGP z 2 grudnia 2019 r. w sprawie KSIP: aplikacja Klient Mobilny SWD Policji funkcjonuje na terminalach mobilnych i zapewnia dostęp do KSIP za pośrednictwem SPP (informacje o osobach i rzeczach, także o naruszeniach przepisów ruchu drogowego). Aplikacja SPP działa na stanowiskach w jednostkach, podłączonych do Policyjnej Sieci Transmisji Danych.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "7a719d19be",
+  "temat": "JM02 – Interwencje, alkohol, przemoc domowa",
+  "pytanie": "W trakcie interwencji funkcjonariusze Policji usłyszeli przez radiostację hasło „policjant wzywa pomocy”. W tej sytuacji policjanci powinni:",
+  "poprawna": "po uzgodnieniu z dyżurnym jednostki Policji udać się w miejsce zagrożenia",
+  "bledne": [
+   "bezwzględnie zweryfikować kryptonim patrolu wzywającego pomocy",
+   "nie reagować i czekać na dalsze dyspozycje dyżurnego jednostki Policji",
+   "bezwzględnie zakończyć swoją interwencję, a następnie w miarę możliwości udać się w miejsce zagrożenia"
+  ],
+  "wyjasnienie": "Podręcznik dla słuchacza (interwencje – odstąpienie od interwencji): „w sytuacji, gdy inny policjant wzywa pomocy, w uzgodnieniu z dyżurnym odstępujemy od interwencji”. Decyzję uzgadnia się z dyżurnym, który koordynuje siły – nie kończy się interwencji na własną rękę.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "896290099e",
+  "temat": "JM03 – Systemy, praca operacyjna, poszukiwania, kanały międzynarodowe",
+  "pytanie": "Czy w KSIP są przetwarzane informacje o zamachach samobójczych?",
+  "poprawna": "Tak",
+  "bledne": [
+   "Nie",
+   "Tak, jeśli było to usiłowanie",
+   "Nie, jeśli naruszyłoby to dobre imię osoby"
+  ],
+  "wyjasnienie": "§ 3 ust. 3 zarządzenia nr 70 KGP z 2 grudnia 2019 r. w sprawie KSIP: w KSIP przetwarza się również informacje stanowiące dane statystyczne o przestępstwach, zamachach samobójczych i wypadkach tonięcia (na podstawie przepisów o statystyce publicznej).",
+  "zrodlo": "test"
+ },
+ {
+  "id": "d33feb61c3",
+  "temat": "JM03 – Systemy, praca operacyjna, poszukiwania, kanały międzynarodowe",
+  "pytanie": "Hasło i kod „BIAŁY 00” oznacza:",
+  "poprawna": "osoba, rzecz albo dokument nie jest poszukiwany",
+  "bledne": [
+   "notowanie osoby",
+   "zatrzymanie prawa jazdy",
+   "osobę poszukiwaną jako zaginiona"
+  ],
+  "wyjasnienie": "Załącznik nr 41 do zarządzenia nr 70 KGP z 2 grudnia 2019 r. w sprawie KSIP (wykaz haseł i kodów KSIP): „BIAŁY 00” – osoba, rzecz lub dokument nie jest poszukiwany. Nie oznacza to, że osoba nigdy nie była rejestrowana w KSIP.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "ed0006cb37",
+  "temat": "JM03 – Systemy, praca operacyjna, poszukiwania, kanały międzynarodowe",
+  "pytanie": "Zawiadomienia o zaginięciu osoby nie przyjmuje się:",
+  "poprawna": "po upływie 5 lat od daty zaginięcia",
+  "bledne": [
+   "gdy za osobą prowadzone są poszukiwania celowe",
+   "gdy za osobą prowadzone są poszukiwania procesowe",
+   "gdy zaginięcie miało miejsce na terenie innego województwa"
+  ],
+  "wyjasnienie": "§ 3 ust. 3 zarządzenia nr 48 KGP z 28 czerwca 2018 r. w sprawie poszukiwania osoby zaginionej: odstępuje się od przyjęcia zawiadomienia o zaginięciu osoby po upływie 5 lat od daty jej zaginięcia. Odstępuje się też np. gdy osoba jest już zarejestrowana jako zaginiona przez inną jednostkę albo gdy mogła zostać uprowadzona dla okupu (wtedy działa służba śledcza).",
   "zrodlo": "test"
  }
 ]

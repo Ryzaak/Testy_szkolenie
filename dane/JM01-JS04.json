@@ -234,19 +234,6 @@
   "zrodlo": "test"
  },
  {
-  "id": "425e523690",
-  "temat": "b) Ustawa o broni i amunicji – art. 50 i 51 (oraz art. 263 k.k.)",
-  "pytanie": "Porzucenie broni pneumatycznej, która pozostaje w dyspozycji sprawcy:",
-  "poprawna": "nie wypełnia art. 50 ustawy o broni i amunicji, bo przepis dotyczy tylko broni palnej i amunicji",
-  "bledne": [
-   "jest przestępstwem z art. 50 ustawy o broni i amunicji",
-   "jest wykroczeniem z art. 51 ust. 1 ustawy o broni i amunicji",
-   "jest przestępstwem z art. 263 § 4 k.k."
-  ],
-  "wyjasnienie": "Art. 50: „Kto porzuca broń PALNĄ lub amunicję…”. Broń pneumatyczna nie jest bronią palną. Art. 51 ust. 1 dotyczy posiadania broni pneumatycznej bez rejestracji albo zbycia jej osobie nieuprawnionej, a art. 263 § 4 k.k. – nieumyślnej utraty broni palnej.",
-  "zrodlo": "wlasne"
- },
- {
   "id": "692eff2350",
   "temat": "b) Ustawa o broni i amunicji – art. 50 i 51 (oraz art. 263 k.k.)",
   "pytanie": "Mirosław C., mający pozwolenie na broń myśliwską, nosił w trakcie polowania swój karabin, będąc w stanie po użyciu alkoholu. Poniesie odpowiedzialność za:",
@@ -258,71 +245,6 @@
   ],
   "wyjasnienie": "Art. 51 ust. 2 pkt 4 ustawy o broni i amunicji: noszenie broni w stanie po użyciu alkoholu – areszt albo grzywna.",
   "zrodlo": "test"
- },
- {
-  "temat": "b) Ustawa o broni i amunicji – art. 50 i 51 (oraz art. 263 k.k.)",
-  "pytanie": "Kto bez wymaganego zezwolenia posiada broń palną lub amunicję, odpowiada z:",
-  "poprawna": "art. 263 § 2 k.k. – pozbawienie wolności od 6 miesięcy do lat 8",
-  "bledne": [
-   "art. 51 ust. 1 ustawy o broni i amunicji – areszt albo grzywna",
-   "art. 50 ustawy o broni i amunicji – do lat 2",
-   "art. 263 § 4 k.k. – do roku"
-  ],
-  "wyjasnienie": "Art. 263 § 2 k.k. Art. 51 ust. 1 ustawy o broni i amunicji dotyczy tylko broni pneumatycznej bez rejestracji (wykroczenie), a art. 50 – porzucenia broni palnej.",
-  "zrodlo": "wlasne",
-  "id": "baf73fb052"
- },
- {
-  "temat": "b) Ustawa o broni i amunicji – art. 50 i 51 (oraz art. 263 k.k.)",
-  "pytanie": "Wyrabianie broni palnej lub amunicji albo handel nimi bez wymaganego zezwolenia (art. 263 § 1 k.k.) jest zagrożone karą:",
-  "poprawna": "pozbawienia wolności od roku do lat 10",
-  "bledne": [
-   "pozbawienia wolności od 6 miesięcy do lat 8",
-   "grzywny, ograniczenia wolności albo pozbawienia wolności do lat 2",
-   "aresztu albo grzywny"
-  ],
-  "wyjasnienie": "Art. 263 § 1 k.k. – od roku do lat 10. Od 6 miesięcy do lat 8 grozi za samo posiadanie bez zezwolenia (§ 2).",
-  "zrodlo": "wlasne",
-  "id": "6dc9809177"
- },
- {
-  "temat": "b) Ustawa o broni i amunicji – art. 50 i 51 (oraz art. 263 k.k.)",
-  "pytanie": "Posiadacz pozwolenia na broń pożyczył swój pistolet koledze, który pozwolenia nie ma. Czyn posiadacza należy zakwalifikować jako:",
-  "poprawna": "przestępstwo z art. 263 § 3 k.k. (udostępnienie broni osobie nieuprawnionej)",
-  "bledne": [
-   "wykroczenie z art. 51 ust. 2 ustawy o broni i amunicji",
-   "przestępstwo z art. 263 § 1 k.k.",
-   "czyn niekaralny, jeżeli kolega oddał broń"
-  ],
-  "wyjasnienie": "Art. 263 § 3 k.k.: kto, mając zezwolenie, udostępnia lub przekazuje broń palną lub amunicję osobie nieuprawnionej – grzywna, ograniczenie wolności albo pozbawienie wolności do lat 2. Samo przechowywanie broni tak, że osoby nieuprawnione MOGĄ mieć do niej dostęp, to wykroczenie z art. 51 ust. 2 pkt 7 ustawy.",
-  "zrodlo": "wlasne",
-  "id": "973edc50a3"
- },
- {
-  "temat": "b) Ustawa o broni i amunicji – art. 50 i 51 (oraz art. 263 k.k.)",
-  "pytanie": "Posiadacz pozwolenia na broń przez nieostrożność zostawił pistolet w toalecie na stacji paliw i go utracił. Odpowiada z:",
-  "poprawna": "art. 263 § 4 k.k. (nieumyślne spowodowanie utraty broni palnej)",
-  "bledne": [
-   "art. 50 ustawy o broni i amunicji (porzucenie broni)",
-   "art. 263 § 2 k.k. (posiadanie broni bez zezwolenia)",
-   "żadnego przepisu – utrata broni nie jest karalna"
-  ],
-  "wyjasnienie": "Art. 263 § 4 k.k. – do roku. Porzucenie z art. 50 ustawy to umyślne pozbycie się broni. Jeżeli dodatkowo nie zawiadomi Policji o utracie, popełnia wykroczenie z art. 51 ust. 2 pkt 2 ustawy.",
-  "zrodlo": "wlasne",
-  "id": "031f061f2d"
- },
- {
-  "temat": "b) Ustawa o broni i amunicji – art. 50 i 51 (oraz art. 263 k.k.)",
-  "pytanie": "Czym różni się porzucenie broni (art. 50 ustawy o broni i amunicji) od przestępstwa z art. 263 § 4 k.k.?",
-  "poprawna": "porzucenie to umyślne pozbycie się broni, a art. 263 § 4 k.k. dotyczy nieumyślnego spowodowania jej utraty",
-  "bledne": [
-   "art. 50 dotyczy broni pneumatycznej, a art. 263 § 4 k.k. broni palnej",
-   "art. 50 jest wykroczeniem, a art. 263 § 4 k.k. przestępstwem",
-   "nie różnią się – to ten sam czyn opisany w dwóch ustawach"
-  ],
-  "wyjasnienie": "Oba są przestępstwami. Art. 50 – porzucenie broni palnej lub amunicji (do lat 2). Art. 263 § 4 k.k. – nieumyślna utrata broni palnej lub amunicji (do roku).",
-  "zrodlo": "wlasne",
-  "id": "f79ee46c52"
  },
  {
   "id": "9b096f41c7",

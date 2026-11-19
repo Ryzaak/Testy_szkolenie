@@ -121,17 +121,6 @@
   "zrodlo": "test"
  },
  {
-  "id": "ca2f58eaa9",
-  "temat": "1–5. Historia Policji i związki zawodowe",
-  "pytanie": "Policjanci więzieni w obozie w Ostaszkowie zostali zamordowani w Kalininie (Twerze) i pogrzebani w Miednoje.",
-  "poprawna": "Prawda",
-  "bledne": [
-   "Fałsz"
-  ],
-  "wyjasnienie": "Tak wskazuje poradnik JS09: Ostaszków – Kalinin – Miednoje. Jeńców z Kozielska zamordowano w Katyniu, a ze Starobielska – w Charkowie.",
-  "zrodlo": "wlasne"
- },
- {
   "id": "79dde502cc",
   "temat": "1–5. Historia Policji i związki zawodowe",
   "pytanie": "Największa na świecie policyjna nekropolia znajduje się w Nowym Jorku.",
@@ -185,17 +174,6 @@
   ],
   "wyjasnienie": "Pełna nazwa to Ochotnicza Rezerwa Milicji Obywatelskiej (liczba pojedyncza). UWAGA – niepewne: na teście ta różnica może być pominięta i twierdzenie uznane za prawdziwe.",
   "zrodlo": "test"
- },
- {
-  "id": "6cc6fd5c98",
-  "temat": "1–5. Historia Policji i związki zawodowe",
-  "pytanie": "Milicja Obywatelska została utworzona w 1944 r., a pierwszym jej komendantem głównym był Franciszek Jóźwiak.",
-  "poprawna": "Prawda",
-  "bledne": [
-   "Fałsz"
-  ],
-  "wyjasnienie": "MO powołano dekretem PKWN z 7 października 1944 r. Działała do 1990 r.",
-  "zrodlo": "wlasne"
  },
  {
   "id": "918e9b7e8b",
@@ -418,17 +396,6 @@
   "zrodlo": "test"
  },
  {
-  "id": "26422b2b13",
-  "temat": "6. Etyka zawodowa policjanta",
-  "pytanie": "Sygnalista to osoba, która zgłasza lub publicznie ujawnia informację o naruszeniu prawa uzyskaną w kontekście związanym z pracą lub służbą.",
-  "poprawna": "Prawda",
-  "bledne": [
-   "Fałsz"
-  ],
-  "wyjasnienie": "Ustawa z 14 czerwca 2024 r. o ochronie sygnalistów. Sygnaliści pomagają zapobiegać korupcji i naruszeniom zasad etyki w Policji.",
-  "zrodlo": "wlasne"
- },
- {
   "id": "201e72e674",
   "temat": "7–11. Korupcja",
   "pytanie": "Łapownictwo czynne to inaczej sprzedajność.",
@@ -506,17 +473,6 @@
   "zrodlo": "test"
  },
  {
-  "id": "4368a8ddb1",
-  "temat": "7–11. Korupcja",
-  "pytanie": "Korupcja czarna to zachowania korupcyjne jednoznacznie potępiane zarówno przez społeczeństwo, jak i przez prawo.",
-  "poprawna": "Prawda",
-  "bledne": [
-   "Fałsz"
-  ],
-  "wyjasnienie": "Np. łapówka za odstąpienie od mandatu albo za „załatwienie” sprawy.",
-  "zrodlo": "wlasne"
- },
- {
   "id": "d985734335",
   "temat": "7–11. Korupcja",
   "pytanie": "Biuro Spraw Wewnętrznych Policji podlega bezpośrednio Ministrowi właściwemu do spraw wewnętrznych i administracji, z pominięciem Komendanta Głównego Policji.",
@@ -526,17 +482,6 @@
   ],
   "wyjasnienie": "Art. 5b ust. 2 ustawy o Policji: Komendant BSWP jest organem Policji podległym Komendantowi Głównemu Policji. Minister go powołuje i odwołuje (ust. 4).",
   "zrodlo": "test"
- },
- {
-  "id": "0dca31833c",
-  "temat": "7–11. Korupcja",
-  "pytanie": "Biuro Spraw Wewnętrznych Policji rozpoznaje, zapobiega i zwalcza przestępstwa popełniane przez policjantów i pracowników Policji.",
-  "poprawna": "Prawda",
-  "bledne": [
-   "Fałsz"
-  ],
-  "wyjasnienie": "Art. 5b ust. 1 ustawy o Policji. Policjant może zgłosić korupcję m.in. przełożonemu, BSWP lub przez zakładkę „Antykorupcja” na policja.pl.",
-  "zrodlo": "wlasne"
  },
  {
   "id": "831b62f459",
@@ -726,17 +671,6 @@
   "zrodlo": "test"
  },
  {
-  "id": "34b791f0a7",
-  "temat": "13–15. Dyskryminacja i przestępstwa z nienawiści",
-  "pytanie": "Łańcuch dyskryminacji opisuje przejście od stereotypu, przez uprzedzenie, do dyskryminacji, a w skrajnej postaci do przemocy.",
-  "poprawna": "Prawda",
-  "bledne": [
-   "Fałsz"
-  ],
-  "wyjasnienie": "Stereotyp (uproszczone przekonanie) → uprzedzenie (negatywna postawa) → dyskryminacja (zachowanie) → przemoc.",
-  "zrodlo": "wlasne"
- },
- {
   "id": "43654321ae",
   "temat": "13–15. Dyskryminacja i przestępstwa z nienawiści",
   "pytanie": "Nękanie czy zastraszanie pracownika przez kolegów z pracy nie będzie mobbingiem, bo o mobbingu mówimy jedynie, gdy takich czynów dopuszcza się przełożony.",
@@ -768,16 +702,5 @@
   ],
   "wyjasnienie": "Art. 256 § 1 k.k. obejmuje też nawoływanie do nienawiści na tle różnic narodowościowych, etnicznych, rasowych, wyznaniowych.",
   "zrodlo": "test"
- },
- {
-  "id": "04ff4cd619",
-  "temat": "13–15. Dyskryminacja i przestępstwa z nienawiści",
-  "pytanie": "Publiczne znieważenie grupy ludności albo osoby z powodu jej przynależności narodowej, etnicznej, rasowej, wyznaniowej penalizuje art. 257 kk.",
-  "poprawna": "Prawda",
-  "bledne": [
-   "Fałsz"
-  ],
-  "wyjasnienie": "Art. 257 k.k. Przemoc lub groźba bezprawna z takich powodów to art. 119 § 1 k.k.",
-  "zrodlo": "wlasne"
  }
 ]

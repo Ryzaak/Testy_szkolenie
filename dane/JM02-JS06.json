@@ -325,32 +325,6 @@
   "zrodlo": "test"
  },
  {
-  "id": "867b2a3b2a",
-  "temat": "5. Prawa osoby zatrzymanej",
-  "pytanie": "Prawa osoby pozbawionej wolności wynikają z art. 5 Konwencji o ochronie praw człowieka i podstawowych wolności. Zgodnie z nim każdy zatrzymany powinien zostać:",
-  "poprawna": "niezwłocznie poinformowany w zrozumiałym dla niego języku o przyczynach zatrzymania i o stawianych mu zarzutach",
-  "bledne": [
-   "poinformowany o przyczynach zatrzymania dopiero przed sądem",
-   "poinformowany o przyczynach zatrzymania wyłącznie na piśmie, w języku urzędowym państwa",
-   "zwolniony, jeżeli nie przyzna się do zarzucanego czynu"
-  ],
-  "wyjasnienie": "Art. 5 ust. 2 EKPC. Konwencja wymaga też, by zatrzymany był niezwłocznie postawiony przed sędzią (ust. 3) i mógł odwołać się do sądu (ust. 4).",
-  "zrodlo": "wlasne"
- },
- {
-  "id": "4c0a5a4cfb",
-  "temat": "5. Prawa osoby zatrzymanej",
-  "pytanie": "W sprawie Witold Litwa przeciwko Polsce (wyrok z 4 kwietnia 2000 r.) Europejski Trybunał Praw Człowieka stwierdził naruszenie art. 5 ust. 1 Konwencji, ponieważ:",
-  "poprawna": "osobę niewidomą doprowadzono do izby wytrzeźwień, choć nie było to konieczne, a można było zastosować łagodniejsze środki",
-  "bledne": [
-   "policjanci nie zawiadomili rodziny zatrzymanego",
-   "zatrzymanie trwało dłużej niż 48 godzin",
-   "zatrzymanemu nie zapewniono tłumacza"
-  ],
-  "wyjasnienie": "Trybunał uznał, że pozbawienie wolności osoby nietrzeźwej musi być ostatecznością – gdy wystarczą łagodniejsze środki, zatrzymanie jest arbitralne. Odpowiada to art. 15 ust. 3 ustawy o Policji: zatrzymanie tylko wtedy, gdy inne środki okazały się bezcelowe lub nieskuteczne.",
-  "zrodlo": "wlasne"
- },
- {
   "id": "fdacc45835",
   "temat": "6. Czas zatrzymania i czynności podobne",
   "pytanie": "Czas zatrzymania osoby przez Policję liczy się od chwili:",
@@ -507,19 +481,6 @@
   "zrodlo": "test"
  },
  {
-  "id": "fca96c00a1",
-  "temat": "7. Bezpieczeństwo podczas zatrzymania i badania lekarskie",
-  "pytanie": "Decyzję o obecności policjanta w trakcie badania lekarskiego osoby zatrzymanej podejmuje:",
-  "poprawna": "lekarz wykonujący badanie",
-  "bledne": [
-   "policjant konwojujący",
-   "dyżurny jednostki Policji",
-   "osoba zatrzymana"
-  ],
-  "wyjasnienie": "§ 4 ust. 2 rozporządzenia o badaniach lekarskich. Badanie przeprowadza się niezwłocznie, w miarę możliwości przed innymi oczekującymi (§ 4 ust. 1).",
-  "zrodlo": "wlasne"
- },
- {
   "id": "d3572c8eb1",
   "temat": "8. Zatrzymanie ze względu na status prawny",
   "pytanie": "Policjant ma prawo zatrzymać osobę ujętą na gorącym uczynku popełnienia wykroczenia, jeżeli:",
@@ -585,19 +546,6 @@
   "zrodlo": "test"
  },
  {
-  "id": "eae6fc8996",
-  "temat": "8. Zatrzymanie ze względu na status prawny",
-  "pytanie": "Zatrzymanego nieletniego należy natychmiast zwolnić i przekazać rodzicowi, jeżeli Policja nie przekazała sądowi rodzinnemu całości materiałów w ciągu:",
-  "poprawna": "24 godzin od chwili zatrzymania",
-  "bledne": [
-   "48 godzin od chwili zatrzymania",
-   "72 godzin od chwili zatrzymania",
-   "12 godzin od chwili zatrzymania"
-  ],
-  "wyjasnienie": "Art. 48 ust. 9 pkt 3 ustawy o wspieraniu i resocjalizacji nieletnich. Sąd ma potem kolejne 24 godziny na ogłoszenie postanowienia o środku tymczasowym (pkt 4).",
-  "zrodlo": "wlasne"
- },
- {
   "id": "18106310df",
   "temat": "8. Zatrzymanie ze względu na status prawny",
   "pytanie": "Policjant ma prawo zatrzymać cudzoziemca, wobec którego zachodzą okoliczności uzasadniające wydanie decyzji o zobowiązaniu do powrotu, na podstawie:",
@@ -624,58 +572,6 @@
   "zrodlo": "test"
  },
  {
-  "id": "5fb6108b83",
-  "temat": "9–12. Taktyka i czynności policjanta, prawa człowieka",
-  "pytanie": "Jeżeli z posiadanych informacji wynika, że zatrzymywana osoba może mieć broń lub inne niebezpieczne przedmioty, policjant, przystępując do zatrzymania:",
-  "poprawna": "poprzedza je okrzykiem „Policja!”, a następnie dokonuje sprawdzenia prewencyjnego i odbiera broń",
-  "bledne": [
-   "najpierw legitymuje osobę, a dopiero potem sprawdza, czy ma broń",
-   "musi uzyskać zgodę dyżurnego na użycie broni palnej",
-   "odstępuje od zatrzymania do czasu przybycia kontrterrorystów"
-  ],
-  "wyjasnienie": "§ 8 ust. 2 rozporządzenia RM z 8 listopada 2023 r.: okrzyk „Policja!”, sprawdzenie prewencyjne i odebranie broni, czynności z § 2, legitymowanie, poinformowanie o zatrzymaniu i doprowadzenie.",
-  "zrodlo": "wlasne"
- },
- {
-  "id": "18dcfb496f",
-  "temat": "9–12. Taktyka i czynności policjanta, prawa człowieka",
-  "pytanie": "Po doprowadzeniu osoby zatrzymanej do jednostki organizacyjnej Policji policjant m.in.:",
-  "poprawna": "informuje ją o prawach, wysłuchuje, sporządza protokół, doręcza kopię protokołu i zawiadamia prokuratora",
-  "bledne": [
-   "zawiadamia sąd rodzinny i pracodawcę zatrzymanego",
-   "czeka z protokołem na decyzję prokuratora",
-   "zawiadamia rodzinę zatrzymanego, nawet gdy ten tego nie chce"
-  ],
-  "wyjasnienie": "§ 9 ust. 1 rozporządzenia RM z 8 listopada 2023 r. Prokuratora nie zawiadamia się przy zatrzymaniu penitencjarnym z art. 15 ust. 1 pkt 2a (§ 9 ust. 2).",
-  "zrodlo": "wlasne"
- },
- {
-  "id": "107d3b7f5b",
-  "temat": "9–12. Taktyka i czynności policjanta, prawa człowieka",
-  "pytanie": "Zatrzymanie osoby na podstawie ustawy o Policji może być zastosowane:",
-  "poprawna": "tylko wówczas, gdy inne środki okazały się bezcelowe lub nieskuteczne",
-  "bledne": [
-   "zawsze, gdy policjant uzna to za celowe",
-   "wyłącznie za zgodą prokuratora",
-   "tylko wobec osób pełnoletnich"
-  ],
-  "wyjasnienie": "Art. 15 ust. 3 ustawy o Policji – zasada ostateczności. Czynności wykonuje się w sposób możliwie najmniej naruszający dobra osobiste (ust. 6).",
-  "zrodlo": "wlasne"
- },
- {
-  "id": "dea840c470",
-  "temat": "9–12. Taktyka i czynności policjanta, prawa człowieka",
-  "pytanie": "Zgodnie z zasadą równego traktowania policjant podczas zatrzymania nie może różnicować traktowania osoby m.in. ze względu na:",
-  "poprawna": "kolor skóry, pochodzenie etniczne, religię, orientację seksualną lub niepełnosprawność",
-  "bledne": [
-   "status prawny zatrzymania (np. sprawca wykroczenia albo przestępstwa)",
-   "stopień zagrożenia, jaki stwarza zatrzymywany",
-   "to, czy zatrzymywany posiada broń"
-  ],
-  "wyjasnienie": "Poradnik JS06 wymienia obowiązek równego, niedyskryminacyjnego traktowania m.in. bez względu na kolor skóry, pochodzenie, religię, orientację seksualną, tożsamość płciową, niepełnosprawność czy sytuację materialną. Status prawny i zagrożenie wpływają natomiast na tryb i taktykę zatrzymania.",
-  "zrodlo": "wlasne"
- },
- {
   "id": "03bbc10785",
   "temat": "13. Dokumentacja zatrzymania",
   "pytanie": "Z czynności zatrzymania osoby policjant sporządza protokół zatrzymania osoby:",
@@ -687,18 +583,5 @@
   ],
   "wyjasnienie": "§ 9 ust. 1 pkt 3 rozporządzenia RM z 8 listopada 2023 r. (po doprowadzeniu do jednostki). Kopię protokołu doręcza się zatrzymanemu za potwierdzeniem odbioru.",
   "zrodlo": "test"
- },
- {
-  "id": "549521639f",
-  "temat": "13. Dokumentacja zatrzymania",
-  "pytanie": "W protokole zatrzymania, w razie niemożności ustalenia tożsamości osoby zatrzymanej, należy podać:",
-  "poprawna": "jej rysopis",
-  "bledne": [
-   "wyłącznie numer protokołu",
-   "dane osoby, która ją ujęła",
-   "przypuszczalne imię i nazwisko podane przez świadków"
-  ],
-  "wyjasnienie": "Art. 244 § 3 k.p.k. i art. 46 § 2 k.p.w.: imię, nazwisko i funkcję zatrzymującego, dane zatrzymanego, a w razie niemożności ustalenia tożsamości – rysopis, oraz dzień, godzinę, miejsce i przyczynę zatrzymania.",
-  "zrodlo": "wlasne"
  }
 ]
