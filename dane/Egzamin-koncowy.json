@@ -143,6 +143,19 @@
   "zrodlo": "test"
  },
  {
+  "id": "abaea020a4",
+  "temat": "SZPC-1/24 – test końcowy",
+  "pytanie": "Imprezą masową w rozumieniu ustawy o bezpieczeństwie imprez masowych jest impreza:",
+  "poprawna": "Masowa artystyczno-rozrywkowa, masowa impreza sportowa, w tym mecz piłki nożnej",
+  "bledne": [
+   "Masowa artystyczno-rozrywkowa, w tym masowa impreza sportowa",
+   "Masowa artystyczna, impreza rozrywkowa, masowa impreza sportowa, w tym mecz piłki nożnej",
+   "Artystyczno-rozrywkowa, impreza sportowa, w tym mecz piłki nożnej"
+  ],
+  "wyjasnienie": "Art. 3 pkt 1 ustawy o bezpieczeństwie imprez masowych: impreza masowa to masowa impreza artystyczno-rozrywkowa, masowa impreza sportowa, w tym mecz piłki nożnej.",
+  "zrodlo": "test"
+ },
+ {
   "id": "0a509ebc60",
   "temat": "SZPC-1/24 – test końcowy",
   "pytanie": "Po przybyciu na miejsce zdarzenia policjant stwierdził, że istnieje ryzyko naniesienia zanieczyszczeń na miejsce zdarzenia. Co w tej sytuacji powinien zrobić?",
@@ -1053,6 +1066,19 @@
   "zrodlo": "test"
  },
  {
+  "id": "cb0395b8f2",
+  "temat": "SZP Słupsk – 29.04.2025",
+  "pytanie": "Kontrola zachowania osoby wymagającej szczególnego nadzoru umieszczonej w PDOZ wyposażonym w całodobowy monitoring wizyjny, odbywa się przez wizjer drzwi pokoju nie rzadziej niż:",
+  "poprawna": "co 30 minut",
+  "bledne": [
+   "co 60 minut",
+   "co 45 minut",
+   "co 15 minut"
+  ],
+  "wyjasnienie": "§ 12 ust. 3 zarządzenia nr 130 KGP w sprawie metod i form wykonywania zadań w pomieszczeniu dla osób zatrzymanych lub doprowadzonych w celu wytrzeźwienia: przy całodobowym monitoringu kontrola przez wizjer odbywa się nie rzadziej niż co 60 minut, a wobec osoby wymagającej szczególnego nadzoru – nie rzadziej niż co 30 minut (bez monitoringu: 30 i 15 minut).",
+  "zrodlo": "test"
+ },
+ {
   "id": "4e88780247",
   "temat": "SZP Słupsk – 29.04.2025",
   "pytanie": "Zgodnie z art. 41 kw. środkiem oddziaływania wychowawczego jest:",
@@ -1742,6 +1768,32 @@
   "zrodlo": "test"
  },
  {
+  "id": "eadcb921c2",
+  "temat": "SZP-22/25 wersja B – 03.06.2026",
+  "pytanie": "W skład Izby Dziecka może wchodzić:",
+  "poprawna": "izolatka sanitarna przeznaczona dla nieletnich chorych zakaźnie",
+  "bledne": [
+   "siłownia",
+   "pokój do sporządzania posiłków i zmywania naczyń",
+   "szatnia dla nieletnich"
+  ],
+  "wyjasnienie": "rozporządzenia MSWiA w sprawie pomieszczeń przeznaczonych dla osób zatrzymanych lub doprowadzonych w celu wytrzeźwienia, policyjnych izb dziecka (tekst jedn. Dz.U. 2023 poz. 2672): w skład izby dziecka może wchodzić szatnia dla personelu, pokój do czynności z udziałem nieletniego oraz izolatka sanitarna dla nieletnich chorych zakaźnie.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "95eddee554",
+  "temat": "SZP-22/25 wersja B – 03.06.2026",
+  "pytanie": "Policjant w notatniku służbowym dokumentuje w szczególności:",
+  "poprawna": "markę i numer rejestracyjny pojazdu, ewentualnie rodzaj przewożonego ładunku",
+  "bledne": [
+   "wyposażenie obowiązkowe pojazdu",
+   "wyłącznie imię i nazwisko osoby kontrolowanej",
+   "wyłącznie imię i nazwisko osoby kontrolowanej i markę pojazdu"
+  ],
+  "wyjasnienie": "Zasady prowadzenia notatnika służbowego: przy kontroli pojazdu policjant odnotowuje m.in. markę i numer rejestracyjny pojazdu, a w razie potrzeby rodzaj przewożonego ładunku – pozostałe odpowiedzi ograniczają zapis do danych osoby.",
+  "zrodlo": "test"
+ },
+ {
   "id": "6f284c59eb",
   "temat": "SZP-22/25 wersja B – 03.06.2026",
   "pytanie": "Jan W. zawiadomił Komisariat Policji o fakcie zaboru w celu przywłaszczenia roweru o wartości 600 zł. Zdarzenie nosi znamiona:",
@@ -1752,6 +1804,32 @@
    "przestępstwa przywłaszczenia mienia"
   ],
   "wyjasnienie": "Art. 119 § 1 k.w.: kradzież mienia o wartości nieprzekraczającej 800 zł to wykroczenie. Zabór w celu przywłaszczenia to kradzież, a nie przywłaszczenie (przywłaszcza się rzecz, którą już się ma).",
+  "zrodlo": "test"
+ },
+ {
+  "id": "70cd07f64b",
+  "temat": "SZP-22/25 wersja B – 03.06.2026",
+  "pytanie": "Jeżeli przepisy nie stanowią inaczej, w postępowaniu przyspieszonym stosuje się przepisy o postępowaniu:",
+  "poprawna": "zwyczajnym",
+  "bledne": [
+   "przygotowawczym",
+   "dyscyplinarnym",
+   "wyjaśniającym"
+  ],
+  "wyjasnienie": "Art. 89 k.p.w.: w postępowaniu przyspieszonym stosuje się przepisy o postępowaniu zwyczajnym, jeżeli przepisy rozdziału o postępowaniu przyspieszonym nie stanowią inaczej.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "9e91e81817",
+  "temat": "SZP-22/25 wersja B – 03.06.2026",
+  "pytanie": "W przypadku posiadania przez policjanta widocznego tatuażu na innych częściach ciała, którego symbolika, forma lub treść mogą być postrzegane jako godzące w powagę munduru oraz społeczny wizerunek policyjnej formacji, przełożony:",
+  "poprawna": "wydaje policjantowi polecenie zasłonięcia tatuażu, w szczególności elementami umundurowania zgodnymi z obowiązującym zestawem przedmiotów umundurowania",
+  "bledne": [
+   "w każdym przypadku nie dopuszcza policjanta do służby",
+   "wydaje policjantowi polecenie zasłonięcia tatuażu dowolnymi elementami umundurowania",
+   "wydaje policjantowi polecenie zasłonięcia tatuażu w szczególności elastycznym ściągaczem"
+  ],
+  "wyjasnienie": "Regulamin dotyczący wyglądu policjanta (podręcznik dla słuchacza): przy widocznym tatuażu godzącym w powagę munduru przełożony poleca jego zasłonięcie, w szczególności elementami umundurowania zgodnymi z obowiązującym zestawem, a w szczególnie uzasadnionych przypadkach nie dopuszcza do służby. Odmowa to przewinienie dyscyplinarne.",
   "zrodlo": "test"
  },
  {
@@ -2041,19 +2119,6 @@
   "zrodlo": "test"
  },
  {
-  "id": "3602f066b4",
-  "temat": "SZP-22/25 wersja B – 03.06.2026",
-  "pytanie": "Zgodnie z k.p.k. każdy, dowiedziawszy się o popełnieniu przestępstwa ściganego z urzędu, ma społeczny obowiązek zawiadomić o tym prokuratora lub Policję. Jest to:",
-  "poprawna": "prawda i taki obowiązek jest penalizowany w art. 304 k.p.k",
-  "bledne": [
-   "nieprawda, gdyż nie ma obowiązku zawiadamiania organów ścigania",
-   "prawda, gdyż prawny obowiązek zawiadomienia prokuratora lub Policji wynika z art. 304 k.p.k",
-   "zdanie nieprawdziwe, gdyż każdy, kto nie zawiadomi organów ścigania o każdym przestępstwie, popełnia czyn zabroniony pod groźbą kary"
-  ],
-  "wyjasnienie": "Art. 304 § 1 k.p.k. ustanawia SPOŁECZNY obowiązek zawiadomienia o przestępstwie ściganym z urzędu. UWAGA: sam art. 304 nie przewiduje kary – karalne jest tylko niezawiadomienie o najcięższych przestępstwach z art. 240 § 1 k.k.; klucz egzaminu wskazuje jednak tę odpowiedź. Odpowiedź według klucza egzaminu (potwierdzona przez kursanta).",
-  "zrodlo": "test"
- },
- {
   "id": "62c767415f",
   "temat": "SZP-22/25 wersja B – 03.06.2026",
   "pytanie": "Przed rozpoczęciem przesłuchania należy uprzedzić świadka o odpowiedzialności karnej za:",
@@ -2288,6 +2353,19 @@
   "zrodlo": "test"
  },
  {
+  "id": "bc4b548904",
+  "temat": "SZP-22/25 wersja B – 03.06.2026",
+  "pytanie": "Hasło pomocnicze pozwalające na identyfikację nieumundurowanych policjantów przez innych funkcjonariuszy, obowiązujące na terenie kraju w danym miesiącu, wprowadza:",
+  "poprawna": "Komenda Główna Policji",
+  "bledne": [
+   "Ministerstwo Spraw Wewnętrznych i Administracji",
+   "Komenda Stołeczna Policji",
+   "wyznaczona komenda wojewódzka Policji"
+  ],
+  "wyjasnienie": "Hasło pomocnicze do wzajemnej identyfikacji nieumundurowanych policjantów, obowiązujące w całym kraju w danym miesiącu, wprowadza Komenda Główna Policji. UWAGA – niepewne: przepis jest wewnętrzny i nie znalazłem jego treści, odpowiedź według kluczy testów.",
+  "zrodlo": "test"
+ },
+ {
   "id": "7fc3b1d2db",
   "temat": "SZP-22/25 wersja B – 03.06.2026",
   "pytanie": "Hasło i kod „Biały 00” oznacza:",
@@ -2405,6 +2483,32 @@
   "zrodlo": "test"
  },
  {
+  "id": "d429982d84",
+  "temat": "SZP-3/26 wersja B – 19.08.2026",
+  "pytanie": "Pełniąc służbę w pomieszczeniu dla osób zatrzymanych lub doprowadzonych w celu wytrzeźwienia, kontrolowałeś ich zachowanie w poszczególnych pokojach. Umieszczone w nich osoby nie były agresywne. W tym przypadku ich zachowanie jest kontrolowane:",
+  "poprawna": "w odstępach czasu nie przekraczających 30 minut i każdorazowo odnotowywane w książce przebiegu służby",
+  "bledne": [
+   "w odstępach czasu nie przekraczających 15 minut i każdorazowo odnotowane w książce przebiegu służby",
+   "w dowolnym czasie i wpisywane w książce przebiegu służby, jeżeli doszło do wydarzenia nadzwyczajnego",
+   "w dowolnym czasie, a wyniki wpisywane w książce przebiegu służby dopiero w przypadku stwierdzenia uchybień"
+  ],
+  "wyjasnienie": "§ 12 ust. 2 zarządzenia nr 130 KGP w sprawie metod i form wykonywania zadań w pomieszczeniu dla osób zatrzymanych lub doprowadzonych w celu wytrzeźwienia: zachowanie osób umieszczonych w pomieszczeniu kontroluje się przez wizjer nie rzadziej niż co 30 minut (osoby wymagające szczególnego nadzoru – co 15 minut); kontrolę odnotowuje się w książce przebiegu służby.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "b0266e950f",
+  "temat": "SZP-3/26 wersja B – 19.08.2026",
+  "pytanie": "Podstawową dokumentacją sporządzaną podczas czynności wyjaśniających jest:",
+  "poprawna": "notatka urzędowa, protokół, opinia biegłego",
+  "bledne": [
+   "notatka służbowa, protokół, opinia biegłego",
+   "tylko protokół",
+   "tylko notatka urzędowa i opinia biegłego"
+  ],
+  "wyjasnienie": "Art. 54 k.p.w.: czynności wyjaśniające dokumentuje się protokołami (np. przesłuchania), notatką urzędową (§ 3 – gdy okoliczności czynu nie budzą wątpliwości) oraz opinią biegłego, jeśli ją uzyskano. Notatka służbowa nie jest dokumentem procesowym.",
+  "zrodlo": "test"
+ },
+ {
   "id": "3c1164f45e",
   "temat": "SZP-3/26 wersja B – 19.08.2026",
   "pytanie": "W czasie oficjalnego wykonywania hymnu RP policjanci występujący indywidualnie w umundurowaniu z nakryciem głowy przyjmują postawę:",
@@ -2415,6 +2519,19 @@
    "swobodną i salutują"
   ],
   "wyjasnienie": "Ceremoniał policyjny (JM01 JS11): podczas hymnu RP policjant w umundurowaniu z nakryciem głowy przyjmuje postawę zasadniczą i salutuje; bez nakrycia głowy – tylko postawa zasadnicza.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "209177129f",
+  "temat": "SZP-3/26 wersja B – 19.08.2026",
+  "pytanie": "Za bezpieczeństwo imprezy masowej w miejscu i w czasie jej trwania odpowiada:",
+  "poprawna": "organizator",
+  "bledne": [
+   "właściwy terytorialnie wójt, burmistrz, prezydent",
+   "kierownik do spraw bezpieczeństwa",
+   "siły policyjne skierowane do zabezpieczenia imprezy masowej"
+  ],
+  "wyjasnienie": "Art. 5 ust. 1 ustawy o bezpieczeństwie imprez masowych: za bezpieczeństwo imprezy masowej w miejscu i w czasie jej trwania odpowiada jej organizator.",
   "zrodlo": "test"
  },
  {
@@ -2701,6 +2818,19 @@
    "również kombinowanej"
   ],
   "wyjasnienie": "Art. 177 k.k. to przestępstwo nieumyślne (art. 9 § 2 k.k.): skutek – obrażenia lub śmierć – sprawca powoduje nieumyślnie. Samo naruszenie zasad ruchu może być umyślne („chociażby nieumyślnie”), ale nie zmienia to nieumyślnego charakteru całego czynu. UWAGA – niepewne: w niektórych kluczach zaznacza się „umyślnej i nieumyślnej”, mając na myśli naruszenie zasad.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "922e5feb4d",
+  "temat": "SZP-3/26 wersja B – 19.08.2026",
+  "pytanie": "Zgodnie z ustawą z dnia 6 sierpnia 2010 roku o dowodach osobistych, posiadacz dowodu osobistego, którego dowód został utracony lub uszkodzony, zgłasza ten fakt:",
+  "poprawna": "niezwłocznie w organie dowolnej gminy",
+  "bledne": [
+   "w ciągu miesiąca Policji",
+   "niezwłocznie Policji",
+   "w ciągu 30 dni w organie, który dokument ten wydał"
+  ],
+  "wyjasnienie": "Art. 47 ust. 1 ustawy o dowodach osobistych: posiadacz dowodu, który został utracony lub uszkodzony, zgłasza to niezwłocznie w dowolnym organie gminy (za granicą – konsulowi).",
   "zrodlo": "test"
  },
  {
@@ -3000,19 +3130,6 @@
    "C"
   ],
   "wyjasnienie": "JM03 JS07: kody H (H1–H3) w meldunku informacyjnym określają ograniczenia wykorzystania i przekazywania informacji. Litery A, B, C, X oceniają źródło.",
-  "zrodlo": "test"
- },
- {
-  "id": "c27495b677",
-  "temat": "SZP-3/26 wersja B – 19.08.2026",
-  "pytanie": "Kiedy sąd lub prokurator może zarządzić poszukiwanie osoby listem gończym?",
-  "poprawna": "W każdej sprawie o przestępstwo zagrożone karą pozbawienia wolności",
-  "bledne": [
-   "Gdy osoba nie stawiła się na wezwanie Policji",
-   "Gdy miejsce pobytu oskarżonego nie jest znane, a zachodzi potrzeba jego zatrzymania",
-   "Po upływie 30 dni od wydania postanowienia o przedstawieniu zarzutów"
-  ],
-  "wyjasnienie": "UWAGA: według art. 279 § 1 k.p.k. list gończy wydaje się, gdy oskarżony, wobec którego zastosowano tymczasowe aresztowanie, ukrywa się (a areszt można orzec w sprawie o przestępstwo zagrożone karą pozbawienia wolności). Odpowiedź według klucza egzaminu (potwierdzona przez kursanta).",
   "zrodlo": "test"
  },
  {
@@ -3510,6 +3627,19 @@
   "zrodlo": "test"
  },
  {
+  "id": "cc5f868932",
+  "temat": "SZP-6/26 wersja A – 16.09.2026",
+  "pytanie": "Sprawdzenie funkcji życiowych takich jak tętno i oddech, wobec osoby umieszczonej w PDOZ będącej w stanie nietrzeźwości nie dającej wyraźnych oznak życia, odbywa się:",
+  "poprawna": "na bieżąco, nie rzadziej niż co 60 minut",
+  "bledne": [
+   "na bieżąco, nie rzadziej niż co 30 minut",
+   "nie rzadziej niż co 15 minut",
+   "na bieżąco, nie rzadziej niż co 45 minut"
+  ],
+  "wyjasnienie": "§ 12 ust. 1a zarządzenia nr 130 KGP w sprawie metod i form wykonywania zadań w pomieszczeniu dla osób zatrzymanych lub doprowadzonych w celu wytrzeźwienia: funkcje życiowe (tętno, oddech) osoby nietrzeźwej niedającej wyraźnych oznak życia sprawdza się na bieżąco, nie rzadziej niż co 60 minut, wchodząc do pokoju.",
+  "zrodlo": "test"
+ },
+ {
   "id": "8384fd5828",
   "temat": "SZP-6/26 wersja A – 16.09.2026",
   "pytanie": "Pouczenie zgodnie z kodeksem wykroczeń to:",
@@ -3754,6 +3884,19 @@
    "każde doprowadzenie osoby do jednostki Policji"
   ],
   "wyjasnienie": "Zarządzenie nr 360 KGP w sprawie konwojów i doprowadzeń: konwój to zespół czynności związanych z przemieszczeniem osoby konwojowanej albo wartości pieniężnych lub muzealiów. Doprowadzenie jest odrębnym pojęciem.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "f259ebb247",
+  "temat": "Legionowo – 17.11.2026",
+  "pytanie": "Kontrola zachowania osób umieszczonych w PDOZ lub doprowadzonych w celu wytrzeźwienia odbywa się nie rzadziej niż:",
+  "poprawna": "30 minut",
+  "bledne": [
+   "45 minut",
+   "60 minut",
+   "15 minut"
+  ],
+  "wyjasnienie": "§ 12 ust. 2 zarządzenia nr 130 KGP w sprawie metod i form wykonywania zadań w pomieszczeniu dla osób zatrzymanych lub doprowadzonych w celu wytrzeźwienia: kontrola zachowania osób umieszczonych w PDOZ przez wizjer – nie rzadziej niż co 30 minut (szczególny nadzór – co 15 minut).",
   "zrodlo": "test"
  },
  {
@@ -4247,7 +4390,7 @@
    "brak dokumentacji",
    "spisanie daty i godziny"
   ],
-  "wyjasnienie": "Dokumentowanie przeszukania: z przeszukania sporządza się protokół (art. 143 § 1 pkt 6 k.p.k.) zawierający m.in. podstawę, miejsce, czas, przebieg czynności oraz dane osób. Spośród odpowiedzi tylko ta opisuje dokumentację. Odpowiedź według klucza egzaminu (potwierdzona przez kursanta).",
+  "wyjasnienie": "Przeszukanie dokumentuje się protokołem (art. 143 § 1 pkt 6 k.p.k.), który zawiera m.in. przyczynę (podstawę), miejsce, czas, opis przebiegu czynności oraz dane osoby i funkcjonariuszy. Pozostałe odpowiedzi nie opisują dokumentacji.",
   "zrodlo": "test"
  },
  {
