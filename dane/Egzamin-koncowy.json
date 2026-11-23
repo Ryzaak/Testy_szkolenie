@@ -559,6 +559,19 @@
   "zrodlo": "test"
  },
  {
+  "id": "04147e0632",
+  "temat": "SZPC-1/24 – test końcowy",
+  "pytanie": "Sprawę operacyjną należy zakończyć:",
+  "poprawna": "Na polecenie przełożonego",
+  "bledne": [
+   "W trakcie urlopu policjanta prowadzącego",
+   "W każdej chwili",
+   "Na polecenie naczelnika prewencji"
+  ],
+  "wyjasnienie": "Sprawy operacyjne kończy się na polecenie przełożonego – decyzję o zakończeniu podejmuje przełożony prowadzącego (przepisy o pracy operacyjnej są niejawne). Odpowiedź według klucza egzaminu (potwierdzona przez kursanta).",
+  "zrodlo": "test"
+ },
+ {
   "id": "49ced035a1",
   "temat": "SZPC-1/24 – test końcowy",
   "pytanie": "Obserwacja niewymagająca szczególnych kwalifikacji lub specjalistycznego sprzętu, którą mogą prowadzić wszyscy policjanci, to obserwacja:",
@@ -595,6 +608,19 @@
    "Ostrzeżenia o osobach mogących w najbliższym czasie stanowić zagrożenie dla bezpieczeństwa i porządku publicznego"
   ],
   "wyjasnienie": "Żółta – zaginieni, niebieska – miejsce pobytu, zielona – ostrzeżenia, fioletowa – modus operandi.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "0549315a61",
+  "temat": "SZPC-1/24 – test końcowy",
+  "pytanie": "Kreator legitymowania:",
+  "poprawna": "Policjant podaje powód legitymowania, miejsce legitymowania i współrzędne GPS miejsca legitymowania",
+  "bledne": [
+   "Wymaga wskazania kwalifikacji prawnej popełnionego czynu, w związku z którym osoba jest legitymowana",
+   "Wymaga podania podstawy prawnej podjęcia czynności legitymowania",
+   "Nie wymaga wypełniania żadnych pól"
+  ],
+  "wyjasnienie": "Kreator legitymowania (aplikacja na terminalu mobilnym): policjant podaje powód legitymowania, miejsce oraz współrzędne GPS miejsca legitymowania – dane te są potrzebne do udokumentowania czynności (rozporządzenie RM w sprawie legitymowania). Odpowiedź według klucza egzaminu (potwierdzona przez kursanta).",
   "zrodlo": "test"
  },
  {
@@ -1287,19 +1313,6 @@
   "zrodlo": "test"
  },
  {
-  "id": "1876402f3b",
-  "temat": "SZP Słupsk – 29.04.2025",
-  "pytanie": "Użycie kaftana bezpieczeństwa:",
-  "poprawna": "nie może utrudniać oddychania lub tamować obiegu krwi",
-  "bledne": [
-   "może tamować obieg krwi",
-   "może utrudniać oddychanie",
-   "musi być poprzedzone użyciem lub wykorzystaniem paralizatora"
-  ],
-  "wyjasnienie": "Art. 16 ust. 4 ustawy o środkach przymusu bezpośredniego i broni palnej: kaftan bezpieczeństwa i pas obezwładniający nie mogą utrudniać oddychania ani tamować obiegu krwi.",
-  "zrodlo": "test"
- },
- {
   "id": "bbe8019079",
   "temat": "SZP Słupsk – 29.04.2025",
   "pytanie": "Zgodnie z zasadami techniki prawodawczej jednostką redakcyjną ustawy jest:",
@@ -1323,19 +1336,6 @@
    "zakaz prowadzenia pojazdów"
   ],
   "wyjasnienie": "Art. 39 k.k. – środki karne to m.in. pozbawienie praw publicznych, zakazy (zajmowania stanowiska, prowadzenia pojazdów, kontaktu), świadczenie pieniężne, podanie wyroku do publicznej wiadomości. Przepadek przedmiotów jest osobną instytucją (rozdział Va k.k. – przepadek i środki kompensacyjne).",
-  "zrodlo": "test"
- },
- {
-  "id": "6c16cb2539",
-  "temat": "SZP Słupsk – 29.04.2025",
-  "pytanie": "Kto czerpie korzyści majątkowe z uprawiania prostytucji przez inną osobę, wypełnia ustawowe znamiona:",
-  "poprawna": "sutenerstwa",
-  "bledne": [
-   "proponowania czynu nierządnego",
-   "stręczycielstwa",
-   "kuplerstwa"
-  ],
-  "wyjasnienie": "Art. 204 k.k.: nakłanianie do prostytucji lub ułatwianie jej w celu korzyści – stręczycielstwo i kuplerstwo (§ 1); czerpanie korzyści majątkowych z cudzej prostytucji – sutenerstwo (§ 2). Samo uprawianie prostytucji w Polsce nie jest karalne.",
   "zrodlo": "test"
  },
  {
@@ -1404,32 +1404,6 @@
   "zrodlo": "test"
  },
  {
-  "id": "0d4e91da36",
-  "temat": "SZP Słupsk – 29.04.2025",
-  "pytanie": "Każdą stronę protokołu przyjęcia ustnego zawiadomienia o przestępstwie, niezwłocznie po zakończeniu czynności, podpisuje:",
-  "poprawna": "każda osoba biorąca udział w czynności",
-  "bledne": [
-   "przewodniczący rozprawie i protokolant",
-   "wyłącznie osoba składająca zawiadomienie",
-   "jedynie policjant przyjmujący zawiadomienie"
-  ],
-  "wyjasnienie": "Art. 150 § 1 k.p.k.: protokół podpisują wszystkie osoby biorące udział w czynności – każdą stronę i niezwłocznie po zakończeniu czynności. Odmowę lub brak podpisu odnotowuje się w protokole.",
-  "zrodlo": "test"
- },
- {
-  "id": "c4e53b618c",
-  "temat": "SZP Słupsk – 29.04.2025",
-  "pytanie": "W toku postępowania przygotowawczego 14-latka pokrzywdzonego przestępstwem kradzieży w charakterze świadka, może przesłuchać:",
-  "poprawna": "policjant, w miarę możliwości w obecności przedstawiciela ustawowego",
-  "bledne": [
-   "wyłącznie sąd z udziałem biegłego psychologa",
-   "policjant, wyłącznie w obecności przedstawiciela ustawowego",
-   "wyłącznie prokurator"
-  ],
-  "wyjasnienie": "Art. 171 § 3 k.p.k. Sąd z psychologiem przesłuchuje dzieci w sprawach z art. 185a (przemoc, przestępstwa seksualne) – kradzież do nich nie należy.",
-  "zrodlo": "test"
- },
- {
   "id": "976f27d6d8",
   "temat": "SZP Słupsk – 29.04.2025",
   "pytanie": "Policjant jako funkcjonariusz publiczny, powinien:",
@@ -1492,32 +1466,6 @@
    "konia służbowego"
   ],
   "wyjasnienie": "Art. 19 ust. 2 ustawy o ŚPB: wobec osoby skutej kajdankami nie używa się pałki – poza dźwigniami transportowymi wykonywanymi pałką. Osoba skuta nie stanowi już takiego zagrożenia.",
-  "zrodlo": "test"
- },
- {
-  "id": "e51535a75c",
-  "temat": "SZP Słupsk – 29.04.2025",
-  "pytanie": "Zakazem przedmiotowym użycia przedmiotów przeznaczonych do obezwładniania osób za pomocą energii elektrycznej, jest zakaz celowania w:",
-  "poprawna": "głowę",
-  "bledne": [
-   "szyję",
-   "nieumięśnione części ciała",
-   "klatkę piersiową"
-  ],
-  "wyjasnienie": "Art. 25 ust. 4 ustawy o środkach przymusu bezpośredniego i broni palnej: przedmiotem do obezwładniania energią elektryczną nie celuje się w głowę.",
-  "zrodlo": "test"
- },
- {
-  "id": "704211e940",
-  "temat": "SZP Słupsk – 29.04.2025",
-  "pytanie": "Przez wykorzystanie broni palnej należy rozumieć oddanie strzału:",
-  "poprawna": "ostrzegawczego",
-  "bledne": [
-   "kontrolnego",
-   "w kierunku osoby, niestwarzające zagrożenie dla życia i zdrowia",
-   "w kierunku osoby, stwarzające zagrożenia dla jej życia i zdrowia"
-  ],
-  "wyjasnienie": "Art. 4 pkt 10 ustawy o środkach przymusu bezpośredniego i broni palnej: strzał w kierunku zwierzęcia, przedmiotu lub w innym kierunku niestwarzającym zagrożenia dla osoby (np. ostrzegawczy – art. 47 pkt 6).",
   "zrodlo": "test"
  },
  {
@@ -1625,19 +1573,6 @@
   "zrodlo": "test"
  },
  {
-  "id": "468c14ccdb",
-  "temat": "SZP Słupsk – 29.04.2025",
-  "pytanie": "W obrębie budynków lub pomieszczeń zajmowanych przez Policję policjant udziela egzekutorowi, podczas wykonywania przez niego czynności egzekucyjnych:",
-  "poprawna": "asysty",
-  "bledne": [
-   "kontroli",
-   "wsparcia",
-   "pomocy"
-  ],
-  "wyjasnienie": "Art. 50 § 2 ustawy o postępowaniu egzekucyjnym w administracji: w budynkach zajmowanych przez Policję czynności egzekucyjne można wykonywać tylko po zawiadomieniu komendanta i w ASYŚCIE Policji. Asysta zapewnia dostęp do miejsca, porządek i bezpieczeństwo egzekutora (§ 4 rozporządzenia MSWiA z 26 kwietnia 2019 r.). POMOCY udziela się poza takimi budynkami, gdy egzekutor napotka opór (art. 46 u.p.e.a.).",
-  "zrodlo": "test"
- },
- {
   "id": "446ac9e591",
   "temat": "SZP Słupsk – 29.04.2025",
   "pytanie": "Z badania przeprowadzonego analizatorem wydechu sporządza się protokół, jeżeli:",
@@ -1700,19 +1635,6 @@
    "Nie"
   ],
   "wyjasnienie": "§ 3 ust. 3 zarządzenia nr 70 KGP z 2 grudnia 2019 r. w sprawie KSIP: w KSIP przetwarza się również informacje stanowiące dane statystyczne o przestępstwach, zamachach samobójczych i wypadkach tonięcia (na podstawie przepisów o statystyce publicznej).",
-  "zrodlo": "test"
- },
- {
-  "id": "3997c7fb08",
-  "temat": "SZP Słupsk – 29.04.2025",
-  "pytanie": "Przeprowadzenie wywiadu środowiskowego jest obowiązkowe w sprawach:",
-  "poprawna": "zbrodnie",
-  "bledne": [
-   "czyny karalne",
-   "występki",
-   "wykroczenia"
-  ],
-  "wyjasnienie": "Art. 214 § 2 k.p.k.: wywiad środowiskowy jest obowiązkowy w sprawach o zbrodnie oraz o występki, gdy oskarżony w chwili czynu nie ukończył 21 lat.",
   "zrodlo": "test"
  },
  {
@@ -1781,19 +1703,6 @@
   "zrodlo": "test"
  },
  {
-  "id": "08f4f82faf",
-  "temat": "SZP Słupsk – 29.04.2025",
-  "pytanie": "Obserwacja nie wymagająca szczególnych kwalifikacji lub specjalistycznego sprzętu, którą mogą prowadzić wszyscy policjanci, to obserwacja:",
-  "poprawna": "doraźna",
-  "bledne": [
-   "planowa",
-   "przypadkowa",
-   "prewencyjna"
-  ],
-  "wyjasnienie": "JM03 JS08: obserwacja doraźna to nieplanowane obserwowanie osoby lub miejsca przez każdego policjanta, bez specjalnego sprzętu i kwalifikacji – np. patrol obserwujący podejrzanego. Planową prowadzą wyspecjalizowane komórki.",
-  "zrodlo": "test"
- },
- {
   "id": "e015a7c016",
   "temat": "SZP Słupsk – 29.04.2025",
   "pytanie": "Interpol to:",
@@ -1817,6 +1726,19 @@
    "miejsca interwencji oraz danych: imię i nazwisko osoby legitymowanej"
   ],
   "wyjasnienie": "Zarządzenia nr 70 KGP z 2 grudnia 2019 r. w sprawie KSIP: „Dla sprawdzenia przez SPP wymagane jest wskazanie celu sprawdzenia, znaku lub numeru sprawy oraz określenie kryteriów sprawdzenia” – każde sprawdzenie musi być uzasadnione i rozliczalne.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "7e5efbf053",
+  "temat": "SZP-22/25 wersja B – 03.06.2026",
+  "pytanie": "Plan wzmocnienia konwoju jest dokumentem:",
+  "poprawna": "niejawnym",
+  "bledne": [
+   "specjalnym",
+   "poufnym",
+   "tajnym"
+  ],
+  "wyjasnienie": "Plan wzmocnienia konwoju wartości pieniężnych lub muzealiów (§ 41 zarządzenia nr 360 KGP) zawiera m.in. trasę, siły i sposób ochrony – jest dokumentem niejawnym; dowódca wzmocnienia ma go przy sobie przez cały konwój. Odpowiedź według klucza egzaminu (potwierdzona przez kursanta).",
   "zrodlo": "test"
  },
  {
@@ -2028,6 +1950,19 @@
   "zrodlo": "test"
  },
  {
+  "id": "b427c1b290",
+  "temat": "SZP-22/25 wersja B – 03.06.2026",
+  "pytanie": "W sytuacji, gdy w zatrzymanym pojeździe znajduje się osoba podejrzewana o popełnienie przestępstwa przeciwko wolności człowieka, która nie wykonuje poleceń policjanta, a jej zachowanie stanowi zagrożenie, policjant powinien:",
+  "poprawna": "rozbić szybę pojazdu w celu natychmiastowego obezwładnienia osoby",
+  "bledne": [
+   "zaniechać czynności i odstąpić od zatrzymania osoby",
+   "kontynuować negocjacje z osobą bez podejmowania innych działań",
+   "natychmiast użyć broni palnej"
+  ],
+  "wyjasnienie": "JM05 JS05 – zatrzymanie osoby w pojeździe: gdy osoba podejrzana o przestępstwo przeciwko wolności nie wykonuje poleceń i stwarza zagrożenie, policjant może rozbić szybę, by natychmiast ją obezwładnić (wykorzystanie ŚPB do pokonania przeszkody). Odpowiedź według klucza egzaminu (potwierdzona przez kursanta).",
+  "zrodlo": "test"
+ },
+ {
   "id": "85e75ae9b1",
   "temat": "SZP-22/25 wersja B – 03.06.2026",
   "pytanie": "Co jako pierwsze poleca policjant kierowcy zatrzymanego pojazdu, gdy jest on podejrzewany o popełnienie przestępstwa?",
@@ -2093,19 +2028,6 @@
   "zrodlo": "test"
  },
  {
-  "id": "1053165473",
-  "temat": "SZP-22/25 wersja B – 03.06.2026",
-  "pytanie": "Po przybyciu na miejsce zdarzenia policjant stwierdził, że istnieje ryzyko naniesienia zanieczyszczeń na miejsce zdarzenia. Co w tej sytuacji powinien zrobić?",
-  "poprawna": "nie dopuścić do dalszego naniesienia zanieczyszczeń",
-  "bledne": [
-   "niezwłocznie powiadomić o tym fakcie dyżurnego",
-   "przerwać akcję ratowniczą i zabezpieczyć ślad",
-   "szczegółowo udokumentować źródło zanieczyszczeń"
-  ],
-  "wyjasnienie": "JS05: zabezpieczenie miejsca zdarzenia przed zmianą śladów. Akcji ratowniczej się nie przerywa.",
-  "zrodlo": "test"
- },
- {
   "id": "6b20552d40",
   "temat": "SZP-22/25 wersja B – 03.06.2026",
   "pytanie": "Oględzin lub badań ciała, które mogą wywołać uczucie wstydu, powinna dokonać osoba:",
@@ -2116,6 +2038,19 @@
    "zawsze tej samej płci, bez żadnych wyjątków"
   ],
   "wyjasnienie": "Art. 208 k.p.k.: oględzin i badań ciała, które mogą wywołać uczucie wstydu, dokonuje osoba tej samej płci, chyba że łączy się z tym szczególne trudności (np. brak takiej osoby, a czynność jest pilna); wtedy wybiera się lekarza.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "3602f066b4",
+  "temat": "SZP-22/25 wersja B – 03.06.2026",
+  "pytanie": "Zgodnie z k.p.k. każdy, dowiedziawszy się o popełnieniu przestępstwa ściganego z urzędu, ma społeczny obowiązek zawiadomić o tym prokuratora lub Policję. Jest to:",
+  "poprawna": "prawda i taki obowiązek jest penalizowany w art. 304 k.p.k",
+  "bledne": [
+   "nieprawda, gdyż nie ma obowiązku zawiadamiania organów ścigania",
+   "prawda, gdyż prawny obowiązek zawiadomienia prokuratora lub Policji wynika z art. 304 k.p.k",
+   "zdanie nieprawdziwe, gdyż każdy, kto nie zawiadomi organów ścigania o każdym przestępstwie, popełnia czyn zabroniony pod groźbą kary"
+  ],
+  "wyjasnienie": "Art. 304 § 1 k.p.k. ustanawia SPOŁECZNY obowiązek zawiadomienia o przestępstwie ściganym z urzędu. UWAGA: sam art. 304 nie przewiduje kary – karalne jest tylko niezawiadomienie o najcięższych przestępstwach z art. 240 § 1 k.k.; klucz egzaminu wskazuje jednak tę odpowiedź. Odpowiedź według klucza egzaminu (potwierdzona przez kursanta).",
   "zrodlo": "test"
  },
  {
@@ -2142,19 +2077,6 @@
    "w 1945 roku w Nowym Jorku"
   ],
   "wyjasnienie": "Powszechną Deklarację Praw Człowieka uchwaliło Zgromadzenie Ogólne ONZ 10 grudnia 1948 r. w Paryżu (stąd 10 grudnia – Dzień Praw Człowieka). Nie jest umową międzynarodową, ale stała się wzorcem dla późniejszych paktów.",
-  "zrodlo": "test"
- },
- {
-  "id": "082f826531",
-  "temat": "SZP-22/25 wersja B – 03.06.2026",
-  "pytanie": "Prasa, zgodnie z Konstytucją Rzeczypospolitej Polskiej, korzysta z:",
-  "poprawna": "wolności wypowiedzi i urzeczywistnia prawo obywateli do ich rzetelnego informowania, jawności życia publicznego oraz kontroli i krytyki społecznej",
-  "bledne": [
-   "ograniczonej wolności słowa",
-   "ograniczonej wolności myśli",
-   "wolności wypowiedzi nieuderzającej w rząd i wartości katolickie oraz urzeczywistnia prawo obywateli do rzetelnego budowania ich światopoglądu"
-  ],
-  "wyjasnienie": "Art. 14 Konstytucji RP gwarantuje wolność prasy, a art. 1 Prawa prasowego stanowi, że prasa korzysta z wolności wypowiedzi i urzeczywistnia prawo obywateli do rzetelnego informowania, jawności życia publicznego oraz kontroli i krytyki społecznej.",
   "zrodlo": "test"
  },
  {
@@ -2197,16 +2119,16 @@
   "zrodlo": "test"
  },
  {
-  "id": "b03ad2cd46",
+  "id": "bb98ba936a",
   "temat": "SZP-22/25 wersja B – 03.06.2026",
-  "pytanie": "Kask zabezpieczający można użyć w przypadku:",
-  "poprawna": "przeciwdziałania czynnościom zmierzającym do autoagresji",
+  "pytanie": "O utracie broni palnej lub amunicji policjant niezwłocznie informuje dyżurnego:",
+  "poprawna": "najbliższej jednostki Policji, w rejonie której nastąpiła utrata",
   "bledne": [
-   "pokonania czynnego oporu",
-   "ujęcia osoby i udaremnienia jej ucieczki",
-   "zatrzymania osoby wyłącznie dlatego, że odmawia podania danych"
+   "Komendy Wojewódzkiej/Stołecznej Policji",
+   "jednostki Policji, w której pełni służbę",
+   "Komendy Głównej Policji"
   ],
-  "wyjasnienie": "Art. 17 ustawy o ŚPB: kask zabezpieczający stosuje się, by przeciwdziałać autoagresji (samookaleczeniu, uderzaniu głową) osoby obezwładnionej.",
+  "wyjasnienie": "JM02 JS04 – utrata broni: policjant niezwłocznie informuje dyżurnego najbliższej jednostki Policji, w rejonie której nastąpiła utrata, żeby od razu podjąć poszukiwania; potem informuje przełożonego. Odpowiedź według klucza egzaminu (potwierdzona przez kursanta).",
   "zrodlo": "test"
  },
  {
@@ -2444,19 +2366,6 @@
   "zrodlo": "test"
  },
  {
-  "id": "60c1e149ab",
-  "temat": "SZP-22/25 wersja B – 03.06.2026",
-  "pytanie": "Sporządzając meldunek informacyjny policjant określa ograniczenie sposobu wykorzystania informacji, wpisując kody ochrony:",
-  "poprawna": "H",
-  "bledne": [
-   "X",
-   "A",
-   "B"
-  ],
-  "wyjasnienie": "JM03 JS07: kody H (H1, H2, H3) ograniczają sposób wykorzystania i przekazywania informacji z meldunku (np. zakaz przekazania poza Policję), chroniąc źródło.",
-  "zrodlo": "test"
- },
- {
   "id": "85de97ee35",
   "temat": "SZP-22/25 wersja B – 03.06.2026",
   "pytanie": "Obserwacja może być prowadzona w sposób:",
@@ -2483,16 +2392,16 @@
   "zrodlo": "test"
  },
  {
-  "id": "a18d8e592b",
+  "id": "608f4008a3",
   "temat": "SZP-3/26 wersja B – 19.08.2026",
-  "pytanie": "Aplikacja funkcjonująca na terminalach mobilnych, zapewniająca dostęp do systemów teleinformatycznych KSIP to aplikacja:",
-  "poprawna": "Klient Mobilny SWD Policji",
+  "pytanie": "W przypadku wykonywania konwoju koleją konwojenci po wejściu do przedziału zajmują:",
+  "poprawna": "miejsca przy oknie i drzwiach, natomiast osoby konwojowane umieszcza się pośrodku, w miarę możliwości tyłem do kierunku jazdy",
   "bledne": [
-   "SPP",
-   "MSG",
-   "System Poszukiwawczy Policji"
+   "miejsca po lewej stronie, natomiast osoby konwojowane umieszcza się po prawej przodem do kierunku jazdy",
+   "miejsca przy drzwiach, natomiast osoby konwojowane umieszcza się przy oknie, tyłem do kierunku jazdy",
+   "dowolne miejsca w przedziale, natomiast osoby konwojowane umieszcza się w miarę możliwości przy wyjściu"
   ],
-  "wyjasnienie": "§ 2 zarządzenia nr 70 KGP z 2 grudnia 2019 r. w sprawie KSIP: aplikacja Klient Mobilny SWD Policji funkcjonuje na terminalach mobilnych i zapewnia dostęp do KSIP za pośrednictwem SPP (informacje o osobach i rzeczach, także o naruszeniach przepisów ruchu drogowego). Aplikacja SPP działa na stanowiskach w jednostkach, podłączonych do Policyjnej Sieci Transmisji Danych.",
+  "wyjasnienie": "Zarządzenie nr 360 KGP – konwój koleją: konwojenci zajmują miejsca przy oknie i drzwiach, a osoby konwojowane umieszcza się pośrodku, w miarę możliwości tyłem do kierunku jazdy – utrudnia to ucieczkę i kontakt z osobami postronnymi. Odpowiedź według klucza egzaminu (potwierdzona przez kursanta).",
   "zrodlo": "test"
  },
  {
@@ -2506,19 +2415,6 @@
    "swobodną i salutują"
   ],
   "wyjasnienie": "Ceremoniał policyjny (JM01 JS11): podczas hymnu RP policjant w umundurowaniu z nakryciem głowy przyjmuje postawę zasadniczą i salutuje; bez nakrycia głowy – tylko postawa zasadnicza.",
-  "zrodlo": "test"
- },
- {
-  "id": "1cd6018849",
-  "temat": "SZP-3/26 wersja B – 19.08.2026",
-  "pytanie": "W przypadku zagrożenia wystąpieniem zdarzenia o charakterze terrorystycznym można wprowadzić jeden z ilu stopni alarmowych?",
-  "poprawna": "Czterech",
-  "bledne": [
-   "Pięciu",
-   "Trzech",
-   "Dwóch"
-  ],
-  "wyjasnienie": "Art. 15 ustawy o działaniach antyterrorystycznych: cztery stopnie alarmowe – ALFA, BRAVO, CHARLIE, DELTA (i odpowiednio cztery stopnie CRP dla zagrożeń w cyberprzestrzeni). Wprowadza je Prezes RM, w pilnych sprawach minister właściwy do spraw wewnętrznych.",
   "zrodlo": "test"
  },
  {
@@ -2795,19 +2691,6 @@
   "zrodlo": "test"
  },
  {
-  "id": "d586c49d2c",
-  "temat": "SZP-3/26 wersja B – 19.08.2026",
-  "pytanie": "Przestępstwo groźby karalnej, określone w art. 190 § 1 k.k., ścigane jest:",
-  "poprawna": "na wniosek pokrzywdzonego",
-  "bledne": [
-   "na żądanie pokrzywdzonego",
-   "na wniosek poszkodowanego",
-   "z oskarżenia prywatnego"
-  ],
-  "wyjasnienie": "Art. 190 § 2 k.k.: ściganie groźby karalnej następuje na wniosek pokrzywdzonego. Po złożeniu wniosku postępowanie toczy się z urzędu (art. 12 k.p.k.).",
-  "zrodlo": "test"
- },
- {
   "id": "55e6df1117",
   "temat": "SZP-3/26 wersja B – 19.08.2026",
   "pytanie": "Przestępstwo wypadku komunikacyjnego, określone w art. 177 k.k., można popełnić z winy:",
@@ -2818,45 +2701,6 @@
    "również kombinowanej"
   ],
   "wyjasnienie": "Art. 177 k.k. to przestępstwo nieumyślne (art. 9 § 2 k.k.): skutek – obrażenia lub śmierć – sprawca powoduje nieumyślnie. Samo naruszenie zasad ruchu może być umyślne („chociażby nieumyślnie”), ale nie zmienia to nieumyślnego charakteru całego czynu. UWAGA – niepewne: w niektórych kluczach zaznacza się „umyślnej i nieumyślnej”, mając na myśli naruszenie zasad.",
-  "zrodlo": "test"
- },
- {
-  "id": "0e92e98968",
-  "temat": "SZP-3/26 wersja B – 19.08.2026",
-  "pytanie": "Najważniejszą czynnością policjanta zabezpieczającego miejsce wypadku drogowego jest:",
-  "poprawna": "udzielenie pierwszej pomocy ofiarom zdarzenia",
-  "bledne": [
-   "podjęcie pościgu i zatrzymanie sprawcy",
-   "ustalenie danych personalnych uczestników zdarzenia",
-   "poddanie ochronie widocznych śladów kryminalistycznych"
-  ],
-  "wyjasnienie": "Zasada nadrzędna (art. 162 k.k., art. 36 ustawy o ŚPB, JM01 JS05): ratowanie życia i zdrowia ma pierwszeństwo przed ochroną śladów i ustaleniem sprawcy. Ślady zabezpiecza się tak, by nie utrudniać pomocy.",
-  "zrodlo": "test"
- },
- {
-  "id": "a903371680",
-  "temat": "SZP-3/26 wersja B – 19.08.2026",
-  "pytanie": "Oględziny miejsca, osoby lub rzeczy są czynnością procesową:",
-  "poprawna": "którą wykonuje się w razie potrzeby",
-  "bledne": [
-   "opisaną w art. 209 k.p.k",
-   "obowiązkową w każdym przypadku",
-   "z której jedyny zapis to notatka urzędowa"
-  ],
-  "wyjasnienie": "Art. 207 § 1 k.p.k.: oględziny miejsca, osoby lub rzeczy przeprowadza się „w razie potrzeby”, a nie obowiązkowo w każdej sprawie. Z oględzin sporządza się protokół (art. 143 § 1 pkt 3), a nie notatkę.",
-  "zrodlo": "test"
- },
- {
-  "id": "2df43d8a26",
-  "temat": "SZP-3/26 wersja B – 19.08.2026",
-  "pytanie": "Każdą stronę protokołu przyjęcia ustnego zawiadomienia o przestępstwie, niezwłocznie po zakończeniu czynności, podpisuje:",
-  "poprawna": "każda osoba biorąca udział w czynności",
-  "bledne": [
-   "jedynie policjant przyjmujący zawiadomienie",
-   "wyłącznie osoba składająca zawiadomienie",
-   "przewodniczący rozprawie i protokolant"
-  ],
-  "wyjasnienie": "Art. 150 § 1 k.p.k.: protokół podpisują wszystkie osoby biorące udział w czynności – każdą stronę i niezwłocznie po zakończeniu czynności. Odmowę lub brak podpisu odnotowuje się w protokole.",
   "zrodlo": "test"
  },
  {
@@ -3159,6 +3003,19 @@
   "zrodlo": "test"
  },
  {
+  "id": "c27495b677",
+  "temat": "SZP-3/26 wersja B – 19.08.2026",
+  "pytanie": "Kiedy sąd lub prokurator może zarządzić poszukiwanie osoby listem gończym?",
+  "poprawna": "W każdej sprawie o przestępstwo zagrożone karą pozbawienia wolności",
+  "bledne": [
+   "Gdy osoba nie stawiła się na wezwanie Policji",
+   "Gdy miejsce pobytu oskarżonego nie jest znane, a zachodzi potrzeba jego zatrzymania",
+   "Po upływie 30 dni od wydania postanowienia o przedstawieniu zarzutów"
+  ],
+  "wyjasnienie": "UWAGA: według art. 279 § 1 k.p.k. list gończy wydaje się, gdy oskarżony, wobec którego zastosowano tymczasowe aresztowanie, ukrywa się (a areszt można orzec w sprawie o przestępstwo zagrożone karą pozbawienia wolności). Odpowiedź według klucza egzaminu (potwierdzona przez kursanta).",
+  "zrodlo": "test"
+ },
+ {
   "id": "e218d6ea3b",
   "temat": "SZP-3/26 wersja B – 19.08.2026",
   "pytanie": "Zawiadomienia o zaginięciu osoby nie przyjmuje się:",
@@ -3169,19 +3026,6 @@
    "gdy zaginięcie miało miejsce na terenie innego województwa"
   ],
   "wyjasnienie": "§ 3 ust. 3 zarządzenia nr 48 KGP z 28 czerwca 2018 r. w sprawie poszukiwania osoby zaginionej: odstępuje się od przyjęcia zawiadomienia o zaginięciu osoby po upływie 5 lat od daty jej zaginięcia. Odstępuje się też np. gdy osoba jest już zarejestrowana jako zaginiona przez inną jednostkę albo gdy mogła zostać uprowadzona dla okupu (wtedy działa służba śledcza).",
-  "zrodlo": "test"
- },
- {
-  "id": "f3698ccc24",
-  "temat": "SZP-3/26 wersja B – 19.08.2026",
-  "pytanie": "Jeżeli podczas wykonywania czynności służbowych (legitymowania) wystąpią trudności w ustaleniu danych personalnych danej osoby, to należy wdrożyć czynności:",
-  "poprawna": "identyfikacyjne",
-  "bledne": [
-   "sprawdzające",
-   "ustalające",
-   "porównawcze"
-  ],
-  "wyjasnienie": "§ 41 ust. 1 zarządzenia nr 48 KGP w sprawie poszukiwania osoby zaginionej: gdy nie da się ustalić danych osoby lub zataja ona tożsamość (także w wyniku choroby), podejmuje się czynności identyfikacyjne.",
   "zrodlo": "test"
  },
  {
@@ -3419,19 +3263,6 @@
   "zrodlo": "test"
  },
  {
-  "id": "aab027c961",
-  "temat": "SZP-6/26 wersja A – 16.09.2026",
-  "pytanie": "Zakaz podmiotowy użycia środków przymusu bezpośredniego obejmuje osoby:",
-  "poprawna": "których wygląd wskazuje na wiek do 13 roku życia",
-  "bledne": [
-   "pod wpływem alkoholu",
-   "z zaburzeniami psychicznymi",
-   "pod wpływem środków psychoaktywnych"
-  ],
-  "wyjasnienie": "Art. 9 ust. 1 ustawy o środkach przymusu bezpośredniego i broni palnej – także kobiety w widocznej ciąży i osoby o widocznej niepełnosprawności: tylko siła fizyczna w postaci technik obezwładnienia.",
-  "zrodlo": "test"
- },
- {
   "id": "df84e5ed51",
   "temat": "SZP-6/26 wersja A – 16.09.2026",
   "pytanie": "W przypadku blokowania drogi oznakowanym pojazdem służbowym:",
@@ -3468,19 +3299,6 @@
    "podczas czyszczenia broni palnej"
   ],
   "wyjasnienie": "JM02 JS04, pkt 19: uraz psychiczny po strzelaninie dotyczy osób bezpośrednio uczestniczących w zdarzeniu – także gdy postrzelony zostaje sprawca. Obejrzenie relacji lub czynności rutynowe (czyszczenie broni) nie są zdarzeniem traumatycznym.",
-  "zrodlo": "test"
- },
- {
-  "id": "b37d241d5c",
-  "temat": "SZP-6/26 wersja A – 16.09.2026",
-  "pytanie": "Powierzchnia dłoni u dorosłego to:",
-  "poprawna": "1% powierzchni całkowitej ciała",
-  "bledne": [
-   "5% powierzchni całkowitej ciała",
-   "1,5% powierzchni całkowitej ciała",
-   "2% powierzchni całkowitej ciała"
-  ],
-  "wyjasnienie": "Reguła dłoni: powierzchnia dłoni poszkodowanego (z palcami) to ok. 1% powierzchni jego ciała – służy do szacowania rozległości oparzeń.",
   "zrodlo": "test"
  },
  {
@@ -3549,19 +3367,6 @@
   "zrodlo": "test"
  },
  {
-  "id": "ccd6e3f63b",
-  "temat": "SZP-6/26 wersja A – 16.09.2026",
-  "pytanie": "Celem podmiotowym przeszukania NIE jest:",
-  "poprawna": "przymusowe doprowadzenie świadka",
-  "bledne": [
-   "wykrycie osoby podejrzanej",
-   "zatrzymanie osoby podejrzanej",
-   "przymusowe doprowadzenie osoby podejrzanej"
-  ],
-  "wyjasnienie": "Art. 219 § 1 k.p.k.: przeszukanie służy wykryciu, zatrzymaniu lub przymusowemu doprowadzeniu osoby PODEJRZANEJ. Doprowadzenie świadka nie jest celem przeszukania.",
-  "zrodlo": "test"
- },
- {
   "id": "eb037ab3cd",
   "temat": "SZP-6/26 wersja A – 16.09.2026",
   "pytanie": "Która z poniższych kategorii praw człowieka zaliczana jest do pierwszej generacji praw człowieka i jest obecnie najsilniej chroniona w prawie międzynarodowym?",
@@ -3585,32 +3390,6 @@
    "pewnie wkroczyć do wnętrza pomieszczenia, nie zważając na niebezpieczeństwo"
   ],
   "wyjasnienie": "Bezpieczeństwo interwencji (JM02 JS10, JM05 JS05): w miejscach o ograniczonej widoczności (klatki schodowe, piwnice) i przy wejściu do pomieszczeń zachowuje się szczególną ostrożność, ubezpieczenie partnera i gotowość do odparcia zamachu.",
-  "zrodlo": "test"
- },
- {
-  "id": "60b4587a52",
-  "temat": "SZP-6/26 wersja A – 16.09.2026",
-  "pytanie": "Podczas interwencji związanej z przemocą domową policjanci mają prawo do zatrzymania wskazanego sprawcy, gdy:",
-  "poprawna": "stwarza zagrożenie dla życia i zdrowia domowników",
-  "bledne": [
-   "prosi o to najbliższa rodzina",
-   "sprawca znajduje się pod wpływem alkoholu",
-   "policjanci podejmują kolejną interwencję w tej rodzinie"
-  ],
-  "wyjasnienie": "Art. 15a ustawy o Policji: policjant może zatrzymać osobę stosującą przemoc domową, która stwarza bezpośrednie zagrożenie dla życia lub zdrowia ludzkiego. Prośba rodziny czy nietrzeźwość nie są samodzielną podstawą.",
-  "zrodlo": "test"
- },
- {
-  "id": "79f3bee2a9",
-  "temat": "SZP-6/26 wersja A – 16.09.2026",
-  "pytanie": "Policjanci podejmujący pościg powinni:",
-  "poprawna": "poinformować dyżurnego o podjęciu pościgu, jego przyczynie, kierunku ucieczki i rysopisie sprawcy",
-  "bledne": [
-   "informować dyżurnego tylko w przypadku zatrzymania lub ostatecznej utraty kontaktu z zatrzymanym",
-   "nawiązać kontakt z bezpośrednim przełożonym",
-   "nawiązać łączność z dyżurnym, w celu uzyskania jego zgody na podjęcie pościgu"
-  ],
-  "wyjasnienie": "§ 6 zarządzenia nr 45 KGP w sprawie pościgu: podejmując pościg, policjant niezwłocznie informuje dyżurnego o jego podjęciu, przyczynie, kierunku ucieczki i rysopisie sprawcy (opisie pojazdu). Nie musi czekać na zgodę.",
   "zrodlo": "test"
  },
  {
@@ -3676,32 +3455,6 @@
    "ustalić czas i okoliczności zgonu N.N. osoby"
   ],
   "wyjasnienie": "JM03 JS05: pierwsi policjanci na miejscu zabezpieczają miejsce znalezienia zwłok przed zmianą i dostępem osób postronnych. Przyczynę i czas zgonu ustala biegły lekarz podczas oględzin.",
-  "zrodlo": "test"
- },
- {
-  "id": "4d1990fed6",
-  "temat": "SZP-6/26 wersja A – 16.09.2026",
-  "pytanie": "W przypadku rejestracji rzeczy będących przedmiotem czynności operacyjno-rozpoznawczych, dochodzeniowo-śledczych lub administracyjno-porządkowych w sprawie o przestępstwo lub wykroczenie rejestruje się z oznaczeniem powodu:",
-  "poprawna": "„w zainteresowaniu”",
-  "bledne": [
-   "„utracono”",
-   "„zabezpieczono”",
-   "„ujawniono”"
-  ],
-  "wyjasnienie": "§ 35 ust. 5 zarządzenia nr 70 KGP w sprawie KSIP: powody rejestracji rzeczy to „UTRACONO”, „W ZAINTERESOWANIU” i „ZABEZPIECZONO”; przedmiot czynności Policji rejestruje się jako „W ZAINTERESOWANIU”.",
-  "zrodlo": "test"
- },
- {
-  "id": "a6438d6a55",
-  "temat": "SZP-6/26 wersja A – 16.09.2026",
-  "pytanie": "Obowiązek przekazywania informacji, które mogą być przydatne dla realizacji ustawowych zadań Policji mają:",
-  "poprawna": "wszyscy policjanci",
-  "bledne": [
-   "tylko policjanci w służbie stałej",
-   "tylko policjanci prowadzący pracę operacyjną",
-   "tylko policjanci po ukończeniu szkolenia specjalistycznego z zakresu pracy operacyjnej"
-  ],
-  "wyjasnienie": "JM03 JS07: obowiązek przekazywania informacji przydatnych dla Policji spoczywa na każdym policjancie, nie tylko na pionie kryminalnym – informacja z rozmowy na patrolu może pomóc w wykryciu sprawcy.",
   "zrodlo": "test"
  },
  {
@@ -3874,58 +3627,6 @@
   "zrodlo": "test"
  },
  {
-  "id": "2ebc5b04a4",
-  "temat": "SZP-6/26 wersja A – 16.09.2026",
-  "pytanie": "Prowadząc ogień z broni krótkiej zza rogu budynku sierż. Jan Nowak schował się, wymienił magazynek, zwolnił zamek i zszedł do postawy klęczącej. Jego zachowanie było:",
-  "poprawna": "właściwe, ponieważ wykonał wszystkie czynności zgodnie z zasadami taktyki",
-  "bledne": [
-   "właściwe, ponieważ podczas prowadzenia ognia mógł odczuwać zmęczenie",
-   "niewłaściwe, ponieważ szybka zmiana postawy z wysokiej na niską ma wpływ na bezpieczeństwo osobiste policjanta",
-   "niewłaściwe, ponieważ najpierw powinien zmienić postawę na niską a później dokonać awaryjnej wymiany magazynka"
-  ],
-  "wyjasnienie": "JM04 – strzelania z wykorzystaniem osłon: magazynek wymienia się za osłoną, a przed ponownym wychyleniem zmienia się postawę (np. na klęczącą), żeby pojawić się zza rogu na innej wysokości niż wcześniej – przeciwnik celuje tam, gdzie widział policjanta. UWAGA – niepewne: odpowiedź według karty odpowiedzi egzaminu SZP-6/26, przepisy nie opisują tej sytuacji wprost.",
-  "zrodlo": "test"
- },
- {
-  "id": "ed9ef5efa3",
-  "temat": "SZP-6/26 wersja A – 16.09.2026",
-  "pytanie": "Wymiana taktyczna magazynka polega na:",
-  "poprawna": "wymianie magazynka, gdy nabój znajduje się w komorze nabojowej",
-  "bledne": [
-   "usunięciu niesprawności broni",
-   "wymianie magazynka gdy skończy nam się amunicja",
-   "wypięciu magazynka, przeładowanie broni w celu usunięcia zacięcia, ponownym podpięciu magazynka"
-  ],
-  "wyjasnienie": "JM04 JS01: wymiana taktyczna – nabój jest jeszcze w komorze, a magazynek wymienia się na pełny w przerwie w walce. Wymiana awaryjna – gdy skończyła się amunicja i zamek zatrzymał się w tylnym położeniu.",
-  "zrodlo": "test"
- },
- {
-  "id": "5267ee823e",
-  "temat": "SZP-6/26 wersja A – 16.09.2026",
-  "pytanie": "St. post. Adam Nowak podczas interwencji domowej został zaatakowany przez napastnika nożem. Wyjął broń i przeładował ją w celu oddania strzału. W tym samym czasie drugi policjant obezwładnił napastnika. Wymień czynności jakie policjant powinien podjąć w celu rozładowania broni.:",
-  "poprawna": "Skierować broń w bezpiecznym kierunku, odłączyć magazynek a następnie usunąć nabój z komory nabojowej",
-  "bledne": [
-   "Skierować broń w bezpiecznym kierunku, odłączyć magazynek a następnie oddać strzał kontrolny",
-   "Skierować broń w bezpiecznym kierunku, usunąć nabój z komory nabojowej poprzez przeładowanie broni",
-   "Skierować broń w bezpiecznym kierunku, usunąć nabój z komory nabojowej poprzez przeładowanie broni a następnie odłączyć magazynek"
-  ],
-  "wyjasnienie": "JM04 JS01 – rozładowanie: broń w bezpiecznym kierunku, najpierw odłączyć magazynek, potem usunąć nabój z komory. Przeładowanie z dołączonym magazynkiem wprowadziłoby kolejny nabój.",
-  "zrodlo": "test"
- },
- {
-  "id": "d1f65b5720",
-  "temat": "SZP-6/26 wersja A – 16.09.2026",
-  "pytanie": "Zgodnie z dyspozycją zawartą w art. 61a ustawy o Policji, każdy policjant jest obowiązany utrzymywać sprawność fizyczną zapewniającą:",
-  "poprawna": "wykonywanie przez niego zadań służbowych, w szczególności poprzez udział w doskonaleniu zawodowym, o którym mowa w przepisach dotyczących szczegółowych warunków odbywania szkoleń zawodowych oraz doskonalenia zawodowego w Policji",
-  "bledne": [
-   "dobre samopoczucie fizyczne",
-   "nawiązanie rywalizacji sportowej, w szczególności w sportach siłowych",
-   "dobre samopoczucie fizyczne i psychiczne, umożliwiające udział w szkoleniu i doskonaleniu zawodowym, o którym mowa w przepisach dotyczących szczegółowych warunków odbywania szkoleń zawodowych oraz doskonalenia zawodowego w Policji"
-  ],
-  "wyjasnienie": "Art. 61a ust. 1 ustawy o Policji: policjant utrzymuje sprawność fizyczną zapewniającą wykonywanie zadań służbowych, w szczególności przez udział w doskonaleniu zawodowym.",
-  "zrodlo": "test"
- },
- {
   "id": "c48100b422",
   "temat": "SZP-6/26 wersja A – 16.09.2026",
   "pytanie": "BMI (Body Mass Index) jest wskaźnikiem:",
@@ -3962,19 +3663,6 @@
    "dokonać sprawdzenia osoby pod kątem posiadania niebezpiecznych przedmiotów"
   ],
   "wyjasnienie": "Art. 36 ust. 1 ustawy o środkach przymusu bezpośredniego i broni palnej: jeżeli użycie ŚPB spowodowało obrażenia lub objawy zagrożenia życia lub zdrowia, policjant niezwłocznie udziela pierwszej pomocy i wzywa pomoc medyczną.",
-  "zrodlo": "test"
- },
- {
-  "id": "a86831c20b",
-  "temat": "SZP-6/26 wersja A – 16.09.2026",
-  "pytanie": "Przedmiotów przeznaczonych do obezwładniania osób za pomocą energii elektrycznej, nie używa się wobec osób, w stosunku do których już użyto środka przymusu bezpośredniego w postaci:",
-  "poprawna": "kajdanek zespolonych",
-  "bledne": [
-   "psa służbowego",
-   "siły fizycznej w postaci technik obrony",
-   "siły fizycznej w postaci technik transportowych"
-  ],
-  "wyjasnienie": "Art. 25 ust. 3 ustawy o środkach przymusu bezpośredniego i broni palnej: paralizatora nie używa się wobec osób, wobec których użyto kajdanek (w tym zespolonych), kaftana, pasa obezwładniającego lub kasku (art. 12 ust. 1 pkt 2–5).",
   "zrodlo": "test"
  },
  {
@@ -4147,19 +3835,6 @@
   "zrodlo": "test"
  },
  {
-  "id": "14e78adef0",
-  "temat": "Legionowo – 17.11.2026",
-  "pytanie": "Strzelania statyczne realizowane są w postawie:",
-  "poprawna": "stojącej",
-  "bledne": [
-   "klęczącej",
-   "leżącej",
-   "swobodnej"
-  ],
-  "wyjasnienie": "Tabela nr 1 załącznika nr 4 do zarządzenia nr 2 KGP z 15 stycznia 2024 r. w sprawie wyszkolenia strzeleckiego: strzelania przygotowawcze i statyczne wykonuje się w postawie stojącej. Postawy klęcząca, leżąca i siedząca pojawiają się w strzelaniach szybkich.",
-  "zrodlo": "test"
- },
- {
   "id": "b88efa1a50",
   "temat": "Legionowo – 17.11.2026",
   "pytanie": "Przed wykonaniem strzelania szybkiego strzelającego obowiązuje:",
@@ -4186,19 +3861,6 @@
   "zrodlo": "test"
  },
  {
-  "id": "bcb59fcc8c",
-  "temat": "Legionowo – 17.11.2026",
-  "pytanie": "Podczas przeprowadzania strzelania dynamicznego, strzelający dołącza magazynek do pistoletu na komendę prowadzącego strzelanie:",
-  "poprawna": "„przygotować się do strzelania”",
-  "bledne": [
-   "„podłącz magazynek”",
-   "„ładuj broń magazynkiem”",
-   "„ładuj broń”"
-  ],
-  "wyjasnienie": "Część II ust. 1 pkt 4 załącznika nr 4 do zarządzenia nr 2 KGP z 15 stycznia 2024 r. w sprawie wyszkolenia strzeleckiego: na komendę „przygotować się do strzelania” strzelający zakłada ochronniki i dołącza magazynek.",
-  "zrodlo": "test"
- },
- {
   "id": "80800ccfd0",
   "temat": "Legionowo – 17.11.2026",
   "pytanie": "Co jest podstawowym celem strzelań sytuacyjnych?",
@@ -4209,19 +3871,6 @@
    "Poprawa celności na dużych dystansach"
   ],
   "wyjasnienie": "Zarządzenia nr 2 KGP z 15 stycznia 2024 r. w sprawie wyszkolenia strzeleckiego: strzelania sytuacyjne odwzorowują realną interwencję (rozpoznanie celu, osłony, ruch) – przygotowują do sytuacji zagrożenia.",
-  "zrodlo": "test"
- },
- {
-  "id": "45d0e4efe6",
-  "temat": "Legionowo – 17.11.2026",
-  "pytanie": "Ciężar piłki do corocznego testu sprawności fizycznej policjantów wynosi:",
-  "poprawna": "3 kg dla kobiet i mężczyzn",
-  "bledne": [
-   "2 kg dla kobiet i mężczyzn",
-   "2 kg dla kobiet",
-   "3 kg dla mężczyzn"
-  ],
-  "wyjasnienie": "§ 2 ust. 1 pkt 1 zarządzenia nr 1 KGP z 15 stycznia 2024 r. w sprawie testu sprawności fizycznej: piłka lekarska waży 3 kg dla kobiet i mężczyzn.",
   "zrodlo": "test"
  },
  {
@@ -4238,32 +3887,6 @@
   "zrodlo": "test"
  },
  {
-  "id": "41ac184b33",
-  "temat": "Legionowo – 17.11.2026",
-  "pytanie": "Stosując siłę fizyczną policjant może:",
-  "poprawna": "stosować techniki transportowania, ataku, obrony i obezwładniania",
-  "bledne": [
-   "stosować techniki transportowania, obrony i obezwładniania",
-   "w każdej sytuacji stosować dowolne techniki",
-   "stosować techniki ataku, obrony i obezwładniania"
-  ],
-  "wyjasnienie": "Art. 12 ust. 1 pkt 1 ustawy o środkach przymusu bezpośredniego i broni palnej: siła fizyczna obejmuje techniki transportowe, obrony, ataku i obezwładnienia.",
-  "zrodlo": "test"
- },
- {
-  "id": "bc6c19d5f3",
-  "temat": "Legionowo – 17.11.2026",
-  "pytanie": "Jeśli po zastosowaniu obchwytu szyi z uciskiem osoba straciła przytomność należy:",
-  "poprawna": "puścić obchwyt i udzielić osobie pierwszej pomocy",
-  "bledne": [
-   "ułożyć osobę w pozycji bocznej ustalonej",
-   "rozluźnić obchwyt, ale go nie puszczać",
-   "wezwać pogotowie ratunkowe i czekać"
-  ],
-  "wyjasnienie": "JM05 JS02–JS03: po utracie przytomności przez obezwładnianego natychmiast zwalnia się obchwyt i udziela pierwszej pomocy (ocena oddechu, pozycja boczna lub RKO), zgodnie z art. 36 ustawy o ŚPB.",
-  "zrodlo": "test"
- },
- {
   "id": "f676c64aa4",
   "temat": "Legionowo – 17.11.2026",
   "pytanie": "Zgodnie z ustawą o środkach przymusu bezpośredniego i broni palnej pałką służbową typu tonfa NIE zadaje się uderzeń i pchnięć:",
@@ -4274,19 +3897,6 @@
    "w uda"
   ],
   "wyjasnienie": "Art. 19 ust. 4 ustawy o środkach przymusu bezpośredniego i broni palnej: pałką nie zadaje się uderzeń w głowę, szyję, brzuch i nieumięśnione części ciała (poza odpieraniem zamachu na życie lub zdrowie).",
-  "zrodlo": "test"
- },
- {
-  "id": "14c720652d",
-  "temat": "Legionowo – 17.11.2026",
-  "pytanie": "Kajdanek NIE można użyć w przypadku:",
-  "poprawna": "pokonania biernego oporu",
-  "bledne": [
-   "pokonania czynnego oporu",
-   "ujęcia osoby, udaremnienia jej ucieczki lub pościgu za tą osobą",
-   "przeciwdziałania czynnościom zmierzającym do autoagresji"
-  ],
-  "wyjasnienie": "Art. 15 ust. 1 ustawy o ŚPB: kajdanki można stosować w wielu przypadkach z art. 11 (m.in. pokonanie czynnego oporu, autoagresja, ujęcie, pościg), ale NIE w celu pokonania biernego oporu – np. gdy osoba siedzi i nie reaguje. Wtedy stosuje się siłę fizyczną.",
   "zrodlo": "test"
  },
  {
@@ -4365,19 +3975,6 @@
    "wyłączającą bezprawność czynu"
   ],
   "wyjasnienie": "Art. 31 § 1 k.k.: niepoczytalność wyłącza winę – sprawca nie popełnia przestępstwa, bo nie można mu przypisać winy.",
-  "zrodlo": "test"
- },
- {
-  "id": "ac814af62b",
-  "temat": "Legionowo – 17.11.2026",
-  "pytanie": "Przestępstwo wypadku komunikacyjnego, gdy wyłącznie osoba najbliższa dla sprawcy doznała obrażeń ciała określonych w art. 157 par. 1 kk (średni uszczerbek na zdrowiu), jest ścigane:",
-  "poprawna": "na wniosek pokrzywdzonego",
-  "bledne": [
-   "z urzędu",
-   "z oskarżenia prywatnego",
-   "na żądanie pokrzywdzonego"
-  ],
-  "wyjasnienie": "Art. 177 § 3 k.k.: jeżeli pokrzywdzonym jest wyłącznie osoba najbliższa, ściganie następuje na jej wniosek.",
   "zrodlo": "test"
  },
  {
@@ -4641,6 +4238,19 @@
   "zrodlo": "test"
  },
  {
+  "id": "7cb35dc09c",
+  "temat": "Legionowo – 17.11.2026",
+  "pytanie": "Dokumentowanie przeszukania obejmuje:",
+  "poprawna": "sporządzenie protokołu lub notatki służbowej zawierającej przyczynę, miejsce, czas, opis czynności oraz dane osoby i funkcjonariuszy",
+  "bledne": [
+   "wyłącznie nazwisko policjanta",
+   "brak dokumentacji",
+   "spisanie daty i godziny"
+  ],
+  "wyjasnienie": "Dokumentowanie przeszukania: z przeszukania sporządza się protokół (art. 143 § 1 pkt 6 k.p.k.) zawierający m.in. podstawę, miejsce, czas, przebieg czynności oraz dane osób. Spośród odpowiedzi tylko ta opisuje dokumentację. Odpowiedź według klucza egzaminu (potwierdzona przez kursanta).",
+  "zrodlo": "test"
+ },
+ {
   "id": "2c3c2fe887",
   "temat": "Legionowo – 17.11.2026",
   "pytanie": "Z przebiegu czynności egzekucyjnych funkcjonariusz Policji sporządza:",
@@ -4781,19 +4391,6 @@
    "potwierdzenie działalności przestępczej figuranta"
   ],
   "wyjasnienie": "JM03 JS08: celem obserwacji jest m.in. uzyskanie dowodów, potwierdzenie działalności przestępczej i możliwości zatrzymania figuranta. Pozyskanie współpracownika to inna czynność operacyjna.",
-  "zrodlo": "test"
- },
- {
-  "id": "d7c7cb0c50",
-  "temat": "Legionowo – 17.11.2026",
-  "pytanie": "Wniosek o współpracę międzynarodową lub o ostrzeżenie międzynarodowe adresowany do wszystkich państw członkowskich Interpolu to:",
-  "poprawna": "nota",
-  "bledne": [
-   "dyfuzja",
-   "raport",
-   "decyzja"
-  ],
-  "wyjasnienie": "Interpol (JM03 JS09): nota (notice) jest publikowana przez Sekretariat Generalny do wszystkich państw członkowskich; dyfuzja – wysyłana przez krajowe biuro do wybranych państw lub stref.",
   "zrodlo": "test"
  }
 ]
