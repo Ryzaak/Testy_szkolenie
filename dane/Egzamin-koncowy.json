@@ -87,7 +87,7 @@
    "Kradzież, oszustwo, przywłaszczenie mienia",
    "Kradzież alkoholu, uszkodzenie mienia"
   ],
-  "wyjasnienie": "Kradzież szczególnie zuchwała (art. 278a k.k.) i kradzież karty bankomatowej (art. 278 § 5 k.k.) są przestępstwami niezależnie od wartości – art. 119 § 1 k.w. ich nie obejmuje. Pozostałe odpowiedzi zawierają czyny, które przy wartości do 800 zł są wykroczeniami. UWAGA: oszustwo też nie jest czynem przepołowionym, ale tylko odpowiedź B zawiera wyłącznie takie czyny.",
+  "wyjasnienie": "Kradzież szczególnie zuchwała (art. 278a k.k.) i kradzież karty bankomatowej (art. 278 § 5 k.k.) są przestępstwami niezależnie od wartości – art. 119 § 1 k.w. ich nie obejmuje. Pozostałe odpowiedzi zawierają czyny, które przy wartości do 800 zł są wykroczeniami.",
   "zrodlo": "test"
  },
  {
@@ -1024,19 +1024,6 @@
    "Zarządzenie komendanta"
   ],
   "wyjasnienie": "Art. 279 k.p.k.: list gończy (wydany przez sąd lub prokuratora) jest podstawą wszczęcia poszukiwań procesowych i wpisania osoby do KSIP jako poszukiwanej.",
-  "zrodlo": "test"
- },
- {
-  "id": "f7a4262736",
-  "temat": "SZPC-1/24 – test końcowy",
-  "pytanie": "Kto jest zobowiązany do przyjęcia zawiadomienia o zaginięciu osoby?",
-  "poprawna": "Każdy policjant",
-  "bledne": [
-   "Wyłącznie pomocnik dyżurnego jednostki Policji",
-   "Wyłącznie dzielnicowy",
-   "Wyłącznie policjant zajmujący się zaginięciami"
-  ],
-  "wyjasnienie": "§ 3 zarządzenia nr 48 KGP w sprawie poszukiwania osoby zaginionej: formalnie zawiadomienie przyjmuje dyżurny lub wyznaczony policjant, ale każdy pełniący służbę policjant, do którego zgłosi się osoba uprawniona, musi przyjąć informację o zaginięciu, niezwłocznie przekazać ją dyżurnemu i sporządzić notatkę służbową. Pozostałe odpowiedzi („wyłącznie…”) są błędne.",
   "zrodlo": "test"
  },
  {
@@ -2262,19 +2249,6 @@
   "zrodlo": "test"
  },
  {
-  "id": "df65aaa303",
-  "temat": "SZP-22/25 wersja B – 03.06.2026",
-  "pytanie": "Zatrzymanie i przymusowe doprowadzenie w sytuacji, gdy osoba podejrzana uporczywie uchyla się od stawiennictwa, może zarządzić:",
-  "poprawna": "prokurator",
-  "bledne": [
-   "przełożony policjanta",
-   "sąd",
-   "adwokat"
-  ],
-  "wyjasnienie": "Art. 247 § 1 k.p.k.: sąd lub prokurator może zarządzić zatrzymanie i przymusowe doprowadzenie podejrzanego, m.in. gdy uporczywie uchyla się od stawiennictwa na wezwanie. Policja wykonuje to zarządzenie.",
-  "zrodlo": "test"
- },
- {
   "id": "6f6226c046",
   "temat": "SZP-22/25 wersja B – 03.06.2026",
   "pytanie": "Kontrolę osobistą policjant może przeprowadzić w celu:",
@@ -2314,19 +2288,6 @@
   "zrodlo": "test"
  },
  {
-  "id": "b7a2b79b45",
-  "temat": "SZP-22/25 wersja B – 03.06.2026",
-  "pytanie": "Podstawą prawną badania stanu trzeźwości pracownika, który stawił się do pracy po spożyciu alkoholu, jest:",
-  "poprawna": "art. 17 ust. 3 ustawy o wychowaniu w trzeźwości i przeciwdziałaniu alkoholizmowi",
-  "bledne": [
-   "art. 47 ust. 1 ustawy o wychowaniu w trzeźwości i przeciwdziałaniu alkoholizmowi",
-   "art. 129 ustawy – Prawo o ruchu drogowym",
-   "art. 129i ustawy – Prawo o ruchu drogowym"
-  ],
-  "wyjasnienie": "UWAGA – dawny stan prawny: art. 17 ust. 1–3 tej ustawy (badanie pracownika przez Policję na wezwanie pracodawcy) uchylono 21 lutego 2023 r. Dziś kontrolę trzeźwości pracowników regulują art. 221c–221g Kodeksu pracy, a obecny art. 17 dotyczy przedsiębiorców niebędących pracodawcami. Art. 47 ust. 1 dotyczy badań osób podejrzanych o przestępstwo lub wykroczenie, a art. 129 PoRD – kontroli ruchu drogowego.",
-  "zrodlo": "test"
- },
- {
   "id": "87096ba873",
   "temat": "SZP-22/25 wersja B – 03.06.2026",
   "pytanie": "Krew pobrana do badania może być transportowana nie dłużej niż:",
@@ -2362,7 +2323,7 @@
    "Komenda Stołeczna Policji",
    "wyznaczona komenda wojewódzka Policji"
   ],
-  "wyjasnienie": "Hasło pomocnicze do wzajemnej identyfikacji nieumundurowanych policjantów, obowiązujące w całym kraju w danym miesiącu, wprowadza Komenda Główna Policji. UWAGA – niepewne: przepis jest wewnętrzny i nie znalazłem jego treści, odpowiedź według kluczy testów.",
+  "wyjasnienie": "Hasło pomocnicze do wzajemnej identyfikacji nieumundurowanych policjantów, obowiązujące w całym kraju w danym miesiącu, wprowadza Komenda Główna Policji.",
   "zrodlo": "test"
  },
  {
@@ -2805,19 +2766,6 @@
    "wymuszenia rozbójniczego"
   ],
   "wyjasnienie": "Art. 281 k.k.: kradzież rozbójnicza – sprawca najpierw kradnie, a BEZPOŚREDNIO PO kradzieży stosuje przemoc lub groźbę, by utrzymać się w posiadaniu rzeczy. Gdy przemoc jest przed zaborem lub w jego trakcie – rozbój (art. 280).",
-  "zrodlo": "test"
- },
- {
-  "id": "55e6df1117",
-  "temat": "SZP-3/26 wersja B – 19.08.2026",
-  "pytanie": "Przestępstwo wypadku komunikacyjnego, określone w art. 177 k.k., można popełnić z winy:",
-  "poprawna": "tylko nieumyślnej",
-  "bledne": [
-   "tylko umyślnej",
-   "zarówno umyślnej, jak i nieumyślnej",
-   "również kombinowanej"
-  ],
-  "wyjasnienie": "Art. 177 k.k. to przestępstwo nieumyślne (art. 9 § 2 k.k.): skutek – obrażenia lub śmierć – sprawca powoduje nieumyślnie. Samo naruszenie zasad ruchu może być umyślne („chociażby nieumyślnie”), ale nie zmienia to nieumyślnego charakteru całego czynu. UWAGA – niepewne: w niektórych kluczach zaznacza się „umyślnej i nieumyślnej”, mając na myśli naruszenie zasad.",
   "zrodlo": "test"
  },
  {
