@@ -165,7 +165,7 @@
    "Niezwłocznie powiadomić o tym fakcie dyżurnego",
    "Przerwać akcję ratowniczą i zabezpieczyć ślad"
   ],
-  "wyjasnienie": "JS05: zabezpieczenie miejsca zdarzenia przed zmianą śladów. Akcji ratowniczej się nie przerywa.",
+  "wyjasnienie": "§ 47 wytycznych nr 3 KGP i JM01 JS05 (decyzja nr 162): policjant zabezpieczający miejsce zdarzenia chroni ślady przed zmianą i zniszczeniem – nie dopuszcza do dalszego nanoszenia zanieczyszczeń. Akcji ratowniczej się nie przerywa (ratowanie życia ma pierwszeństwo).",
   "zrodlo": "test"
  },
  {
@@ -191,7 +191,7 @@
    "Sytuacyjny",
    "Dokładny"
   ],
-  "wyjasnienie": "Szkic sytuacyjny pokazuje miejsce na tle otoczenia, szczegółowy – wycinek w dużym przybliżeniu.",
+  "wyjasnienie": "JM01 JS06 (decyzja nr 162 – dokumentowanie oględzin): szkic sytuacyjny pokazuje miejsce na tle otoczenia, a szkic szczegółowy – wycinek miejsca w dużym przybliżeniu (nawet 1:1).",
   "zrodlo": "test"
  },
  {
@@ -620,7 +620,7 @@
    "Ostrzeżenia przed wydarzeniem, osobą, przedmiotem lub modus operandi",
    "Ostrzeżenia o osobach mogących w najbliższym czasie stanowić zagrożenie dla bezpieczeństwa i porządku publicznego"
   ],
-  "wyjasnienie": "Żółta – zaginieni, niebieska – miejsce pobytu, zielona – ostrzeżenia, fioletowa – modus operandi.",
+  "wyjasnienie": "JM03 JS09 (kanały międzynarodowe) – system not Interpolu: czerwona – zatrzymanie, aresztowanie, ekstradycja; żółta – zaginieni; niebieska – ustalenie tożsamości lub miejsca pobytu; zielona – ostrzeżenia; fioletowa – modus operandi.",
   "zrodlo": "test"
  },
  {
@@ -1101,7 +1101,7 @@
    "inspektora Policji",
    "podinspektora Policji"
   ],
-  "wyjasnienie": "Oficerowie starsi: podinspektor, młodszy inspektor, inspektor. Generalny inspektor – korpus generałów.",
+  "wyjasnienie": "Art. 47 ustawy o Policji (korpusy i stopnie): oficerowie starsi to podinspektor, młodszy inspektor i inspektor. Nadinspektor i generalny inspektor należą do korpusu generałów Policji.",
   "zrodlo": "test"
  },
  {
@@ -1127,7 +1127,7 @@
    "mariuhuanę , barbiturany i kokainę",
    "khat, meskalinę, kokainę i metadon"
   ],
-  "wyjasnienie": "Stymulanty pobudzają OUN: amfetamina, kokaina i crack, khat, ecstasy (MDMA). Relanium (benzodiazepina), heroina, barbiturany i metadon działają depresyjnie (uspokajająco, nasennie), meskalina – halucynogennie.",
+  "wyjasnienie": "Ustawa o przeciwdziałaniu narkomanii i JM01 JS13 (patologie): stymulanty pobudzają OUN – amfetamina, kokaina i crack, khat, ecstasy (MDMA). Relanium, heroina, barbiturany i metadon działają depresyjnie, meskalina – halucynogennie.",
   "zrodlo": "test"
  },
  {
@@ -1153,7 +1153,7 @@
    "zakleszczenie komory nabojowej, niewyciąg, niewypał, utykanie magazynka",
    "niewypał, zakleszczenie, niedowład łuski w oknie wyrzutu"
   ],
-  "wyjasnienie": "Cztery zacięcia z prezentacji: niedomknięcie komory, przytrzaśnięcie (zakleszczenie) łuski, utknięcie (przekoszenie) naboju, niewypał.",
+  "wyjasnienie": "JM04 JS01 i zarządzenia nr 2 KGP z 15 stycznia 2024 r. w sprawie wyszkolenia strzeleckiego: podstawowe zacięcia broni krótkiej to niewypał, niedomknięcie komory nabojowej, zakleszczenie (przytrzaśnięcie) łuski i utknięcie naboju.",
   "zrodlo": "test"
  },
  {
@@ -1166,7 +1166,7 @@
    "uczestniczy w strzelaniach sytuacyjnych, gdyż skraca to czas oddania kolejnego strzału",
    "zamierza oddać strzał w kierunku rozpoznanego celu"
   ],
-  "wyjasnienie": "Dosłowne brzmienie zasady: palec na spust tylko w chwili ŚWIADOMEGO strzału do celu ROZPOZNANEGO i OKREŚLONEGO WARUNKAMI STRZELANIA. Samo „zamierza” albo „pojawiająca się tarcza” nie wystarcza.",
+  "wyjasnienie": "Załącznik nr 1 do zarządzenia nr 2 KGP z 15 stycznia 2024 r. w sprawie wyszkolenia strzeleckiego (zasady bezpieczeństwa): palec kładzie się na języku spustowym wyłącznie wtedy, gdy świadomie oddaje się strzał do rozpoznanego i określonego warunkami strzelania celu.",
   "zrodlo": "test"
  },
  {
@@ -1504,7 +1504,7 @@
    "czterokończynowej",
    "powypadkowej zastanej"
   ],
-  "wyjasnienie": "Osobę z obniżoną świadomością, która oddycha prawidłowo, układa się w pozycji bocznej bezpiecznej – chroni to drożność dróg oddechowych.",
+  "wyjasnienie": "Wytyczne Europejskiej Rady Resuscytacji (ERC) i podręcznik dla słuchacza (JM02 JS05 – pierwsza pomoc): osobę z obniżoną świadomością, która oddycha prawidłowo, układa się w pozycji bocznej bezpiecznej – chroni to drożność dróg oddechowych.",
   "zrodlo": "test"
  },
  {
@@ -1725,7 +1725,7 @@
    "Międzynarodowe Zrzeszenie Policjantów Kryminalnych",
    "Międzynarodowa Organizacja Policjantów Kryminalnych"
   ],
-  "wyjasnienie": "ICPO-INTERPOL – Międzynarodowa Organizacja Policji Kryminalnej z siedzibą w Lyonie. W Polsce działa Krajowe Biuro Interpolu w Biurze Międzynarodowej Współpracy Policji KGP.",
+  "wyjasnienie": "JM03 JS09 (kanały międzynarodowe): ICPO-INTERPOL to Międzynarodowa Organizacja Policji Kryminalnej z siedzibą w Lyonie; w Polsce działa Krajowe Biuro Interpolu w Biurze Międzynarodowej Współpracy Policji KGP.",
   "zrodlo": "test"
  },
  {
@@ -1777,7 +1777,7 @@
    "wyłącznie imię i nazwisko osoby kontrolowanej",
    "wyłącznie imię i nazwisko osoby kontrolowanej i markę pojazdu"
   ],
-  "wyjasnienie": "Zasady prowadzenia notatnika służbowego: przy kontroli pojazdu policjant odnotowuje m.in. markę i numer rejestracyjny pojazdu, a w razie potrzeby rodzaj przewożonego ładunku – pozostałe odpowiedzi ograniczają zapis do danych osoby.",
+  "wyjasnienie": "Zarządzenie KGP w sprawie notatnika służbowego (JM02 JS02 – legitymowanie i kontrola): przy kontroli pojazdu odnotowuje się m.in. markę i numer rejestracyjny pojazdu, a w razie potrzeby rodzaj przewożonego ładunku.",
   "zrodlo": "test"
  },
  {
@@ -1842,7 +1842,7 @@
    "półprodukt",
    "prekursor khatu"
   ],
-  "wyjasnienie": "Amfetamina jest otrzymywana wyłącznie syntetycznie, w laboratoriach (z prekursorów, np. BMK), w odróżnieniu od narkotyków pochodzenia roślinnego, jak marihuana, kokaina czy khat.",
+  "wyjasnienie": "Ustawa o przeciwdziałaniu narkomanii (wykaz substancji psychotropowych) i JM01 JS13: amfetamina jest substancją syntetyczną, wytwarzaną w laboratoriach z prekursorów – w odróżnieniu od narkotyków pochodzenia roślinnego (marihuana, kokaina, khat).",
   "zrodlo": "test"
  },
  {
@@ -1868,7 +1868,7 @@
    "wyrzucenie łuski z przewodu lufy spowodowane ciśnieniem gazów powstających podczas palenia się ładunku prochowego",
    "wyrzucenie zamka spowodowane ciśnieniem gazów powstających podczas palenia się ładunku prochowego"
   ],
-  "wyjasnienie": "Definicja strzału: wyrzucenie pocisku z lufy przez gazy prochowe ze spalania ładunku.",
+  "wyjasnienie": "JM04 JS01 (teoria strzału, zarządzenia nr 2 KGP z 15 stycznia 2024 r. w sprawie wyszkolenia strzeleckiego): strzał to wyrzucenie pocisku z przewodu lufy pod ciśnieniem gazów powstających ze spalania ładunku prochowego.",
   "zrodlo": "test"
  },
  {
@@ -2128,7 +2128,7 @@
    "w 1945 roku w San Francisco",
    "w 1945 roku w Nowym Jorku"
   ],
-  "wyjasnienie": "Powszechną Deklarację Praw Człowieka uchwaliło Zgromadzenie Ogólne ONZ 10 grudnia 1948 r. w Paryżu (stąd 10 grudnia – Dzień Praw Człowieka). Nie jest umową międzynarodową, ale stała się wzorcem dla późniejszych paktów.",
+  "wyjasnienie": "JM01 JS09 (prawa człowieka): Powszechną Deklarację Praw Człowieka uchwaliło Zgromadzenie Ogólne ONZ 10 grudnia 1948 r. w Paryżu.",
   "zrodlo": "test"
  },
  {
@@ -2219,7 +2219,7 @@
    "poszkodowany odzyska przytomność",
    "poszkodowany wskaże miejsce urazu"
   ],
-  "wyjasnienie": "Ocena wstępna (ABC): wykrycie stanu bezpośrednio zagrażającego życiu, np. niedrożności dróg oddechowych, przerywa ocenę – trzeba go od razu usunąć. Wywiad SAMPLE zbiera się później.",
+  "wyjasnienie": "Wytyczne Europejskiej Rady Resuscytacji (ERC) i podręcznik dla słuchacza (JM02 JS05 – pierwsza pomoc): w ocenie wstępnej (ABC) wykrycie stanu bezpośrednio zagrażającego życiu, np. niedrożności dróg oddechowych, przerywa ocenę – trzeba go od razu usunąć.",
   "zrodlo": "test"
  },
  {
@@ -2275,19 +2275,6 @@
   "zrodlo": "test"
  },
  {
-  "id": "7b314d2a5f",
-  "temat": "SZP-22/25 wersja B – 03.06.2026",
-  "pytanie": "Przemieszczania środków transportu, na podstawie przepisów ustawy o postępowaniu egzekucyjnym w administracji, dokonuje:",
-  "poprawna": "komisja powołana przez organ egzekucyjny",
-  "bledne": [
-   "Policja na wniosek organu egzekucyjnego",
-   "straż miejska powołana przez organ egzekucyjny",
-   "wójt na wniosek organu egzekucyjnego"
-  ],
-  "wyjasnienie": "Art. 47 § 2 ustawy o postępowaniu egzekucyjnym w administracji: przeszukania środków transportu, lokali i pomieszczeń zobowiązanego dokonuje komisja powołana przez organ egzekucyjny. Policja może jedynie udzielić pomocy przy oporze (art. 46). UWAGA: test używa słowa „przemieszczanie”, przepis mówi o przeszukaniu.",
-  "zrodlo": "test"
- },
- {
   "id": "87096ba873",
   "temat": "SZP-22/25 wersja B – 03.06.2026",
   "pytanie": "Krew pobrana do badania może być transportowana nie dłużej niż:",
@@ -2323,7 +2310,7 @@
    "Komenda Stołeczna Policji",
    "wyznaczona komenda wojewódzka Policji"
   ],
-  "wyjasnienie": "Hasło pomocnicze do wzajemnej identyfikacji nieumundurowanych policjantów, obowiązujące w całym kraju w danym miesiącu, wprowadza Komenda Główna Policji.",
+  "wyjasnienie": "Przepisy KGP o identyfikacji nieumundurowanych policjantów (JM05 JS05): hasło pomocnicze obowiązujące w całym kraju w danym miesiącu wprowadza Komenda Główna Policji.",
   "zrodlo": "test"
  },
  {
@@ -2531,7 +2518,7 @@
    "po lewej stronie szkieletu broni, na zewnątrz",
    "w tylnej części szkieletu (po obu stronach broni)"
   ],
-  "wyjasnienie": "Slajd: odłącznik-przerywacz jest wewnątrz szkieletu (występ na szynie spustowej wystający w górę). Po obu stronach broni jest bezpiecznik manualny, a po lewej dźwignia demontażowa.",
+  "wyjasnienie": "JM04 JS01 (budowa broni, zarządzenia nr 2 KGP z 15 stycznia 2024 r. w sprawie wyszkolenia strzeleckiego): w REX Zero 1 odłącznik-przerywacz znajduje się wewnątrz szkieletu, na szynie spustowej.",
   "zrodlo": "test"
  },
  {
@@ -2544,7 +2531,7 @@
    "uderzyć nasadą dłoni wspomagającej w tylną część zamka, a następnie przeładować broń",
    "wypiąć magazynek z chwytu broni, zatrzymać zamek w tylnym położeniu i zakończyć strzelanie"
   ],
-  "wyjasnienie": "Brak strzału = niewypał: dobić magazynek i przeładować. Uderzenie w tył zamka usuwa niedomknięcie komory.",
+  "wyjasnienie": "JM04 JS01 (usuwanie zacięć, zarządzenia nr 2 KGP z 15 stycznia 2024 r. w sprawie wyszkolenia strzeleckiego): brak strzału po przeładowaniu to niewypał – dobija się magazynek i ponownie przeładowuje broń.",
   "zrodlo": "test"
  },
  {
@@ -2570,7 +2557,7 @@
    "niewłaściwe, ponieważ szybka zmiana postawy z wysokiej na niską ma wpływ na bezpieczeństwo osobiste policjanta",
    "niewłaściwe, ponieważ najpierw powinien zmienić postawę na niską, a później dokonać awaryjnej wymiany magazynka"
   ],
-  "wyjasnienie": "JM04 – strzelania z wykorzystaniem osłon: magazynek wymienia się za osłoną, a przed ponownym wychyleniem zmienia się postawę (np. na klęczącą), żeby pojawić się zza rogu na innej wysokości niż wcześniej – przeciwnik celuje tam, gdzie widział policjanta. UWAGA – niepewne: odpowiedź według karty odpowiedzi egzaminu SZP-6/26, przepisy nie opisują tej sytuacji wprost.",
+  "wyjasnienie": "JM04 JS03–JS04 (strzelania dynamiczne i sytuacyjne z wykorzystaniem osłon, załącznik nr 4 do zarządzenia nr 2 KGP z 15 stycznia 2024 r.): magazynek wymienia się za osłoną, a przed ponownym wychyleniem zmienia się postawę (np. na klęczącą), żeby pojawić się zza rogu na innej wysokości niż wcześniej – przeciwnik celuje tam, gdzie widział policjanta. Odpowiedź potwierdza karta odpowiedzi egzaminu SZP-6/26.",
   "zrodlo": "test"
  },
  {
@@ -2934,7 +2921,7 @@
    "1,5% powierzchni całkowitej ciała",
    "2% powierzchni całkowitej ciała"
   ],
-  "wyjasnienie": "Reguła dłoni: powierzchnia dłoni poszkodowanego (z palcami) to ok. 1% powierzchni jego ciała – służy do szacowania rozległości oparzeń.",
+  "wyjasnienie": "Wytyczne Europejskiej Rady Resuscytacji (ERC) i podręcznik dla słuchacza (JM02 JS05 – pierwsza pomoc): reguła dłoni – powierzchnia dłoni poszkodowanego to ok. 1% powierzchni ciała; służy do oceny rozległości oparzeń.",
   "zrodlo": "test"
  },
  {
@@ -3051,7 +3038,7 @@
    "przekazuje odpowiednie broszury z wykazem instytucji zajmujących się ofiarami przemocy domowej",
    "informuje osobę o powiadomieniu właściwego rejonowo dzielnicowego w celu realizacji procedury „Niebieskie Karty”"
   ],
-  "wyjasnienie": "Przemoc domowa: najpierw ratuje się zdrowie – policjant udziela pierwszej pomocy lub zapewnia pomoc medyczną osobie doznającej przemocy, dopiero potem dokumentuje zdarzenie i realizuje procedurę „Niebieskie Karty”.",
+  "wyjasnienie": "Rozporządzenie RM z 6 września 2023 r. w sprawie procedury „Niebieskie Karty” (JM02 JS10 – przemoc domowa): w pierwszej kolejności policjant udziela osobie doznającej przemocy pierwszej pomocy lub zapewnia pomoc medyczną.",
   "zrodlo": "test"
  },
  {
@@ -3129,7 +3116,7 @@
    "tylko policjanci służby prewencyjnej",
    "tylko policjanci wydziału techniki operacyjnej"
   ],
-  "wyjasnienie": "Obserwacja doraźna podejmowana jest w toku służby przez każdego policjanta. Obserwację planową prowadzą wyspecjalizowane komórki.",
+  "wyjasnienie": "JM03 JS08 (decyzja nr 162 – obserwacja doraźna): obserwację doraźną prowadzi każdy policjant w toku służby; obserwację planową – wyspecjalizowane komórki.",
   "zrodlo": "test"
  },
  {
@@ -3233,7 +3220,7 @@
    "Nie dłuższym niż 15 min",
    "Nie krótszym niż 15 min"
   ],
-  "wyjasnienie": "Ślad zapachowy pobiera się, przykładając pochłaniacz do powierzchni, z którą miał kontakt sprawca, na nie krócej niż 30 minut. Potwierdza to karta odpowiedzi egzaminu SZP-6/26.",
+  "wyjasnienie": "JM01 JS06 (decyzja nr 162 – zabezpieczanie śladów) i wytyczne KGP w sprawie technik kryminalistycznych: ślad osmologiczny pobiera się, przykładając pochłaniacz do powierzchni na nie krócej niż 30 minut. Potwierdza to karta odpowiedzi egzaminu SZP-6/26.",
   "zrodlo": "test"
  },
  {
@@ -3389,7 +3376,7 @@
    "wszyscy mogą dotykać poszkodowanego",
    "tylko ratownik może dotykać poszkodowanego"
   ],
-  "wyjasnienie": "AED: w czasie analizy rytmu i wyładowania nikt nie może dotykać poszkodowanego – grozi to porażeniem ratownika i zakłóca analizę.",
+  "wyjasnienie": "Wytyczne Europejskiej Rady Resuscytacji (ERC) i podręcznik dla słuchacza (JM02 JS05 – pierwsza pomoc): podczas analizy rytmu i wyładowania AED nikt nie może dotykać poszkodowanego.",
   "zrodlo": "test"
  },
  {
@@ -3441,7 +3428,7 @@
    "Prawa solidarnościowe (kolektywne)",
    "Prawa wynikające z obywatelstwa Unii Europejskiej"
   ],
-  "wyjasnienie": "Generacje praw człowieka: I – prawa osobiste i polityczne (życie, wolność, prawo do sądu, wybory), II – ekonomiczne, socjalne i kulturalne (praca, ochrona zdrowia, edukacja), III – solidarnościowe (pokój, rozwój, czyste środowisko). Najsilniej chronione są prawa I generacji, np. przez Europejską Konwencję Praw Człowieka.",
+  "wyjasnienie": "JM01 JS09 (prawa człowieka): I generacja – prawa osobiste i polityczne (najsilniej chronione, m.in. przez EKPC), II – ekonomiczne, socjalne i kulturalne, III – solidarnościowe.",
   "zrodlo": "test"
  },
  {
@@ -3649,7 +3636,7 @@
    "nadzorowanie prostytutek przez środowiska lekarskie i skupianie ich w domach publicznych",
    "ewidencjonowanie prostytutek przez policję i zakaz prowadzenia domów publicznych"
   ],
-  "wyjasnienie": "Prohibicjonizm – zakaz i karanie, reglamentacjonizm – nadzór i domy publiczne, abolicjonizm – model przyjęty w Polsce.",
+  "wyjasnienie": "JM01 JS13 (patologie – prostytucja): abolicjonizm to reedukacja prostytutek i karanie czerpania korzyści z prostytucji (art. 203–204 k.k.); prohibicjonizm – zakaz i karanie, reglamentacjonizm – nadzór i domy publiczne.",
   "zrodlo": "test"
  },
  {
@@ -3688,7 +3675,7 @@
    "wadliwie działająca sprężyna magazynka",
    "zanieczyszczony magazynek i wślizg komory nabojowej"
   ],
-  "wyjasnienie": "Utknięcie naboju wynika z problemów z magazynkiem i podawaniem naboju. Wadliwy mechanizm spustowo-uderzeniowy to przyczyna NIEWYPAŁU.",
+  "wyjasnienie": "JM04 JS01 (zacięcia, zarządzenia nr 2 KGP z 15 stycznia 2024 r. w sprawie wyszkolenia strzeleckiego): utknięcie naboju powodują wady magazynka i wślizgu komory; wadliwy mechanizm spustowo-uderzeniowy powoduje niewypał.",
   "zrodlo": "test"
  },
  {
@@ -4104,7 +4091,7 @@
    "Grupa Szybkiego Reagowania",
    "Główny System Rozminowania"
   ],
-  "wyjasnienie": "GSR – gunshot residue, pozostałości powystrzałowe; zabezpiecza się je na specjalne stoliki (nośniki) do badań mikroskopem elektronowym.",
+  "wyjasnienie": "JM01 JS06 (decyzja nr 162 – ślady kryminalistyczne): GSR (gunshot residue) to pozostałości powystrzałowe, zabezpieczane na specjalne stoliki do badań mikroskopem elektronowym.",
   "zrodlo": "test"
  },
  {
@@ -4260,7 +4247,7 @@
    "1/3 górna mostka",
    "szerokości dwóch palców od połączenia żeber z mostkiem"
   ],
-  "wyjasnienie": "Wytyczne ERC: uciska się środek klatki piersiowej (dolna połowa mostka), na głębokość 5–6 cm. UWAGA: klucz autora quizu wskazywał inną odpowiedź – poprawiono.",
+  "wyjasnienie": "Wytyczne Europejskiej Rady Resuscytacji (ERC) – podstawowe zabiegi resuscytacyjne (JM02 JS05): ręce kładzie się na środku klatki piersiowej (dolna połowa mostka) i uciska na głębokość 5–6 cm, w tempie 100–120 na minutę.",
   "zrodlo": "test"
  },
  {
@@ -4273,7 +4260,7 @@
    "niezwłocznie owinąć folią aluminiową",
    "chłodzić oparzenie w chłodnej lub lodowatej wodzie"
   ],
-  "wyjasnienie": "Pierwsza pomoc przy oparzeniu termicznym: chłodzić czystą, chłodną (nie lodowatą) wodą przez co najmniej 20 minut. Lód może dodatkowo uszkodzić tkanki.",
+  "wyjasnienie": "Wytyczne Europejskiej Rady Resuscytacji (ERC) i podręcznik dla słuchacza (JM02 JS05 – pierwsza pomoc): oparzenie termiczne chłodzi się chłodną (nie lodowatą) wodą przez co najmniej 20 minut.",
   "zrodlo": "test"
  },
  {
@@ -4286,7 +4273,7 @@
    "czterokończynowej",
    "na lewym boku"
   ],
-  "wyjasnienie": "Osobę we wstrząsie (przytomną, bez urazu kręgosłupa) układa się na plecach w pozycji przeciwwstrząsowej, z uniesionymi nogami.",
+  "wyjasnienie": "Wytyczne Europejskiej Rady Resuscytacji (ERC) i podręcznik dla słuchacza (JM02 JS05 – pierwsza pomoc): osobę we wstrząsie (bez urazu kręgosłupa) układa się na plecach w pozycji przeciwwstrząsowej, z uniesionymi nogami.",
   "zrodlo": "test"
  },
  {

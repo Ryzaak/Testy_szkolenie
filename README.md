@@ -40,7 +40,7 @@ Postęp zapisuje się w Twojej przeglądarce, więc każdy uczy się osobno. Po 
 | **JM02 JS10** | Interwencje policyjne i osoby pod wpływem alkoholu (ŚPB i broń palna, legitymowanie, zatrzymanie, pościgi, przemoc domowa) | 72 |
 | **JM01 JS05–JS06** | Postępowanie na miejscu zdarzenia i oględziny (zasady i dokumentowanie oględzin, ślady kryminalistyczne) | 39 |
 | **JM02 JS07–JS08** | Kontrola osobista, przeglądanie bagażu i przeszukanie (podstawy, dokumenty, zasady, zatrzymanie rzeczy) | 73 |
-| **Egzamin końcowy** | Pytania z egzaminów końcowych podzielone na testy: SZPC-1/24, Słupsk 29.04.2025, SZP-22/25 B (03.06.2026), SZP-3/26 B (19.08.2026), SZP-6/26 A (16.09.2026), Legionowo (17.11.2026) – tylko treści z programu SZPC (decyzja nr 162) | 345 |
+| **Egzamin końcowy** | Pytania z egzaminów końcowych podzielone na testy: SZPC-1/24, Słupsk 29.04.2025, SZP-22/25 B (03.06.2026), SZP-3/26 B (19.08.2026), SZP-6/26 A (16.09.2026), Legionowo (17.11.2026) – tylko treści z programu SZPC (decyzja nr 162) | 344 |
 
 ## Skąd są pytania
 
