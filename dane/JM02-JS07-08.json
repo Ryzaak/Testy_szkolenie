@@ -35,7 +35,7 @@
    "kontrolowany może żądać sporządzenia protokołu przeszukania osoby",
    "kontrolowany może żądać postanowienia zatwierdzającego przeszukanie"
   ],
-  "wyjasnienie": "Art. 15d ust. 7 ustawy o Policji. W teście odpowiedź brzmiała: „może żądać obecności osoby przybranej przez prowadzącego czynność”.",
+  "wyjasnienie": "Art. 15d ust. 7 ustawy o Policji: może być obecna osoba przybrana przez policjanta, a także osoba wskazana przez kontrolowanego, jeżeli nie uniemożliwi to kontroli ani jej istotnie nie utrudni.",
   "zrodlo": "test"
  },
  {
@@ -48,7 +48,7 @@
    "do prokuratora na legalność dokonanej kontroli osobistej",
    "do sądu na sposób zatrzymania"
   ],
-  "wyjasnienie": "Art. 15d ust. 11 ustawy o Policji: zażalenie do sądu rejonowego w terminie 7 dni. UWAGA – dawny stan prawny w teście: kiedyś na sposób kontroli osobistej skarżyło się do prokuratora (art. 15 ust. 7) – kontrolę osobistą wyjęto z tego przepisu.",
+  "wyjasnienie": "Art. 15d ust. 11 ustawy o Policji: osobie kontrolowanej przysługuje zażalenie do sądu rejonowego właściwego dla miejsca kontroli, w terminie 7 dni, w celu zbadania zasadności, legalności i prawidłowości kontroli. Kontrolę kobiety powinna przeprowadzić kobieta w miejscu niedostępnym dla osób postronnych (ust. 5), chyba że kontrola musi być niezwłoczna (ust. 6).",
   "zrodlo": "test"
  },
  {
@@ -74,7 +74,7 @@
    "co najmniej w 4 egzemplarzach",
    "w książce wydarzeń dyżurnego jednostki"
   ],
-  "wyjasnienie": "Art. 15e ust. 10 ustawy o Policji. W teście odpowiedź brzmiała krótko: „tylko na żądanie właściciela bagażu”.",
+  "wyjasnienie": "Art. 15e ust. 10 ustawy o Policji: protokół sporządza się na żądanie posiadacza bagażu (lub przedstawiciela przewoźnika) zgłoszone bezpośrednio po czynności oraz gdy znaleziono broń lub przedmioty z art. 15 ust. 1 pkt 5.",
   "zrodlo": "test"
  },
  {
@@ -178,7 +178,7 @@
    "odnalezienia śladów przestępstwa",
    "ujawnienia i odebrania broni posiadanej nielegalnie"
   ],
-  "wyjasnienie": "Art. 219 § 1 k.p.k. obejmuje tylko osobę PODEJRZANĄ i rzeczy będące dowodami lub podlegające zajęciu. W teście: „odszukanie osób poszukiwanych przez Policję”.",
+  "wyjasnienie": "Art. 219 § 1 k.p.k.: przeszukanie służy wykryciu, zatrzymaniu lub doprowadzeniu osoby PODEJRZANEJ oraz znalezieniu rzeczy będących dowodem lub podlegających zajęciu. Nie służy szukaniu np. osób zaginionych.",
   "zrodlo": "test"
  },
  {
@@ -191,7 +191,7 @@
    "ustalenia wynikające z pracy operacyjnej",
    "prowadzone postępowania przygotowawcze lub zawiadomienia o czynie"
   ],
-  "wyjasnienie": "Wymagane są „uzasadnione podstawy do przypuszczenia” (art. 219 k.p.k.) – mogą wynikać z różnych źródeł.",
+  "wyjasnienie": "Art. 219 § 1–2 k.p.k.: potrzebne są „uzasadnione podstawy do przypuszczenia”, że osoba lub rzeczy tam się znajdują – mogą wynikać z pościgu, pracy operacyjnej, zawiadomienia czy prowadzonego postępowania.",
   "zrodlo": "test"
  },
  {
@@ -204,7 +204,7 @@
    "przedmiotów pochodzących z przestępstwa",
    "niebezpiecznych narzędzi"
   ],
-  "wyjasnienie": "Art. 219 k.p.k.",
+  "wyjasnienie": "Art. 219 § 1–2 k.p.k.: przeszukanie służy znalezieniu rzeczy mogących stanowić dowód lub podlegających zajęciu – narzędzi przestępstwa, przedmiotów z przestępstwa, niebezpiecznych przedmiotów.",
   "zrodlo": "test"
  },
  {
@@ -295,7 +295,7 @@
    "odwołanie",
    "rewizja"
   ],
-  "wyjasnienie": "Art. 236 § 1 k.p.k.",
+  "wyjasnienie": "Art. 236 § 1 k.p.k.: na postanowienie dotyczące przeszukania, zatrzymania rzeczy oraz na inne czynności przysługuje zażalenie osobom, których prawa naruszono.",
   "zrodlo": "test"
  },
  {
@@ -308,7 +308,7 @@
    "sąd okręgowy, w rejonie którego prowadzone jest postępowanie sprawdzające",
    "komendant jednostki Policji"
   ],
-  "wyjasnienie": "Art. 236 § 1 k.p.k.",
+  "wyjasnienie": "Art. 236 § 1 k.p.k.: zażalenie na postanowienie lub czynność w postępowaniu przygotowawczym rozpoznaje sąd rejonowy, w okręgu którego prowadzone jest postępowanie.",
   "zrodlo": "test"
  },
  {
@@ -334,7 +334,7 @@
    "dochodzenia",
    "czynności w niezbędnym zakresie (art. 308 k.p.k.)"
   ],
-  "wyjasnienie": "Art. 307 § 2 k.p.k. – w postępowaniu sprawdzającym nie przeprowadza się czynności wymagających protokołu. Przeszukanie jest możliwe w trybie art. 308.",
+  "wyjasnienie": "Art. 307 § 2 i § 5 k.p.k.: w postępowaniu sprawdzającym nie przeprowadza się czynności wymagających protokołu (a przeszukanie go wymaga – art. 143 § 1 pkt 6). Przeszukanie jest możliwe w trybie art. 308.",
   "zrodlo": "test"
  },
  {
@@ -373,7 +373,7 @@
    "protokół oględzin miejsca znalezienia przedmiotów",
    "protokół oględzin znalezionych przedmiotów"
   ],
-  "wyjasnienie": "Przedmioty znalezione ogląda się, spisuje i opisuje (art. 228 § 1 k.p.k.).",
+  "wyjasnienie": "Art. 228 § 1 k.p.k.: przedmioty znalezione ogląda się, spisuje i opisuje – stąd protokoły oględzin miejsca przeszukania, miejsca znalezienia i samych przedmiotów (art. 207 i 143 § 1 pkt 3).",
   "zrodlo": "test"
  },
  {
@@ -386,7 +386,7 @@
    "notatki osób postronnych",
    "oświadczenia sąsiadów"
   ],
-  "wyjasnienie": "Dokumentacja uzupełniająca protokół.",
+  "wyjasnienie": "Art. 143 § 1 pkt 6 i art. 229 k.p.k. – podstawą jest protokół przeszukania. Szkice i utrwalenia techniczne (zdjęcia, nagranie – art. 147 § 1 k.p.k.) to dokumentacja uzupełniająca.",
   "zrodlo": "test"
  },
  {
@@ -529,7 +529,7 @@
    "mieszkania, garaże, koszary",
    "wszystkie wymienione"
   ],
-  "wyjasnienie": "Garaż nie jest pomieszczeniem zamieszkałym (służy do przechowywania).",
+  "wyjasnienie": "Art. 221 § 1 i § 3 k.p.k. odróżnia pomieszczenia zamieszkałe (mieszkania, pokoje hotelowe, koszary) od lokali służących do przechowywania przedmiotów (np. garaż). Te drugie wolno przeszukać także nocą.",
   "zrodlo": "test"
  },
  {
@@ -594,7 +594,7 @@
    "nakaz kierownika jednostki wydany w sytuacji niecierpiącej zwłoki upoważnia do przeszukania",
    "osoba, u której dokonujemy przeszukania, ma obowiązek wydać na żądanie prokuratora przedmioty mogące stanowić dowód"
   ],
-  "wyjasnienie": "Osobę przybiera PROWADZĄCY czynność (art. 224 § 2 k.p.k.) – to nie obowiązek przeszukiwanego.",
+  "wyjasnienie": "Art. 224 § 2 k.p.k.: osobę przybiera PROWADZĄCY czynność – przeszukiwany nie ma takiego obowiązku. Pozostałe zdania: art. 228 § 3, art. 220 § 3, art. 217 § 1 k.p.k.",
   "zrodlo": "test"
  },
  {
@@ -620,7 +620,7 @@
    "wyłącznie uzyskać postanowienie o przeszukaniu",
    "wyłącznie zwrócić się o zgodę do rektora"
   ],
-  "wyjasnienie": "Art. 50 ust. 3–4 ustawy – Prawo o szkolnictwie wyższym i nauce: służby porządkowe wkraczają na teren uczelni na wezwanie rektora, a bez wezwania tylko przy bezpośrednim zagrożeniu życia lub zdrowia albo klęsce żywiołowej (wtedy niezwłocznie zawiadamiają rektora). Samo przeszukanie wymaga postanowienia prokuratora lub sądu (art. 220 k.p.k.). UWAGA – niepewne: ustawa mówi o wezwaniu rektora, a klucz testu o jego zgodzie.",
+  "wyjasnienie": "Art. 50 ust. 3–4 ustawy – Prawo o szkolnictwie wyższym i nauce: Policja wkracza na teren uczelni na wezwanie rektora, a bez wezwania tylko przy bezpośrednim zagrożeniu życia lub zdrowia albo klęsce żywiołowej. Samo przeszukanie wymaga postanowienia prokuratora lub sądu (art. 220 § 1–2 k.p.k.). Potrzebne są więc obie rzeczy.",
   "zrodlo": "test"
  },
  {
@@ -633,7 +633,7 @@
    "położenie lokalu, który będzie przeszukiwany",
    "liczba policjantów uczestniczących w przeszukaniu i zabezpieczających obiekt"
   ],
-  "wyjasnienie": "Sylabus JS08, pkt 8 – czynności przygotowawcze.",
+  "wyjasnienie": "Sylabus JM02 JS08 „Przeszukanie osoby, pomieszczeń i rzeczy” (decyzja 162 SZPC), pkt 8 – czynności przygotowawcze: czas, położenie lokalu, liczba policjantów i zabezpieczenie obiektu. Granice czynności – art. 227 k.p.k.",
   "zrodlo": "test"
  },
  {
@@ -646,7 +646,7 @@
    "wyłącznie siły fizycznej",
    "wyłącznie środków technicznych"
   ],
-  "wyjasnienie": "Przeszukanie z siłowym wejściem wymaga planu (czynności przygotowawcze).",
+  "wyjasnienie": "Sylabus JM02 JS08 „Przeszukanie osoby, pomieszczeń i rzeczy” (decyzja 162 SZPC) – czynności przygotowawcze: plan sporządza się, gdy przewiduje się siłowe wejście (siła fizyczna, środki chemiczne lub techniczne – art. 12 ust. 1 pkt 19 i art. 32 ustawy o ŚPB).",
   "zrodlo": "test"
  },
  {
@@ -659,7 +659,7 @@
    "skupić całą uwagę na samych przedmiotach",
    "zawsze dobrać sobie osobę do tej czynności"
   ],
-  "wyjasnienie": "Wymóg bezpieczeństwa (sylabus JS08, pkt 12).",
+  "wyjasnienie": "Sylabus JM02 JS08 „Przeszukanie osoby, pomieszczeń i rzeczy” (decyzja 162 SZPC), pkt 12 – taktyka przeszukania osoby: policjant cały czas obserwuje ruchy i zachowanie przeszukiwanego (bezpieczeństwo własne i zapobieganie pozbyciu się przedmiotów).",
   "zrodlo": "test"
  },
  {
@@ -672,7 +672,7 @@
    "metoda segmentowa polega na przeszukaniu od ścian do środka pomieszczenia z czterech kierunków",
    "przeszukanie pomieszczeń zajętych przez wojsko może się odbyć tylko w obecności prokuratora"
   ],
-  "wyjasnienie": "Art. 228 § 1 k.p.k.",
+  "wyjasnienie": "Art. 228 § 1 k.p.k.: znalezione przedmioty po oględzinach, spisie i opisie zabiera się albo oddaje na przechowanie osobie godnej zaufania. Pomieszczenia wojska – obecność dowódcy, nie prokuratora (art. 222 § 2).",
   "zrodlo": "test"
  },
  {
@@ -685,7 +685,7 @@
    "prokuratorskiego",
    "każdego z wymienionych"
   ],
-  "wyjasnienie": "Konwencja wiedeńska o stosunkach dyplomatycznych – nietykalność osoby, mieszkania i korespondencji agenta dyplomatycznego.",
+  "wyjasnienie": "Konwencja wiedeńska o stosunkach dyplomatycznych (art. 29–30) – nietykalność osoby, mieszkania i dokumentów agenta dyplomatycznego; art. 578–579 k.p.k. Immunitet parlamentarny chroni przed pociągnięciem do odpowiedzialności i zatrzymaniem (art. 105 Konstytucji), nie wyłącza każdej czynności.",
   "zrodlo": "test"
  },
  {
@@ -789,7 +789,7 @@
    "przerwać czynność i pozostawić dokumenty",
    "odstąpić od przeszukania"
   ],
-  "wyjasnienie": "Praktyka zabezpieczania dokumentów (zasada należytej staranności – art. 227).",
+  "wyjasnienie": "Art. 227 i art. 228 § 1 k.p.k.: przeszukanie w granicach niezbędnych i z należytą starannością – przy dużej liczbie dokumentów pakuje się je w oddzielny, opisany i opieczętowany pakiet, zamiast spisywać każdy z osobna.",
   "zrodlo": "test"
  },
  {
@@ -893,7 +893,7 @@
    "należy pozostawić kopię plików każdej osobie, która złoży wniosek",
    "zawsze trzeba pozostawić kopię plików osobie, od której zatrzymano nośnik"
   ],
-  "wyjasnienie": "Art. 236a k.p.k. (dysponent i użytkownik danych). Poradnik JS08 zwraca uwagę na specyfikę zabezpieczania nośników elektronicznych.",
+  "wyjasnienie": "Art. 236a k.p.k.: przepisy o przeszukaniu i zatrzymaniu rzeczy stosuje się odpowiednio do dysponenta i użytkownika urządzenia z danymi. Zgodnie z art. 227 (bez niepotrzebnych szkód) można mu udostępnić kopię niezbędnych plików, jeśli ich posiadanie nie jest zabronione.",
   "zrodlo": "test"
  },
  {
@@ -932,7 +932,7 @@
    "w aktach sprawy",
    "w depozycie jednostki Policji"
   ],
-  "wyjasnienie": "§ 31 zarządzenia nr 4 KGP z 9 lutego 2017 r. w sprawie niektórych form organizacji i ewidencji czynności dochodzeniowo-śledczych Policji oraz przechowywania przez Policję dowodów rzeczowych: pieniądze obiegowe, które nie muszą być zachowane w konkretnych egzemplarzach, wpłaca się na rachunek prowadzony na podstawie ustawy o finansach publicznych, a wyjątkowo na konto sum depozytowych prokuratury. Do banku jako depozyt wartościowy trafiają tylko pieniądze, które trzeba zachować w konkretnych egzemplarzach (§ 32). Spośród odpowiedzi testu najbliższa przepisowi jest rachunek depozytowy.",
+  "wyjasnienie": "§ 31 zarządzenia nr 4 KGP z 9 lutego 2017 r.: pieniądze obiegowe, które nie muszą być zachowane w konkretnych egzemplarzach, wpłaca się na rachunek depozytowy (art. 83a ustawy o finansach publicznych), wyjątkowo na konto sum depozytowych prokuratury. Do banku jako depozyt wartościowy idą tylko te, które trzeba zachować w konkretnych egzemplarzach (§ 32).",
   "zrodlo": "test"
  },
  {

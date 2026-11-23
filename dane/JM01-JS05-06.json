@@ -9,7 +9,7 @@
    "czynnością wykonywaną wyłącznie na polecenie prokuratora",
    "pojęciem szerszym od kryminalistycznego badania miejsca zdarzenia"
   ],
-  "wyjasnienie": "Kryminalistyczne badanie miejsca zdarzenia obejmuje oględziny oraz inne czynności (np. procesowe, operacyjne, techniczne).",
+  "wyjasnienie": "Prezentacja JM01/JS06 „Oględziny rzeczy i miejsca zdarzenia” (decyzja 162 SZPC): kryminalistyczne badanie miejsca zdarzenia to zespół wszystkich czynności – zabezpieczenie miejsca, oględziny, penetracja terenu, pościg, pies tropiący, przesłuchania, czynności operacyjne. Oględziny są jego częścią.",
   "zrodlo": "test"
  },
  {
@@ -61,7 +61,7 @@
    "potwierdzenie wersji przedstawionej przez pokrzywdzonego",
    "zastąpienie późniejszych badań laboratoryjnych"
   ],
-  "wyjasnienie": "Oględziny to bezpośrednie postrzeganie miejsca, osoby lub rzeczy przez organ procesowy w celu ujawnienia i utrwalenia śladów.",
+  "wyjasnienie": "Prezentacja JM01/JS06 „Oględziny rzeczy i miejsca zdarzenia” (decyzja 162 SZPC): oględziny to bezpośrednie zbadanie miejsca, osoby lub rzeczy w celu ujawnienia rzeczowych źródeł dowodowych i obiektywnej rekonstrukcji przebiegu zdarzenia. Podstawa procesowa – art. 207 § 1 k.p.k.",
   "zrodlo": "test"
  },
  {
@@ -74,7 +74,7 @@
    "ustalenia winy podejrzanego przed przedstawieniem zarzutów",
    "wydania końcowej opinii co do kwalifikacji prawnej czynu"
   ],
-  "wyjasnienie": "Oglądający nie ocenia winy ani nie zastępuje biegłego – utrwala stan faktyczny.",
+  "wyjasnienie": "Prezentacja JM01/JS06 „Oględziny rzeczy i miejsca zdarzenia” (decyzja 162 SZPC): celem oględzin jest obiektywna rekonstrukcja przebiegu zdarzenia, a więc także weryfikacja wersji. Oglądający nie ocenia winy i nie zastępuje biegłego (opinię wydaje biegły – art. 193 k.p.k.).",
   "zrodlo": "test"
  },
  {
@@ -87,7 +87,7 @@
    "oględziny powinny zakończyć się przed upływem 60 minut od zgłoszenia",
    "do oględzin należy skierować możliwie największą liczbę osób"
   ],
-  "wyjasnienie": "Szybkość dotyczy podjęcia czynności (ślady z czasem się zmieniają), a nie pośpiechu kosztem dokładności.",
+  "wyjasnienie": "Prezentacja JM01/JS06 „Oględziny rzeczy i miejsca zdarzenia” (decyzja 162 SZPC) – zasady oględzin: szybkość oznacza niezwłoczne podjęcie czynności (ślady z czasem się zmieniają), a nie pośpiech kosztem dokładności.",
   "zrodlo": "test"
  },
  {
@@ -100,7 +100,7 @@
    "wykonanie wszystkich zdjęć przed jakimikolwiek innymi czynnościami",
    "obowiązek podzielenia każdego miejsca na cztery równe sektory"
   ],
-  "wyjasnienie": "Plan oględzin dobiera się do rodzaju miejsca i zdarzenia.",
+  "wyjasnienie": "Prezentacja JM01/JS06 „Oględziny rzeczy i miejsca zdarzenia” (decyzja 162 SZPC) – zasady oględzin: planowość to działanie według logicznej kolejności dobranej do rodzaju miejsca i zdarzenia.",
   "zrodlo": "test"
  },
  {
@@ -113,7 +113,7 @@
    "rezygnację z dokumentacji fotograficznej, jeżeli sporządzono protokół",
    "prowadzenie oględzin wyłącznie przez osoby obecne jako pierwsze na miejscu"
   ],
-  "wyjasnienie": "Ekonomiczność nie oznacza pomijania istotnych śladów.",
+  "wyjasnienie": "Prezentacja JM01/JS06 „Oględziny rzeczy i miejsca zdarzenia” (decyzja 162 SZPC) – zasady oględzin: ekonomiczność to racjonalne użycie sił i środków adekwatnie do rodzaju i skutków zdarzenia, bez pomijania istotnych śladów.",
   "zrodlo": "test"
  },
  {
@@ -126,7 +126,7 @@
    "kto? kiedy? gdzie? ile? w jaki sposób? z kim? po co?",
    "kto? czym? gdzie? z kim? po co? skąd? dokąd?"
   ],
-  "wyjasnienie": "Klasyczny zestaw pytań, na które odpowiada badanie miejsca zdarzenia.",
+  "wyjasnienie": "Prezentacja JM01/JS06 „Oględziny rzeczy i miejsca zdarzenia” (decyzja 162 SZPC): siedem złotych pytań kryminalistyki – co? gdzie? kiedy? jak? czym? dlaczego? kto? Na nie ma odpowiedzieć badanie miejsca zdarzenia.",
   "zrodlo": "test"
  },
  {
@@ -139,7 +139,7 @@
    "warunki atmosferyczne są trudne",
    "prowadzący nie dysponuje aparatem fotograficznym"
   ],
-  "wyjasnienie": "Oględziny są fakultatywne („w razie potrzeby” – art. 207 k.p.k.). Odstąpienie dokumentuje się (np. notatką urzędową z uzasadnieniem). Trudne warunki czy brak sprzętu nie są powodem.",
+  "wyjasnienie": "Art. 207 § 1 k.p.k. – oględzin dokonuje się „w razie potrzeby”, więc gdy na miejscu nie ma czego ujawnić ani zabezpieczyć, można od nich odstąpić (dokumentuje się to notatką urzędową). Trudne warunki czy brak sprzętu nie są powodem.",
   "zrodlo": "test"
  },
  {
@@ -152,7 +152,7 @@
    "tak, ale tylko w sprawach o przestępstwa przeciwko życiu i zdrowiu",
    "nie, ale tylko wtedy, gdy sprawca przyznał się do czynu"
   ],
-  "wyjasnienie": "Por. „okoliczność negatywna”.",
+  "wyjasnienie": "Prezentacja JM01/JS06 „Oględziny rzeczy i miejsca zdarzenia” (decyzja 162 SZPC): o miejscu zdarzenia decyduje jego związek ze zdarzeniem, a nie same ślady. Brak oczekiwanych śladów to tzw. okoliczność negatywna, która też ma znaczenie.",
   "zrodlo": "test"
  },
  {
@@ -165,7 +165,7 @@
    "nieprawidłowe zachowanie osoby uczestniczącej w oględzinach",
    "brak technika kryminalistyki na miejscu"
   ],
-  "wyjasnienie": "Np. brak śladów włamania przy rzekomej kradzieży z włamaniem – może wskazywać na upozorowanie.",
+  "wyjasnienie": "Prezentacja JM01/JS06 „Oględziny rzeczy i miejsca zdarzenia” (decyzja 162 SZPC): okoliczność negatywna to brak śladu, który przy danej wersji powinien wystąpić, np. brak śladów włamania przy rzekomym włamaniu – może wskazywać na upozorowanie.",
   "zrodlo": "test"
  },
  {
@@ -178,7 +178,7 @@
    "Stały Poziom Oględzin",
    "System Pomiaru Obiektu"
   ],
-  "wyjasnienie": "SPO i SLO służą do określania położenia śladów (pomiary w protokole i na szkicu).",
+  "wyjasnienie": "Prezentacja JM01/JS06 „Oględziny rzeczy i miejsca zdarzenia” (decyzja 162 SZPC): SPO – Stały Punkt Odniesienia; wraz z SLO służy do określania położenia śladów w protokole oględzin i na szkicu.",
   "zrodlo": "test"
  },
  {
@@ -191,7 +191,7 @@
    "Stałą Liczbę Odległości",
    "Szczegółową Linię Obserwacji"
   ],
-  "wyjasnienie": "Np. krawędź jezdni lub ściana budynku.",
+  "wyjasnienie": "Prezentacja JM01/JS06 „Oględziny rzeczy i miejsca zdarzenia” (decyzja 162 SZPC): SLO – Stała Linia Odniesienia (np. krawędź jezdni, ściana budynku), od której mierzy się położenie śladów.",
   "zrodlo": "test"
  },
  {
@@ -230,7 +230,7 @@
    "metryczkę śladową i protokół oględzin",
    "wyłącznie notatkę urzędową"
   ],
-  "wyjasnienie": "Protokół jest obowiązkowy, pozostałe formy – fakultatywne.",
+  "wyjasnienie": "Art. 143 § 1 pkt 3 k.p.k. – obowiązkowy jest tylko protokół oględzin. Fotografie, szkice i plany to dokumentacja fakultatywna (załączniki), a nagranie – art. 147 § 1 k.p.k.",
   "zrodlo": "test"
  },
  {
@@ -243,7 +243,7 @@
    "art. 207 § 1 k.p.k",
    "art. 148 § 1 k.p.k"
   ],
-  "wyjasnienie": "Art. 147 § 1 k.p.k.",
+  "wyjasnienie": "Art. 147 § 1 k.p.k.: przebieg czynności protokołowanych może być utrwalony ponadto za pomocą urządzenia rejestrującego obraz lub dźwięk.",
   "zrodlo": "test"
  },
  {
@@ -256,7 +256,7 @@
    "uzyskać zgodę prokuratora niezależnie od charakteru sprawy",
    "sporządzić osobny protokół uruchomienia urządzenia"
   ],
-  "wyjasnienie": "Art. 147 § 1 k.p.k. – wystarczy uprzedzenie, zgoda nie jest potrzebna.",
+  "wyjasnienie": "Art. 147 § 1 k.p.k.: o utrwalaniu należy przed uruchomieniem urządzenia uprzedzić osoby uczestniczące w czynności – zgoda nie jest potrzebna.",
   "zrodlo": "test"
  },
  {
@@ -269,7 +269,7 @@
    "formę osobową niedokonaną, np. „zabezpieczałem”",
    "formę nieosobową niedokonaną, np. „ujawniano”"
   ],
-  "wyjasnienie": "Protokół oględzin pisze się bezosobowo (w przeciwieństwie do zeznań świadka – 1. osoba czasu przeszłego).",
+  "wyjasnienie": "Prezentacja JM01/JS06 „Oględziny rzeczy i miejsca zdarzenia” (decyzja 162 SZPC) – dokumentowanie oględzin: protokół (art. 143 § 1 pkt 3 k.p.k.) pisze się w formie nieosobowej dokonanej („ujawniono”, „zabezpieczono”), w odróżnieniu od zeznań świadka.",
   "zrodlo": "test"
  },
  {
@@ -282,7 +282,7 @@
    "Ślad nr 3 prawdopodobnie pozostawił sprawca, dlatego go zabezpieczono",
    "Butelka była zapewne używana podczas zdarzenia i dlatego uznano ją za dowód"
   ],
-  "wyjasnienie": "Opis obiektywny, bez ocen i domysłów, w formie nieosobowej.",
+  "wyjasnienie": "Prezentacja JM01/JS06 „Oględziny rzeczy i miejsca zdarzenia” (decyzja 162 SZPC) – dokumentowanie oględzin: opis obiektywny, bez ocen i domysłów, w formie nieosobowej (protokół – art. 143 § 1 pkt 3 i art. 148 k.p.k.).",
   "zrodlo": "test"
  },
  {
@@ -295,7 +295,7 @@
    "wyniki przyszłej ekspertyzy kryminalistycznej",
    "ocenę, czy ślad wystarczy do skazania sprawcy"
   ],
-  "wyjasnienie": "Protokół utrwala stan faktyczny – bez ocen dowodowych.",
+  "wyjasnienie": "Prezentacja JM01/JS06 „Oględziny rzeczy i miejsca zdarzenia” (decyzja 162 SZPC) – dokumentowanie oględzin: protokół utrwala stan faktyczny – rodzaj, cechy i położenie śladu, bez ocen dowodowych (ocenia sąd – art. 7 k.p.k.).",
   "zrodlo": "test"
  },
  {
@@ -308,7 +308,7 @@
    "każdy przedmiot zabezpieczony przez policjanta, niezależnie od związku ze zdarzeniem",
    "wyłącznie ślad, który umożliwia jednoznaczną identyfikację konkretnej osoby"
   ],
-  "wyjasnienie": "Kluczowa jest możliwość wnioskowania o przebiegu zdarzenia (funkcja rekonstrukcyjna i identyfikacyjna).",
+  "wyjasnienie": "Prezentacja JM01/JS06 „Oględziny rzeczy i miejsca zdarzenia” (decyzja 162 SZPC) – ślady kryminalistyczne: wg J. Sehna śladem jest każda zmiana lub pozostałość związana ze zdarzeniem, pozwalająca odtworzyć jego przebieg, osoby lub przedmioty (funkcja rekonstrukcyjna i identyfikacyjna).",
   "zrodlo": "test"
  },
  {
@@ -321,7 +321,7 @@
    "jawne, utajone i mikroślady",
    "osobowe, rzeczowe i mieszane"
   ],
-  "wyjasnienie": "Podział podstawowy wg mechanizmu powstania. Podział na jawne i utajone dotyczy widoczności.",
+  "wyjasnienie": "Prezentacja JM01/JS06 „Oględziny rzeczy i miejsca zdarzenia” (decyzja 162 SZPC) – ślady kryminalistyczne: podział wg mechanizmu powstania – odwzorowania, plamy i inne. Podział na jawne i utajone dotyczy widoczności.",
   "zrodlo": "test"
  },
  {
@@ -334,7 +334,7 @@
    "nałożone i odwzorowane",
    "ślizgowe i odciskowe"
   ],
-  "wyjasnienie": "Nawarstwione – substancja przeniesiona na podłoże (np. błoto), odwarstwione – substancja zebrana z podłoża (np. kurz).",
+  "wyjasnienie": "Prezentacja JM01/JS06 „Oględziny rzeczy i miejsca zdarzenia” (decyzja 162 SZPC) – ślady kryminalistyczne: ślady powierzchniowe są nawarstwione (substancja przeniesiona na podłoże, np. błoto) albo odwarstwione (substancja zebrana z podłoża, np. kurz).",
   "zrodlo": "test"
  },
  {
@@ -347,7 +347,7 @@
    "techniczne i operacyjne",
    "statyczne i dynamiczne"
   ],
-  "wyjasnienie": "Procesowe – utrwalenie w dokumentacji (protokół, metryczka). Techniczne – fizyczne zabezpieczenie (odlew, folia, opakowanie).",
+  "wyjasnienie": "Prezentacja JM01/JS06 „Oględziny rzeczy i miejsca zdarzenia” (decyzja 162 SZPC) – zabezpieczanie śladów: procesowe – utrwalenie w dokumentacji (protokół, metryczka); techniczne – fizyczne zabezpieczenie (odlew, folia, opakowanie).",
   "zrodlo": "test"
  },
  {
@@ -360,7 +360,7 @@
    "przeniesienie śladu na folię daktyloskopijną",
    "zabezpieczenie przedmiotu wraz z podłożem"
   ],
-  "wyjasnienie": "Odlew, folia i zabezpieczenie z podłożem to zabezpieczenia techniczne.",
+  "wyjasnienie": "Prezentacja JM01/JS06 „Oględziny rzeczy i miejsca zdarzenia” (decyzja 162 SZPC) – zabezpieczanie śladów: opis w protokole (art. 143 § 1 pkt 3 k.p.k.) to zabezpieczenie procesowe. Odlew, folia i zabezpieczenie z podłożem to zabezpieczenia techniczne.",
   "zrodlo": "test"
  },
  {
@@ -373,7 +373,7 @@
    "przeniesienie śladu na odpowiedni nośnik",
    "prawidłowe opakowanie zabezpieczonego materiału"
   ],
-  "wyjasnienie": "Metryczka śladowa to dokumentacja (zabezpieczenie procesowe), która towarzyszy zabezpieczonemu technicznie śladowi.",
+  "wyjasnienie": "Prezentacja JM01/JS06 „Oględziny rzeczy i miejsca zdarzenia” (decyzja 162 SZPC) – zabezpieczanie śladów: metryczka śladowa to dokumentacja, czyli zabezpieczenie procesowe, a nie techniczne.",
   "zrodlo": "test"
  },
  {
@@ -386,7 +386,7 @@
    "jest wyłącznie technicznym sposobem zabezpieczenia śladu",
    "sporządzana jest tylko dla śladów biologicznych"
   ],
-  "wyjasnienie": "Metryczka (pomoc dydaktyczna z sylabusa JS06) opisuje ślad i jest dołączana do opakowania.",
+  "wyjasnienie": "Prezentacja JM01/JS06 „Oględziny rzeczy i miejsca zdarzenia” (decyzja 162 SZPC) – zabezpieczanie śladów: metryczka opisuje ślad i jest dołączana do opakowania – to procesowa forma zabezpieczenia, która towarzyszy technicznej. Nie zastępuje protokołu.",
   "zrodlo": "test"
  },
  {
@@ -399,7 +399,7 @@
    "osmologicznym",
    "mechanoskopijnym"
   ],
-  "wyjasnienie": "Daktyloskopia – linie papilarne. Traseologia – ślady stóp, obuwia, opon. Mechanoskopia – ślady narzędzi.",
+  "wyjasnienie": "Prezentacja JM01/JS06 „Oględziny rzeczy i miejsca zdarzenia” (decyzja 162 SZPC) – rodzaje śladów: daktyloskopia – linie papilarne; traseologia – ślady stóp, obuwia, opon; mechanoskopia – ślady narzędzi; osmologia – zapach.",
   "zrodlo": "test"
  },
  {
@@ -412,7 +412,7 @@
    "wyłącznie daktyloskopijnym",
    "osmologicznym i mechanoskopijnym"
   ],
-  "wyjasnienie": "Można go badać zarówno daktyloskopijnie, jak i genetycznie (DNA).",
+  "wyjasnienie": "Prezentacja JM01/JS06 „Oględziny rzeczy i miejsca zdarzenia” (decyzja 162 SZPC) – rodzaje śladów: odbitka linii papilarnych we krwi jest śladem daktyloskopijnym i biologicznym (badanie DNA).",
   "zrodlo": "test"
  },
  {
@@ -425,7 +425,7 @@
    "na całej powierzchni skóry człowieka",
    "na opuszkach palców rąk oraz na małżowinach usznych"
   ],
-  "wyjasnienie": "Linie papilarne są na całej dłoniowej stronie rąk i podeszwowej stronie stóp. Małżowina uszna daje osobny ślad (otoskopia).",
+  "wyjasnienie": "Prezentacja JM01/JS06 „Oględziny rzeczy i miejsca zdarzenia” (decyzja 162 SZPC) – ślady daktyloskopijne: linie papilarne są na całej dłoniowej stronie rąk i podeszwowej stronie stóp. Małżowina uszna daje osobny ślad (otoskopia).",
   "zrodlo": "test"
  },
  {
@@ -438,7 +438,7 @@
    "główny ślad rekonstrukcyjny",
    "graficzny schemat rekonstrukcji"
   ],
-  "wyjasnienie": "GSR – gunshot residue.",
+  "wyjasnienie": "Prezentacja JM01/JS06 „Oględziny rzeczy i miejsca zdarzenia” (decyzja 162 SZPC) – ślady fizykochemiczne: GSR (gunshot residue) – pozostałości powystrzałowe.",
   "zrodlo": "test"
  },
  {
@@ -451,7 +451,7 @@
    "pochłaniacz zapachu",
    "masę silikonową"
   ],
-  "wyjasnienie": "Stoliki z taśmą węglową, badane mikroskopem elektronowym.",
+  "wyjasnienie": "Prezentacja JM01/JS06 „Oględziny rzeczy i miejsca zdarzenia” (decyzja 162 SZPC) – ślady fizykochemiczne: GSR zabezpiecza się na stolikach z taśmą węglową, badanych mikroskopem elektronowym.",
   "zrodlo": "test"
  },
  {
@@ -464,7 +464,7 @@
    "daktyloskopijnych",
    "traseologicznych"
   ],
-  "wyjasnienie": "Bada się je metodami fizykochemicznymi (identyfikacja najczęściej grupowa).",
+  "wyjasnienie": "Prezentacja JM01/JS06 „Oględziny rzeczy i miejsca zdarzenia” (decyzja 162 SZPC) – ślady fizykochemiczne: metale, włókna, szkło, lakiery – badane metodami fizykochemicznymi, identyfikacja najczęściej grupowa.",
   "zrodlo": "test"
  },
  {
@@ -477,7 +477,7 @@
    "wyłącznie ślady biologiczne w postaci wydzielin człowieka",
    "ślady zapachowe zabezpieczane tylko wtedy, gdy są wyczuwalne przez człowieka"
   ],
-  "wyjasnienie": "Zapach człowieka jest indywidualny. Ślady zapachowe porównuje pies specjalny metodą selekcji.",
+  "wyjasnienie": "Prezentacja JM01/JS06 „Oględziny rzeczy i miejsca zdarzenia” (decyzja 162 SZPC) – ślady osmologiczne: zapach człowieka jest indywidualny; ślad porównuje pies specjalny metodą selekcji.",
   "zrodlo": "test"
  },
  {
@@ -490,7 +490,7 @@
    "spryskanie miejsca substancją ujawniającą, pobranie wymazu, pozostawienie do wyschnięcia",
    "pobranie przedmiotu ręką w rękawiczce, owinięcie w papier i umieszczenie w kopercie"
   ],
-  "wyjasnienie": "Pochłaniacz (np. gaza, wata) przejmuje zapach z podłoża; potem trafia do szczelnego słoika.",
+  "wyjasnienie": "Prezentacja JM01/JS06 „Oględziny rzeczy i miejsca zdarzenia” (decyzja 162 SZPC) – ślady osmologiczne: pochłaniacz zapachu na wytypowane miejsce, przykrycie folią aluminiową, potem pochłaniacz do szczelnego, neutralnego zapachowo słoja.",
   "zrodlo": "test"
  },
  {
@@ -503,7 +503,7 @@
    "wykonanie odlewu miejsca, z którego pobierany jest zapach",
    "pobranie śladu dopiero po zabezpieczeniu wszystkich innych śladów"
   ],
-  "wyjasnienie": "Zapach jest nietrwały i łatwo go zanieczyścić – ślady osmologiczne zabezpiecza się w pierwszej kolejności.",
+  "wyjasnienie": "Prezentacja JM01/JS06 „Oględziny rzeczy i miejsca zdarzenia” (decyzja 162 SZPC) – ślady osmologiczne: zapach jest nietrwały i łatwo go zanieczyścić, dlatego zabezpiecza się go szybko i w pierwszej kolejności.",
   "zrodlo": "test"
  }
 ]
