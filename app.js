@@ -132,7 +132,7 @@ function rysujZakladki() {
     const b = document.createElement("button");
     b.className = "tab" + (z.wyrozniona ? " ex" : "") + (z.id === zakladka?.id ? " on" : "");
     b.innerHTML = `<span class="kod">${esc(z.kod || z.id)}</span><span class="nazwa">${esc(z.nazwa)}</span>`;
-    b.onclick = () => { if (z.id !== zakladka.id) otworz(z.id); };
+    b.onclick = () => { if (z.id !== zakladka?.id) otworz(z.id); };
     (z.wyrozniona ? boxEx : box).appendChild(b);
   }
 }
@@ -262,13 +262,23 @@ document.addEventListener("keydown", e => {
   else if ((k === "enter" || k === " ") && biezace?.odpowiedziano) { nastepne(); e.preventDefault(); }
 });
 
+function ekranStartowy() {
+  zakladka = null; biezace = null; stan = null;
+  document.body.classList.add("start");
+  rysujZakladki();
+  document.getElementById("tytul").textContent = "Wybierz test";
+  document.title = "Testy – nauka";
+  document.getElementById("card").innerHTML = `<div class="done"><h2>Wybierz test 👆</h2>
+    <p>Kliknij „Egzamin końcowy”, „Egzamin – spoza programu” albo rozwiń „Pozostałe testy”.</p></div>`;
+}
+
 async function otworz(id) {
+  document.body.classList.remove("start");
   if (stan) zatrzymajCzas();
   biezace = null;
   ukryjWynik();
   zakladka = zakladki.find(z => z.id === id) || zakladki[0];
   try { localStorage.setItem("testy_zakladka", zakladka.id); } catch {}
-  history.replaceState(null, "", "#" + zakladka.id);
   rysujZakladki();
   const kod = zakladka.kod || zakladka.id;
   document.getElementById("tytul").innerHTML = `${esc(kod)} – ${esc(zakladka.nazwa)}`;
@@ -295,11 +305,11 @@ async function otworz(id) {
 
 fetch("dane/zakladki.json", { cache: "no-store" }).then(r => r.json()).then(z => {
   zakladki = z;
-  let start = location.hash.slice(1);
-  if (!zakladki.some(x => x.id === start)) {
-    try { start = localStorage.getItem("testy_zakladka"); } catch { start = null; }
-  }
-  otworz(start);
+  // bez wybranego testu w adresie strona startuje bez otwartej zakładki
+  const start = location.hash.slice(1);
+  if (location.hash) history.replaceState(null, "", location.pathname + location.search);
+  if (zakladki.some(x => x.id === start)) otworz(start);
+  else ekranStartowy();
 }).catch(() => {
   document.getElementById("card").textContent = "Nie udało się wczytać listy zakładek – otwórz stronę przez app.py albo z internetu.";
 });

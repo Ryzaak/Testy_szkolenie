@@ -71,6 +71,7 @@
   :is(.wynik, .wynik-koniec) th, :is(.wynik, .wynik-koniec) td { padding: 6px 8px; border-bottom: 1px solid var(--line); text-align: right; font-variant-numeric: tabular-nums; }
   :is(.wynik, .wynik-koniec) th:first-child, :is(.wynik, .wynik-koniec) td:first-child { text-align: left; }
   :is(.wynik, .wynik-koniec) th { color: var(--muted); font-weight: 600; font-size: 13px; }
+  body.start .stats, body.start .bar, body.start details.topics, body.start #reset, body.start .hint, body.start #wynik { display: none; }
   .wynik .stopka { display: flex; justify-content: flex-end; margin-top: 12px; }
 
   .stats { display: grid; grid-template-columns: repeat(6, 1fr); gap: 8px; margin: 16px 0 8px; }
@@ -165,6 +166,6 @@
   <div class="hint">Skróty: 1–4 lub A–D – odpowiedź, Enter – następne pytanie</div>
 </div>
 
-<script src="app.js?v=4"></script>
+<script src="app.js?v=6"></script>
 </body>
 </html>
