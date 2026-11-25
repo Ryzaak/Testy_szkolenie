@@ -45,6 +45,7 @@ function rysujCzas() {
   if (!stan) return;
   const ms = stan.czas + (startCzasu !== null ? Date.now() - startCzasu : 0);
   document.getElementById("sCzas").textContent = formatCzas(ms);
+  odswiezWynik();
 }
 setInterval(rysujCzas, 1000);
 setInterval(() => { if (startCzasu !== null) { zatrzymajCzas(); wznowCzas(); } }, 15000);
@@ -84,12 +85,20 @@ function htmlWyniku(koniec) {
 function pokazWynik() {
   const box = document.getElementById("wynik");
   if (!box.hidden) { ukryjWynik(); return; }
-  box.innerHTML = htmlWyniku(false) + `<div class="stopka"><button class="btn primary" id="ukryjWynik">Wróć do pytań</button></div>`;
+  box.innerHTML = `<div id="wynikTresc"></div><div class="stopka"><button class="btn primary" id="ukryjWynik">Wróć do pytań</button></div>`;
   box.hidden = false;
+  odswiezWynik();
   document.getElementById("pokazWynikTxt").textContent = "ukryj wynik";
   document.getElementById("pokazWynik").classList.add("on");
   document.getElementById("ukryjWynik").onclick = pokazWynik;
   box.scrollIntoView({ behavior: "smooth", block: "start" });
+}
+// gdy wynik jest widoczny, odświeża się razem ze statystykami i co sekundę (czas)
+function odswiezWynik() {
+  const box = document.getElementById("wynik");
+  if (box.hidden || !stan || !pytania.length) return;
+  const t = document.getElementById("wynikTresc");
+  if (t) t.innerHTML = htmlWyniku(false);
 }
 function ukryjWynik() {
   document.getElementById("wynik").hidden = true;
@@ -119,7 +128,6 @@ function rysujZakladki() {
   const inne = document.getElementById("inne");
   const akt = !zakladka?.wyrozniona ? zakladka : null;
   document.getElementById("inneAkt").textContent = akt ? "– otwarte: " + (akt.kod || akt.id) : "";
-  if (akt) inne.open = true;
   for (const z of zakladki) {
     const b = document.createElement("button");
     b.className = "tab" + (z.wyrozniona ? " ex" : "") + (z.id === zakladka?.id ? " on" : "");
