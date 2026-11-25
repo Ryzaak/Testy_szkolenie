@@ -1,0 +1,925 @@
+[
+ {
+  "id": "248d61b990",
+  "temat": "SZP Słupsk – 29.04.2025",
+  "pytanie": "Przepisy ustawy- Prawo o ruchu drogowym stosuję się do ruchu odbywającego się poza drogami publicznymi, strefami zamieszkania oraz strefami ruchu w zakresie:",
+  "poprawna": "koniecznym dla uniknięcia zagrożenia bezp. osób oraz wynikającym ze znaków i sygnałów drogowych",
+  "bledne": [
+   "wynikającym z ustaleń regulaminu wprowadzonego na drodze wewnętrznej",
+   "posiadanych uprawnień do kierowania pojazdami",
+   "dopuszczenia pojazdu do ruchu"
+  ],
+  "wyjasnienie": "Art. 1 ust. 2 ustawy – Prawo o ruchu drogowym: poza drogami publicznymi, strefami zamieszkania i ruchu przepisy stosuje się w zakresie koniecznym dla uniknięcia zagrożenia bezpieczeństwa osób oraz wynikającym ze znaków i sygnałów drogowych.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "1591007552",
+  "temat": "SZP Słupsk – 29.04.2025",
+  "pytanie": "Jeżeli stan techniczny pojazdu narusza wymagania ochrony środowiska, to policjant wystawionym pokwitowaniem za zatrzymany dowód rejestracyjny:",
+  "poprawna": "zezwoli na dalsze używanie pojazdu w terminie 7 dni",
+  "bledne": [
+   "zezwoli na dalsze używanie pojazdu w okresie 72 godz",
+   "zezwoli na dalsze używanie pojazdu w okresie 24 godz",
+   "nie zezwoli na dalsze używanie pojazdu"
+  ],
+  "wyjasnienie": "Art. 132 ustawy – Prawo o ruchu drogowym: przy naruszeniu wymagań ochrony środowiska pokwitowanie zezwala na używanie pojazdu do 7 dni.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "6db2c666a2",
+  "temat": "SZP Słupsk – 29.04.2025",
+  "pytanie": "Śmiertelną ofiarą wypadku, jest osoba zmarła:",
+  "poprawna": "na miejscu wypadku drogowego lub w ciągu 30 dni od dnia wypadku drogowego na skutek odniesionych w jego wyniku obrażeń",
+  "bledne": [
+   "na miejscu wypadku drogowego, bezpośrednio po nim lub w ciągu pierwszego miesiąca na skutek odniesionych w jego wyniku obrażeń",
+   "na miejscu wypadku drogowego",
+   "na skutek wypadku drogowego"
+  ],
+  "wyjasnienie": "Zarządzenie nr 30 KGP z 22 września 2017 r. w sprawie pełnienia służby na drodze: śmiertelna ofiara wypadku to osoba zmarła na miejscu lub w ciągu 30 dni od wypadku na skutek odniesionych w nim obrażeń.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "a2a8de489e",
+  "temat": "SZP Słupsk – 29.04.2025",
+  "pytanie": "Policjant po zatrzymaniu pojazdu, podaje kierującemu:",
+  "poprawna": "stopień, imię i nazwisko oraz przyczynę zatrzymania",
+  "bledne": [
+   "stopień, imię i nazwisko i jednostkę Policji",
+   "stopień, imię i nazwisko, przyczynę oraz podstawę prawną zatrzymania",
+   "stopień, imię i nazwisko i stanowisko"
+  ],
+  "wyjasnienie": "rozporządzenie w sprawie kontroli ruchu drogowego: policjant po zatrzymaniu pojazdu podaje stopień, imię i nazwisko oraz przyczynę zatrzymania (nieumundurowany – także okazuje legitymację).",
+  "zrodlo": "test"
+ },
+ {
+  "id": "a732b66063",
+  "temat": "SZP Słupsk – 29.04.2025",
+  "pytanie": "Zgodnie z art. 2 k.p.w orzekanie w sprawach o wykroczenia następuję w postępowaniu:",
+  "poprawna": "zwyczajnym, przyspieszonym, nakazowym",
+  "bledne": [
+   "zwyczajnym, nakazowym",
+   "tylko w postępowaniu zwyczajnym",
+   "zwyczajnym, przyspieszonym"
+  ],
+  "wyjasnienie": "Art. 2 § 1 k.p.w.: orzekanie następuje w postępowaniu zwyczajnym, przyspieszonym i nakazowym.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "8c3e787a15",
+  "temat": "SZP Słupsk – 29.04.2025",
+  "pytanie": "Czynności wyjaśniające w sprawie o wykroczenie prowadzone na podstawie art. 54 par.1 k.p.w powinny być zakończone w ciągu:",
+  "poprawna": "miesiąca",
+  "bledne": [
+   "3 miesięcy",
+   "60 dni",
+   "30 dni"
+  ],
+  "wyjasnienie": "Art. 54 § 1 k.p.w.: czynności wyjaśniające powinny być zakończone w ciągu miesiąca od ich podjęcia.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "b777b65920",
+  "temat": "SZP Słupsk – 29.04.2025",
+  "pytanie": "W przypadku odmowy udostępnienia akt osobie, co do której istnieje uzasadniona podstawa do sporządzenia przeciwko niej wniosku o ukaranie, można złożyć:",
+  "poprawna": "zażalenie",
+  "bledne": [
+   "sprzeciw",
+   "apelację",
+   "kasację"
+  ],
+  "wyjasnienie": "Art. 156 § 5 k.p.k. w zw. z art. 38 k.p.w.: na odmowę udostępnienia akt w postępowaniu przygotowawczym (czynnościach wyjaśniających) przysługuje zażalenie.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "b38f3fb07b",
+  "temat": "SZP Słupsk – 29.04.2025",
+  "pytanie": "Czynność policjantów w szyku polegająca na ustawieniu się policjantów w szeregu, w linii prostej, to:",
+  "poprawna": "równanie",
+  "bledne": [
+   "odstępowanie",
+   "łączenie",
+   "krycie"
+  ],
+  "wyjasnienie": "Zarządzenie nr 7 KGP – regulamin musztry: równanie to ustawienie się w szeregu w linii prostej (krycie – w rzędzie, jeden za drugim).",
+  "zrodlo": "test"
+ },
+ {
+  "id": "300123ce72",
+  "temat": "SZP Słupsk – 29.04.2025",
+  "pytanie": "Kordon rozczłonkowany w miejscu formuje się z:",
+  "poprawna": "szeregu",
+  "bledne": [
+   "kolumny trójkowej",
+   "z rzędu",
+   "kolumny dwójkowej"
+  ],
+  "wyjasnienie": "Podręcznik słuchacza SZP – pododdziały zwarte: kordon rozczłonkowany w miejscu formuje się tylko z szeregu (odstępy do 10 kroków).",
+  "zrodlo": "test"
+ },
+ {
+  "id": "9224403ead",
+  "temat": "SZP Słupsk – 29.04.2025",
+  "pytanie": "Linię posterunków dwuosobowych tworzy się:",
+  "poprawna": "z kolumny dwójkowej",
+  "bledne": [
+   "z rzędu",
+   "z kolumny trójkowej",
+   "z szeregu"
+  ],
+  "wyjasnienie": "Podręcznik słuchacza SZP – pododdziały zwarte: przed rozwinięciem linii posterunków formuje się rząd lub kolumnę dwójkową – posterunki dwuosobowe tworzy się z kolumny dwójkowej.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "f296664ac9",
+  "temat": "SZP Słupsk – 29.04.2025",
+  "pytanie": "Drużyna w tyralierze policyjnej składa się z:",
+  "poprawna": "6 policjantów",
+  "bledne": [
+   "4 policjantów",
+   "5 policjantów",
+   "7 policjantów"
+  ],
+  "wyjasnienie": "Podręcznik słuchacza SZP – pododdziały zwarte – tyraliera: drużyna liczy 6 policjantów.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "c7a5ba9241",
+  "temat": "SZP Słupsk – 29.04.2025",
+  "pytanie": "Zabezpieczenie strzelby gładkolufowej MOSSBERG powoduje blokadę:",
+  "poprawna": "języka spustowego",
+  "bledne": [
+   "rozdzielacza",
+   "suwadła",
+   "ustalacza"
+  ],
+  "wyjasnienie": "Podręcznik słuchacza SZP – strzelba Mossberg: bezpiecznik blokuje język spustowy.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "0a3392b4d6",
+  "temat": "SZP Słupsk – 29.04.2025",
+  "pytanie": "Działanie broni PM-98 polega na:",
+  "poprawna": "wykorzystaniu energii swobodnego odrzutu zamka nie ryglowanego z lufą",
+  "bledne": [
+   "częściowym odrzucie zamka i swobodnym odrzucie lufy",
+   "częściowym odrzucie lufy ryglującej się w płaszczyźnie pionowej z zamkiem",
+   "swobodnym odrzucie lufy nie ryglowanej z zamkiem"
+  ],
+  "wyjasnienie": "Podręcznik słuchacza SZP – PM-98: działa na zasadzie odrzutu zamka swobodnego – w chwili strzału zamek nie jest zaryglowany z lufą.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "0277505bba",
+  "temat": "SZP Słupsk – 29.04.2025",
+  "pytanie": "Podstawą wszczęcia postępowania przez Sąd w sprawie o wykroczenie, jest:",
+  "poprawna": "wniosek o ukaranie złożony przez podmiot do tego uprawniony",
+  "bledne": [
+   "notatka służbowa",
+   "akt oskarżenia",
+   "notatka urzędowa"
+  ],
+  "wyjasnienie": "Art. 57 § 1 i art. 59 § 2 k.p.w.: postępowanie przed sądem wszczyna się na podstawie wniosku o ukaranie złożonego przez uprawniony podmiot (oskarżyciela publicznego).",
+  "zrodlo": "test"
+ },
+ {
+  "id": "45370f5c63",
+  "temat": "SZP Słupsk – 29.04.2025",
+  "pytanie": "Przygotowanie policjanta do służby patrolowej sprawdza się:",
+  "poprawna": "na odprawie służbowej",
+  "bledne": [
+   "w trakcie pełnienia służby patrolowej",
+   "po zakończeniu służby patrolowej",
+   "przed podjęciem obowiązków służbowych"
+  ],
+  "wyjasnienie": "Zarządzenie nr 768 KGP: przygotowanie policjantów do służby patrolowej sprawdza się na odprawach (lub indywidualnie).",
+  "zrodlo": "test"
+ },
+ {
+  "id": "d64ba9420b",
+  "temat": "SZP-22/25 wersja B – 03.06.2026",
+  "pytanie": "Kierujący pojazdem należącym do placówki zajmującej się opieką, edukacją i rehabilitacją osób niepełnosprawnych może, pod warunkiem zachowania szczególnej ostrożności, nie stosować się do znaku drogowego:",
+  "poprawna": "B-10 „zakaz wjazdu motorowerów”",
+  "bledne": [
+   "B-2 „zakaz wjazdu”",
+   "B-23 „zakaz zawracania”",
+   "B-20 „STOP”"
+  ],
+  "wyjasnienie": "§ 23 rozporządzenia w sprawie znaków i sygnałów drogowych: pojazd placówki zajmującej się osobami niepełnosprawnymi (z kartą parkingową) może nie stosować się m.in. do znaku B-10 – przy szczególnej ostrożności. Nie dotyczy to B-2, B-20, B-23.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "8823421e25",
+  "temat": "SZP-22/25 wersja B – 03.06.2026",
+  "pytanie": "Policjant, który jako pierwszy przybył na miejsce zdarzenia drogowego, przekazuje dowódcy patrolu skierowanego przez dyżurnego do jego obsługi informacje o wykonanych czynnościach i dokonanych ustaleniach, a następnie:",
+  "poprawna": "pozostaje do jego dyspozycji, jeśli dowódca patrolu uzna to za konieczne",
+  "bledne": [
+   "informuje dyżurnego, że na miejsce przybył patrol do obsługi zdarzenia drogowego i wraca do dalszego pełnienia służby",
+   "jedzie do szpitala celem ustalenia obrażeń ciała uczestników zdarzenia drogowego",
+   "sporządza protokół oględzin miejsca i pojazdów"
+  ],
+  "wyjasnienie": "Zarządzenie nr 30 KGP z 22 września 2017 r. w sprawie pełnienia służby na drodze: pierwszy policjant przekazuje patrolowi ustalenia i pozostaje do dyspozycji dowódcy patrolu, jeśli ten uzna to za konieczne.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "9017604cfc",
+  "temat": "SZP-22/25 wersja B – 03.06.2026",
+  "pytanie": "Policjant nieumundurowany jest uprawniony do zatrzymania kierującego pojazdem:",
+  "poprawna": "wyłącznie na obszarze zabudowanym",
+  "bledne": [
+   "wszędzie i zawsze",
+   "w warunkach dobrej przejrzystości powietrza",
+   "poza obszarem zabudowanym, jeśli kierujący popełnia wykroczenie"
+  ],
+  "wyjasnienie": "Art. 129 ustawy – Prawo o ruchu drogowym i rozporządzenie w sprawie kontroli ruchu drogowego: policjant nieumundurowany może zatrzymać pojazd wyłącznie na obszarze zabudowanym (poza nim – tylko w sytuacjach wyjątkowych, np. z pojazdu z wideorejestratorem).",
+  "zrodlo": "test"
+ },
+ {
+  "id": "f5a5c9a5dd",
+  "temat": "SZP-22/25 wersja B – 03.06.2026",
+  "pytanie": "W postępowaniu w sprawie o wykroczenia obwiniony musi mieć obrońcę przed sądem, jeżeli jest:",
+  "poprawna": "głuchy, niemy lub niewidomy",
+  "bledne": [
+   "winny, niemy lub niewidomy",
+   "głuchy, niemy lub chory przewlekle",
+   "głuchy, niemy lub niepełnosprawny ruchowo"
+  ],
+  "wyjasnienie": "Art. 21 § 1 pkt 1 k.p.w.: obwiniony musi mieć obrońcę przed sądem, jeżeli jest głuchy, niemy lub niewidomy (pkt 2 – wątpliwość co do poczytalności).",
+  "zrodlo": "test"
+ },
+ {
+  "id": "e60f671ca3",
+  "temat": "SZP-22/25 wersja B – 03.06.2026",
+  "pytanie": "Mandat karny kredytowany powinien zawierać pouczenie o obowiązku uiszczenia grzywny w terminie:",
+  "poprawna": "7 dni",
+  "bledne": [
+   "niezwłocznie",
+   "14 dni",
+   "60 dni"
+  ],
+  "wyjasnienie": "Art. 98 § 3 k.p.w.: mandat kredytowany zawiera pouczenie o obowiązku uiszczenia grzywny w terminie 7 dni od daty jego przyjęcia.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "7f6c3a9330",
+  "temat": "SZP-22/25 wersja B – 03.06.2026",
+  "pytanie": "Osoba, co do której istnieje uzasadniona podstawa do sporządzenia przeciwko niej wniosku o ukaranie, ma prawo:",
+  "poprawna": "zgłosić wnioski dowodowe",
+  "bledne": [
+   "zgłosić jedynie wnioski formalne",
+   "nie może zgłaszać wniosków dowodowych",
+   "wskazać wyłącznie dowody z dokumentów"
+  ],
+  "wyjasnienie": "Art. 54 § 6 k.p.w.: osoba podejrzana ma prawo odmówić wyjaśnień oraz zgłosić wnioski dowodowe, o czym należy ją pouczyć.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "d7e87c5b5c",
+  "temat": "SZP-22/25 wersja B – 03.06.2026",
+  "pytanie": "Wniosek o ukaranie powinien zawierać m.in.:",
+  "poprawna": "imię i nazwisko oraz adres obwinionego",
+  "bledne": [
+   "podpis prokuratora",
+   "fotografię obwinionego",
+   "świadectwo moralności od pracodawcy"
+  ],
+  "wyjasnienie": "Art. 57 § 2 k.p.w.: wniosek o ukaranie zawiera m.in. imię i nazwisko obwinionego, jego adres, opis czynu i wskazanie dowodów.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "370a9ec284",
+  "temat": "SZP-22/25 wersja B – 03.06.2026",
+  "pytanie": "Wiązanie kordonów wykonuje się na komendę:",
+  "poprawna": "„W kordonie za pasy chwyć”",
+  "bledne": [
+   "„W kordonie za dłonie chwyć”",
+   "„W kordonie pod rękę chwyć”",
+   "„W kordonie za pas chwyć”"
+  ],
+  "wyjasnienie": "Podręcznik słuchacza SZP – pododdziały zwarte: wiązanie kordonu – komenda „W kordonie za pasy (za ręce) – chwyć”.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "ea904c834e",
+  "temat": "SZP-22/25 wersja B – 03.06.2026",
+  "pytanie": "Posterunki jedno- lub wieloosobowe rozwijane na określonym odcinku z szyku marszowego w odstępach większych niż 10 kroków nazywamy:",
+  "poprawna": "linią posterunków",
+  "bledne": [
+   "kordonem",
+   "patrolem liniowym",
+   "tyralierą"
+  ],
+  "wyjasnienie": "Podręcznik słuchacza SZP – pododdziały zwarte: linia posterunków/linia patroli to posterunki i patrole jedno- lub wieloosobowe rozwijane z szyku marszowego w odstępach większych niż 10 kroków.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "7a4fbd44c4",
+  "temat": "SZP-22/25 wersja B – 03.06.2026",
+  "pytanie": "Nabój TYP 4 do strzelb o kalibrze wagomiarowym 12:",
+  "poprawna": "nie posiada pocisku",
+  "bledne": [
+   "posiada pocisk w postaci kuli gumowej",
+   "posiada pocisk w postaci wydrążonego ołowianego cylindra",
+   "posiada pocisk w postaci walca gumowego ubrzechwionego"
+  ],
+  "wyjasnienie": "Podręcznik słuchacza SZP – amunicja do strzelb: TYP 4 (ONS-2000) to nabój hukowo-błyskowy – nie posiada pocisku.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "b5b4833782",
+  "temat": "SZP-22/25 wersja B – 03.06.2026",
+  "pytanie": "Policjant, który ukończył szkolenie zawodowe podstawowe w lutym 2023 r.:",
+  "poprawna": "jest zwolniony z testu w danym roku kalendarzowym",
+  "bledne": [
+   "ma obowiązek przystąpić do testu do 15 grudnia 2023 r",
+   "jest zwolniony z próby biegu na dystansie 1000 m",
+   "może przystąpić do dwóch wybranych prób testu za zgodą kierownika sekcji"
+  ],
+  "wyjasnienie": "Zarządzenie KGP w sprawie testu sprawności fizycznej: policjant, który w danym roku ukończył szkolenie zawodowe podstawowe, jest zwolniony z testu w tym roku kalendarzowym.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "046b031206",
+  "temat": "SZP-22/25 wersja B – 03.06.2026",
+  "pytanie": "Za dopuszczenie do przebywania małoletniego do lat 7 na drodze publicznej lub na torach pojazdu szynowego odpowiada:",
+  "poprawna": "osoba mająca obowiązek opieki lub nadzoru nad małoletnim",
+  "bledne": [
+   "jedynie osoba będąca opiekunem prawnym małoletniego",
+   "jedynie osoba będąca osobą najbliższą dla małoletniego",
+   "osoba mająca obowiązek opieki i nadzoru nad małoletnim łącznie"
+  ],
+  "wyjasnienie": "Art. 89 k.w.: odpowiada ten, kto mając obowiązek opieki lub nadzoru nad małoletnim do lat 7, dopuszcza do jego przebywania na drodze publicznej lub torach pojazdu szynowego.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "076ecee5c1",
+  "temat": "SZP-22/25 wersja B – 03.06.2026",
+  "pytanie": "Daniel K., lat 18, posiadał psa rasy mops, którego dostał w prezencie urodzinowym od matki. Niezadowolony z prezentu sprzedał psa na targowisku miejskim. Daniel K. popełnił:",
+  "poprawna": "wykroczenie",
+  "bledne": [
+   "czyn niedozwolony, ale nie czyn zabroniony",
+   "przestępstwo",
+   "wyłącznie delikt cywilny"
+  ],
+  "wyjasnienie": "Art. 10a ust. 1 pkt 3 i art. 37 ust. 1 ustawy o ochronie zwierząt: zakaz handlu psami i kotami na targowiskach – naruszenie to wykroczenie (areszt lub grzywna).",
+  "zrodlo": "test"
+ },
+ {
+  "id": "df6a214e3b",
+  "temat": "SZP-3/26 wersja B – 19.08.2026",
+  "pytanie": "Długość kolumny pieszych nie może przekraczać:",
+  "poprawna": "50 m",
+  "bledne": [
+   "20 m",
+   "10 m",
+   "30 m"
+  ],
+  "wyjasnienie": "Art. 32 ustawy – Prawo o ruchu drogowym: długość kolumny pieszych nie może przekraczać 50 m, a odstęp między kolumnami – co najmniej 100 m.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "ad506d3307",
+  "temat": "SZP-3/26 wersja B – 19.08.2026",
+  "pytanie": "Policjantowi pełniącemu służbę na drodze zabrania się:",
+  "poprawna": "wykonywania czynności niezwiązanych ze służbą, w szczególności wykorzystywania pojazdu Policji niezgodnie z jego przeznaczeniem",
+  "bledne": [
+   "przebywania w pojeździe Policji podczas postoju w trakcie przerwy w służbie",
+   "przebywania w pojeździe Policji podczas postoju w trakcie pełnienia służby w niekorzystnych warunkach atmosferycznych",
+   "przebywania w pojeździe Policji podczas postoju w trakcie prowadzenia badań na zawartość w organizmie alkoholu lub środka działającego podobnie do alkoholu, obsługi urządzeń rejestrujących, w szczególności pomiaru ręcznym miernikiem prędkości zamontowanym w pojeździe"
+  ],
+  "wyjasnienie": "Zarządzenie nr 30 KGP z 22 września 2017 r. w sprawie pełnienia służby na drodze: policjantowi na drodze zabrania się m.in. wykonywania czynności niezwiązanych ze służbą, w tym używania pojazdu niezgodnie z przeznaczeniem. Przebywanie w pojeździe jest dozwolone m.in. w przerwie, przy złej pogodzie i przy badaniach.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "4d1d2f18fb",
+  "temat": "SZP-3/26 wersja B – 19.08.2026",
+  "pytanie": "Policjant zatrzyma wydane w kraju prawo jazdy za pokwitowaniem w przypadku:",
+  "poprawna": "uzasadnionego podejrzenia, że kierujący pojazdem znajduje się w stanie nietrzeźwości lub w stanie po użyciu alkoholu albo środka działającego podobnie do alkoholu",
+  "bledne": [
+   "gdy kierujący porusza pojazdem, który zagraża porządkowi ruchu",
+   "przekroczenia przez kierującego pojazdem liczby 20 punktów za naruszenie przepisów ruchu drogowego w okresie 5 lat od wydania skierowania na kurs reedukacyjny",
+   "uzasadnionego podejrzenia podrobienia lub przerobienia dowodu rejestracyjnego"
+  ],
+  "wyjasnienie": "Art. 135 ust. 1 pkt 1 lit. a ustawy – Prawo o ruchu drogowym: policjant zatrzyma prawo jazdy za pokwitowaniem w razie uzasadnionego podejrzenia, że kierujący jest w stanie nietrzeźwości, po użyciu alkoholu lub środka podobnie działającego.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "235a7b6854",
+  "temat": "SZP-3/26 wersja B – 19.08.2026",
+  "pytanie": "Informację o zdarzeniu drogowym wpisuje się w:",
+  "poprawna": "karcie zdarzenia drogowego",
+  "bledne": [
+   "raporcie ze zdarzenia drogowego",
+   "protokole ze zdarzenia drogowego",
+   "notatce służbowej dotyczącej zdarzenia drogowego"
+  ],
+  "wyjasnienie": "Zarządzenie nr 30 KGP z 22 września 2017 r. w sprawie pełnienia służby na drodze: informacje o zdarzeniu drogowym wpisuje się w kartę zdarzenia drogowego (SEWiK).",
+  "zrodlo": "test"
+ },
+ {
+  "id": "d1ac373469",
+  "temat": "SZP-3/26 wersja B – 19.08.2026",
+  "pytanie": "Przechodzenie przez jezdnię poza przejściem dla pieszych jest dozwolone:",
+  "poprawna": "na skrzyżowaniu znajdującym się w odległości mniejszej niż 100 m od wyznaczonego przejścia",
+  "bledne": [
+   "w odległości nieprzekraczającej 50 m od przejścia",
+   "na drodze ekspresowej",
+   "na drodze dwujezdniowej"
+  ],
+  "wyjasnienie": "Art. 13 ust. 2 ustawy – Prawo o ruchu drogowym: poza przejściem wolno przejść, gdy odległość od przejścia przekracza 100 m; jeżeli skrzyżowanie jest bliżej niż 100 m – także na skrzyżowaniu.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "3c86fff8cc",
+  "temat": "SZP-3/26 wersja B – 19.08.2026",
+  "pytanie": "NIE wszczyna się postępowania w sprawie o wykroczenie, a wszczęte umarza, gdy:",
+  "poprawna": "nastąpiło przedawnienie orzekania",
+  "bledne": [
+   "pokrzywdzony zmarł",
+   "rozporządzenie Ministra MSWiA mówi, że sprawca nie podlega karze",
+   "policjant przekroczy instrukcyjny termin 1 miesiąca prowadzenia czynności wyjaśniających"
+  ],
+  "wyjasnienie": "Art. 5 § 1 pkt 4 k.p.w.: nie wszczyna się postępowania, a wszczęte umarza, gdy nastąpiło przedawnienie orzekania.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "25f91787aa",
+  "temat": "SZP-3/26 wersja B – 19.08.2026",
+  "pytanie": "W przypadku gdy policjant uzna, że ukaranie sprawcy wykroczenia mandatem w wysokości 500 złotych jest niewystarczające:",
+  "poprawna": "kieruje wniosek o ukaranie do sądu",
+  "bledne": [
+   "odstępuje od dalszych czynności",
+   "stosuje pouczenie",
+   "zatrzymuje sprawcę wykroczenia"
+  ],
+  "wyjasnienie": "Art. 97 § 1 i art. 96 k.p.w.: gdy mandat jest niewystarczający (np. wymaga surowszej kary), policjant kieruje wniosek o ukaranie do sądu.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "281d08df65",
+  "temat": "SZP-3/26 wersja B – 19.08.2026",
+  "pytanie": "Z chwilą odstąpienia od przesłuchania osoby, co do której istnieje uzasadniona podstawa do sporządzenia przeciwko niej wniosku o ukaranie, osobę taką należy pouczyć o prawie nadesłania wyjaśnień na piśmie w terminie:",
+  "poprawna": "7 dni od odstąpienia od przesłuchania",
+  "bledne": [
+   "14 dni od odstąpienia od przesłuchania",
+   "30 dni od odstąpienia od przesłuchania",
+   "miesiąca od odstąpienia od przesłuchania"
+  ],
+  "wyjasnienie": "Art. 54 § 7 k.p.w.: od przesłuchania można odstąpić przy znacznych trudnościach – osoba może nadesłać wyjaśnienia w terminie 7 dni (pouczenie i odstąpienie dokumentuje notatka urzędowa).",
+  "zrodlo": "test"
+ },
+ {
+  "id": "c6d1c5de97",
+  "temat": "SZP-3/26 wersja B – 19.08.2026",
+  "pytanie": "W przypadku odmowy przyjęcia mandatu karnego gotówkowego przez sprawcę wykroczenia – obywatela Białorusi, przebywającego czasowo na terytorium RP, należy:",
+  "poprawna": "zatrzymać osobę w ramach trybu przyspieszonego postępowania w sprawach o wykroczenia na czas nie dłuższy niż 48 godzin",
+  "bledne": [
+   "nałożyć na sprawcę mandat karny kredytowany",
+   "wysłać sprawcy mandat karny zaoczny na teren Białorusi",
+   "zatrzymać osobę w ramach trybu przyspieszonego postępowania w sprawach o wykroczenia na czas nie dłuższy niż 24 godziny"
+  ],
+  "wyjasnienie": "Art. 45 § 1 pkt 1 i art. 90 § 2 k.p.w.: wobec osoby czasowo przebywającej w Polsce stosuje się postępowanie przyspieszone – zatrzymanie trwa nie dłużej niż 48 godzin (art. 45 § 2 k.p.w. w zw. z art. 248 k.p.k.).",
+  "zrodlo": "test"
+ },
+ {
+  "id": "d6d642c017",
+  "temat": "SZP-3/26 wersja B – 19.08.2026",
+  "pytanie": "W miejscu formuje się kordon zwarty z:",
+  "poprawna": "szeregu, rzędu, kolumny dwójkowej",
+  "bledne": [
+   "szeregu, dwuszeregu, rzędu",
+   "szeregu, rzędu, kolumny trójkowej",
+   "szeregu, trójszeregu, kolumny dwójkowej"
+  ],
+  "wyjasnienie": "Podręcznik słuchacza SZP – pododdziały zwarte: kordon zwarty w miejscu formuje się z szeregu, z rzędu i z kolumny dwójkowej.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "84844ee765",
+  "temat": "SZP-3/26 wersja B – 19.08.2026",
+  "pytanie": "„Linię posterunków” i „linię patroli” rozwija się:",
+  "poprawna": "z miejsca i z marszu od czoła szyku marszowego",
+  "bledne": [
+   "z ugrupowań rozwiniętych",
+   "tylko z marszu od czoła szyku marszowego",
+   "tylko z miejsca od czoła szyku marszowego"
+  ],
+  "wyjasnienie": "Podręcznik słuchacza SZP – pododdziały zwarte: „linię posterunków” i „linię patroli” rozwija się z miejsca i z marszu od czoła szyku marszowego.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "f9d5db0bdb",
+  "temat": "SZP-3/26 wersja B – 19.08.2026",
+  "pytanie": "Policjant będący w składzie drużyny wyposażonej w strzelby gładkolufowe otrzymał amunicję TYP 1, TYP 4, TYP 20, TYP 30, TYP 50. W pododdziale zwartym dowódca polecił załadować TYP 20 i oddać strzał w kierunku agresywnego tłumu. Policjant powinien:",
+  "poprawna": "oddać strzał w kierunku tłumu, celując w dolne partie ciała, zachowując odległość minimum 20 metrów od celu",
+  "bledne": [
+   "odmówić oddania strzału z tego typu amunicji, ponieważ jest ona amunicją penetracyjną",
+   "oddać strzał w kierunku tłumu, celując w głowę i zachowując odległość minimum 20 metrów",
+   "odmówić oddania strzału z tego typu amunicji, ponieważ jest ona przeznaczona do strzelań szkoleniowych"
+  ],
+  "wyjasnienie": "Podręcznik słuchacza SZP – amunicja do strzelb: TYP 20 (Chrabąszcz 20) to pocisk gumowy (walec z ubrzechwieniem), niepenetracyjny – strzela się w dolne partie ciała z bezpiecznej odległości.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "6f0d58f90e",
+  "temat": "SZP-3/26 wersja B – 19.08.2026",
+  "pytanie": "Do zadań policjantów komórek interwencyjnych należy w szczególności:",
+  "poprawna": "przybycie na miejsce wydarzenia w możliwie najkrótszym czasie od momentu przyjęcia zgłoszenia",
+  "bledne": [
+   "patrolowanie głównych tras w rejonie odpowiedzialności służbowej",
+   "podejmowanie czynności służbowych tylko na polecenie dyżurnego jednostki",
+   "przebywanie w rejonie odpowiedzialności służbowej nie krócej niż 6 godzin"
+  ],
+  "wyjasnienie": "Zarządzenie nr 768 KGP w sprawie metod i form wykonywania zadań przez policjantów pełniących służbę prewencyjną: komórki interwencyjne mają przybyć na miejsce wydarzenia w możliwie najkrótszym czasie od przyjęcia zgłoszenia.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "43700e9cfe",
+  "temat": "SZP-6/26 wersja A – 16.09.2026",
+  "pytanie": "Policjant kierujący pojazdem służbowym przed odprawą do służby patrolowej ma obowiązek:",
+  "poprawna": "sprawdzić wyposażenie pojazdu, jego stan techniczny oraz działanie środków łączności",
+  "bledne": [
+   "zatankować pojazd służbowy do pełna",
+   "umyć szybę czołową pojazdu służbowego i przetrzeć reflektory",
+   "wysprzątać wnętrze pojazdu służbowego po poprzednim kierowcy"
+  ],
+  "wyjasnienie": "Zarządzenie nr 768 KGP: kierowca pojazdu służbowego przed odprawą sprawdza wyposażenie pojazdu, jego stan techniczny i działanie środków łączności.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "8441a47fa1",
+  "temat": "SZP-6/26 wersja A – 16.09.2026",
+  "pytanie": "Prędkość dopuszczalna samochodu osobowego, motocykla lub samochodu ciężarowego o dopuszczalnej masie całkowitej nieprzekraczającej 3,5 t poza obszarem zabudowanym, na drodze ekspresowej dwujezdniowej wynosi:",
+  "poprawna": "120 km/h",
+  "bledne": [
+   "90 km/h",
+   "100 km/h",
+   "140 km/h"
+  ],
+  "wyjasnienie": "Art. 20 ust. 3 ustawy – Prawo o ruchu drogowym: osobowy, motocykl i ciężarowy do 3,5 t – na drodze ekspresowej dwujezdniowej 120 km/h (autostrada 140, ekspresowa jednojezdniowa 100).",
+  "zrodlo": "test"
+ },
+ {
+  "id": "0d28709ee2",
+  "temat": "SZP-6/26 wersja A – 16.09.2026",
+  "pytanie": "Wymień, co określa rozporządzenie w sprawie kontroli ruchu drogowego:",
+  "poprawna": "organizację, szczegółowe warunki i sposób wykonywania kontroli ruchu drogowego oraz wymagany sposób zachowania się kontrolowanego uczestnika ruchu",
+  "bledne": [
+   "tylko zasady użycia broni palnej",
+   "tylko zasady szkolenia policjantów",
+   "tylko zasady odpowiedzialności karnej kierujących"
+  ],
+  "wyjasnienie": "rozporządzenie w sprawie kontroli ruchu drogowego (wydane na podstawie art. 131 ustawy – Prawo o ruchu drogowym) określa organizację, warunki i sposób kontroli ruchu oraz sposób zachowania się kontrolowanego.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "88703dcaf7",
+  "temat": "SZP-6/26 wersja A – 16.09.2026",
+  "pytanie": "Policjant, funkcjonariusz Straży Granicznej albo Służby Celno-Skarbowej zatrzyma dowód rejestracyjny (pozwolenie czasowe) w razie:",
+  "poprawna": "stwierdzenia lub uzasadnionego przypuszczenia, że pojazd zagraża bezpieczeństwu w szczególności po wypadku drogowym, w którym zostały uszkodzone zasadnicze elementy nośne konstrukcji nadwozia, podwozia lub ramy",
+  "bledne": [
+   "stwierdzenia zniszczenia dowodu rejestracyjnego (pozwolenia czasowego) w stopniu powodującym jego nieczytelność",
+   "nieokazania przez kierującego dokumentu potwierdzającego zawarcie umowy obowiązkowego ubezpieczenia odpowiedzialności cywilnej posiadacza pojazdu lub dowodu opłacenia składki za to ubezpieczenie",
+   "uzasadnionego podejrzenia podrobienia lub przerobienia prawa jazdy"
+  ],
+  "wyjasnienie": "Art. 132 ust. 1 pkt 1 ustawy – Prawo o ruchu drogowym: dowód rejestracyjny zatrzymuje się, gdy pojazd zagraża bezpieczeństwu, w szczególności po wypadku z uszkodzeniem zasadniczych elementów nośnych.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "21e777e93f",
+  "temat": "SZP-6/26 wersja A – 16.09.2026",
+  "pytanie": "Policjant w toku kontroli ruchu drogowego jest uprawniony do żądania poddania się przez kierującego pojazdem badaniu w celu ustalenia zawartości w organizmie alkoholu:",
+  "poprawna": "w każdym przypadku",
+  "bledne": [
+   "tylko gdy wyczuwalna jest woń alkoholu",
+   "tylko w sytuacji popełnienia przestępstwa",
+   "tylko w sytuacji popełnienia wykroczenia"
+  ],
+  "wyjasnienie": "Art. 129 ust. 2 pkt 3 ustawy – Prawo o ruchu drogowym: policjant jest uprawniony do żądania poddania się przez kierującego badaniu na zawartość alkoholu – w każdym przypadku, bez potrzeby podejrzenia.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "38320b3884",
+  "temat": "SZP-6/26 wersja A – 16.09.2026",
+  "pytanie": "W trakcie prowadzonych czynności wyjaśniających ustalono, że zniszczenie karoserii samochodu nie było dziełem człowieka, a spowodowane silnym podmuchem wiatru, który przewrócił stojącą obok metalową beczkę. Prawidłową przesłanką do odmowy wszczęcia postępowania w sprawach o wykroczenia, wynikającą z art. 5 k.p.w., będzie:",
+  "poprawna": "czynu nie popełniono",
+  "bledne": [
+   "brak znamion wykroczenia",
+   "brak danych dostatecznie uzasadniających podejrzenie popełnienia wykroczenia",
+   "ustawa stanowi, że sprawca nie popełnia wykroczenia"
+  ],
+  "wyjasnienie": "Art. 5 § 1 pkt 1 k.p.w.: nie wszczyna się postępowania, gdy czynu nie popełniono – zniszczenie spowodował wiatr, nie człowiek.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "36ebf6b631",
+  "temat": "SZP-6/26 wersja A – 16.09.2026",
+  "pytanie": "Do trybów szczególnych czynności wyjaśniających w sprawach o wykroczenia zalicza się tryb:",
+  "poprawna": "na polecenie sądu",
+  "bledne": [
+   "przyspieszony",
+   "na polecenie pokrzywdzonego",
+   "nakazowy"
+  ],
+  "wyjasnienie": "Art. 55 k.p.w.: szczególnym trybem są czynności wyjaśniające na polecenie sądu (uzupełnienie wniosku o ukaranie – art. 60 § 1 pkt 6).",
+  "zrodlo": "test"
+ },
+ {
+  "id": "8e700bc316",
+  "temat": "SZP-6/26 wersja A – 16.09.2026",
+  "pytanie": "W przypadku odstąpienia od przesłuchania osoby co do której istnieją uzasadnione podstawy do sporządzenia przeciwko niej wniosku o ukaranie, policjant powinien sporządzić:",
+  "poprawna": "notatkę urzędową",
+  "bledne": [
+   "zapis w notatniku służbowym",
+   "notatkę służbową",
+   "protokół"
+  ],
+  "wyjasnienie": "Art. 54 § 7 k.p.w.: odstąpienie od przesłuchania oraz pouczenie o prawie nadesłania wyjaśnień dokumentuje się notatką urzędową.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "dedd87e604",
+  "temat": "SZP-6/26 wersja A – 16.09.2026",
+  "pytanie": "Do elementów wniosku o ukaranie NIE należy:",
+  "poprawna": "adres świadka",
+  "bledne": [
+   "imię i nazwisko obwinionego",
+   "wskazanie dowodów",
+   "wysokość wyrządzonej szkody"
+  ],
+  "wyjasnienie": "Art. 57 § 2 k.p.w.: wniosek o ukaranie zawiera m.in. dane obwinionego, opis czynu, wskazanie dowodów i wysokość szkody – adres świadka nie jest jego elementem.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "ac83f2be68",
+  "temat": "SZP-6/26 wersja A – 16.09.2026",
+  "pytanie": "W Policji rozróżniamy ugrupowanie:",
+  "poprawna": "rozwinięte i marszowe",
+  "bledne": [
+   "frontalne i marszowe",
+   "rozwinięte",
+   "marszowe"
+  ],
+  "wyjasnienie": "Podręcznik słuchacza SZP – pododdziały zwarte – szyki: rozróżnia się ugrupowanie rozwinięte i marszowe.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "b41909a9b8",
+  "temat": "SZP-6/26 wersja A – 16.09.2026",
+  "pytanie": "Odstępy w kordonie wynoszą do:",
+  "poprawna": "10 – kroków",
+  "bledne": [
+   "5 – kroków",
+   "15 – kroków",
+   "20 – kroków"
+  ],
+  "wyjasnienie": "Podręcznik słuchacza SZP – pododdziały zwarte: w kordonie rozczłonkowanym policjanci stoją w odstępach do 10 kroków.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "aeea6f7375",
+  "temat": "SZP-6/26 wersja A – 16.09.2026",
+  "pytanie": "W pistolecie maszynowym PM 98 przyrządami celowniczymi są:",
+  "poprawna": "celownik otwarty, celownik przeziernikowy, muszka",
+  "bledne": [
+   "szyna celownicza, muszka",
+   "muszka cylindryczna, kolimator",
+   "szczerbinka, muszka cylindryczna"
+  ],
+  "wyjasnienie": "Podręcznik słuchacza SZP – PM-98: przyrządy celownicze to celownik otwarty, celownik przeziernikowy i muszka.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "598ca94950",
+  "temat": "SZP-6/26 wersja A – 16.09.2026",
+  "pytanie": "Post. Adam Nowak podczas przeglądu amunicji do strzelby gładkolufowej ujawnił jedną sztukę amunicji koloru białego z nieczytelnymi oznaczeniami, której pocisk stanowiła gumowa kula. W związku z tym policjant uznał, że jest to nabój:",
+  "poprawna": "TYP 1",
+  "bledne": [
+   "TYP 4",
+   "TYP 20",
+   "TYP 30"
+  ],
+  "wyjasnienie": "Podręcznik słuchacza SZP – amunicja do strzelb: TYP 1 (Bąk) – biała łuska, pociskiem jest kula gumowa.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "d2f92d3f5f",
+  "temat": "Legionowo – 17.11.2026",
+  "pytanie": "zgodzenie z ustawą o PRD, motorower to:",
+  "poprawna": "zaopatrzony w silnik spalinowy lub elektryczny",
+  "bledne": [
+   "samochodowy",
+   "elektryczny",
+   "wolnobieżny"
+  ],
+  "wyjasnienie": "Art. 2 pkt 46 ustawy – Prawo o ruchu drogowym: motorower to pojazd dwu- lub trójkołowy zaopatrzony w silnik spalinowy (do 50 cm³) lub elektryczny (do 4 kW), o prędkości do 45 km/h.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "7b0bb87f09",
+  "temat": "Legionowo – 17.11.2026",
+  "pytanie": "W razie niezatrzymania się pojazdu do kontroli należy niezwlocznie powiadomić:",
+  "poprawna": "dyżurnego jednostki",
+  "bledne": [
+   "komendanta jednostki",
+   "dyspozytora CPR",
+   "naczelnika wydziału"
+  ],
+  "wyjasnienie": "Zarządzenie nr 30 KGP z 22 września 2017 r. w sprawie pełnienia służby na drodze: o niezatrzymaniu się pojazdu do kontroli niezwłocznie powiadamia się dyżurnego jednostki.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "c3a832cbf5",
+  "temat": "Legionowo – 17.11.2026",
+  "pytanie": "Zatrzymaleś do kontroli drogowej samochód osobowy, którym przewożone są o 3 osoby więcej niż liczba miejsc określona w dowodzie rejestracyjnym pojazdu. W tej sytuacji:",
+  "poprawna": "zatrzymasz prawo jazdy",
+  "bledne": [
+   "dokonasz konfiskaty pojazdu na rzecz Skarbu Państwa",
+   "nałożysz jedynie mandat karny oraz 10 punktów karnych",
+   "skierujesz kierowcę na obowiązkowe badania psychologiczne"
+  ],
+  "wyjasnienie": "Art. 135 ust. 1 pkt 1 lit. a tiret trzecie ustawy – Prawo o ruchu drogowym: przewożenie osób w liczbie przekraczającej o co najmniej 3 liczbę miejsc w dowodzie rejestracyjnym – zatrzymanie prawa jazdy.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "600ad82575",
+  "temat": "Legionowo – 17.11.2026",
+  "pytanie": "Umundurowany policjant, inspektor Inspekcji Transportu Drogowego, żołnierż Żandarmerii Wojskowej i żołnierż wojskowych organów porządkowych mogą w warunkach dostatecznej widoczności dawać sygnał do zatrzymania pojazdu:",
+  "poprawna": "samą ręką",
+  "bledne": [
+   "samym spojrzeniem",
+   "samym lizakiem",
+   "kiwnięciem głowy"
+  ],
+  "wyjasnienie": "rozporządzenie w sprawie kontroli ruchu drogowego: umundurowany policjant w warunkach dostatecznej widoczności może dawać sygnał do zatrzymania samą ręką (tarczą do zatrzymywania – zawsze).",
+  "zrodlo": "test"
+ },
+ {
+  "id": "267bcc1070",
+  "temat": "Legionowo – 17.11.2026",
+  "pytanie": "Kolizja drogowa wg zarządzenia nr 30 z dnia 22 września 2017 r. w sprawie pełnienia służby na drodze to zdarzenie drogowe:",
+  "poprawna": "w którym powstały wyłącznie straty materialne",
+  "bledne": [
+   "w którym powstały nie tylko straty materialne",
+   "w wyniku którego jest zabity",
+   "w wyniku którego jest zabity lub ranny"
+  ],
+  "wyjasnienie": "Zarządzenie nr 30 KGP z 22 września 2017 r. w sprawie pełnienia służby na drodze: kolizja drogowa to zdarzenie, w którym powstały wyłącznie straty materialne.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "2c1a4af1e4",
+  "temat": "Legionowo – 17.11.2026",
+  "pytanie": "W przypadku nałożenia grzywny w drodze mandatu karnego policjant dokumentuje ten fakt w notatniku służbowym wpisując m.in.:",
+  "poprawna": "rodzaj mandatu karnego",
+  "bledne": [
+   "zobowiązanie do zapłaty",
+   "potwierdzenie przyjęcia mandatu",
+   "termin uiszczenia grzywny"
+  ],
+  "wyjasnienie": "Zarządzenie KGP w sprawie notatnika służbowego: przy nałożeniu mandatu wpisuje się m.in. rodzaj mandatu, jego serię i numer, kwotę i kwalifikację wykroczenia.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "8ffe133e66",
+  "temat": "Legionowo – 17.11.2026",
+  "pytanie": "Oskarżycielem publicznym we wszystkich sprawach o wykroczeniach jest:",
+  "poprawna": "Policja, chyba że ustawa stanowi inaczej",
+  "bledne": [
+   "Żandarmeria Wojskowa",
+   "Inspekcja pracy",
+   "Straż miejska/gminna"
+  ],
+  "wyjasnienie": "Art. 17 § 1 k.p.w.: oskarżycielem publicznym w sprawach o wykroczenia jest Policja, chyba że ustawa stanowi inaczej.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "0e46f5c502",
+  "temat": "Legionowo – 17.11.2026",
+  "pytanie": "Osoba, co do której istnieje uzasadniona podstawa do sporządzenia przeciwko niej wniosku o ukaranie, może korzystać z pomocy obrońcy na etapie:",
+  "poprawna": "czynności wyjaśniających",
+  "bledne": [
+   "postępowania mediacyjnego",
+   "czynności w trybie art 307 k.p.k",
+   "postępowania sądowego"
+  ],
+  "wyjasnienie": "Art. 4 § 2 k.p.w. i art. 54 § 5 k.p.w.: osoba podejrzana może korzystać z pomocy obrońcy już w czynnościach wyjaśniających.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "b7e391417c",
+  "temat": "Legionowo – 17.11.2026",
+  "pytanie": "W postępowaniu przyspieszonym sąd rozpoznaje sprawę:",
+  "poprawna": "bez zbędnej zwłoki",
+  "bledne": [
+   "niezwłocznie po zatrzymaniu, jeszcze zanim zostanie mu przedłożony wniosek o ukaranie",
+   "bez zbędnej zwłoki, lecz nie później niż przed upływem 24h",
+   "w terminie 12 godzin od zatrzymania"
+  ],
+  "wyjasnienie": "Art. 92 § 1 pkt 2 k.p.w.: w postępowaniu przyspieszonym sąd bez zbędnej zwłoki przystępuje do rozpoznania sprawy.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "97dfea8bcb",
+  "temat": "Legionowo – 17.11.2026",
+  "pytanie": "Parasol noszony przez umundurowanego policjanta powinien być:",
+  "poprawna": "czarny, klasyczny, bez nadruków",
+  "bledne": [
+   "granatowy z emblematem Policji",
+   "składany, w dowolnym kolorze",
+   "dowolnego koloru, bez nadruków"
+  ],
+  "wyjasnienie": "Zarządzenie KGP w sprawie umundurowania (wygląd policjanta): parasol noszony przez umundurowanego policjanta – czarny, klasyczny, bez nadruków.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "0a66236899",
+  "temat": "Legionowo – 17.11.2026",
+  "pytanie": "Kordon zwarty z szeregu formuje się na komendę:",
+  "poprawna": "„w kordonie – STAŃ”",
+  "bledne": [
+   "„w kordon – STAWAJ”",
+   "„kordon – TWÓRZ”",
+   "„w kordon – FRONT”"
+  ],
+  "wyjasnienie": "Podręcznik słuchacza SZP – pododdziały zwarte: kordon zwarty z szeregu formuje się na komendę „W kordonie – stań”.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "7d6d1ede1a",
+  "temat": "Legionowo – 17.11.2026",
+  "pytanie": "Zadaniem linii jednoosobowych patroli jest:",
+  "poprawna": "patrolowanie 10 kroków w jedną i w drugą stronę",
+  "bledne": [
+   "zatrzymanie się i obserwowanie terenu",
+   "patrolowanie w kierunku przeciwnym do kierunku marszu pododdziału",
+   "zatrzymanie się i przyjęcie postawy kordonowej"
+  ],
+  "wyjasnienie": "Podręcznik słuchacza SZP – pododdziały zwarte – linia patroli: zgodnie z kluczem testu zadaniem linii jednoosobowych patroli jest patrolowanie na wyznaczonym odcinku (10 kroków w jedną i drugą stronę).",
+  "zrodlo": "test"
+ },
+ {
+  "id": "2ce107a75d",
+  "temat": "Legionowo – 17.11.2026",
+  "pytanie": "Osłona czołowa w tyralierze polega na:",
+  "poprawna": "przyklęknięciu pierwszej linii i uniesieniu tarcz przez drugą linię",
+  "bledne": [
+   "rozproszeniu szyku",
+   "uniesieniu tarcz nad głowę",
+   "cofnięciu pierwszej linii"
+  ],
+  "wyjasnienie": "Podręcznik słuchacza SZP – pododdziały zwarte – tyraliera: osłona czołowa to przyklęknięcie pierwszej linii i uniesienie tarcz przez drugą linię.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "7ade7416bc",
+  "temat": "Legionowo – 17.11.2026",
+  "pytanie": "Położenie bezpiecznika skrzydełkowego w pistolecie maszynowym PM-98 na nastawie „Z” oznacza:",
+  "poprawna": "broń zabezpieczona",
+  "bledne": [
+   "ogień zaporowy",
+   "ogień ciągły",
+   "ogień pojedynczy"
+  ],
+  "wyjasnienie": "Podręcznik słuchacza SZP – PM-98: bezpiecznik skrzydełkowy w położeniu „Z” – broń zabezpieczona (P – ogień pojedynczy, C – ciągły).",
+  "zrodlo": "test"
+ },
+ {
+  "id": "1c1c3ab7b2",
+  "temat": "Legionowo – 17.11.2026",
+  "pytanie": "Na wierzchołku pocisku niepenetrującego „TYP-50” znajdują się wypustki w ilości:",
+  "poprawna": "3",
+  "bledne": [
+   "4",
+   "2",
+   "5"
+  ],
+  "wyjasnienie": "Podręcznik słuchacza SZP – amunicja do strzelb: TYP 20, 30, 50 mają na główce pocisku odpowiednio 1, 2 i 3 wzniesienia – TYP 50 ma 3.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "b3242bbc69",
+  "temat": "Legionowo – 17.11.2026",
+  "pytanie": "Na podstawie ustawy Prawo o ruchu drogowym, policjant jest uprawniony do żądania poddania się badaniu w celu ustalenia zawartości w organizmie alkoholu przez:",
+  "poprawna": "kierującego rowerem",
+  "bledne": [
+   "każdego uczestnika ruchu",
+   "pieszego",
+   "osobę poruszającą się na rolkach"
+  ],
+  "wyjasnienie": "Art. 129 ust. 2 pkt 3 ustawy – Prawo o ruchu drogowym: policjant może żądać badania na zawartość alkoholu od kierującego – także kierującego rowerem.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "6f8649e2da",
+  "temat": "Legionowo – 17.11.2026",
+  "pytanie": "Na drodze wewnętrznej, nieobjętej strefą zamieszkania ani strefą ruchu, zatrzymałeś do kontroli kierującego rowerem. W trakcie rozmowy wyczułeś od niego woń alkoholu z ust. Sprawdziłeś stan trzeźwości rowerzysty i okazało się, że znajduje się on w stanie nietrzeźwości. W tej sytuacji:",
+  "poprawna": "kierujący nie popełnia czynu zabronionego",
+  "bledne": [
+   "zatrzymasz kierującemu kartę rowerową za kierowanie rowerem w stanie nietrzeźwości",
+   "kierujący popełnia przestępstwo z art. 178 a § 1 Kodeksu karnego – kierowanie pojazdem inny niż niemechaniczny w stanie nietrzeźwości",
+   "kierujący popełnia wykroczenie z art. 87 § 1 a Kodeksu wykroczeń – kierowanie pojazdem inny niż niemechaniczny w stanie nietrzeźwośc"
+  ],
+  "wyjasnienie": "Art. 87 § 1a k.w. dotyczy tylko drogi publicznej, strefy zamieszkania i strefy ruchu, a art. 178a k.k. – pojazdu mechanicznego. Rower na drodze wewnętrznej poza tymi strefami – brak czynu zabronionego.",
+  "zrodlo": "test"
+ }
+]

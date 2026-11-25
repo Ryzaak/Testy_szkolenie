@@ -44,6 +44,15 @@
   .tab .nazwa { font-size: 14px; line-height: 1.3; color: var(--muted); }
   .tab.on { background: var(--accent); border-color: var(--accent); }
   .tab.on .kod, .tab.on .nazwa { color: var(--bg); }
+  /* zakładki egzaminacyjne – szersze i wyróżnione kolorem */
+  .tab.ex { grid-column: span 2; border: 2px solid var(--warn); background: var(--warn-bg); padding: 14px 16px;
+            box-shadow: 0 2px 8px rgba(154, 98, 0, .18); }
+  .tab.ex .kod { font-size: 16px; color: var(--warn); }
+  .tab.ex .nazwa { font-size: 14px; color: var(--ink); }
+  .tab.ex:hover { border-color: var(--warn); }
+  .tab.ex.on { background: var(--warn); border-color: var(--warn); }
+  .tab.ex.on .kod, .tab.ex.on .nazwa { color: var(--bg); }
+  @media (max-width: 360px) { .tab.ex { grid-column: 1 / -1; } }
 
   .stats { display: grid; grid-template-columns: repeat(5, 1fr); gap: 8px; margin: 16px 0 8px; }
   .stat { background: var(--card); border: 1px solid var(--line); border-radius: 10px; padding: 8px 12px; }
