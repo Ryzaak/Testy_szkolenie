@@ -278,7 +278,8 @@ async function otworz(id) {
   biezace = null;
   ukryjWynik();
   zakladka = zakladki.find(z => z.id === id) || zakladki[0];
-  try { localStorage.setItem("testy_zakladka", zakladka.id); } catch {}
+  // sessionStorage: przeżywa odświeżenie strony, ale znika po zamknięciu karty
+  try { sessionStorage.setItem("testy_zakladka", zakladka.id); } catch {}
   rysujZakladki();
   const kod = zakladka.kod || zakladka.id;
   document.getElementById("tytul").innerHTML = `${esc(kod)} – ${esc(zakladka.nazwa)}`;
@@ -306,8 +307,11 @@ async function otworz(id) {
 fetch("dane/zakladki.json", { cache: "no-store" }).then(r => r.json()).then(z => {
   zakladki = z;
   // bez wybranego testu w adresie strona startuje bez otwartej zakładki
-  const start = location.hash.slice(1);
+  let start = location.hash.slice(1);
   if (location.hash) history.replaceState(null, "", location.pathname + location.search);
+  if (!zakladki.some(x => x.id === start)) {
+    try { start = sessionStorage.getItem("testy_zakladka"); } catch { start = null; }
+  }
   if (zakladki.some(x => x.id === start)) otworz(start);
   else ekranStartowy();
 }).catch(() => {
