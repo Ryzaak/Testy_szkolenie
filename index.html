@@ -53,7 +53,7 @@
   .tab.ex.on { background: var(--warn); border-color: var(--warn); }
   .tab.ex.on .kod, .tab.ex.on .nazwa { color: var(--bg); }
   @media (max-width: 360px) { .tab.ex { grid-column: 1 / -1; } }
-  .tabs.ex-row { grid-template-columns: 1fr 1fr; margin-bottom: 10px; }
+  .tabs.ex-row { grid-template-columns: repeat(3, 1fr); margin-bottom: 10px; }
   .tabs.ex-row .tab.ex { grid-column: auto; }
   @media (max-width: 520px) { .tabs.ex-row { grid-template-columns: 1fr; } }
   details.inne { margin-bottom: 20px; border: 1px solid var(--line); border-radius: 12px; background: var(--card); }
@@ -166,6 +166,6 @@
   <div class="hint">Skróty: 1–4 lub A–D – odpowiedź, Enter – następne pytanie</div>
 </div>
 
-<script src="app.js?v=7"></script>
+<script src="app.js?v=8"></script>
 </body>
 </html>

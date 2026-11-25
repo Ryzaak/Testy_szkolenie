@@ -42,6 +42,7 @@ Postęp zapisuje się w Twojej przeglądarce, więc każdy uczy się osobno. Po 
 | **JM02 JS07–JS08** | Kontrola osobista, przeglądanie bagażu i przeszukanie (podstawy, dokumenty, zasady, zatrzymanie rzeczy) | 73 |
 | **Egzamin końcowy** | Pytania z egzaminów końcowych podzielone na testy: SZPC-1/24, Słupsk 29.04.2025, SZP-22/25 B (03.06.2026), SZP-3/26 B (19.08.2026), SZP-6/26 A (16.09.2026), Legionowo (17.11.2026) – tylko treści z programu SZPC (decyzja nr 162) | 350 |
 | **Egzamin – spoza programu** | Pytania z tych samych egzaminów odrzucone jako spoza decyzji nr 162 (ruch drogowy, k.p.w., pododdziały zwarte, PM-98 i strzelby, służba patrolowa) – z odpowiedziami i wyjaśnieniami | 74 |
+| **Egzaminy – Majkel** | Testy Majkel 1–4 (plakjakub.github.io/cspTests) z wyjaśnieniami i podstawą prawną; bez pytań, które są już w dwóch zakładkach egzaminacyjnych | 344 |
 
 ## Skąd są pytania
 

@@ -1,6 +1,7 @@
 [
  {"id": "Egzamin-koncowy", "kod": "🎓 Egzamin końcowy", "nazwa": "Testy z egzaminów końcowych (podział na testy i daty)", "plik": "Egzamin-koncowy.json", "wyrozniona": true},
  {"id": "Egzamin-odrzucone", "kod": "📋 Egzamin – spoza programu", "nazwa": "Pytania odrzucone z egzaminów (poza decyzją 162) – dla chętnych", "plik": "Egzamin-odrzucone.json", "wyrozniona": true},
+ {"id": "Egzamin-Majkel", "kod": "🗂️ Egzaminy – Majkel", "nazwa": "Testy Majkel 1–4 (bez pytań, które są już w egzaminach)", "plik": "Egzamin-Majkel.json", "wyrozniona": true},
  {"id": "JS01", "kod": "JM04 JS01", "nazwa": "Strzelanie broń krótka", "plik": "JS01.json"},
  {"id": "JM03-JS01", "kod": "JM03 JS01", "nazwa": "Systemy informacyjne Policji (KSI, KSIP)", "plik": "JM03-JS01.json"},
  {"id": "JM01-JS03", "kod": "JM01 JS03", "nazwa": "Prawo karne szczegółowe", "plik": "JM01-JS03.json"},
