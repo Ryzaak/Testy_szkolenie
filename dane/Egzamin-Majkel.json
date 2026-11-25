@@ -390,32 +390,6 @@
   "zrodlo": "test"
  },
  {
-  "id": "f345df090f",
-  "temat": "Majkel 1",
-  "pytanie": "Sporządzenie wypełnionego formularza „Niebieska Karta – A” do przewodniczącego zespołu interdyscyplinarnego następuje niezwłocznie, nie później niż w terminie:",
-  "poprawna": "7 dni od dnia wszczęcia procedury",
-  "bledne": [
-   "3 dni od dnia wszczęcia procedury",
-   "3 dni od dnia zarejestrowania formularza",
-   "7 dni od dnia zarejestrowania formularza"
-  ],
-  "wyjasnienie": "Rozporządzenie RM w sprawie procedury „Niebieskie Karty”: wypełniony formularz NK-A przekazuje się przewodniczącemu zespołu interdyscyplinarnego niezwłocznie – wg klucza testu nie później niż 7 dni od wszczęcia procedury.",
-  "zrodlo": "test"
- },
- {
-  "id": "5ef06fcbc5",
-  "temat": "Majkel 1",
-  "pytanie": "Sporządzając protokół z doprowadzenia osoby do wytrzeźwienia, policjanci wskazują m.in. rysopis osoby:",
-  "poprawna": "Wtedy, gdy osoba nie posiada przy sobie dokumentu tożsamości",
-  "bledne": [
-   "W każdym wypadku (ta odpowiedź jest w kluczu odpowiedzi)",
-   "Wtedy, gdy poleci to kierownik izby wytrzeźwień",
-   "W wypadku, gdy osoba nie posiada stałego miejsca zameldowania"
-  ],
-  "wyjasnienie": "Rozporządzenie MSWiA w sprawie doprowadzania osób w stanie nietrzeźwości: rysopis podaje się w protokole, gdy osoba nie ma przy sobie dokumentu tożsamości (oryginalny klucz testu wskazywał „w każdym wypadku”).",
-  "zrodlo": "test"
- },
- {
   "id": "a94800acae",
   "temat": "Majkel 1",
   "pytanie": "Na miejscu zdarzenia policjanci powinni w szczególności:",
@@ -2015,19 +1989,6 @@
   "zrodlo": "test"
  },
  {
-  "id": "35702a4bfa",
-  "temat": "Majkel 2",
-  "pytanie": "Zabór w celu przywłaszczenia cudzej rzeczy ruchomej o wartości powyżej ¼ miesięcznego wynagrodzenia to przestępstwo:",
-  "poprawna": "Kradzieży",
-  "bledne": [
-   "Kradzieży rozbójniczej",
-   "Oszustwa",
-   "Rozboju"
-  ],
-  "wyjasnienie": "Art. 278 § 1 k.k.: zabór cudzej rzeczy ruchomej w celu przywłaszczenia to kradzież. Uwaga – obecnie przestępstwem jest kradzież powyżej 800 zł (art. 119 § 1 k.w.); próg „¼ wynagrodzenia” to stary stan prawny.",
-  "zrodlo": "test"
- },
- {
   "id": "e9b0472991",
   "temat": "Majkel 2",
   "pytanie": "Zgodnie z art. 217 § 1 KPK rzeczy mogące stanowić dowód w sprawie lub podlegające zajęciu zatrzymuje się celem:",
@@ -2285,19 +2246,6 @@
    "Policjant sporządza tylko Formularz odnalezienia osoby"
   ],
   "wyjasnienie": "Zarządzenie KGP w sprawie poszukiwań: osobę poszukiwaną do aresztu w celu ekstradycji obligatoryjnie się zatrzymuje i sporządza formularz odnalezienia osoby.",
-  "zrodlo": "test"
- },
- {
-  "id": "7347143bc8",
-  "temat": "Majkel 3",
-  "pytanie": "Obywatel RP, który uważa, że wydawane w jego sprawie dotychczasowe orzeczenia sądów są dla niego niesatysfakcjonujące może skierować m.in. skargę do Europejskiego Trybunału Praw Człowieka w Strasburgu w sytuacji, gdy:",
-  "poprawna": "Skarga będzie złożona w ciągu 6 miesięcy od daty podjęcia ostatecznej, prawomocnej decyzji w sprawie, której skarga dotyczy",
-  "bledne": [
-   "Skarga dotyczy praw człowieka zagwarantowanych w Międzynarodowym Pakcie Praw Osobistych, Politycznych i Społecznych",
-   "Skarżący jest obywatelem państwa członkowskiego Rady Europy",
-   "Wyczerpał wszystkie dostępne środki odwoławcze w kraju, włącznie z opinią Rzecznika Praw Obywatelskich"
-  ],
-  "wyjasnienie": "Art. 35 EKPC: skarga do ETPC w terminie (dawniej 6, obecnie 4) miesięcy od ostatecznej decyzji – po wyczerpaniu krajowych środków.",
   "zrodlo": "test"
  },
  {
