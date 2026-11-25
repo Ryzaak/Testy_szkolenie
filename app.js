@@ -53,6 +53,49 @@ window.addEventListener("pagehide", zatrzymajCzas);
 
 function wybrane() { return pytania.filter(p => stan.tematy.includes(p.temat)); }
 
+// --- wynik: ten sam, co po przerobieniu wszystkich pytań, dostępny także w trakcie ---
+function htmlWyniku(koniec) {
+  const w = wybrane();
+  const czas = stan.czas + (startCzasu !== null ? Date.now() - startCzasu : 0);
+  const sk = stan.odp ? Math.round(100 * stan.dobre / stan.odp) + "%" : "–";
+  const tematy = stan.tematy.filter(t => w.some(p => p.temat === t));
+  let done = 0;
+  const wiersze = tematy.map(t => {
+    const pt = w.filter(p => p.temat === t);
+    let d = 0, bylo = 0, zle = 0;
+    for (const p of pt) {
+      const s = stan.p[p.id];
+      if (s?.s === "done") d++;
+      if (s && (s.s === "done" || s.s === "retry")) bylo++;
+      if (s?.zle) zle++;
+    }
+    done += d;
+    const pierwszy = bylo ? Math.round(100 * (bylo - zle) / bylo) + "%" : "–";
+    return `<tr><td>${esc(t)}</td><td>${d}/${pt.length}</td><td>${zle}</td><td>${pierwszy}</td></tr>`;
+  }).join("");
+  return `<h2>${koniec ? "Wszystkie pytania opanowane 🎯" : "📊 Wynik na teraz"}</h2>
+    <div class="duze">
+      <div><b>${sk}</b><span>skuteczność (${stan.dobre}/${stan.odp} odpowiedzi)</span></div>
+      <div><b>${done}/${w.length}</b><span>opanowane</span></div>
+      <div><b>${formatCzas(czas)}</b><span>czas</span></div>
+    </div>
+    <table><tr><th>Test / temat</th><th>opanowane</th><th>pytania z błędem</th><th>dobrze za 1. razem</th></tr>${wiersze}</table>`;
+}
+function pokazWynik() {
+  const box = document.getElementById("wynik");
+  if (!box.hidden) { box.hidden = true; document.getElementById("pokazWynik").textContent = "📊 Pokaż wynik"; return; }
+  box.innerHTML = htmlWyniku(false) + `<div class="stopka"><button class="btn primary" id="ukryjWynik">Wróć do pytań</button></div>`;
+  box.hidden = false;
+  document.getElementById("pokazWynik").textContent = "📊 Ukryj wynik";
+  document.getElementById("ukryjWynik").onclick = pokazWynik;
+  box.scrollIntoView({ behavior: "smooth", block: "start" });
+}
+function ukryjWynik() {
+  document.getElementById("wynik").hidden = true;
+  document.getElementById("pokazWynik").textContent = "📊 Pokaż wynik";
+}
+document.getElementById("pokazWynik").onclick = pokazWynik;
+
 function odswiezStatystyki() {
   const w = wybrane();
   let done = 0, retry = 0;
@@ -69,14 +112,18 @@ function odswiezStatystyki() {
 }
 
 function rysujZakladki() {
-  const box = document.getElementById("tabs");
-  box.innerHTML = "";
+  const boxEx = document.getElementById("tabsEx"), box = document.getElementById("tabs");
+  boxEx.innerHTML = box.innerHTML = "";
+  const inne = document.getElementById("inne");
+  const akt = !zakladka?.wyrozniona ? zakladka : null;
+  document.getElementById("inneAkt").textContent = akt ? "– otwarte: " + (akt.kod || akt.id) : "";
+  if (akt) inne.open = true;
   for (const z of zakladki) {
     const b = document.createElement("button");
     b.className = "tab" + (z.wyrozniona ? " ex" : "") + (z.id === zakladka?.id ? " on" : "");
     b.innerHTML = `<span class="kod">${esc(z.kod || z.id)}</span><span class="nazwa">${esc(z.nazwa)}</span>`;
     b.onclick = () => { if (z.id !== zakladka.id) otworz(z.id); };
-    box.appendChild(b);
+    (z.wyrozniona ? boxEx : box).appendChild(b);
   }
 }
 
@@ -119,9 +166,8 @@ function nastepne() {
     zatrzymajCzas();
     biezace = null;
     odswiezStatystyki();
-    card.innerHTML = `<div class="done"><h2>Wszystkie pytania opanowane 🎯</h2>
-      <p>Skuteczność: ${stan.odp ? Math.round(100 * stan.dobre / stan.odp) : 0}% (${stan.dobre}/${stan.odp} odpowiedzi),
-      czas: ${formatCzas(stan.czas)}.</p>
+    ukryjWynik();
+    card.innerHTML = `<div class="done wynik-koniec">${htmlWyniku(true)}
       <p><button class="btn primary" id="odNowa">Zacznij od nowa</button></p></div>`;
     document.getElementById("odNowa").onclick = resetuj;
     return;
@@ -193,6 +239,7 @@ function resetuj() {
   stan = nowyStan();
   Object.assign(stan, { tematy, znane });
   zapisz();
+  ukryjWynik();
   nastepne();
 }
 document.getElementById("reset").onclick = resetuj;
@@ -208,6 +255,7 @@ document.addEventListener("keydown", e => {
 async function otworz(id) {
   if (stan) zatrzymajCzas();
   biezace = null;
+  ukryjWynik();
   zakladka = zakladki.find(z => z.id === id) || zakladki[0];
   try { localStorage.setItem("testy_zakladka", zakladka.id); } catch {}
   history.replaceState(null, "", "#" + zakladka.id);
