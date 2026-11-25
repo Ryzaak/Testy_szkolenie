@@ -1,5 +1,18 @@
 [
  {
+  "id": "76338543df",
+  "temat": "SZPC-1/24 – test końcowy",
+  "pytanie": "Kto jest zobowiązany do przyjęcia zawiadomienia o zaginięciu osoby?",
+  "poprawna": "Każdy policjant",
+  "bledne": [
+   "Wyłącznie pomocnik dyżurnego jednostki Policji",
+   "Wyłącznie dzielnicowy",
+   "Wyłącznie policjant zajmujący się zaginięciami"
+  ],
+  "wyjasnienie": "Zarządzenie nr 48 KGP w sprawie poszukiwania osoby zaginionej: zawiadomienie o zaginięciu przyjmuje każdy policjant, któremu je zgłoszono (w jednostce – dyżurny lub wyznaczony przez niego policjant), i niezwłocznie przekazuje dalej.",
+  "zrodlo": "test"
+ },
+ {
   "id": "248d61b990",
   "temat": "SZP Słupsk – 29.04.2025",
   "pytanie": "Przepisy ustawy- Prawo o ruchu drogowym stosuję się do ruchu odbywającego się poza drogami publicznymi, strefami zamieszkania oraz strefami ruchu w zakresie:",
@@ -400,6 +413,32 @@
    "wyłącznie delikt cywilny"
   ],
   "wyjasnienie": "Art. 10a ust. 1 pkt 3 i art. 37 ust. 1 ustawy o ochronie zwierząt: zakaz handlu psami i kotami na targowiskach – naruszenie to wykroczenie (areszt lub grzywna).",
+  "zrodlo": "test"
+ },
+ {
+  "id": "a1a3230397",
+  "temat": "SZP-22/25 wersja B – 03.06.2026",
+  "pytanie": "Zatrzymanie i przymusowe doprowadzenie w sytuacji, gdy osoba podejrzana uporczywie uchyla się od stawiennictwa, może zarządzić:",
+  "poprawna": "prokurator",
+  "bledne": [
+   "przełożony policjanta",
+   "sąd",
+   "adwokat"
+  ],
+  "wyjasnienie": "Art. 75 § 2 w zw. z art. 247 § 1 k.p.k.: w postępowaniu przygotowawczym zatrzymanie i przymusowe doprowadzenie podejrzanego, który bez usprawiedliwienia nie stawia się na wezwanie, zarządza prokurator (w postępowaniu sądowym – sąd).",
+  "zrodlo": "test"
+ },
+ {
+  "id": "4f66ce2065",
+  "temat": "SZP-22/25 wersja B – 03.06.2026",
+  "pytanie": "Przemieszczania środków transportu, na podstawie przepisów ustawy o postępowaniu egzekucyjnym w administracji, dokonuje:",
+  "poprawna": "komisja powołana przez organ egzekucyjny",
+  "bledne": [
+   "Policja na wniosek organu egzekucyjnego",
+   "straż miejska powołana przez organ egzekucyjny",
+   "wójt na wniosek organu egzekucyjnego"
+  ],
+  "wyjasnienie": "Art. 47 § 2 ustawy o postępowaniu egzekucyjnym w administracji: przeszukania (w pytaniu literówka „przemieszczania”) rzeczy, środków transportu, lokali i schowków dokonuje komisja powołana przez organ egzekucyjny.",
   "zrodlo": "test"
  },
  {
