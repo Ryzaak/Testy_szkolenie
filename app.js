@@ -83,16 +83,18 @@ function htmlWyniku(koniec) {
 }
 function pokazWynik() {
   const box = document.getElementById("wynik");
-  if (!box.hidden) { box.hidden = true; document.getElementById("pokazWynik").textContent = "📊 Pokaż wynik"; return; }
+  if (!box.hidden) { ukryjWynik(); return; }
   box.innerHTML = htmlWyniku(false) + `<div class="stopka"><button class="btn primary" id="ukryjWynik">Wróć do pytań</button></div>`;
   box.hidden = false;
-  document.getElementById("pokazWynik").textContent = "📊 Ukryj wynik";
+  document.getElementById("pokazWynikTxt").textContent = "ukryj wynik";
+  document.getElementById("pokazWynik").classList.add("on");
   document.getElementById("ukryjWynik").onclick = pokazWynik;
   box.scrollIntoView({ behavior: "smooth", block: "start" });
 }
 function ukryjWynik() {
   document.getElementById("wynik").hidden = true;
-  document.getElementById("pokazWynik").textContent = "📊 Pokaż wynik";
+  document.getElementById("pokazWynikTxt").textContent = "pokaż wynik";
+  document.getElementById("pokazWynik").classList.remove("on");
 }
 document.getElementById("pokazWynik").onclick = pokazWynik;
 
