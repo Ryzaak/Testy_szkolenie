@@ -16,13 +16,13 @@
   "id": "1591007552",
   "temat": "SZP Słupsk – 29.04.2025",
   "pytanie": "Jeżeli stan techniczny pojazdu narusza wymagania ochrony środowiska, to policjant wystawionym pokwitowaniem za zatrzymany dowód rejestracyjny:",
-  "poprawna": "zezwoli na dalsze używanie pojazdu w terminie 7 dni",
+  "poprawna": "nie zezwoli na dalsze używanie pojazdu",
   "bledne": [
    "zezwoli na dalsze używanie pojazdu w okresie 72 godz",
-   "zezwoli na dalsze używanie pojazdu w okresie 24 godz",
-   "nie zezwoli na dalsze używanie pojazdu"
+   "zezwoli na dalsze używanie pojazdu w terminie 7 dni",
+   "zezwoli na dalsze używanie pojazdu w okresie 24 godz"
   ],
-  "wyjasnienie": "Art. 132 ustawy – Prawo o ruchu drogowym: przy naruszeniu wymagań ochrony środowiska pokwitowanie zezwala na używanie pojazdu do 7 dni.",
+  "wyjasnienie": "Art. 132 ust. 2 ustawy – Prawo o ruchu drogowym: pokwitowanie może zezwolić na używanie pojazdu do 7 dni, ale zezwolenie NIE może być wydane, gdy pojazd zagraża bezpieczeństwu albo narusza wymagania ochrony środowiska (ust. 1 pkt 1 lit. a i c).",
   "zrodlo": "test"
  },
  {
@@ -312,6 +312,32 @@
   "zrodlo": "test"
  },
  {
+  "id": "dfe2c0b044",
+  "temat": "SZP-22/25 wersja B – 03.06.2026",
+  "pytanie": "W tarcze ochronne wyposaża się policjantów stanowiących:",
+  "poprawna": "pierwszą linię tyraliery podwójnej",
+  "bledne": [
+   "wyłącznie pierwszą linię tyraliery potrójnej",
+   "wyłącznie drugą linię tyraliery potrójnej",
+   "pierwszą i trzecią linię tyraliery podwójnej"
+  ],
+  "wyjasnienie": "Podręcznik słuchacza SZP – pododdziały zwarte – tyraliera (klucz testu SZP-22/25): w tarcze wyposaża się pierwszą linię tyraliery podwójnej – ma bezpośredni kontakt z tłumem.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "eaf27ee076",
+  "temat": "SZP-22/25 wersja B – 03.06.2026",
+  "pytanie": "Dowodzący działaniami realizowanymi przez Policję w sytuacjach kryzysowych zobowiązany jest nosić kamizelkę ostrzegawczą z elementami odblaskowymi i napisem:",
+  "poprawna": "„POLICJA DOWÓDCA”",
+  "bledne": [
+   "„POLICJA DOWODZENIE”",
+   "„DOWÓDCA DZIAŁAŃ”",
+   "„POLICJA ZARZĄDZANIE KRYZYSOWE”"
+  ],
+  "wyjasnienie": "Klucz testu SZP-22/25 – dowodzenie w sytuacjach kryzysowych: dowodzący nosi kamizelkę ostrzegawczą z napisem „POLICJA DOWÓDCA”.",
+  "zrodlo": "test"
+ },
+ {
   "id": "7a4fbd44c4",
   "temat": "SZP-22/25 wersja B – 03.06.2026",
   "pytanie": "Nabój TYP 4 do strzelb o kalibrze wagomiarowym 12:",
@@ -322,6 +348,19 @@
    "posiada pocisk w postaci walca gumowego ubrzechwionego"
   ],
   "wyjasnienie": "Podręcznik słuchacza SZP – amunicja do strzelb: TYP 4 (ONS-2000) to nabój hukowo-błyskowy – nie posiada pocisku.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "3eae49c505",
+  "temat": "SZP-22/25 wersja B – 03.06.2026",
+  "pytanie": "Zgodnie z Zarządzeniem nr 102 Komendanta Głównego Policji z dnia 30 grudnia 2022 r. maksymalnym limitem czasowym zaliczającym próbę biegu na dystansie 1000 m jest:",
+  "poprawna": "6 min 30 s",
+  "bledne": [
+   "5 min 45 s",
+   "6 min 00 s",
+   "6 min 45 s"
+  ],
+  "wyjasnienie": "Zarządzenie nr 102 KGP z 30 grudnia 2022 r. (test sprawności fizycznej), wg klucza testu SZP-22/25: limit zaliczający bieg na 1000 m – 6 min 30 s.",
   "zrodlo": "test"
  },
  {
@@ -361,6 +400,19 @@
    "wyłącznie delikt cywilny"
   ],
   "wyjasnienie": "Art. 10a ust. 1 pkt 3 i art. 37 ust. 1 ustawy o ochronie zwierząt: zakaz handlu psami i kotami na targowiskach – naruszenie to wykroczenie (areszt lub grzywna).",
+  "zrodlo": "test"
+ },
+ {
+  "id": "f950149208",
+  "temat": "SZP-22/25 wersja B – 03.06.2026",
+  "pytanie": "Za prawidłową organizację służby patrolowej, a w szczególności za opracowanie i aktualizację ceduł patrolowych odpowiada:",
+  "poprawna": "komendant powiatowy Policji i komendant komisariatu Policji",
+  "bledne": [
+   "kierownik komórki organizacyjnej Policji ds. prewencji",
+   "kierownik ogniwa prewencji",
+   "kierownik referatu prewencji"
+  ],
+  "wyjasnienie": "Zarządzenie nr 768 KGP (służba prewencyjna), wg klucza testu SZP-22/25: za organizację służby patrolowej i ceduły odpowiada komendant powiatowy (miejski) i komendant komisariatu Policji.",
   "zrodlo": "test"
  },
  {
@@ -468,6 +520,19 @@
   "zrodlo": "test"
  },
  {
+  "id": "82370307d7",
+  "temat": "SZP-3/26 wersja B – 19.08.2026",
+  "pytanie": "Przekazując wniosek o ukaranie do sądu, należy do niego dołączyć:",
+  "poprawna": "akta czynności wyjaśniających",
+  "bledne": [
+   "po 1 odpisie wniosku o ukaranie dla każdego pokrzywdzonego",
+   "listę z adresami obwinionych",
+   "po 2 odpisy wniosku o ukaranie dla każdego obwinionego"
+  ],
+  "wyjasnienie": "Art. 57 k.p.w. i zasady czynności wyjaśniających: wniosek o ukaranie przekazuje się do sądu razem z aktami czynności wyjaśniających.",
+  "zrodlo": "test"
+ },
+ {
   "id": "c6d1c5de97",
   "temat": "SZP-3/26 wersja B – 19.08.2026",
   "pytanie": "W przypadku odmowy przyjęcia mandatu karnego gotówkowego przez sprawcę wykroczenia – obywatela Białorusi, przebywającego czasowo na terytorium RP, należy:",
@@ -504,6 +569,19 @@
    "tylko z miejsca od czoła szyku marszowego"
   ],
   "wyjasnienie": "Podręcznik słuchacza SZP – pododdziały zwarte: „linię posterunków” i „linię patroli” rozwija się z miejsca i z marszu od czoła szyku marszowego.",
+  "zrodlo": "test"
+ },
+ {
+  "id": "4717a198c6",
+  "temat": "SZP-3/26 wersja B – 19.08.2026",
+  "pytanie": "Pistolet maszynowy PM-98 strzela:",
+  "poprawna": "ogniem ciągłym i pojedynczym",
+  "bledne": [
+   "z zamka zamkniętego",
+   "ogniem selektywnym",
+   "wyłącznie ogniem ciągłym"
+  ],
+  "wyjasnienie": "Podręcznik słuchacza SZP – PM-98: tryb prowadzonego ognia – pojedynczy i ciągły (broń strzela przy tym z zamka zamkniętego, ale pytanie dotyczy rodzaju ognia).",
   "zrodlo": "test"
  },
  {
