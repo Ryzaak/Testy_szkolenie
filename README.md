@@ -31,7 +31,7 @@ Postęp zapisuje się w Twojej przeglądarce, więc każdy uczy się osobno. Po 
 | **JM04 JS01** | Strzelanie broń krótka (bezpieczeństwo, broń i amunicja, P99, Beretta APX, REX Zero 1, Glock, teoria strzału, podstawy celnego strzelania, zacięcia) | 120 |
 | **JM03 JS01** | Systemy informacyjne Policji (podstawy prawne, ochrona danych, systemy policyjne i pozapolicyjne, SIS) | 87 |
 | **JM01 JS03** | Prawo karne szczegółowe – artykuły z decyzji SZPC JS03 | 32 |
-| **JM01 JS04** | Ustawy szczególne (Prawo telekomunikacyjne, broń, tytoń, narkomania, dowody osobiste, prawo autorskie, dostęp warunkowy, art. 263 k.k.) | 80 |
+| **JM01 JS04** | Ustawy szczególne (Prawo telekomunikacyjne, broń, tytoń, narkomania, dowody osobiste, prawo autorskie, dostęp warunkowy, art. 263 k.k.) | 74 |
 | **JM02 JS06** | Zatrzymanie osoby (ujęcie i zatrzymanie, podstawy, prawa zatrzymanego, czas, badania lekarskie, nieletni, cudzoziemcy, dokumentacja) | 45 |
 | **JM01 JS09** | Historia Policji, etyka zawodowa, korupcja, prawa człowieka, dyskryminacja (pytania prawda/fałsz) | 64 |
 | **JM01 JS07–JS08** | Przyjęcie informacji o przestępstwie i przesłuchanie świadka (proces karny, pokrzywdzony, zawiadomienie, art. 307–308 k.p.k., świadek, odmowa zeznań, protokół) | 125 |
@@ -40,8 +40,8 @@ Postęp zapisuje się w Twojej przeglądarce, więc każdy uczy się osobno. Po 
 | **JM02 JS10** | Interwencje policyjne i osoby pod wpływem alkoholu (ŚPB i broń palna, legitymowanie, zatrzymanie, pościgi, przemoc domowa) | 72 |
 | **JM01 JS05–JS06** | Postępowanie na miejscu zdarzenia i oględziny (zasady i dokumentowanie oględzin, ślady kryminalistyczne) | 39 |
 | **JM02 JS07–JS08** | Kontrola osobista, przeglądanie bagażu i przeszukanie (podstawy, dokumenty, zasady, zatrzymanie rzeczy) | 73 |
-| **Egzamin końcowy** | Pytania z egzaminów końcowych podzielone na testy: SZPC-1/24, Słupsk 29.04.2025, SZP-22/25 B (03.06.2026), SZP-3/26 B (19.08.2026), SZP-6/26 A (16.09.2026), Legionowo (17.11.2026) – tylko treści z programu SZPC (decyzja nr 162) | 344 |
-| **Egzamin – spoza programu** | Pytania z tych samych egzaminów odrzucone jako spoza decyzji nr 162 (ruch drogowy, k.p.w., pododdziały zwarte, PM-98 i strzelby, służba patrolowa) – z odpowiedziami i wyjaśnieniami | 80 |
+| **Egzamin końcowy** | Pytania z egzaminów końcowych podzielone na testy: SZPC-1/24, Słupsk 29.04.2025, SZP-22/25 B (03.06.2026), SZP-3/26 B (19.08.2026), SZP-6/26 A (16.09.2026), Legionowo (17.11.2026) – tylko treści z programu SZPC (decyzja nr 162) | 350 |
+| **Egzamin – spoza programu** | Pytania z tych samych egzaminów odrzucone jako spoza decyzji nr 162 (ruch drogowy, k.p.w., pododdziały zwarte, PM-98 i strzelby, służba patrolowa) – z odpowiedziami i wyjaśnieniami | 74 |
 
 ## Skąd są pytania
 

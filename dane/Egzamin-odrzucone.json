@@ -1,18 +1,5 @@
 [
  {
-  "id": "76338543df",
-  "temat": "SZPC-1/24 – test końcowy",
-  "pytanie": "Kto jest zobowiązany do przyjęcia zawiadomienia o zaginięciu osoby?",
-  "poprawna": "Każdy policjant",
-  "bledne": [
-   "Wyłącznie pomocnik dyżurnego jednostki Policji",
-   "Wyłącznie dzielnicowy",
-   "Wyłącznie policjant zajmujący się zaginięciami"
-  ],
-  "wyjasnienie": "Zarządzenie nr 48 KGP w sprawie poszukiwania osoby zaginionej: zawiadomienie o zaginięciu przyjmuje każdy policjant, któremu je zgłoszono (w jednostce – dyżurny lub wyznaczony przez niego policjant), i niezwłocznie przekazuje dalej.",
-  "zrodlo": "test"
- },
- {
   "id": "248d61b990",
   "temat": "SZP Słupsk – 29.04.2025",
   "pytanie": "Przepisy ustawy- Prawo o ruchu drogowym stosuję się do ruchu odbywającego się poza drogami publicznymi, strefami zamieszkania oraz strefami ruchu w zakresie:",
@@ -195,19 +182,6 @@
   "zrodlo": "test"
  },
  {
-  "id": "45370f5c63",
-  "temat": "SZP Słupsk – 29.04.2025",
-  "pytanie": "Przygotowanie policjanta do służby patrolowej sprawdza się:",
-  "poprawna": "na odprawie służbowej",
-  "bledne": [
-   "w trakcie pełnienia służby patrolowej",
-   "po zakończeniu służby patrolowej",
-   "przed podjęciem obowiązków służbowych"
-  ],
-  "wyjasnienie": "Zarządzenie nr 768 KGP: przygotowanie policjantów do służby patrolowej sprawdza się na odprawach (lub indywidualnie).",
-  "zrodlo": "test"
- },
- {
   "id": "d64ba9420b",
   "temat": "SZP-22/25 wersja B – 03.06.2026",
   "pytanie": "Kierujący pojazdem należącym do placówki zajmującej się opieką, edukacją i rehabilitacją osób niepełnosprawnych może, pod warunkiem zachowania szczególnej ostrożności, nie stosować się do znaku drogowego:",
@@ -338,19 +312,6 @@
   "zrodlo": "test"
  },
  {
-  "id": "eaf27ee076",
-  "temat": "SZP-22/25 wersja B – 03.06.2026",
-  "pytanie": "Dowodzący działaniami realizowanymi przez Policję w sytuacjach kryzysowych zobowiązany jest nosić kamizelkę ostrzegawczą z elementami odblaskowymi i napisem:",
-  "poprawna": "„POLICJA DOWÓDCA”",
-  "bledne": [
-   "„POLICJA DOWODZENIE”",
-   "„DOWÓDCA DZIAŁAŃ”",
-   "„POLICJA ZARZĄDZANIE KRYZYSOWE”"
-  ],
-  "wyjasnienie": "Klucz testu SZP-22/25 – dowodzenie w sytuacjach kryzysowych: dowodzący nosi kamizelkę ostrzegawczą z napisem „POLICJA DOWÓDCA”.",
-  "zrodlo": "test"
- },
- {
   "id": "7a4fbd44c4",
   "temat": "SZP-22/25 wersja B – 03.06.2026",
   "pytanie": "Nabój TYP 4 do strzelb o kalibrze wagomiarowym 12:",
@@ -377,19 +338,6 @@
   "zrodlo": "test"
  },
  {
-  "id": "b5b4833782",
-  "temat": "SZP-22/25 wersja B – 03.06.2026",
-  "pytanie": "Policjant, który ukończył szkolenie zawodowe podstawowe w lutym 2023 r.:",
-  "poprawna": "jest zwolniony z testu w danym roku kalendarzowym",
-  "bledne": [
-   "ma obowiązek przystąpić do testu do 15 grudnia 2023 r",
-   "jest zwolniony z próby biegu na dystansie 1000 m",
-   "może przystąpić do dwóch wybranych prób testu za zgodą kierownika sekcji"
-  ],
-  "wyjasnienie": "Zarządzenie KGP w sprawie testu sprawności fizycznej: policjant, który w danym roku ukończył szkolenie zawodowe podstawowe, jest zwolniony z testu w tym roku kalendarzowym.",
-  "zrodlo": "test"
- },
- {
   "id": "046b031206",
   "temat": "SZP-22/25 wersja B – 03.06.2026",
   "pytanie": "Za dopuszczenie do przebywania małoletniego do lat 7 na drodze publicznej lub na torach pojazdu szynowego odpowiada:",
@@ -400,32 +348,6 @@
    "osoba mająca obowiązek opieki i nadzoru nad małoletnim łącznie"
   ],
   "wyjasnienie": "Art. 89 k.w.: odpowiada ten, kto mając obowiązek opieki lub nadzoru nad małoletnim do lat 7, dopuszcza do jego przebywania na drodze publicznej lub torach pojazdu szynowego.",
-  "zrodlo": "test"
- },
- {
-  "id": "076ecee5c1",
-  "temat": "SZP-22/25 wersja B – 03.06.2026",
-  "pytanie": "Daniel K., lat 18, posiadał psa rasy mops, którego dostał w prezencie urodzinowym od matki. Niezadowolony z prezentu sprzedał psa na targowisku miejskim. Daniel K. popełnił:",
-  "poprawna": "wykroczenie",
-  "bledne": [
-   "czyn niedozwolony, ale nie czyn zabroniony",
-   "przestępstwo",
-   "wyłącznie delikt cywilny"
-  ],
-  "wyjasnienie": "Art. 10a ust. 1 pkt 3 i art. 37 ust. 1 ustawy o ochronie zwierząt: zakaz handlu psami i kotami na targowiskach – naruszenie to wykroczenie (areszt lub grzywna).",
-  "zrodlo": "test"
- },
- {
-  "id": "a1a3230397",
-  "temat": "SZP-22/25 wersja B – 03.06.2026",
-  "pytanie": "Zatrzymanie i przymusowe doprowadzenie w sytuacji, gdy osoba podejrzana uporczywie uchyla się od stawiennictwa, może zarządzić:",
-  "poprawna": "prokurator",
-  "bledne": [
-   "przełożony policjanta",
-   "sąd",
-   "adwokat"
-  ],
-  "wyjasnienie": "Art. 75 § 2 w zw. z art. 247 § 1 k.p.k.: w postępowaniu przygotowawczym zatrzymanie i przymusowe doprowadzenie podejrzanego, który bez usprawiedliwienia nie stawia się na wezwanie, zarządza prokurator (w postępowaniu sądowym – sąd).",
   "zrodlo": "test"
  },
  {
